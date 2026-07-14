@@ -2391,7 +2391,7 @@ header.scrolled + .catalog-hero + .catalog-tabs-section {
 
 .catalog-layout {
   display: grid;
-  grid-template-columns: 260px 1fr;
+  grid-template-columns: 260px 1fr 260px;
   gap: 24px;
   align-items: start;
   max-width: 1600px;
