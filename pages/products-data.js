@@ -8750,7 +8750,7 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "nova",
+    "id": "nova-workstation",
     "name": "Nova",
     "category": "office-workstations",
     "type": "workstation",
