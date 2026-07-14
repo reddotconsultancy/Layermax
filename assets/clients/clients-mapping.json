@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Larsen & Toubro",
+    "key": "larsen_toubro",
+    "path": "assets/clients/larsen_toubro.svg"
+  },
+  {
+    "name": "Aamby Valley City",
+    "key": "aamby_valley",
+    "path": "assets/clients/aamby_valley.svg"
+  },
+  {
+    "name": "Keys Hotels",
+    "key": "keys_hotels",
+    "path": "assets/clients/keys_hotels.svg"
+  },
+  {
+    "name": "Runwal Group",
+    "key": "runwal_group",
+    "path": "assets/clients/runwal_group.svg"
+  },
+  {
+    "name": "JSW Group",
+    "key": "jsw",
+    "path": "assets/clients/jsw.svg"
+  },
+  {
+    "name": "Western Railway",
+    "key": "western_railway",
+    "path": "assets/clients/western_railway.svg"
+  },
+  {
+    "name": "Government of Maharashtra",
+    "key": "maharashtra_govt",
+    "path": "assets/clients/maharashtra_govt.svg"
+  },
+  {
+    "name": "Cello",
+    "key": "cello",
+    "path": "assets/clients/cello.svg"
+  },
+  {
+    "name": "IIT Bombay",
+    "key": "iit_bombay",
+    "path": "assets/clients/iit_bombay.svg"
+  },
+  {
+    "name": "Toyo Engineering",
+    "key": "toyo_engineering",
+    "path": "assets/clients/toyo_engineering.svg"
+  },
+  {
+    "name": "Reliance Gas Services",
+    "key": "reliance_gas",
+    "path": "assets/clients/reliance_gas.svg"
+  },
+  {
+    "name": "Quick Heal",
+    "key": "quick_heal",
+    "path": "assets/clients/quick_heal.svg"
+  },
+  {
+    "name": "Podar School",
+    "key": "podar_school",
+    "path": "assets/clients/podar_school.svg"
+  },
+  {
+    "name": "Raymond",
+    "key": "raymond",
+    "path": "assets/clients/raymond.svg"
+  },
+  {
+    "name": "State Bank of India",
+    "key": "sbi",
+    "path": "assets/clients/sbi.svg"
+  },
+  {
+    "name": "Mumbai Metro",
+    "key": "mumbai_metro",
+    "path": "assets/clients/mumbai_metro.svg"
+  },
+  {
+    "name": "SRPF",
+    "key": "srpf",
+    "path": "assets/clients/srpf.svg"
+  },
+  {
+    "name": "Godrej",
+    "key": "godrej",
+    "path": "assets/clients/godrej.svg"
+  },
+  {
+    "name": "D Y Patil University",
+    "key": "dy_patil",
+    "path": "assets/clients/dy_patil.svg"
+  },
+  {
+    "name": "Kangaroo Kids",
+    "key": "kangaroo_kids",
+    "path": "assets/clients/kangaroo_kids.svg"
+  },
+  {
+    "name": "University of Mumbai",
+    "key": "mumbai_university",
+    "path": "assets/clients/mumbai_university.svg"
+  },
+  {
+    "name": "The Deltin",
+    "key": "the_deltin",
+    "path": "assets/clients/the_deltin.svg"
+  },
+  {
+    "name": "Global Hospitals",
+    "key": "global_hospitals",
+    "path": "assets/clients/global_hospitals.svg"
+  },
+  {
+    "name": "Man Infraconstruction",
+    "key": "man_infra",
+    "path": "assets/clients/man_infra.svg"
+  },
+  {
+    "name": "St. Xavier's College",
+    "key": "st_xaviers",
+    "path": "assets/clients/st_xaviers.svg"
+  }
+]
