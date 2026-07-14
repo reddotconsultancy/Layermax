@@ -1,0 +1,5 @@
+PRODUCT: Shelf Small
+PRODUCT WEBSITE: https://rubcobangalore.com/furniture/shelf-small
+PRICE: ₹6049.00
+IMAGE FILES: shelf_small/shelf_small.jpg, shelf_small/shelf_small_1.jpg, shelf_small/shelf_small_2.jpg, shelf_small/shelf_small_3.jpg
+DESCRIPTION: Rubco Furniture are made from rubber wood — A pure solid wood It is eco-friendly solid wood, not a wood substitute It is nearly as strong and durable as teak It offers unmatched dimensional stability

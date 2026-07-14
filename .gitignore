@@ -1,0 +1,21 @@
+# === OS / editor cruft ===
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# === Backups & scratch ===
+*.bak
+backup/
+
+# === Tooling (if added later) ===
+node_modules/
+
+# === Large raw source assets (NOT needed to run the site) ===
+# Raw un-cropped catalogue export
+assets/Catalogue/
+Catalogue/
+# Vendor logo source files
+assets/Logo/*.pdf
+Logo/*.pdf
+
