@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layermax | Premium Designer Chairs & Recliners</title>
+  <meta name="description" content="Discover premium comfort and modern luxury with Layermax's exclusive collection of designer chairs, recliners, and home furniture. Built with precision and elegance.">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="pages/index.css?v=5">
+  <link rel="icon" type="image/png" href="favicon.png?v=3">
+</head>
+<body>
+
+  <!-- Sticky Glass Header -->
+  <header id="main-header">
+    <div class="navbar-fullwidth navbar">
+      <a href="#" class="logo" id="site-logo">
+        <img src="assets/logo.png" alt="Layermax Logo">
+      </a>
+      
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="active">Home</a></li>
+          <li><a href="pages/catalog.html?group=sofas">Sofas</a></li>
+          <li><a href="pages/catalog.html?group=chairs">Chairs</a></li>
+          <li><a href="pages/catalog.html?group=recliners">Recliners</a></li>
+          <li><a href="pages/catalog.html?group=beds">Beds</a></li>
+          <li><a href="pages/catalog.html?group=tables">Tables</a></li>
+          <li><a href="pages/catalog.html?group=office">Office</a></li>
+          <li><a href="pages/catalog.html?group=storage">Storage</a></li>
+          <li><a href="pages/catalog.html?group=cafe">Café</a></li>
+          <li><a href="pages/contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="pages/contact.html" class="nav-contact-btn">Contact</a>
+        <!-- Mobile Menu Toggle -->
+        <button class="nav-btn mobile-menu-toggle" id="mobile-menu-btn" aria-label="Menu">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Slider Section -->
+  <section class="hero">
+    <div class="hero-slider" id="hero-slider">
+      
+      <!-- Slide 1: Royal Luxury Chair -->
+      <div class="hero-slide active">
+        <div class="hero-slide-bg" style="background-image: url('assets/collections/hero_living_room.jpg');"></div>
+        <div class="container hero-grid">
+          <div class="hero-content">
+            <h1 class="hero-title">Elevating Living Standards <br><span class="text-gold">with Top notch Home Furnishings:</span></h1>
+            <p class="hero-desc">Experience the ultimate combination of luxury velvet padding and precision-crafted support. Styled to inspire elegance in any living space.</p>
+            <div class="hero-features">
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-chair"></i>
+                <span>Velvet Comfort</span>
+              </div>
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span>12-Mo Warranty</span>
+              </div>
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-truck-fast"></i>
+                <span>Free Shipping</span>
+              </div>
+            </div>
+            <button class="hero-btn" onclick="scrollToSection('featured')">Explore Now <i class="fa-solid fa-arrow-right" style="margin-left: 8px;"></i></button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 2: Premium Leather Recliner -->
+      <div class="hero-slide">
+        <div class="hero-slide-bg" style="background-image: url('assets/collections/hero_lounge.jpg');"></div>
+        <div class="container hero-grid">
+          <div class="hero-content">
+            <span class="hero-badge"><i class="fa-solid fa-award"></i> Signature Collection</span>
+            <h1 class="hero-title">Grand <span>Lounge Recliner</span></h1>
+            <p class="hero-desc">Ergonomic adjustments, full-grain tan leather, and a responsive steel base. Engineered for hours of stress-relieving relaxation.</p>
+            <div class="hero-features">
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-couch"></i>
+                <span>Tan Leather</span>
+              </div>
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-arrows-spin"></i>
+                <span>Fully Adjustable</span>
+              </div>
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-star"></i>
+                <span>Premium Quality</span>
+              </div>
+            </div>
+            <button class="hero-btn" onclick="scrollToSection('best-sellers')">View Specials <i class="fa-solid fa-arrow-right" style="margin-left: 8px;"></i></button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 3: Cozy Office Work Comfort -->
+      <div class="hero-slide">
+        <div class="hero-slide-bg" style="background-image: url('assets/collections/hero_office.jpg');"></div>
+        <div class="container hero-grid">
+          <div class="hero-content">
+            <span class="hero-badge"><i class="fa-solid fa-bolt"></i> Productivity Boost</span>
+            <h1 class="hero-title">Apex <span>Ergonomic Chair</span></h1>
+            <p class="hero-desc">Smart weight-activated mechanism, lumbar adjustment, and high-density breathable mesh back. Designed for the high-end workspace.</p>
+            <div class="hero-features">
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-user-shield"></i>
+                <span>Mesh Support</span>
+              </div>
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-heart-pulse"></i>
+                <span>Ortho Support</span>
+              </div>
+              <div class="hero-feature-item">
+                <i class="fa-solid fa-circle-check"></i>
+                <span>BIFMA Certified</span>
+              </div>
+            </div>
+            <button class="hero-btn" onclick="scrollToSection('featured')">Shop Workspaces <i class="fa-solid fa-arrow-right" style="margin-left: 8px;"></i></button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Slider Navigation Buttons -->
+    <div class="hero-nav">
+      <button class="hero-nav-arrow" id="hero-prev" aria-label="Previous Slide"><i class="fa-solid fa-arrow-left"></i></button>
+      <button class="hero-nav-arrow" id="hero-next" aria-label="Next Slide"><i class="fa-solid fa-arrow-right"></i></button>
+    </div>
+
+    <!-- Slider Pagination Dots -->
+    <div class="hero-dots" id="hero-dots">
+      <span class="hero-dot active" data-slide="0"></span>
+      <span class="hero-dot" data-slide="1"></span>
+      <span class="hero-dot" data-slide="2"></span>
+    </div>
+  </section>
+
+  <!-- About Us Section (Temporarily Hidden)
+  <section class="about-section" id="about-us">
+    <div class="container about-grid">
+      <div class="about-content">
+        <span class="about-badge"><i class="fa-solid fa-feather-pointed"></i> Our Story</span>
+        <h2 class="about-title">Crafting Comfort, <br>Defining Modern Spaces</h2>
+        <p class="about-desc">
+          We believe furniture is more than just functional decor—it is the baseline of luxury comfort and the backdrop of your daily life. Founded with a vision to blend high-end modern ergonomics with time-honored artisan techniques, Layermax creates designer pieces that adapt to your body and elevate your lifestyle.
+        </p>
+        <p class="about-desc">
+          Every design is curated with precision, combining resilient structural frames, sustainable hardwoods, and premium designer fabrics. Our mission is simple: to make your home a sanctuary of aesthetic elegance and wellness support.
+        </p>
+
+        <div class="about-stats">
+          <div class="stat-card">
+            <span class="stat-number">15+</span>
+            <span class="stat-label">Years Excellence</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">50k+</span>
+            <span class="stat-label">Happy Homes</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">100%</span>
+            <span class="stat-label">Eco-Materials</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="about-image-box">
+        <img src="https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&w=800&q=80" alt="Layermax Styled Living Space Room">
+      </div>
+    </div>
+  </section>
+  -->
+
+
+
+  <!-- Top Collections Section -->
+  <section class="top-collections-section" id="top-collections">
+    <div class="container">
+      <div class="section-header text-center" style="text-align: center; margin-bottom: 48px;">
+        <h2 class="section-title">Top Collections</h2>
+        <p class="section-desc">Express your style with our standout collection - comfort meets sophistication.</p>
+      </div>
+
+      <div class="collections-grid">
+        <!-- Collection 1: Beds -->
+        <a href="pages/catalog.html?category=sleeping-beds" class="collection-card">
+          <div class="collection-image-wrapper">
+            <img src="assets/collections/beds.jpg" alt="Shop Beds">
+          </div>
+          <div class="collection-title-overlay">
+            <span>Shop Beds</span>
+          </div>
+        </a>
+
+        <!-- Collection 2: Recliners -->
+        <a href="pages/catalog.html?category=lounge-chairs" class="collection-card">
+          <div class="collection-image-wrapper">
+            <img src="assets/collections/recliners.jpg" alt="Shop Recliners">
+          </div>
+          <div class="collection-title-overlay">
+            <span>Shop Recliners</span>
+          </div>
+        </a>
+
+        <!-- Collection 3: Office Chairs -->
+        <a href="pages/catalog.html?category=chairs" class="collection-card">
+          <div class="collection-image-wrapper">
+            <img src="assets/collections/office_chairs.jpg" alt="Shop Office Chairs">
+          </div>
+          <div class="collection-title-overlay">
+            <span>Shop Office Chairs</span>
+          </div>
+        </a>
+
+        <!-- Collection 4: Tables -->
+        <a href="pages/catalog.html?category=center-tables" class="collection-card">
+          <div class="collection-image-wrapper">
+            <img src="assets/collections/tables.jpg" alt="Shop Center Tables">
+          </div>
+          <div class="collection-title-overlay">
+            <span>Shop Center Tables</span>
+          </div>
+        </a>
+
+        <!-- Collection 5: Dining Tables -->
+        <a href="pages/catalog.html?category=dining-tables" class="collection-card">
+          <div class="collection-image-wrapper">
+            <img src="assets/collections/diners.jpg" alt="Shop Dining Tables">
+          </div>
+          <div class="collection-title-overlay">
+            <span>Shop Dining Tables</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Best Sellers Carousel Slider Section -->
+  <section class="best-sellers-section" id="best-sellers">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Best Sellers</h2>
+          <p class="section-desc">Handpicked customer favorites built for superior comfort</p>
+        </div>
+        <a href="pages/catalog.html?category=office-chairs" class="view-all-products-btn" style="margin-bottom: 8px;">
+          View All Products <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+
+      <div class="slider-outer">
+        <div class="slider-inner" id="best-sellers-slider">          <!-- Populated dynamically by index.js -->  </div></div>
+    </div>
+  </section>
+
+  <!-- Brand Differentiators / Value Propositions Section -->
+  <section class="differentiators-section" id="why-us">
+    <div class="container">
+      <div class="differentiators-grid-horizontal">
+        <!-- Point 1 -->
+        <div class="diff-horizontal-item">
+          <strong>Artisan Craftsmanship</strong>
+          <p>Every joint and detail is hand-finished by master artisans using premium ash wood structure systems.</p>
+        </div>
+
+        <!-- Point 2 -->
+        <div class="diff-horizontal-item">
+          <strong>Ergonomic Design</strong>
+          <p>Anatomically engineered frames shaped to support natural posture and reduce daily stress points.</p>
+        </div>
+
+        <!-- Point 3 -->
+        <div class="diff-horizontal-item">
+          <strong>Sustainable Sourcing</strong>
+          <p>Made with certified sustainable hardwoods and premium, non-toxic eco-fabrics friendly to the environment.</p>
+        </div>
+
+        <!-- Point 4 -->
+        <div class="diff-horizontal-item">
+          <strong>12-Month Warranty</strong>
+          <p>Built for quality and confidence, fully backed by our comprehensive 12-month manufacturing warranty.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="customizer-section" id="customizer-section">
+    <div class="container">
+      <div class="section-header section-header--centered" style="text-align: center; margin-bottom: 48px; flex-direction: column; align-items: center;">
+        <h2 class="section-title">Customize to perfection</h2>
+        <p class="section-desc">Visit our factory store to get an immersive experience of building your dream furniture from scratch!</p>
+      </div>
+
+      <div class="customizer-grid">
+        <!-- Left: Beautiful Sofa Image -->
+        <div class="customizer-image-box">
+          <img src="assets/modular_sofa.jpg" alt="Layermax Premium Modular Sofa">
+        </div>
+
+        <!-- Right: Bullet Points -->
+        <div class="customizer-content">
+          <h3 class="workspace-title">Furniture designed for your space</h3>
+          <p class="workspace-subtitle" style="margin-bottom: 28px;">Not the other way around.</p>
+          
+          <ul class="customizer-bullet-list">
+            <li>
+              <strong>15+ size configurations:</strong> Configure length, add ash wood side-trays, or expand cushions to fit your architectural layout perfectly.
+            </li>
+            <li>
+              <strong>200+ color options:</strong> Choose from top-tier Belgian linens, Italian top-grain half-leathers, or stain-resistant performance bouclés.
+            </li>
+            <li>
+              <strong>3 seating comforts:</strong> Select cloud soft, balanced medium, or firm orthopedic density support customized to your preference.
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+  <!-- Interactive Customizer Section -->
+  
+
+
+
+
+
+
+
+  <!-- Featured Products Section with filter tabs -->
+  <section class="featured-section" id="featured">
+    <div class="container">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Featured Products</h2>
+          <p class="section-desc">Explore our full signature selection curated for modern spaces</p>
+        </div>
+        <div class="tab-controls" id="featured-filters">
+          <button class="tab-btn active" data-filter="chair">Chairs</button>
+          <button class="tab-btn" data-filter="sofa">Sofa</button>
+          <button class="tab-btn" data-filter="table">Tables</button>
+        </div>
+      </div>
+
+      <div class="featured-grid" id="featured-products-grid">
+                  <!-- Populated dynamically by index.js -->      </div>
+      <div class="view-all-container" style="margin-top: 40px; padding-right: 15px;">
+        <a href="pages/catalog.html" class="view-all-products-btn">
+          View All Products <i class="fa-solid fa-arrow-right"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Clientele Section -->
+  <section class="clientele-section" id="clientele">
+    <div class="section-header text-center" style="text-align: center; margin-bottom: 40px; padding: 0 24px;">
+      <h2 class="section-title">Our Clientele</h2>
+      <p class="section-desc">Trusted by leading corporate groups, educational institutions, and public organizations.</p>
+    </div>
+    
+    <div class="clientele-slider">
+      <div class="clientele-track">
+        <!-- First Set of Partner Logos (Repeated 4 times to fill marquee) -->
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <!-- Second Set of Partner Logos (Duplicate for Infinite Loop) -->
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+
+        <div class="client-logo-item" title="Duroflex">
+          <img src="assets/clients/duroflex.png" alt="Duroflex">
+        </div>
+        
+        <div class="client-logo-item" title="Furlenco">
+          <img src="assets/clients/furlenco.png" alt="Furlenco">
+        </div>
+        
+        <div class="client-logo-item" title="Sleepyhead">
+          <img src="assets/clients/sleepyhead.png" alt="Sleepyhead">
+        </div>
+        <div class="client-logo-item" title="Cityfurnish">
+          <img src="assets/clients/cityfurnish.svg" alt="Cityfurnish">
+        </div>
+        <div class="client-logo-item" title="JSW">
+          <img src="assets/clients/jsw.png" alt="JSW" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Raymond">
+          <img src="assets/clients/raymond-seeklogo.png" alt="Raymond" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Larsen & Toubro">
+          <img src="assets/clients/larsen_toubro.png" alt="Larsen & Toubro" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Runwal Realty">
+          <img src="assets/clients/runwal_group.png" alt="Runwal Realty" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Quick Heal">
+          <img src="assets/clients/quick_heal.png" alt="Quick Heal" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="SBI">
+          <img src="assets/clients/sbi.png" alt="SBI" style="max-height: 48px; object-fit: contain;">
+        </div>
+        <div class="client-logo-item" title="Global Hospital">
+          <img src="assets/clients/global_hospitals.png" alt="Global Hospital" style="max-height: 48px; object-fit: contain;">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials Section -->
+  <section class="testimonial-section" id="testimonials">
+    <div class="container testimonial-grid">
+      <!-- Left Lifestyle Photo -->
+      <div class="testimonial-img-box">
+        <img src="assets/luxury_living_room_showcase.png" alt="Layermax Styled Living Space">
+      </div>
+
+      <!-- Right Testimonial Carousel -->
+      <div class="testimonial-carousel">
+        <div class="testimonial-icon"><i class="fa-solid fa-quote-left"></i></div>
+        
+        <div class="testimonial-slider" id="testimonial-slider">
+          <!-- Slide 1 -->
+          <div class="testimonial-slide active">
+            <p class="testimonial-quote">"The Layermax recliners are absolutely spectacular. The frame quality is solid and the fabric adds a luxurious feel. My back feels much better after switching to their chairs."</p>
+            <div class="testimonial-user">
+              <div class="testimonial-avatar">RK</div>
+              <div class="testimonial-meta">
+                <h4>Rajesh Kumar</h4>
+                <p>Interior Architect &mdash; Bengaluru, Karnataka</p>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Slide 2 -->
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"We furnished our entire design studio lounge using Layermax office chairs. Their clean, ergonomic lines perfectly match our modern workspace, and the build quality is outstanding."</p>
+            <div class="testimonial-user">
+              <div class="testimonial-avatar">AN</div>
+              <div class="testimonial-meta">
+                <h4>Anjali Nair</h4>
+                <p>Creative Director &mdash; Kochi, Kerala</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 3 -->
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"I bought the Layermax ergonomic chair for my home office setup. Working long hours in Chennai's climate, the premium breathable mesh and lumbar support make an incredible difference."</p>
+            <div class="testimonial-user">
+              <div class="testimonial-avatar">KS</div>
+              <div class="testimonial-meta">
+                <h4>Karthik Srinivasan</h4>
+                <p>Senior IT Consultant &mdash; Chennai, Tamil Nadu</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 4 -->
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"We ordered customized lounge seating for our new villa. The rubberwood structure and fabric selections from Layermax are premium and feel extremely durable. Exceptional service!"</p>
+            <div class="testimonial-user">
+              <div class="testimonial-avatar">DH</div>
+              <div class="testimonial-meta">
+                <h4>Deepika Hegde</h4>
+                <p>Homeowner &mdash; Mangaluru, Karnataka</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 5 -->
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"For our hospital clinic lounge, we wanted something elegant yet highly durable. The Layermax chairs fit our criteria perfectly. Easy to maintain and incredibly comfortable."</p>
+            <div class="testimonial-user">
+              <div class="testimonial-avatar">GK</div>
+              <div class="testimonial-meta">
+                <h4>Dr. Gautham Krishnan</h4>
+                <p>Healthcare Director &mdash; Thiruvananthapuram, Kerala</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 6 -->
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"Excellent craftsmanship. The detail on the stitching and the support structure are top-tier. Highly recommended for premium corporate seating solutions."</p>
+            <div class="testimonial-user">
+              <div class="testimonial-avatar">SI</div>
+              <div class="testimonial-meta">
+                <h4>Subramanian Iyer</h4>
+                <p>Managing Director &mdash; Coimbatore, Tamil Nadu</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial-nav">
+          <button class="testimonial-nav-btn" id="testimonial-prev" aria-label="Previous Testimonial"><i class="fa-solid fa-chevron-left"></i></button>
+          <button class="testimonial-nav-btn" id="testimonial-next" aria-label="Next Testimonial"><i class="fa-solid fa-chevron-right"></i></button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-about">
+        <img src="assets/logo.png" alt="Layermax Logo">
+        <p>Premium designer chairs and comfort recliners crafted for contemporary homes and professional work environments.</p>
+        <div class="footer-contact-links">
+          <a href="https://wa.me/917899802412" target="_blank" rel="noopener" class="footer-contact-btn footer-contact-btn--whatsapp" aria-label="WhatsApp">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+          <a href="tel:+917899802412" class="footer-contact-btn footer-contact-btn--call" aria-label="Call Us">
+            <i class="fa-solid fa-phone"></i>
+          </a>
+          <a href="mailto:support@layermax.com" class="footer-contact-btn footer-contact-btn--email" aria-label="Email Us">
+            <i class="fa-solid fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+      
+      <div class="footer-col">
+        <h4>Collections</h4>
+        <ul class="footer-links">
+          <li><a href="pages/catalog.html?category=wooden-couches">Wooden Couches</a></li>
+          <li><a href="pages/catalog.html?category=office-chairs">Office Chairs</a></li>
+          <li><a href="pages/catalog.html?category=wooden-couches">Sofas</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Information</h4>
+        <ul class="footer-links">
+          <li><a href="pages/about.html">About Us</a></li>
+          <li><a href="#">Showroom Locations</a></li>
+          <li><a href="#">Custom Orders</a></li>
+          <li><a href="#">Careers</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Customer Care</h4>
+        <ul class="footer-links">
+          <li><a href="pages/contact.html">Contact Us</a></li>
+          <li><a href="pages/shipping.html">Shipping &amp; Deliveries</a></li>
+          <li><a href="pages/returns.html">Returns Policy</a></li>
+          <li><a href="pages/warranty.html">Warranty Details</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Layermax Furniture Industries Ltd. All rights reserved.</p>
+    </div>
+  </footer>
+
+
+
+  <!-- JavaScript file -->
+  <script src="pages/products-data.js?v=2"></script>
+  <script src="pages/index.js?v=6"></script>
+</body>
+</html>

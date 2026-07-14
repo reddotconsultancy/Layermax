@@ -1,0 +1,287 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layermax | Customised Furniture Enquiry</title>
+  <meta name="description" content="Customise your premium Layermax furniture with custom dimensions, material choices, and bespoke design configurations.">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="index.css?v=5">
+  <link rel="icon" type="image/png" href="favicon.png?v=3">
+</head>
+<body>
+
+  <!-- Sticky Glass Header -->
+  <header id="main-header">
+    <div class="navbar-fullwidth navbar">
+      <a href="../index.html" class="logo" id="site-logo">
+        <img src="../assets/logo.png" alt="Layermax Logo">
+      </a>
+      
+      <nav>
+        <ul class="nav-links">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="catalog.html?group=sofas">Sofas</a></li>
+          <li><a href="catalog.html?group=chairs">Chairs</a></li>
+          <li><a href="catalog.html?group=recliners">Recliners</a></li>
+          <li><a href="catalog.html?group=beds">Beds</a></li>
+          <li><a href="catalog.html?group=tables">Tables</a></li>
+          <li><a href="catalog.html?group=office">Office</a></li>
+          <li><a href="catalog.html?group=storage">Storage</a></li>
+          <li><a href="catalog.html?group=cafe">Café</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="contact.html" class="nav-contact-btn">Contact</a>
+        <!-- Mobile Menu Toggle -->
+        <button class="nav-btn mobile-menu-toggle" id="mobile-menu-btn" aria-label="Menu">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Custom Enquiry Section -->
+  <section class="enquiry-section">
+    <div class="container">
+      
+      <!-- Breadcrumbs -->
+      <div class="breadcrumb-container" style="margin-bottom: 36px;">
+        <a href="../index.html">Home</a>
+        <span class="separator">/</span>
+        <a href="catalog.html">Catalog</a>
+        <span class="separator">/</span>
+        <a href="#" id="breadcrumb-product-link">Product</a>
+        <span class="separator">/</span>
+        <span class="current">Custom Furniture Request</span>
+      </div>
+
+      <!-- Main Custom Grid -->
+      <div class="enquiry-grid">
+        
+        <!-- Left: Product Reference Summary Card -->
+        <div class="enquiry-summary-column">
+          <div class="enquiry-summary-card" id="product-summary-card">
+            <div class="enquiry-img-box">
+              <img id="enquiry-product-img" src="" alt="Selected Product Visual">
+            </div>
+            <div class="enquiry-summary-details">
+              <span class="product-detail-category" id="enquiry-product-category" style="font-size: 13px; margin-bottom: 4px;">Category</span>
+              <h2 class="enquiry-product-title" id="enquiry-product-title">Product Name</h2>
+              <span class="enquiry-designer-label" id="enquiry-product-designer">Designer Collection</span>
+              <p class="enquiry-product-desc" id="enquiry-product-desc">Select configuration parameters to request customization for this model.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: Inquiry Form Card -->
+        <div class="enquiry-form-column">
+          <div class="enquiry-form-card">
+            <h1 class="enquiry-form-title" style="font-size: 28px; line-height: 1.2; margin-bottom: 12px;">For Customised Furniture contact here</h1>
+            <p class="enquiry-form-subtitle">Modify dimensions, materials, or upholstery configurations to fit your space. Our expert artisans will handcraft a bespoke version according to your exact specifications.</p>
+            
+            <form id="product-custom-form" onsubmit="submitCustomEnquiry(event)">
+              <div class="form-group-row-split">
+                <div class="form-input-group">
+                  <label class="form-label" for="custom-name">Full Name <span class="text-gold">*</span></label>
+                  <input type="text" id="custom-name" class="form-input" placeholder="e.g. Jane Doe" required>
+                </div>
+                <div class="form-input-group">
+                  <label class="form-label" for="custom-email">Email Address <span class="text-gold">*</span></label>
+                  <input type="email" id="custom-email" class="form-input" placeholder="name@company.com" required>
+                </div>
+              </div>
+
+              <div class="form-group-row-split">
+                <div class="form-input-group">
+                  <label class="form-label" for="custom-phone">Phone Number <span class="text-gold">*</span></label>
+                  <input type="tel" id="custom-phone" class="form-input" placeholder="+91 XXXXX XXXXX" required>
+                </div>
+                <div class="form-input-group">
+                  <label class="form-label" for="custom-wood">Preferred Material / Upholstery</label>
+                  <select id="custom-wood" class="form-input">
+                    <option value="Treated Rubber Wood">Treated Rubber Wood</option>
+                    <option value="Premium Ashwood">Premium Ashwood</option>
+                    <option value="Italian Half Leather">Italian Half Leather</option>
+                    <option value="Natural Linen Fabric">Natural Linen Fabric</option>
+                    <option value="Custom Finish">Custom Specification</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="form-group-row" style="margin-bottom: 24px;">
+                <label class="form-label" style="display: block; margin-bottom: 12px;">Custom Dimensions (Optional)</label>
+                <div class="form-group-row-split" style="grid-template-columns: repeat(3, 1fr); gap: 12px;">
+                  <input type="number" id="custom-length" class="form-input" placeholder="Length (mm)">
+                  <input type="number" id="custom-width" class="form-input" placeholder="Width (mm)">
+                  <input type="number" id="custom-height" class="form-input" placeholder="Height (mm)">
+                </div>
+              </div>
+
+              <div class="form-input-group">
+                <label class="form-label" for="custom-message">Customisation Requirements <span class="text-gold">*</span></label>
+                <textarea id="custom-message" class="form-textarea" rows="5" placeholder="Specify any changes, design tweaks, or space requirements..." required></textarea>
+              </div>
+
+              <button type="submit" class="enquiry-submit-btn" id="custom-submit-btn" style="background-color: #0a2c5c;">
+                <i class="fa-solid fa-compass-drafting"></i> Submit Custom Request
+              </button>
+
+              <a href="https://wa.me/917899802412?text=Hi%20Layermax%2C%20I%27d%20like%20to%20customise%20a%20mattress%20(6%22%20%2F%208%22%20%2F%206%22%20Hi)."
+                 target="_blank" rel="noopener" id="custom-whatsapp-btn" class="enquiry-submit-btn"
+                 style="background-color: #25D366; margin-top: 12px; display: flex; align-items: center; justify-content: center; gap: 10px; text-decoration: none;">
+                <i class="fa-brands fa-whatsapp" style="font-size: 20px;"></i> Contact on WhatsApp
+              </a>
+            </form>
+
+            <!-- Success State Message -->
+            <div class="enquiry-success-message" id="custom-success-container" style="display: none;">
+              <div class="success-icon-box" style="background-color: rgba(10, 44, 92, 0.08); color: #0a2c5c;">
+                <i class="fa-solid fa-signature"></i>
+              </div>
+              <h3>Custom Request Submitted</h3>
+              <p>Thank you for submitting a customization request to Layermax. Our design consult team will reach out with technical drawings, customization choices, and pricing quotes shortly.</p>
+              <a href="catalog.html" class="hero-btn" style="background-color: #0a2c5c; color: #ffffff; display: inline-flex; justify-content: center; margin-top: 16px;">Back to Catalog</a>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-about">
+        <img src="../assets/logo.png" alt="Layermax Logo">
+        <p>Premium designer chairs and comfort recliners crafted for contemporary homes and professional work environments.</p>
+        <div class="footer-contact-links">
+          <a href="https://wa.me/917899802412" target="_blank" rel="noopener" class="footer-contact-btn footer-contact-btn--whatsapp" aria-label="WhatsApp">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+          <a href="tel:+917899802412" class="footer-contact-btn footer-contact-btn--call" aria-label="Call Us">
+            <i class="fa-solid fa-phone"></i>
+          </a>
+          <a href="mailto:support@layermax.com" class="footer-contact-btn footer-contact-btn--email" aria-label="Email Us">
+            <i class="fa-solid fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+      
+      <div class="footer-col">
+        <h4>Collections</h4>
+        <ul class="footer-links">
+          <li><a href="catalog.html?category=wooden-couches">Wooden Couches</a></li>
+          <li><a href="catalog.html?category=office-chairs">Office Chairs</a></li>
+          <li><a href="catalog.html?category=wooden-couches">Sofas</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Information</h4>
+        <ul class="footer-links">
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="#">Showroom Locations</a></li>
+          <li><a href="#">Custom Orders</a></li>
+          <li><a href="#">Careers</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Customer Care</h4>
+        <ul class="footer-links">
+          <li><a href="contact.html">Contact Us</a></li>
+          <li><a href="shipping.html">Shipping &amp; Deliveries</a></li>
+          <li><a href="returns.html">Returns Policy</a></li>
+          <li><a href="warranty.html">Warranty Details</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Layermax Furniture Industries Ltd. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- JavaScript files -->
+  <script src="products-data.js?v=2"></script>
+  <script src="index.js?v=3"></script>
+  <script>
+    // Get product ID from query parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const productId = urlParams.get('id');
+
+    // Find product in PRODUCTS array
+    const product = PRODUCTS.find(p => p.id === productId);
+    const summaryCard = document.getElementById('product-summary-card');
+
+    if (product) {
+      // Dynamic updates to DOM
+      document.getElementById('enquiry-product-img').src = resolveImagePath(product.img);
+      document.getElementById('enquiry-product-img').alt = product.name;
+      document.getElementById('enquiry-product-title').textContent = product.name;
+      document.getElementById('enquiry-product-category').textContent = product.category.replace('-', ' ');
+      document.getElementById('enquiry-product-designer').textContent = product.designer;
+      document.getElementById('enquiry-product-desc').textContent = product.description;
+
+      // Update breadcrumbs link
+      document.getElementById('breadcrumb-product-link').textContent = product.name;
+      document.getElementById('breadcrumb-product-link').href = `product.html?id=${product.id}`;
+
+      // Update dropdown option based on product designer
+      const woodSelect = document.getElementById('custom-wood');
+      if (product.designer === 'Layermax Artistry') {
+        woodSelect.value = 'Treated Rubber Wood';
+      } else {
+        woodSelect.value = 'Natural Linen Fabric';
+      }
+
+      // Populate text-area prefill enquiry
+      const messageInput = document.getElementById('custom-message');
+      messageInput.value = `Dear Layermax Custom Consult Team,\n\nI am writing to inquire about requesting a custom configuration of the ${product.name} (${product.category.replace('-', ' ')}).\n\nI am looking to adapt this model with custom configurations and would love to review structural wood swatches and upholstery material colors.\n\nThank you.`;
+    } else {
+      // Handle generic showroom enquiry
+      summaryCard.innerHTML = `
+        <div style="text-align: center; padding: 40px 20px;">
+          <div style="font-size: 48px; color: #0a2c5c; margin-bottom: 20px;">
+            <i class="fa-solid fa-compass-drafting"></i>
+          </div>
+          <h2 style="font-size: 24px; font-weight: 800; color: var(--color-dark); margin-bottom: 12px;">Custom Consulting</h2>
+          <p style="color: var(--color-muted); font-size: 14px; line-height: 1.6;">Use this consult request to submit bespoke design layout proposals, draft drawings, or dimension sheets for custom sizing consultation.</p>
+        </div>
+      `;
+      document.getElementById('breadcrumb-product-link').textContent = 'General';
+      document.getElementById('breadcrumb-product-link').href = `catalog.html`;
+      document.getElementById('custom-message').value = `Dear Layermax Custom Consult Team,\n\nI am writing to submit a general inquiry regarding custom sizes and bespoke configurations. I would love to schedule a session with a design manager.\n\nThank you.`;
+    }
+
+    // Submit action handler
+    function submitCustomEnquiry(event) {
+      event.preventDefault();
+      
+      const submitBtn = document.getElementById('custom-submit-btn');
+      const form = document.getElementById('product-custom-form');
+      const successContainer = document.getElementById('custom-success-container');
+      
+      // Visual feedback on button
+      submitBtn.innerHTML = '<i class="fa-solid fa-circle-notch fa-spin"></i> Logging request...';
+      submitBtn.disabled = true;
+
+      // Simulate API submission
+      setTimeout(() => {
+        form.style.display = 'none';
+        successContainer.style.display = 'block';
+      }, 1500);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,326 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layermax | Designer Product Details</title>
+  <meta name="description" content="Explore custom design details, color variations, and premium specifications for Layermax furniture collections.">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="index.css?v=5">
+  <link rel="icon" type="image/png" href="favicon.png?v=3">
+</head>
+<body>
+
+  <!-- Sticky Glass Header -->
+  <header id="main-header">
+    <div class="navbar-fullwidth navbar">
+      <a href="../index.html" class="logo" id="site-logo">
+        <img src="../assets/logo.png" alt="Layermax Logo">
+      </a>
+      
+      <nav>
+        <ul class="nav-links">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="catalog.html?group=sofas">Sofas</a></li>
+          <li><a href="catalog.html?group=chairs">Chairs</a></li>
+          <li><a href="catalog.html?group=recliners">Recliners</a></li>
+          <li><a href="catalog.html?group=beds">Beds</a></li>
+          <li><a href="catalog.html?group=tables">Tables</a></li>
+          <li><a href="catalog.html?group=office">Office</a></li>
+          <li><a href="catalog.html?group=storage">Storage</a></li>
+          <li><a href="catalog.html?group=cafe">Café</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="contact.html" class="nav-contact-btn">Contact</a>
+        <!-- Mobile Menu Toggle -->
+        <button class="nav-btn mobile-menu-toggle" id="mobile-menu-btn" aria-label="Menu">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Product Details Section -->
+  <section class="product-detail-section">
+    <div class="container" id="product-detail-container">
+      
+      <!-- Breadcrumbs & Navigation -->
+      <div class="breadcrumb-container" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <div class="breadcrumb-links">
+          <a href="../index.html">Home</a>
+          <span class="separator">/</span>
+          <a href="catalog.html">Catalog</a>
+          <span class="separator">/</span>
+          <a href="#" id="breadcrumb-category">Category</a>
+          <span class="separator">/</span>
+          <span class="current" id="breadcrumb-current">Product Details</span>
+        </div>
+        <div class="product-catalog-nav" style="display: flex; gap: 16px; align-items: center; font-size: 16px;">
+          <a href="#" id="prev-product-btn" style="color: var(--color-muted); transition: var(--transition-fast); text-decoration: none;" title="Previous Product"><i class="fa-solid fa-chevron-left"></i></a>
+          <a href="catalog.html" id="catalog-grid-btn" style="color: var(--color-muted); transition: var(--transition-fast); text-decoration: none;" title="Back to Catalog"><i class="fa-solid fa-border-all"></i></a>
+          <a href="#" id="next-product-btn" style="color: var(--color-muted); transition: var(--transition-fast); text-decoration: none;" title="Next Product"><i class="fa-solid fa-chevron-right"></i></a>
+        </div>
+      </div>
+
+      <!-- Main Detail Grid -->
+      <div class="product-detail-grid">
+        
+        <!-- Left: Image Gallery -->
+        <div class="gallery-container">
+          <div class="main-display-box">
+
+            <img id="main-image" src="" alt="Product Image">
+          </div>
+          <div class="thumbnail-gallery" id="thumbnail-gallery">
+            <!-- Populated dynamically by script -->
+          </div>
+        </div>
+
+        <!-- Right: Information Details -->
+        <div class="info-container">
+          <span class="product-detail-category" id="product-category">Category</span>
+          <!-- Title -->
+          <h1 class="product-detail-title" id="product-title" style="margin: 0 0 4px 0;">Product Code</h1>
+          <p style="color: var(--color-muted); font-size: 14px; margin-bottom: 12px;" id="product-designer"></p>
+
+          <!-- Product Specifications List -->
+          <div class="product-specs-list" style="margin: 20px 0 10px 0; display: flex; flex-direction: column; gap: 8px; font-size: 16px;">
+            <div class="spec-item"><span class="spec-label" style="color: #0a2c5c; font-weight: 700; margin-right: 6px;">Product Code:</span> <span class="spec-value" id="spec-code" style="color: var(--color-dark); font-weight: 500;">Product Code</span></div>
+            <div class="spec-item"><span class="spec-label" style="color: #0a2c5c; font-weight: 700; margin-right: 6px;">Material:</span> <span class="spec-value" id="spec-material" style="color: var(--color-dark); font-weight: 500;">Material</span></div>
+          </div>
+          <div style="margin-top: 0; font-size: 16px;">
+            <span style="color: #0a2c5c; font-weight: 700;">Description:</span>
+          </div>
+          <p class="product-detail-desc" id="product-desc" style="margin-top: 6px;">
+            Product description details.
+          </p>
+
+          <!-- Customise options (e.g. mattress thickness) -->
+          <div id="thickness-options-block" style="display: none; margin-top: 18px;">
+            <div style="color: #0a2c5c; font-weight: 700; font-size: 16px; margin-bottom: 8px;">Choose Your Thickness:</div>
+            <ul id="thickness-options-list" style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px;"></ul>
+          </div>
+
+          <!-- Primary Actions (Enquire/Listing + Customise) side-by-side -->
+          <div class="product-actions-group" style="display: flex; gap: 16px; margin: 20px 0; width: 100%; flex-wrap: wrap;">
+            <a href="" class="detail-enquire-btn" id="enquire-now-btn" style="flex: 1; min-width: 150px; margin: 0;">
+              Enquire Now
+            </a>
+            <a href="" class="detail-customise-btn" id="customise-btn" style="flex: 1; min-width: 150px; margin: 0;">
+              Customise
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Related Products Section -->
+  <section class="related-products-section" id="related-section">
+    <div class="container">
+      <h3 class="related-title">You May Also Like</h3>
+      <div class="related-grid" id="related-grid">
+        <!-- Rendered dynamically -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-about">
+        <img src="../assets/logo.png" alt="Layermax Logo">
+        <p>Premium designer chairs and comfort recliners crafted for contemporary homes and professional work environments.</p>
+        <div class="footer-contact-links">
+          <a href="https://wa.me/917899802412" target="_blank" rel="noopener" class="footer-contact-btn footer-contact-btn--whatsapp" aria-label="WhatsApp">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+          <a href="tel:+917899802412" class="footer-contact-btn footer-contact-btn--call" aria-label="Call Us">
+            <i class="fa-solid fa-phone"></i>
+          </a>
+          <a href="mailto:support@layermax.com" class="footer-contact-btn footer-contact-btn--email" aria-label="Email Us">
+            <i class="fa-solid fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+      
+      <div class="footer-col">
+        <h4>Collections</h4>
+        <ul class="footer-links">
+          <li><a href="catalog.html?category=wooden-couches">Wooden Couches</a></li>
+          <li><a href="catalog.html?category=office-chairs">Office Chairs</a></li>
+          <li><a href="catalog.html?category=wooden-couches">Sofas</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Information</h4>
+        <ul class="footer-links">
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="#">Showroom Locations</a></li>
+          <li><a href="#">Custom Orders</a></li>
+          <li><a href="#">Careers</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Customer Care</h4>
+        <ul class="footer-links">
+          <li><a href="contact.html">Contact Us</a></li>
+          <li><a href="shipping.html">Shipping &amp; Deliveries</a></li>
+          <li><a href="returns.html">Returns Policy</a></li>
+          <li><a href="warranty.html">Warranty Details</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 Layermax Furniture Industries Ltd. All rights reserved.</p>
+    </div>
+  </footer>
+
+
+
+  <!-- JavaScript files -->
+  <script src="products-data.js?v=2"></script>
+  <script src="index.js?v=3"></script>
+  <script>
+    // Get product ID from query parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const productId = urlParams.get('id');
+
+    // Find product in PRODUCTS array
+    const product = PRODUCTS.find(p => p.id === productId);
+
+    if (product) {
+      // Dynamic updates to DOM
+      document.title = `${product.name} | Layermax Premium Details`;
+      document.getElementById('product-title').textContent = product.name;
+      
+      const enquireBtn = document.getElementById('enquire-now-btn');
+      if (product.designer === 'Rubco Premium') {
+        enquireBtn.href = product.listingUrl;
+        enquireBtn.target = '_blank';
+        enquireBtn.innerHTML = '<i class="fa-solid fa-arrow-up-right-from-square"></i> Go to Listing';
+      } else {
+        enquireBtn.href = `enquire.html?id=${product.id}`;
+        enquireBtn.target = '';
+        enquireBtn.innerHTML = 'Enquire Now';
+      }
+
+      document.getElementById('product-desc').textContent = product.description;
+
+      // Thickness / customise options (shown only when present)
+      const thBlock = document.getElementById('thickness-options-block');
+      const thList = document.getElementById('thickness-options-list');
+      if (thBlock && thList && Array.isArray(product.thicknessOptions) && product.thicknessOptions.length) {
+        thList.innerHTML = product.thicknessOptions.map(o =>
+          `<li style="padding: 10px 14px; border: 1px solid var(--color-border); border-radius: 8px; background: #fff; color: var(--color-dark); font-size: 14px;">${o}</li>`).join('');
+        thBlock.style.display = 'block';
+      } else if (thBlock) {
+        thBlock.style.display = 'none';
+      }
+      document.getElementById('product-category').textContent = product.category.replace('-', ' ');
+      document.getElementById('product-designer').textContent = product.designer;
+
+      // Update Spec List
+      document.getElementById('spec-code').textContent = product.id.toUpperCase();
+      document.getElementById('spec-material').textContent = product.designer === 'Layermax Artistry' ? 'Treated Rubber Wood' : product.material;
+      const customFurnitureLink = document.getElementById('custom-furniture-link');
+      if (customFurnitureLink) {
+        customFurnitureLink.href = `custom.html?id=${product.id}`;
+      }
+      document.getElementById('customise-btn').href = `custom.html?id=${product.id}`;
+
+      // Main image & Gallery
+      const mainImg = document.getElementById('main-image');
+      mainImg.src = resolveImagePath(product.img);
+      mainImg.alt = product.name;
+
+      const thumbsContainer = document.getElementById('thumbnail-gallery');
+      thumbsContainer.innerHTML = '';
+      if (product.images && product.images.length > 1) {
+        product.images.forEach((imgUrl, idx) => {
+          const thumb = document.createElement('div');
+          thumb.className = `thumb-item ${idx === 0 ? 'active' : ''}`;
+          thumb.innerHTML = `<img src="${resolveImagePath(imgUrl)}" alt="${product.name} angle ${idx+1}">`;
+          thumb.addEventListener('click', () => {
+            document.querySelectorAll('.thumb-item').forEach(t => t.classList.remove('active'));
+            thumb.classList.add('active');
+            mainImg.src = resolveImagePath(imgUrl);
+          });
+          thumbsContainer.appendChild(thumb);
+        });
+      }
+
+      // Related Products
+      const relatedGrid = document.getElementById('related-grid');
+      relatedGrid.innerHTML = '';
+      const related = PRODUCTS.filter(p => p.category === product.category && p.id !== product.id).slice(0, 4);
+      
+      if (related.length > 0) {
+        related.forEach(p => {
+          const card = document.createElement('div');
+          card.className = 'product-card';
+          card.innerHTML = `
+            <div class="product-img-box">
+              <img src="${resolveImagePath(p.img)}" alt="${p.name}">
+            </div>
+            <span class="product-category">${p.designer}</span>
+            <h4 class="product-name" title="${p.name}"><a href="product.html?id=${p.id}">${p.name}</a></h4>
+            <div class="card-footer" style="justify-content: center; padding: 4px 0;">
+              <a href="product.html?id=${p.id}" class="enquire-btn-card">Enquire Now</a>
+            </div>
+          `;
+          relatedGrid.appendChild(card);
+        });
+      } else {
+        document.getElementById('related-section').style.display = 'none';
+      }
+
+      // Breadcrumb Name
+      document.getElementById('breadcrumb-current').textContent = product.name;
+      document.getElementById('breadcrumb-category').textContent = product.category.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+      document.getElementById('breadcrumb-category').href = `catalog.html?category=${product.category}`;
+
+      // Next & Previous Product Navigation
+      const categoryProducts = PRODUCTS.filter(p => p.category === product.category);
+      const catIndex = categoryProducts.findIndex(p => p.id === product.id);
+      
+      if (categoryProducts.length > 1) {
+        const prevProduct = categoryProducts[(catIndex - 1 + categoryProducts.length) % categoryProducts.length];
+        const nextProduct = categoryProducts[(catIndex + 1) % categoryProducts.length];
+        
+        document.getElementById('prev-product-btn').href = `product.html?id=${prevProduct.id}`;
+        document.getElementById('next-product-btn').href = `product.html?id=${nextProduct.id}`;
+        document.getElementById('catalog-grid-btn').href = `catalog.html?category=${product.category}`;
+      } else {
+        document.getElementById('prev-product-btn').style.display = 'none';
+        document.getElementById('next-product-btn').style.display = 'none';
+        document.getElementById('catalog-grid-btn').href = `catalog.html`;
+      }
+
+    } else {
+      // Product not found page redirection or empty state
+      document.getElementById('product-detail-container').innerHTML = `
+        <div style="text-align: center; padding: 100px 0;">
+          <h2 style="font-size: 32px; margin-bottom: 16px;">Product Not Found</h2>
+          <p style="margin-bottom: 24px; color: var(--color-muted);">The product you are looking for does not exist in our design database.</p>
+          <a href="catalog.html" class="hero-btn" style="background-color: var(--color-primary); color: #fff;">Back to Catalog</a>
+        </div>
+      `;
+      document.getElementById('related-section').style.display = 'none';
+    }
+  </script>
+</body>
+</html>

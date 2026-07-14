@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LayerMax | Luxury Furniture Catalog</title>
+  <meta name="description" content="Browse our luxury designer chairs, lounge seating, and premium home furnishings. Filter by material and designer to find your perfect fit.">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="index.css?v=5">
+  <link rel="icon" type="image/png" href="favicon.png?v=3">
+</head>
+<body>
+
+  <!-- Sticky Glass Header -->
+  <header id="main-header">
+    <div class="navbar-fullwidth navbar">
+      <a href="../index.html" class="logo" id="site-logo">
+        <img src="../assets/logo.png" alt="LayerMax Logo">
+      </a>
+      
+      <nav>
+        <ul class="nav-links">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="catalog.html?group=sofas">Sofas</a></li>
+          <li><a href="catalog.html?group=chairs">Chairs</a></li>
+          <li><a href="catalog.html?group=recliners">Recliners</a></li>
+          <li><a href="catalog.html?group=beds">Beds</a></li>
+          <li><a href="catalog.html?group=tables">Tables</a></li>
+          <li><a href="catalog.html?group=office">Office</a></li>
+          <li><a href="catalog.html?group=storage">Storage</a></li>
+          <li><a href="catalog.html?group=cafe">Café</a></li>
+          <li><a href="contact.html">Contact Us</a></li>
+        </ul>
+      </nav>
+
+      <div class="nav-actions">
+        <a href="contact.html" class="nav-contact-btn">Contact</a>
+        <!-- Mobile Menu Toggle -->
+        <button class="nav-btn mobile-menu-toggle" id="mobile-menu-btn" aria-label="Menu">
+          <i class="fa-solid fa-bars"></i>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Catalog Hero Title Area -->
+  <section class="catalog-hero">
+    <div class="catalog-hero-bg"></div>
+    <div class="container catalog-hero-content">
+      <h1 class="catalog-hero-title" id="catalog-hero-title">LayerMax Designer Catalog</h1>
+      <p class="catalog-hero-desc">Discover our premium range of architecturally inspired seating, lounge suites, and luxury office options.</p>
+    </div>
+  </section>
+
+  <!-- Catalog Layout Container (Sidebar + Grid) -->
+  <section class="catalog-main-section">
+    <div class="container catalog-layout">
+      
+      <!-- Sidebar Filters Panel -->
+      <aside class="catalog-sidebar">
+
+        <!-- Filter Card: Category -->
+        <div class="filter-group" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+          <h4 class="filter-group-title" id="sidebar-group-title">Category</h4>
+          <div class="filter-options" id="category-filter-options" style="display: flex; flex-direction: column; gap: 6px;"></div>
+        </div>
+
+      </aside>
+
+
+      <!-- Main Catalog View -->
+      <main class="catalog-content">
+
+        <!-- Mattress customise banner (shown only in the mattresses section) -->
+        <div class="mattress-banner" id="mattress-banner" style="display:none;">
+          <div class="mattress-banner-text">
+            <strong>Can't find your perfect fit?</strong>
+            <span>Build your own — pick 6&quot;, 8&quot; or 6&quot; Hi thickness with premium Rebonded, 32D S Softy &amp; 80D 7-Zone Natural Latex layers, finished with a 250 GSM knitted quilt.</span>
+          </div>
+          <a href="product.html?id=customise-your-mattress" class="mattress-banner-btn">
+            <i class="fa-solid fa-sliders" style="margin-right:8px;"></i>Customise Your Mattress
+          </a>
+        </div>
+
+        <!-- Top Action Bar (Sorting & Items Count) -->
+        <div class="catalog-top-bar">
+          <div class="items-count">
+            Showing <span id="displayed-items-count">16</span> of <span id="total-items-count">16</span> products
+          </div>
+          
+          <div class="sorting-wrapper">
+            <span class="sort-label">Sort by:</span>
+            <select class="sort-select" id="sort-products">
+              <option value="popular">Popularity</option>
+              <option value="rating">Highest Rated</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Product Grid -->
+        <div class="catalog-grid" id="catalog-products-grid">
+          <!-- Populated dynamically by catalog.js -->
+        </div>
+        
+        <!-- Pagination Controls -->
+        <div class="catalog-pagination" id="catalog-pagination"></div>
+
+        <!-- Premium Empty State -->
+        <div class="catalog-empty-state" id="catalog-empty-state">
+          <div class="empty-state-icon">
+            <i class="fa-solid fa-cubes-stacked"></i>
+          </div>
+          <h3>No Match Found</h3>
+          <p>We couldn't find any products matching your specific combinations. Reset your slider, search, or filters to explore our designer collection.</p>
+          <button class="reset-filters-btn" id="empty-reset-btn">Reset All Filters</button>
+        </div>
+
+      </main>
+    </div>
+  </section>
+
+  <!-- Footer Section -->
+  <footer>
+    <div class="container footer-grid">
+      <div class="footer-about">
+        <img src="../assets/logo.png" alt="LayerMax Logo">
+        <p>Premium designer chairs and comfort recliners crafted for contemporary homes and professional work environments.</p>
+        <div class="footer-contact-links">
+          <a href="https://wa.me/917899802412" target="_blank" rel="noopener" class="footer-contact-btn footer-contact-btn--whatsapp" aria-label="WhatsApp">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+          <a href="tel:+917899802412" class="footer-contact-btn footer-contact-btn--call" aria-label="Call Us">
+            <i class="fa-solid fa-phone"></i>
+          </a>
+          <a href="mailto:support@layermax.com" class="footer-contact-btn footer-contact-btn--email" aria-label="Email Us">
+            <i class="fa-solid fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+      
+      <div class="footer-col">
+        <h4>Collections</h4>
+        <ul class="footer-links">
+          <li><a href="catalog.html?category=wooden-couches">Wooden Couches</a></li>
+          <li><a href="catalog.html?category=office-chairs">Office Chairs</a></li>
+          <li><a href="catalog.html?category=wooden-couches">Sofas</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Information</h4>
+        <ul class="footer-links">
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Showroom Locations</a></li>
+          <li><a href="#">Custom Orders</a></li>
+          <li><a href="#">Careers</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h4>Customer Care</h4>
+        <ul class="footer-links">
+          <li><a href="contact.html">Contact Us</a></li>
+          <li><a href="shipping.html">Shipping &amp; Deliveries</a></li>
+          <li><a href="returns.html">Returns Policy</a></li>
+          <li><a href="warranty.html">Warranty Details</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container footer-bottom">
+      <p>&copy; 2026 LayerMax Furniture Industries Ltd. All rights reserved.</p>
+    </div>
+  </footer>
+
+
+
+  <!-- JavaScript files -->
+  <script src="products-data.js?v=2"></script>
+  <script src="index.js?v=3"></script>
+  <script src="catalog.js?v=5"></script>
+</body>
+</html>
