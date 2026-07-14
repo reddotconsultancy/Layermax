@@ -161,7 +161,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-bar-stool",
-    "name": "Café Bar Stool",
+    "name": "Café Bar Stool 01",
     "category": "cafe-bar-stools",
     "type": "bar stool",
     "material": "Metal / PP / Wood",
@@ -177,7 +177,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-bar-stool-2",
-    "name": "Café Bar Stool",
+    "name": "Café Bar Stool 02",
     "category": "cafe-bar-stools",
     "type": "bar stool",
     "material": "Metal / PP / Wood",
@@ -193,7 +193,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-bar-stool-3",
-    "name": "Café Bar Stool",
+    "name": "Café Bar Stool 03",
     "category": "cafe-bar-stools",
     "type": "bar stool",
     "material": "Metal / PP / Wood",
@@ -209,7 +209,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-bar-stool-4",
-    "name": "Café Bar Stool",
+    "name": "Café Bar Stool 04",
     "category": "cafe-bar-stools",
     "type": "bar stool",
     "material": "Metal / PP / Wood",
@@ -433,7 +433,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dbs-614-2",
-    "name": "DBS 614",
+    "name": "DBS 614 (2)",
     "category": "cafe-bar-stools",
     "type": "bar stool",
     "material": "Metal / PP / Wood",
@@ -721,7 +721,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-da-614-2",
-    "name": "DA 614",
+    "name": "DA 614 (2)",
     "category": "cafe-chairs",
     "type": "dining chair",
     "material": "Metal / PP / Wood",
@@ -1009,7 +1009,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dbs-664-2",
-    "name": "DBS 664",
+    "name": "DBS 664 (2)",
     "category": "cafe-chairs",
     "type": "café chair",
     "material": "Metal / PP / Wood",
@@ -1105,7 +1105,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dmc-078-2",
-    "name": "DMC 078",
+    "name": "DMC 078 (2)",
     "category": "cafe-chairs",
     "type": "dining chair",
     "material": "Metal / PP / Wood",
@@ -1201,7 +1201,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dmc-087-2",
-    "name": "DMC 087",
+    "name": "DMC 087 (2)",
     "category": "cafe-chairs",
     "type": "dining chair",
     "material": "Metal / PP / Wood",
@@ -1761,7 +1761,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dmc-245-2",
-    "name": "DMC 245",
+    "name": "DMC 245 (2)",
     "category": "cafe-chairs",
     "type": "wooden chair",
     "material": "Metal / PP / Wood",
@@ -1777,7 +1777,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dmc-245-3",
-    "name": "DMC 245",
+    "name": "DMC 245 (3)",
     "category": "cafe-chairs",
     "type": "wooden chair",
     "material": "Metal / PP / Wood",
@@ -2081,7 +2081,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dpc-176-2",
-    "name": "DPC 176",
+    "name": "DPC 176 (2)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2097,7 +2097,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dpc-176-3",
-    "name": "DPC 176",
+    "name": "DPC 176 (3)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2305,7 +2305,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-fire-2",
-    "name": "FIRE",
+    "name": "FIRE (2)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2321,7 +2321,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-fire-3",
-    "name": "FIRE",
+    "name": "FIRE (3)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2337,7 +2337,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-fire-4",
-    "name": "FIRE",
+    "name": "FIRE (4)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2513,7 +2513,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-sweden-2",
-    "name": "SWEDEN",
+    "name": "SWEDEN (2)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2529,7 +2529,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-sweden-3",
-    "name": "SWEDEN",
+    "name": "SWEDEN (3)",
     "category": "cafe-chairs",
     "type": "cafeteria chair",
     "material": "Metal / PP / Wood",
@@ -2561,7 +2561,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-sweedan-2",
-    "name": "SWEEDAN",
+    "name": "SWEEDAN (2)",
     "category": "cafe-chairs",
     "type": "café chair",
     "material": "Metal / PP / Wood",
@@ -2641,7 +2641,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-caf-table-base",
-    "name": "Café Table Base",
+    "name": "Café Table Base 01",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -2657,7 +2657,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-caf-table-base-2",
-    "name": "Café Table Base",
+    "name": "Café Table Base 02",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -2673,7 +2673,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-caf-table-base-3",
-    "name": "Café Table Base",
+    "name": "Café Table Base 03",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -2689,7 +2689,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-caf-table-base-4",
-    "name": "Café Table Base",
+    "name": "Café Table Base 04",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -2705,7 +2705,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-caf-caf-table-base-5",
-    "name": "Café Table Base",
+    "name": "Café Table Base 05",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -3345,7 +3345,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dct-1038-2",
-    "name": "DCT 1038",
+    "name": "DCT 1038 (2)",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -3361,7 +3361,7 @@ const PRODUCTS = [
   },
   {
     "id": "cafe-dct-1038-3",
-    "name": "DCT 1038",
+    "name": "DCT 1038 (3)",
     "category": "cafe-tables",
     "type": "café table base",
     "material": "Metal / PP / Wood",
@@ -5248,165 +5248,165 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-19",
-    "name": "Home Theatre Seating 19",
+    "id": "home-theatre-seating-1",
+    "name": "Home Theatre Seating 1",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-19/p19_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-1/p19_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 19 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-19/p19_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-1/p19_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-20",
-    "name": "Home Theatre Seating 20",
+    "id": "home-theatre-seating-2",
+    "name": "Home Theatre Seating 2",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-20/p20_02.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-2/p20_02.png",
     "badge": "New",
     "description": "Home Theatre Seating 20 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-20/p20_02.png",
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-20/p20_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-2/p20_02.png",
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-2/p20_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-21",
-    "name": "Home Theatre Seating 21",
+    "id": "home-theatre-seating-3",
+    "name": "Home Theatre Seating 3",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-21/p21_02.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-3/p21_02.png",
     "badge": "New",
     "description": "Home Theatre Seating 21 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-21/p21_02.png",
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-21/p21_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-3/p21_02.png",
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-3/p21_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-22",
-    "name": "Home Theatre Seating 22",
+    "id": "home-theatre-seating-4",
+    "name": "Home Theatre Seating 4",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-22/p22_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-4/p22_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 22 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-22/p22_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-4/p22_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-23",
-    "name": "Home Theatre Seating 23",
+    "id": "home-theatre-seating-5",
+    "name": "Home Theatre Seating 5",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-23/p23_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-5/p23_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 23 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-23/p23_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-5/p23_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-24",
-    "name": "Home Theatre Seating 24",
+    "id": "home-theatre-seating-6",
+    "name": "Home Theatre Seating 6",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-24/p24_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-6/p24_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 24 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-24/p24_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-6/p24_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-25",
-    "name": "Home Theatre Seating 25",
+    "id": "home-theatre-seating-7",
+    "name": "Home Theatre Seating 7",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-25/p25_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-7/p25_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 25 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-25/p25_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-7/p25_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-26",
-    "name": "Home Theatre Seating 26",
+    "id": "home-theatre-seating-8",
+    "name": "Home Theatre Seating 8",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-26/p26_02.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-8/p26_02.png",
     "badge": "New",
     "description": "Home Theatre Seating 26 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-26/p26_02.png",
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-26/p26_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-8/p26_02.png",
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-8/p26_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-27",
-    "name": "Home Theatre Seating 27",
+    "id": "home-theatre-seating-9",
+    "name": "Home Theatre Seating 9",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-27/p27_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-9/p27_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 27 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-27/p27_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-9/p27_01.png"
     ],
     "colors": []
   },
   {
-    "id": "home-theatre-seating-home-theatre-seating-28",
-    "name": "Home Theatre Seating 28",
+    "id": "home-theatre-seating-10",
+    "name": "Home Theatre Seating 10",
     "category": "home-theatre-seating",
     "type": "recliner",
     "material": "Leather / Fabric",
     "designer": "Layermax",
     "rating": 4.7,
-    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-28/p28_01.png",
+    "img": "assets/catalogue_new/home-theatre-seating/home-theatre-seating-10/p28_01.png",
     "badge": "New",
     "description": "Home Theatre Seating 28 recliner. A premium Layermax recliner delivering ergonomic comfort, refined aesthetics, and lasting durability.",
     "images": [
-      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-home-theatre-seating-28/p28_01.png"
+      "assets/catalogue_new/home-theatre-seating/home-theatre-seating-10/p28_01.png"
     ],
     "colors": []
   },
