@@ -26,7 +26,8 @@ const GROUPS = [
   { key: 'cafe', label: 'Café & Restaurant', icon: 'fa-mug-saucer', subs: [
     { c: 'cafe-chairs', l: 'Café Chairs', i: 'fa-chair' },
     { c: 'cafe-tables', l: 'Café Tables', i: 'fa-mug-saucer' },
-    { c: 'cafe-bar-stools', l: 'Bar Stools', i: 'fa-martini-glass' } ] }
+    { c: 'cafe-bar-stools', l: 'Bar Stools', i: 'fa-martini-glass' },
+    { c: 'cafe-banquet-equipment', l: 'Banquet Equipment', i: 'fa-star' } ] }
 ];
 const GROUP_BY_KEY = Object.fromEntries(GROUPS.map(g => [g.key, g]));
 const GROUP_BY_CAT = {};
@@ -117,7 +118,21 @@ function renderProducts() {
   });
 
   const sortVal = document.getElementById('sort-products')?.value;
-  if (sortVal === 'rating') filtered.sort((a, b) => b.rating - a.rating);
+  if (sortVal === 'rating') {
+    filtered.sort((a, b) => b.rating - a.rating);
+  } else if (currentGroupKey === 'beds' && activeCategory === 'all') {
+    filtered.sort((a, b) => {
+      const rankA = a.category === 'sleeping-beds' ? 0 : 1;
+      const rankB = b.category === 'sleeping-beds' ? 0 : 1;
+      return rankA - rankB;
+    });
+  } else if (currentGroupKey === 'office' && activeCategory === 'all') {
+    filtered.sort((a, b) => {
+      const rankA = a.category === 'office-workstations' ? 0 : 1;
+      const rankB = b.category === 'office-workstations' ? 0 : 1;
+      return rankA - rankB;
+    });
+  }
 
   const totalFiltered = filtered.length;
   const totalPages = Math.ceil(totalFiltered / ITEMS_PER_PAGE);
@@ -139,7 +154,11 @@ function renderProducts() {
   url.searchParams.set('page', currentPage);
   if (searchVal) url.searchParams.set('search', searchInput.value.trim()); else url.searchParams.delete('search');
   if (sortVal && sortVal !== 'popular') url.searchParams.set('sort', sortVal); else url.searchParams.delete('sort');
-  window.history.replaceState(null, '', url.toString());
+  try {
+    window.history.replaceState(null, '', url.toString());
+  } catch (e) {
+    console.warn("Failed to update history state:", e);
+  }
 
   if (paginated.length === 0) {
     grid.style.display = 'none';
