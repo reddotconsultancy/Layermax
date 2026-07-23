@@ -5281,51 +5281,51 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-calypso-charcoal-grey-velvet-armchair",
-    "name": "Calypso Charcoal Grey Velvet Armchair",
-    "category": "chairs",
+    "id": "calypso-charcoal-grey-velvet-recliner",
+    "name": "Calypso Charcoal Grey Velvet Recliner",
+    "category": "recliners",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Calypso Charcoal Grey Velvet Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-calypso-charcoal-grey-velvet-armchair/Calypso Charcoal Grey Velvet Armchair - Single Seater.png",
+    "description": "The Calypso Charcoal Grey Velvet Recliner combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/recliners/calypso-charcoal-grey-velvet-recliner/calypso-charcoal-grey-velvet-recliner.png",
     "images": [
-      "assets/products/chairs/cat-calypso-charcoal-grey-velvet-armchair/Calypso Charcoal Grey Velvet Armchair - Single Seater.png"
+      "assets/products/recliners/calypso-charcoal-grey-velvet-recliner/calypso-charcoal-grey-velvet-recliner.png"
     ],
     "colors": []
   },
   {
-    "id": "cat-carina-modern-chair",
-    "name": "Carina Modern Chair",
-    "category": "chairs",
+    "id": "carina-modern-recliner",
+    "name": "Carina Modern Reclining Loveseat",
+    "category": "recliners",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Carina Modern Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-carina-modern-chair/Carina Modern Chair - Front View.png",
+    "description": "The Carina Modern Reclining Loveseat combines premium comfort, modern styling, and dual manual reclining seats.",
+    "img": "assets/products/recliners/carina-modern-recliner/carina-modern-recliner.png",
     "images": [
-      "assets/products/chairs/cat-carina-modern-chair/Carina Modern Chair - Front View.png"
+      "assets/products/recliners/carina-modern-recliner/carina-modern-recliner.png"
     ],
     "colors": []
   },
   {
-    "id": "cat-cassiopeia-highback-executive-chair",
-    "name": "Cassiopeia Highback Executive Chair",
-    "category": "chairs",
+    "id": "cassiopeia-highback-executive-recliner",
+    "name": "Cassiopeia Highback Executive Reclining Sofa",
+    "category": "recliners",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cassiopeia Highback Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cassiopeia-highback-executive-chair/Cassiopeia Highback Executive Chair - Angle Perspective.png",
+    "description": "The Cassiopeia Highback Executive Reclining Sofa features high-quality brown leather upholstery, generous padding, and integrated reclining footrests for optimal support.",
+    "img": "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-angle.png",
     "images": [
-      "assets/products/chairs/cat-cassiopeia-highback-executive-chair/Cassiopeia Highback Executive Chair - Angle Perspective.png",
-      "assets/products/chairs/cat-cassiopeia-highback-executive-chair/Cassiopeia Highback Executive Chair - Front View.png"
+      "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-angle.png",
+      "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-front.png"
     ],
     "colors": []
   },
@@ -5781,18 +5781,18 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-draco-swivel-executive-chair",
-    "name": "Draco Swivel Executive Chair",
-    "category": "chairs",
+    "id": "draco-swivel-executive-recliner",
+    "name": "Draco Swivel Executive Recliner",
+    "category": "recliners",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Draco Swivel Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-draco-swivel-executive-chair/Draco Swivel Executive Chair - Front View.png",
+    "description": "The Draco Swivel Executive Recliner combines a premium executive swivel design, heavy-duty cup holders, and plush reclining leather seat support.",
+    "img": "assets/products/recliners/draco-swivel-executive-recliner/draco-swivel-executive-recliner.png",
     "images": [
-      "assets/products/chairs/cat-draco-swivel-executive-chair/Draco Swivel Executive Chair - Front View.png"
+      "assets/products/recliners/draco-swivel-executive-recliner/draco-swivel-executive-recliner.png"
     ],
     "colors": []
   },
@@ -5937,22 +5937,6 @@ const PRODUCTS = [
     "img": "assets/products/chairs/cat-grey-fabric-tub-chair-with-wooden-legs/Grey Fabric Tub Chair with Wooden Legs.jpg",
     "images": [
       "assets/products/chairs/cat-grey-fabric-tub-chair-with-wooden-legs/Grey Fabric Tub Chair with Wooden Legs.jpg"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-grey-leather-living-room-sofa-armchairs-set",
-    "name": "Grey Leather Living Room Sofa Armchairs Set",
-    "category": "chairs",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Grey Leather Living Room Sofa Armchairs Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-leather-living-room-sofa-armchairs-set/Grey Leather Living Room Sofa & Armchairs Set.jpg",
-    "images": [
-      "assets/products/chairs/cat-grey-leather-living-room-sofa-armchairs-set/Grey Leather Living Room Sofa & Armchairs Set.jpg"
     ],
     "colors": []
   },

@@ -68,6 +68,26 @@ window.addEventListener('scroll', () => {
   sessionStorage.setItem('catalogScrollPosition', window.scrollY);
 });
 
+// Restore correct page when user presses Back/Forward
+window.addEventListener('popstate', (e) => {
+  const params = new URLSearchParams(window.location.search);
+  const g = params.get('group');
+  if (g && GROUP_BY_KEY[g]) currentGroupKey = g;
+  const catParam = params.get('category');
+  if (catParam) {
+    const owner = GROUP_BY_CAT[catParam];
+    if (owner) { currentGroupKey = owner.key; activeCategory = catParam; }
+  } else {
+    activeCategory = 'all';
+  }
+  const pageParam = params.get('page');
+  currentPage = parseInt(pageParam) || 1;
+  buildSidebar();
+  bindCategoryButtons();
+  updateBadges();
+  renderProducts();
+});
+
 // Build the sidebar for the CURRENT group only (All + its sub-categories)
 function buildSidebar() {
   const group = GROUP_BY_KEY[currentGroupKey];
@@ -120,18 +140,52 @@ function renderProducts() {
   const sortVal = document.getElementById('sort-products')?.value;
   if (sortVal === 'rating') {
     filtered.sort((a, b) => b.rating - a.rating);
-  } else if (currentGroupKey === 'beds' && activeCategory === 'all') {
-    filtered.sort((a, b) => {
-      const rankA = a.category === 'sleeping-beds' ? 0 : 1;
-      const rankB = b.category === 'sleeping-beds' ? 0 : 1;
-      return rankA - rankB;
+  } else {
+    if (currentGroupKey === 'beds' && activeCategory === 'all') {
+      filtered.sort((a, b) => {
+        const rankA = a.category === 'sleeping-beds' ? 0 : 1;
+        const rankB = b.category === 'sleeping-beds' ? 0 : 1;
+        return rankA - rankB;
+      });
+    } else if (currentGroupKey === 'office' && activeCategory === 'all') {
+      filtered.sort((a, b) => {
+        const rankA = a.category === 'office-workstations' ? 0 : 1;
+        const rankB = b.category === 'office-workstations' ? 0 : 1;
+        return rankA - rankB;
+      });
+    }
+    // Pull the dark mahogany dining chair to the very end of any popular/default list
+    const chairIdx = filtered.findIndex(p => p.id === 'cat-dark-mahogany-wooden-dining-chair');
+    if (chairIdx !== -1) {
+      const [chair] = filtered.splice(chairIdx, 1);
+      filtered.push(chair);
+    }
+    // Pull the carved teak dining chair to the very end of any popular/default list
+    const carvedTeakIdx = filtered.findIndex(p => p.id === 'cat-carved-teak-wooden-dining-chair');
+    if (carvedTeakIdx !== -1) {
+      const [carvedTeak] = filtered.splice(carvedTeakIdx, 1);
+      filtered.push(carvedTeak);
+    }
+    // Pull the "Row Of" teak chairs to the very end of any popular/default list
+    const rowIds = [
+      'cat-row-of-4-teak-dining-chairs-with-black-seats',
+      'cat-row-of-6-teak-dining-chairs-with-grey-seats-b',
+      'cat-row-of-8-teak-dining-chairs-with-grey-seats',
+      'cat-row-of-teak-dining-chairs-with-beige-seats'
+    ];
+    rowIds.forEach(id => {
+      const idx = filtered.findIndex(p => p.id === id);
+      if (idx !== -1) {
+        const [prod] = filtered.splice(idx, 1);
+        filtered.push(prod);
+      }
     });
-  } else if (currentGroupKey === 'office' && activeCategory === 'all') {
-    filtered.sort((a, b) => {
-      const rankA = a.category === 'office-workstations' ? 0 : 1;
-      const rankB = b.category === 'office-workstations' ? 0 : 1;
-      return rankA - rankB;
-    });
+    // Pull the beam chair to the very end of any popular/default list
+    const beamIdx = filtered.findIndex(p => p.id === 'beam');
+    if (beamIdx !== -1) {
+      const [beamProduct] = filtered.splice(beamIdx, 1);
+      filtered.push(beamProduct);
+    }
   }
 
   const totalFiltered = filtered.length;
@@ -155,7 +209,13 @@ function renderProducts() {
   if (searchVal) url.searchParams.set('search', searchInput.value.trim()); else url.searchParams.delete('search');
   if (sortVal && sortVal !== 'popular') url.searchParams.set('sort', sortVal); else url.searchParams.delete('sort');
   try {
-    window.history.replaceState(null, '', url.toString());
+    const currentUrl = new URL(window.location.href);
+    const isPageChange = currentUrl.searchParams.get('page') !== String(currentPage);
+    if (isPageChange) {
+      window.history.pushState({ page: currentPage }, '', url.toString());
+    } else {
+      window.history.replaceState({ page: currentPage }, '', url.toString());
+    }
   } catch (e) {
     console.warn("Failed to update history state:", e);
   }
