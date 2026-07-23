@@ -1,5 +1,0 @@
-PRODUCT: Cot Captain
-PRODUCT WEBSITE: https://rubcobangalore.com/furniture/cot-captain
-PRICE: ₹29,755.00
-IMAGE FILES: cot_captain/cot_captain.jpg, cot_captain/cot_captain_1.jpg, cot_captain/cot_captain_2.jpg
-DESCRIPTION: Rubco Furniture are made from rubber wood — A pure solid wood It is eco-friendly solid wood, not a wood substitute It is nearly as strong and durable as teak It offers unmatched dimensional stability

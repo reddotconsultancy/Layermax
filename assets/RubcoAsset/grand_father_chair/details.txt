@@ -1,5 +1,0 @@
-PRODUCT: Grand Father Chair
-PRODUCT WEBSITE: https://rubcobangalore.com/furniture/grand-father-chair
-PRICE: ₹9,056.00
-IMAGE FILES: grand_father_chair/grand_father_chair.jpg, grand_father_chair/grand_father_chair_1.jpg, grand_father_chair/grand_father_chair_2.jpg, grand_father_chair/grand_father_chair_3.jpg
-DESCRIPTION: Rubco Furniture are made from rubber wood — A pure solid wood It is eco-friendly solid wood, not a wood substitute It is nearly as strong and durable as teak It offers unmatched dimensional stability

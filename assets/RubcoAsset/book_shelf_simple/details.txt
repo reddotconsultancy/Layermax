@@ -1,5 +1,0 @@
-PRODUCT: Book Shelf (Simple)
-PRODUCT WEBSITE: https://rubcobangalore.com/furniture/book-shelf-simple
-PRICE: ₹22,212.00
-IMAGE FILES: book_shelf_simple/book_shelf_simple.jpg, book_shelf_simple/book_shelf_simple_1.jpg
-DESCRIPTION: Rubco Furniture are made from rubber wood — A pure solid wood It is eco-friendly solid wood, not a wood substitute It is nearly as strong and durable as teak It offers unmatched dimensional stability

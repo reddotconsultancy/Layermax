@@ -1,5 +1,0 @@
-PRODUCT: Pooja Stand
-PRODUCT WEBSITE: https://rubcobangalore.com/furniture/pooja-stand
-PRICE: ₹32,775.00
-IMAGE FILES: pooja_stand/pooja_stand.jpg, pooja_stand/pooja_stand_1.jpg, pooja_stand/pooja_stand_2.jpg, pooja_stand/pooja_stand_3.jpg, pooja_stand/pooja_stand_4.jpg
-DESCRIPTION: Rubco Furniture are made from rubber wood — A pure solid wood It is eco-friendly solid wood, not a wood substitute It is nearly as strong and durable as teak It offers unmatched dimensional stability
