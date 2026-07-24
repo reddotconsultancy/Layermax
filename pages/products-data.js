@@ -849,14 +849,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-black-leather-3seat-power-recliner",
-    "name": "Black Leather 3Seat Power Recliner",
+    "name": "Black Leather 3 Seat Power Recliner",
     "category": "recliners",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Black Leather 3Seat Power Recliner combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Black Leather 3 Seat Power Recliner combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/recliners/cat-black-leather-3seat-power-recliner/black_leather_3seat_power_recliner.png",
     "images": [
       "assets/products/recliners/cat-black-leather-3seat-power-recliner/black_leather_3seat_power_recliner.png"
@@ -865,14 +865,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-black-leather-3seat-theater-row",
-    "name": "Black Leather 3Seat Theater Row",
+    "name": "Black Leather 3 Seat Theater Row",
     "category": "home-theatre-seating",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Black Leather 3Seat Theater Row combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Black Leather 3 Seat Theater Row combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/home-theatre-seating/cat-black-leather-3seat-theater-row/black_leather_3seat_theater_row.png",
     "images": [
       "assets/products/home-theatre-seating/cat-black-leather-3seat-theater-row/black_leather_3seat_theater_row.png"
@@ -881,14 +881,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-black-leather-4seat-theater-recliner-row",
-    "name": "Black Leather 4Seat Theater Recliner Row",
+    "name": "Black Leather 4 Seat Theater Recliner Row",
     "category": "home-theatre-seating",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Black Leather 4Seat Theater Recliner Row combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Black Leather 4 Seat Theater Recliner Row combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/home-theatre-seating/cat-black-leather-4seat-theater-recliner-row/black_leather_4seat_theater_recliner_row.png",
     "images": [
       "assets/products/home-theatre-seating/cat-black-leather-4seat-theater-recliner-row/black_leather_4seat_theater_recliner_row.png"
@@ -7166,14 +7166,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-cherry-wood-6seater-dining-set",
-    "name": "Cherry Wood 6Seater Dining Set",
+    "name": "Cherry Wood Dining Set",
     "category": "dining-tables",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cherry Wood 6Seater Dining Set combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Cherry Wood Dining Set combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/dining-tables/cat-cherry-wood-6seater-dining-set/cherry_wood_6seater_dining_set.png",
     "images": [
       "assets/products/dining-tables/cat-cherry-wood-6seater-dining-set/cherry_wood_6seater_dining_set.png"
@@ -7182,14 +7182,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-honey-oak-8seater-dining-suite",
-    "name": "Honey Oak 8Seater Dining Suite",
+    "name": "Honey Oak Dining Suite",
     "category": "dining-tables",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Honey Oak 8Seater Dining Suite combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Honey Oak Dining Suite combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/dining-tables/cat-honey-oak-8seater-dining-suite/honey_oak_8seater_dining_suite.png",
     "images": [
       "assets/products/dining-tables/cat-honey-oak-8seater-dining-suite/honey_oak_8seater_dining_suite.png"
@@ -7198,14 +7198,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-mahogany-crossback-4seater-dining-set",
-    "name": "Mahogany Crossback 4Seater Dining Set",
+    "name": "Mahogany Crossback 4 Seater Dining Set",
     "category": "dining-tables",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Mahogany Crossback 4Seater Dining Set combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Mahogany Crossback 4 Seater Dining Set combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/dining-tables/cat-mahogany-crossback-4seater-dining-set/mahogany_crossback_4seater_dining_set.png",
     "images": [
       "assets/products/dining-tables/cat-mahogany-crossback-4seater-dining-set/mahogany_crossback_4seater_dining_set.png"
@@ -8920,14 +8920,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-charcoal-leather-3seat-theater-recliner",
-    "name": "Charcoal Leather 3Seat Theater Recliner",
+    "name": "Charcoal Leather 3 Seat Theater Recliner",
     "category": "home-theatre-seating",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Charcoal Leather 3Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Charcoal Leather 3 Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/home-theatre-seating/cat-charcoal-leather-3seat-theater-recliner/charcoal_leather_3seat_theater_recliner.png",
     "images": [
       "assets/products/home-theatre-seating/cat-charcoal-leather-3seat-theater-recliner/charcoal_leather_3seat_theater_recliner.png"
@@ -8935,31 +8935,15 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-dark-gray-3seat-theater-recliner",
-    "name": "Dark Gray 3Seat Theater Recliner",
-    "category": "home-theatre-seating",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Dark Gray 3Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-dark-gray-3seat-theater-recliner/dark_gray_3seat_theater_recliner.png",
-    "images": [
-      "assets/products/home-theatre-seating/cat-dark-gray-3seat-theater-recliner/dark_gray_3seat_theater_recliner.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-espresso-leather-3seat-theater-recliner",
-    "name": "Espresso Leather 3Seat Theater Recliner",
+    "name": "Espresso Leather 3 Seat Theater Recliner",
     "category": "home-theatre-seating",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Espresso Leather 3Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Espresso Leather 3 Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/home-theatre-seating/cat-espresso-leather-3seat-theater-recliner/espresso_leather_3seat_theater_recliner.png",
     "images": [
       "assets/products/home-theatre-seating/cat-espresso-leather-3seat-theater-recliner/espresso_leather_3seat_theater_recliner.png"
@@ -8968,14 +8952,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-light-gray-3person-theater-recliner",
-    "name": "Light Gray 3Person Theater Recliner",
+    "name": "Light Gray 3 Person Theater Recliner",
     "category": "home-theatre-seating",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Light Gray 3Person Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Light Gray 3 Person Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/home-theatre-seating/cat-light-gray-3person-theater-recliner/light_gray_3person_theater_recliner.png",
     "images": [
       "assets/products/home-theatre-seating/cat-light-gray-3person-theater-recliner/light_gray_3person_theater_recliner.png"
@@ -11925,14 +11909,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-dark-brown-2drawer-study-desk-comboset",
-    "name": "Dark Brown 2Drawer Study Desk Comboset",
+    "name": "Dark Brown Study Desk Comboset",
     "category": "office-workstations",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dark Brown 2Drawer Study Desk Comboset combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dark Brown Study Desk Comboset combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/office-workstations/cat-dark-brown-2drawer-study-desk-comboset/dark_brown_2drawer_study_desk_comboset.png",
     "images": [
       "assets/products/office-workstations/cat-dark-brown-2drawer-study-desk-comboset/dark_brown_2drawer_study_desk_comboset.png"
@@ -12258,14 +12242,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-mahogany-3drawer-office-desk",
-    "name": "Mahogany 3Drawer Office Desk",
+    "name": "Mahogany Office Desk",
     "category": "office-workstations",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Mahogany 3Drawer Office Desk combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Mahogany Office Desk combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.png",
     "images": [
       "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.png"
@@ -12653,14 +12637,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-slate-birch-2drawer-writing-desk",
-    "name": "Slate Birch 2Drawer Writing Desk",
+    "name": "Slate Birch Writing Desk",
     "category": "office-workstations",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Slate Birch 2Drawer Writing Desk combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Slate Birch Writing Desk combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/office-workstations/cat-slate-birch-2drawer-writing-desk/slate_birch_2drawer_writing_desk.png",
     "images": [
       "assets/products/office-workstations/cat-slate-birch-2drawer-writing-desk/slate_birch_2drawer_writing_desk.png"
@@ -12918,14 +12902,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-walnut-and-charcoal-2drawer-desk",
-    "name": "Walnut And Charcoal 2Drawer Desk",
+    "name": "Walnut And Charcoal Desk",
     "category": "office-workstations",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Walnut And Charcoal 2Drawer Desk combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Walnut And Charcoal Desk combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/office-workstations/cat-walnut-and-charcoal-2drawer-desk/walnut_and_charcoal_2drawer_desk.png",
     "images": [
       "assets/products/office-workstations/cat-walnut-and-charcoal-2drawer-desk/walnut_and_charcoal_2drawer_desk.png"
@@ -13611,14 +13595,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-espresso-and-oak-mobile-3drawer-pedestal",
-    "name": "Espresso And Oak Mobile 3Drawer Pedestal",
+    "name": "Espresso And Oak Mobile Pedestal",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Espresso And Oak Mobile 3Drawer Pedestal combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Espresso And Oak Mobile Pedestal combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-espresso-and-oak-mobile-3drawer-pedestal/espresso_and_oak_mobile_3drawer_pedestal.png",
     "images": [
       "assets/products/wardrobes-storage/cat-espresso-and-oak-mobile-3drawer-pedestal/espresso_and_oak_mobile_3drawer_pedestal.png"
@@ -13643,14 +13627,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-slate-gray-3drawer-file-pedestal",
-    "name": "Slate Gray 3Drawer File Pedestal",
+    "name": "Slate Gray File Pedestal",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Slate Gray 3Drawer File Pedestal combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Slate Gray File Pedestal combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-slate-gray-3drawer-file-pedestal/slate_gray_3drawer_file_pedestal.png",
     "images": [
       "assets/products/wardrobes-storage/cat-slate-gray-3drawer-file-pedestal/slate_gray_3drawer_file_pedestal.png"
@@ -15239,14 +15223,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-mustard-yellow-3seater-recliner-sofa",
-    "name": "Mustard Yellow 3Seater Recliner Sofa",
+    "name": "Mustard Yellow 3 Seater Recliner Sofa",
     "category": "recliners",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Mustard Yellow 3Seater Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Mustard Yellow 3 Seater Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/recliners/cat-mustard-yellow-3seater-recliner-sofa/mustard_yellow_3seater_recliner_sofa.png",
     "images": [
       "assets/products/recliners/cat-mustard-yellow-3seater-recliner-sofa/mustard_yellow_3seater_recliner_sofa.png"
@@ -15463,14 +15447,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-tan-leather-3piece-recliner-suite",
-    "name": "Tan Leather 3Piece Recliner Suite",
+    "name": "Tan Leather Recliner Suite",
     "category": "recliners",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Tan Leather 3Piece Recliner Suite combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Tan Leather Recliner Suite combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/recliners/cat-tan-leather-3piece-recliner-suite/tan_leather_3piece_recliner_suite.png",
     "images": [
       "assets/products/recliners/cat-tan-leather-3piece-recliner-suite/tan_leather_3piece_recliner_suite.png"
@@ -15649,10 +15633,7 @@ const PRODUCTS = [
     "description": "",
     "img": "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png",
-      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_02.png",
-      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_03.png",
-      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_04.png"
+      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png"
     ],
     "colors": []
   },
@@ -15668,12 +15649,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Gamma combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png",
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_02.png",
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_03.png",
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_04.png",
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_05.png",
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_06.png"
+      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png"
     ],
     "colors": []
   },
@@ -15689,12 +15665,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Delta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png",
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_02.png",
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_03.png",
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_04.png",
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_05.png",
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_06.png"
+      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png"
     ],
     "colors": []
   },
@@ -15710,12 +15681,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Epsilon combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png",
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_02.png",
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_03.png",
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_04.png",
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_05.png",
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_06.png"
+      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png"
     ],
     "colors": []
   },
@@ -15731,12 +15697,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Zeta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png",
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_02.png",
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_03.png",
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_04.png",
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_05.png",
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_06.png"
+      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png"
     ],
     "colors": []
   },
@@ -15752,12 +15713,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Eta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png",
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_02.png",
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_03.png",
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_04.png",
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_05.png",
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_06.png"
+      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png"
     ],
     "colors": []
   },
@@ -15773,11 +15729,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Theta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png",
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_02.png",
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_04.png",
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_05.png",
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_06.png"
+      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png"
     ],
     "colors": []
   },
@@ -15793,13 +15745,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Iota combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png",
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_02.png",
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_03.png",
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_04.png",
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_05.png",
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_06.png",
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_07.png"
+      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png"
     ],
     "colors": []
   },
@@ -15815,12 +15761,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Kappa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_02.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_03.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_04.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_05.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_06.png"
+      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png"
     ],
     "colors": []
   },
@@ -15836,12 +15777,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Lambda combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_02.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_03.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_04.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_05.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_06.png"
+      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png"
     ],
     "colors": []
   },
@@ -15857,11 +15793,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Mu combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png",
-      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_02.png",
-      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_03.png",
-      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_04.png",
-      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_05.png"
+      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png"
     ],
     "colors": []
   },
@@ -15877,8 +15809,7 @@ const PRODUCTS = [
     "description": "The Angled Wood Frame Daybed Couch combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.jpg",
     "images": [
-      "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.jpg",
-      "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 2.jpg"
+      "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.jpg"
     ],
     "colors": []
   },
@@ -15894,9 +15825,7 @@ const PRODUCTS = [
     "description": "The Bedroom Suite Beta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.png",
     "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Side View.png"
+      "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.png"
     ],
     "colors": []
   },
@@ -16072,8 +16001,7 @@ const PRODUCTS = [
     "description": "The Elthira Leather Upholstered Bed Frame combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.png",
     "images": [
-      "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Front View.png"
+      "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.png"
     ],
     "colors": []
   },
@@ -16105,9 +16033,7 @@ const PRODUCTS = [
     "description": "The Eternia Modern Ash Bedroom Set combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.png",
     "images": [
-      "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Front View.png",
-      "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Side View.png"
+      "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.png"
     ],
     "colors": []
   },
@@ -16123,10 +16049,7 @@ const PRODUCTS = [
     "description": "The Hospitality Bedroom Study Suite combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.png",
     "images": [
-      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Front View.png",
-      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Side View.png"
+      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.png"
     ],
     "colors": []
   },
@@ -16590,8 +16513,7 @@ const PRODUCTS = [
     "description": "The Nestor Oak Wood Single Bed With Upholstered Headboard combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-nestor-oak-wood-single-bed-with-upholstered-headboard/Nestor Single Bed - Front Perspective.png",
     "images": [
-      "assets/products/sleeping-beds/cat-nestor-oak-wood-single-bed-with-upholstered-headboard/Nestor Single Bed - Front Perspective.png",
-      "assets/products/sleeping-beds/cat-nestor-oak-wood-single-bed-with-upholstered-headboard/Nestor Single Bed - Side Perspective.png"
+      "assets/products/sleeping-beds/cat-nestor-oak-wood-single-bed-with-upholstered-headboard/Nestor Single Bed - Front Perspective.png"
     ],
     "colors": []
   },
@@ -16735,8 +16657,7 @@ const PRODUCTS = [
     "description": "The Spindle Wood Frame Daybed combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.jpg",
     "images": [
-      "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.jpg",
-      "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Side.jpg"
+      "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.jpg"
     ],
     "colors": []
   },
@@ -16768,9 +16689,7 @@ const PRODUCTS = [
     "description": "The Walnut Single Bed Frame Alpha combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.jpg",
     "images": [
-      "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.jpg",
-      "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Perspective.jpg",
-      "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Side.jpg"
+      "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.jpg"
     ],
     "colors": []
   },
@@ -16818,12 +16737,7 @@ const PRODUCTS = [
     "description": "The Eternia Bedroom Set blends modern elegance with everyday functionality. Its cushioned headboard, graceful contours, and soothing Modern Ash tones bring a sense of warmth and sophistication, making it a perfect fit for stylish and serene living spaces.",
     "img": "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.png",
     "images": [
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.png",
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_02.png",
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_04.png",
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_05.png",
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_06.png",
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_07.png"
+      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.png"
     ],
     "colors": [
       "Modern Ash"
@@ -16841,13 +16755,7 @@ const PRODUCTS = [
     "description": "1. King Bed with Cusion",
     "img": "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.png",
     "images": [
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.png",
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_02.png",
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_03.png",
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_04.png",
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_05.png",
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_06.png",
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_07.png"
+      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.png"
     ],
     "colors": []
   },
@@ -16899,8 +16807,7 @@ const PRODUCTS = [
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-065 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-068/LMW-068.png",
-      "assets/products/sleeping-beds/lmw-068/LMW-068_2.png"
+      "assets/products/sleeping-beds/lmw-068/LMW-068.png"
     ],
     "colors": [
       "Red"
@@ -16954,8 +16861,7 @@ const PRODUCTS = [
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-068 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-071/LMW-071.png",
-      "assets/products/sleeping-beds/lmw-071/LMW-071_2.png"
+      "assets/products/sleeping-beds/lmw-071/LMW-071.png"
     ],
     "colors": [
       "Brown"
@@ -16973,8 +16879,7 @@ const PRODUCTS = [
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-069 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-072/LMW-072.png",
-      "assets/products/sleeping-beds/lmw-072/LMW-072_2.png"
+      "assets/products/sleeping-beds/lmw-072/LMW-072.png"
     ],
     "colors": [
       "Red"
@@ -16992,8 +16897,7 @@ const PRODUCTS = [
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-070 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-073/LMW-073.png",
-      "assets/products/sleeping-beds/lmw-073/LMW-073_2.png"
+      "assets/products/sleeping-beds/lmw-073/LMW-073.png"
     ],
     "colors": [
       "Grey",
@@ -17048,9 +16952,7 @@ const PRODUCTS = [
     "description": "Hostel furniture with integrated study tables is designed to maximize utility in compact living spaces. Engineered for durability and comfort, it supports students' academic needs while offering organized storage and efficient layout-perfect for focused study and everyday use. Smart Living for Smarter Learning",
     "img": "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png",
     "images": [
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png",
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_03.png",
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_05.png"
+      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png"
     ],
     "colors": []
   },
@@ -17066,9 +16968,7 @@ const PRODUCTS = [
     "description": "Natural Wenge and Rigato Walnut",
     "img": "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.png",
     "images": [
-      "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.png",
-      "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_02.png",
-      "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_03.png"
+      "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.png"
     ],
     "colors": []
   },
@@ -17084,9 +16984,7 @@ const PRODUCTS = [
     "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.jpg",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.jpg",
-      "assets/products/sleeping-beds/rubco-cot-captain/cot_captain_1.jpg",
-      "assets/products/sleeping-beds/rubco-cot-captain/cot_captain_2.jpg"
+      "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-captain",
     "colors": [
@@ -17106,8 +17004,7 @@ const PRODUCTS = [
     "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.jpg",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.jpg",
-      "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial_1.jpg"
+      "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-colonial",
     "colors": [
@@ -17127,10 +17024,7 @@ const PRODUCTS = [
     "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.jpg",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.jpg",
-      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll_1.jpg",
-      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll_2.jpg",
-      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll_3.jpg"
+      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-correll",
     "colors": [
@@ -17150,8 +17044,7 @@ const PRODUCTS = [
     "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.jpg",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.jpg",
-      "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald_1.jpg"
+      "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-emrald",
     "colors": [
@@ -17171,9 +17064,7 @@ const PRODUCTS = [
     "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.jpg",
     "images": [
-      "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.jpg",
-      "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot_1.jpg",
-      "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot_2.jpg"
+      "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/diamond-cot",
     "colors": [
@@ -17193,10 +17084,7 @@ const PRODUCTS = [
     "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.jpg",
     "images": [
-      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.jpg",
-      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side_1.jpg",
-      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side_2.jpg",
-      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side_3.jpg"
+      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/diwan-cot-one-side",
     "colors": [
@@ -17216,13 +17104,7 @@ const PRODUCTS = [
     "description": "",
     "img": "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png",
     "images": [
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png",
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_02.png",
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_03.png",
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_04.png",
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_05.png",
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_06.png",
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_07.png"
+      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png"
     ],
     "colors": []
   },
@@ -17238,13 +17120,7 @@ const PRODUCTS = [
     "description": "",
     "img": "assets/products/sleeping-beds/woodland/Woodland_01.png",
     "images": [
-      "assets/products/sleeping-beds/woodland/Woodland_01.png",
-      "assets/products/sleeping-beds/woodland/Woodland_02.png",
-      "assets/products/sleeping-beds/woodland/Woodland_03.png",
-      "assets/products/sleeping-beds/woodland/Woodland_04.png",
-      "assets/products/sleeping-beds/woodland/Woodland_05.png",
-      "assets/products/sleeping-beds/woodland/Woodland_06.png",
-      "assets/products/sleeping-beds/woodland/Woodland_07.png"
+      "assets/products/sleeping-beds/woodland/Woodland_01.png"
     ],
     "colors": []
   },
@@ -17442,14 +17318,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-beige-modern-3piece-living-suite",
-    "name": "Beige Modern 3Piece Living Suite",
+    "name": "Beige Modern Living Suite",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Beige Modern 3Piece Living Suite combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Beige Modern Living Suite combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-beige-modern-3piece-living-suite/beige_modern_3piece_living_suite.png",
     "images": [
       "assets/products/sofas/cat-beige-modern-3piece-living-suite/beige_modern_3piece_living_suite.png"
@@ -17682,14 +17558,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-copper-velvet-piped-3seater-sofa",
-    "name": "Copper Velvet Piped 3Seater Sofa",
+    "name": "Copper Velvet Piped 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Copper Velvet Piped 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Copper Velvet Piped 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-copper-velvet-piped-3seater-sofa/copper_velvet_piped_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-copper-velvet-piped-3seater-sofa/copper_velvet_piped_3seater_sofa.png"
@@ -17746,14 +17622,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-cream-boucle-plush-3seater-sofa",
-    "name": "Cream Boucle Plush 3Seater Sofa",
+    "name": "Cream Boucle Plush 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cream Boucle Plush 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Cream Boucle Plush 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-cream-boucle-plush-3seater-sofa/cream_boucle_plush_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-cream-boucle-plush-3seater-sofa/cream_boucle_plush_3seater_sofa.png"
@@ -17762,14 +17638,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-cream-buttontufted-3seater-sofa",
-    "name": "Cream Buttontufted 3Seater Sofa",
+    "name": "Cream Buttontufted 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cream Buttontufted 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Cream Buttontufted 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-cream-buttontufted-3seater-sofa/cream_buttontufted_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-cream-buttontufted-3seater-sofa/cream_buttontufted_3seater_sofa.png"
@@ -17874,14 +17750,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-cream-textured-3seater-sofa",
-    "name": "Cream Textured 3Seater Sofa",
+    "name": "Cream Textured 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cream Textured 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Cream Textured 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-cream-textured-3seater-sofa/cream_textured_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-cream-textured-3seater-sofa/cream_textured_3seater_sofa.png"
@@ -18331,14 +18207,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-japandi-teak-frame-3seater-sofa",
-    "name": "Japandi Teak Frame 3Seater Sofa",
+    "name": "Japandi Teak Frame 3 Seater Sofa",
     "category": "wooden-couches",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Japandi Teak Frame 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Japandi Teak Frame 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wooden-couches/cat-japandi-teak-frame-3seater-sofa/japandi_teak_frame_3seater_sofa.png",
     "images": [
       "assets/products/wooden-couches/cat-japandi-teak-frame-3seater-sofa/japandi_teak_frame_3seater_sofa.png"
@@ -18379,14 +18255,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-light-gray-modern-3seater-sofa",
-    "name": "Light Gray Modern 3Seater Sofa",
+    "name": "Light Gray Modern 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Light Gray Modern 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Light Gray Modern 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-light-gray-modern-3seater-sofa/light_gray_modern_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-light-gray-modern-3seater-sofa/light_gray_modern_3seater_sofa.png"
@@ -18523,14 +18399,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-midgray-woven-fabric-3seater-sofa",
-    "name": "Midgray Woven Fabric 3Seater Sofa",
+    "name": "Midgray Woven Fabric 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Midgray Woven Fabric 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Midgray Woven Fabric 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-midgray-woven-fabric-3seater-sofa/midgray_woven_fabric_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-midgray-woven-fabric-3seater-sofa/midgray_woven_fabric_3seater_sofa.png"
@@ -18635,14 +18511,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-oatmeal-linen-3seater-sofa",
-    "name": "Oatmeal Linen 3Seater Sofa",
+    "name": "Oatmeal Linen 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Oatmeal Linen 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Oatmeal Linen 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-oatmeal-linen-3seater-sofa/oatmeal_linen_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-oatmeal-linen-3seater-sofa/oatmeal_linen_3seater_sofa.png"
@@ -18683,14 +18559,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-offwhite-plush-3seater-sofa",
-    "name": "Offwhite Plush 3Seater Sofa",
+    "name": "Offwhite Plush 3 Seater Sofa",
     "category": "sofas",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Offwhite Plush 3Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Offwhite Plush 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sofas/cat-offwhite-plush-3seater-sofa/offwhite_plush_3seater_sofa.png",
     "images": [
       "assets/products/sofas/cat-offwhite-plush-3seater-sofa/offwhite_plush_3seater_sofa.png"
@@ -19099,14 +18975,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-mahogany-3drawer-locking-pedestal",
-    "name": "Mahogany 3Drawer Locking Pedestal",
+    "name": "Mahogany Locking Pedestal",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Mahogany 3Drawer Locking Pedestal combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Mahogany Locking Pedestal combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-mahogany-3drawer-locking-pedestal/mahogany_3drawer_locking_pedestal.png",
     "images": [
       "assets/products/wardrobes-storage/cat-mahogany-3drawer-locking-pedestal/mahogany_3drawer_locking_pedestal.png"
@@ -19115,14 +18991,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-taupe-3drawer-locking-pedestal",
-    "name": "Taupe 3Drawer Locking Pedestal",
+    "name": "Taupe Locking Pedestal",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Taupe 3Drawer Locking Pedestal combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Taupe Locking Pedestal combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-taupe-3drawer-locking-pedestal/taupe_3drawer_locking_pedestal.png",
     "images": [
       "assets/products/wardrobes-storage/cat-taupe-3drawer-locking-pedestal/taupe_3drawer_locking_pedestal.png"
@@ -19147,14 +19023,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-beech-wood-3drawer-pedestal-cabinet",
-    "name": "Beech Wood 3Drawer Pedestal Cabinet",
+    "name": "Beech Wood Pedestal Cabinet",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Beech Wood 3Drawer Pedestal Cabinet combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Beech Wood Pedestal Cabinet combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-beech-wood-3drawer-pedestal-cabinet/beech_wood_3drawer_pedestal_cabinet.png",
     "images": [
       "assets/products/wardrobes-storage/cat-beech-wood-3drawer-pedestal-cabinet/beech_wood_3drawer_pedestal_cabinet.png"
@@ -19323,14 +19199,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-dark-walnut-mobile-3drawer-file-cabinet",
-    "name": "Dark Walnut Mobile 3Drawer File Cabinet",
+    "name": "Dark Walnut Mobile File Cabinet",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dark Walnut Mobile 3Drawer File Cabinet combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dark Walnut Mobile File Cabinet combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-dark-walnut-mobile-3drawer-file-cabinet/dark_walnut_mobile_3drawer_file_cabinet.png",
     "images": [
       "assets/products/wardrobes-storage/cat-dark-walnut-mobile-3drawer-file-cabinet/dark_walnut_mobile_3drawer_file_cabinet.png"
@@ -19442,14 +19318,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-nordic-oak-3drawer-nightstand",
-    "name": "Nordic Oak 3Drawer Nightstand",
+    "name": "Nordic Oak Nightstand",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Nordic Oak 3Drawer Nightstand combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Nordic Oak Nightstand combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-nordic-oak-3drawer-nightstand/nordic_oak_3drawer_nightstand.png",
     "images": [
       "assets/products/wardrobes-storage/cat-nordic-oak-3drawer-nightstand/nordic_oak_3drawer_nightstand.png"
@@ -19458,14 +19334,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-oak-3drawer-locking-nightstand",
-    "name": "Oak 3Drawer Locking Nightstand",
+    "name": "Oak Locking Nightstand",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Oak 3Drawer Locking Nightstand combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Oak Locking Nightstand combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-oak-3drawer-locking-nightstand/oak_3drawer_locking_nightstand.png",
     "images": [
       "assets/products/wardrobes-storage/cat-oak-3drawer-locking-nightstand/oak_3drawer_locking_nightstand.png"
@@ -19506,14 +19382,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-offwhite-4door-modern-wardrobe",
-    "name": "Offwhite 4Door Modern Wardrobe",
+    "name": "Offwhite Modern Wardrobe",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Offwhite 4Door Modern Wardrobe combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Offwhite Modern Wardrobe combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-offwhite-4door-modern-wardrobe/offwhite_4door_modern_wardrobe.png",
     "images": [
       "assets/products/wardrobes-storage/cat-offwhite-4door-modern-wardrobe/offwhite_4door_modern_wardrobe.png"
@@ -19522,14 +19398,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-offwhite-scandi-3door-wardrobe",
-    "name": "Offwhite Scandi 3Door Wardrobe",
+    "name": "Offwhite Scandi Wardrobe",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Offwhite Scandi 3Door Wardrobe combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Offwhite Scandi Wardrobe combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.png",
     "images": [
       "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.png"
@@ -19586,14 +19462,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-taupe-locking-2drawer-file-cabinet",
-    "name": "Taupe Locking 2Drawer File Cabinet",
+    "name": "Taupe Locking File Cabinet",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Taupe Locking 2Drawer File Cabinet combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Taupe Locking File Cabinet combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-taupe-locking-2drawer-file-cabinet/taupe_locking_2drawer_file_cabinet.png",
     "images": [
       "assets/products/wardrobes-storage/cat-taupe-locking-2drawer-file-cabinet/taupe_locking_2drawer_file_cabinet.png"
@@ -19602,14 +19478,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-walnut-2door-tall-wardrobe",
-    "name": "Walnut 2Door Tall Wardrobe",
+    "name": "Walnut Tall Wardrobe",
     "category": "wardrobes-storage",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Walnut 2Door Tall Wardrobe combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Walnut Tall Wardrobe combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/wardrobes-storage/cat-walnut-2door-tall-wardrobe/walnut_2door_tall_wardrobe.png",
     "images": [
       "assets/products/wardrobes-storage/cat-walnut-2door-tall-wardrobe/walnut_2door_tall_wardrobe.png"
@@ -20258,8 +20134,7 @@ const PRODUCTS = [
     "description": "The Minimalist Wood Slatted Bed combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.jpg",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.jpg",
-      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Front View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.jpg"
     ],
     "colors": []
   },
