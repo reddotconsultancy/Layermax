@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initStickyHeader();
   initMobileMenu();
   initMobileFooterAccordion();
+  initActiveNavLink();
 
   // Homepage-only components
   const isHomepage = !!document.getElementById('hero-slider');
@@ -54,12 +55,71 @@ function scrollToSection(id) {
   window.scrollTo({ top: elementPosition - offset, behavior: 'smooth' });
 }
 
-// 3. STICKY HEADER
+// 3. STICKY HEADER & ACTIVE NAV LINK
 function initStickyHeader() {
   const header = document.getElementById('main-header');
   if (!header) return;
   window.addEventListener('scroll', () => {
     header.classList.toggle('scrolled', window.scrollY > 50);
+  });
+}
+
+function initActiveNavLink() {
+  const currentPath = window.location.pathname;
+  const searchParams = new URLSearchParams(window.location.search);
+  const currentGroup = searchParams.get('group');
+  const currentCategory = searchParams.get('category');
+  const productId = searchParams.get('id');
+
+  const GROUPS = {
+    sofas: ['sofas', 'wooden-couches', 'corner-sofas'],
+    chairs: ['office-chairs', 'dining-chairs', 'chairs'],
+    recliners: ['recliners', 'home-theatre-seating'],
+    beds: ['sleeping-beds', 'mattresses'],
+    tables: ['center-tables', 'dining-tables'],
+    office: ['office-workstations', 'acoustic-pods'],
+    storage: ['wardrobes-storage'],
+    cafe: ['cafe-chairs', 'cafe-tables', 'cafe-bar-stools', 'cafe-banquet-equipment']
+  };
+
+  let activeGroup = currentGroup;
+
+  if (!activeGroup && currentCategory) {
+    for (const [grp, cats] of Object.entries(GROUPS)) {
+      if (cats.includes(currentCategory)) {
+        activeGroup = grp;
+        break;
+      }
+    }
+  }
+
+  if (!activeGroup && productId && typeof PRODUCTS !== 'undefined') {
+    const p = PRODUCTS.find(prod => prod.id === productId);
+    if (p && p.category) {
+      for (const [grp, cats] of Object.entries(GROUPS)) {
+        if (cats.includes(p.category)) {
+          activeGroup = grp;
+          break;
+        }
+      }
+    }
+  }
+
+  const navLinks = document.querySelectorAll('.nav-links a, .nav-contact-btn');
+  navLinks.forEach(link => {
+    link.classList.remove('active');
+    const href = link.getAttribute('href');
+    if (!href) return;
+
+    if (activeGroup && href.includes(`group=${activeGroup}`)) {
+      link.classList.add('active');
+    } else if (!activeGroup && (currentPath.endsWith('/') || currentPath.endsWith('index.html')) && (href.endsWith('index.html') || href === '../index.html' || href === 'index.html')) {
+      link.classList.add('active');
+    } else if (!activeGroup && currentPath.includes('contact.html') && href.includes('contact.html')) {
+      link.classList.add('active');
+    } else if (!activeGroup && href.includes(currentPath.split('/').pop())) {
+      link.classList.add('active');
+    }
   });
 }
 
