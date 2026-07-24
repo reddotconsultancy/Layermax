@@ -5,12 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Layermax | Customised Furniture Enquiry</title>
   <meta name="description" content="Customise your premium Layermax furniture with custom dimensions, material choices, and bespoke design configurations.">
+  <!-- Social / canonical -->
+  <link rel="canonical" href="https://www.layermax.com/pages/custom.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="LayerMax">
+  <meta property="og:url" content="https://www.layermax.com/pages/custom.html">
+  <meta property="og:title" content="Layermax | Customised Furniture Enquiry">
+  <meta property="og:description" content="Customise your premium Layermax furniture with custom dimensions, material choices, and bespoke design configurations.">
+  <meta property="og:image" content="https://www.layermax.com/assets/luxury_living_room_showcase.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Layermax | Customised Furniture Enquiry">
+  <meta name="twitter:description" content="Customise your premium Layermax furniture with custom dimensions, material choices, and bespoke design configurations.">
+  <meta name="twitter:image" content="https://www.layermax.com/assets/luxury_living_room_showcase.png">
+  <!-- /social -->
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <!-- CSS Stylesheets -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="index.css?v=6">
+  <link rel="stylesheet" href="index.css?v=7">
   <link rel="icon" type="image/png" href="favicon.png?v=3">
 </head>
 <body>
@@ -85,7 +98,7 @@
             <h1 class="enquiry-form-title" style="font-size: 28px; line-height: 1.2; margin-bottom: 12px;">For Customised Furniture contact here</h1>
             <p class="enquiry-form-subtitle">Modify dimensions, materials, or upholstery configurations to fit your space. Our expert artisans will handcraft a bespoke version according to your exact specifications.</p>
             
-            <form id="product-custom-form" onsubmit="submitCustomEnquiry(event)">
+            <form id="product-custom-form">
               <div class="form-group-row-split">
                 <div class="form-input-group">
                   <label class="form-label" for="custom-name">Full Name <span class="text-gold">*</span></label>
@@ -189,9 +202,9 @@
         <h4>Information</h4>
         <ul class="footer-links">
           <li><a href="about.html">About Us</a></li>
-          <li><a href="#">Showroom Locations</a></li>
-          <li><a href="#">Custom Orders</a></li>
-          <li><a href="#">Careers</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html#showroom">Showroom Locations</a></li>
+          <li><a href="custom.html">Custom Orders</a></li>
         </ul>
       </div>
 
@@ -211,8 +224,9 @@
   </footer>
 
   <!-- JavaScript files -->
-  <script src="products-data.js?v=3"></script>
-  <script src="index.js?v=6"></script>
+  <script src="products-data.js?v=9"></script>
+  <script src="index.js?v=7"></script>
+  <script src="forms.js?v=1"></script>
   <script>
     // Get product ID from query parameter
     const urlParams = new URLSearchParams(window.location.search);
@@ -227,9 +241,11 @@
       document.getElementById('enquiry-product-img').src = resolveImagePath(product.img);
       document.getElementById('enquiry-product-img').alt = product.name;
       document.getElementById('enquiry-product-title').textContent = product.name;
-      document.getElementById('enquiry-product-category').textContent = product.category.replace('-', ' ');
+      document.getElementById('enquiry-product-category').textContent = product.category.replace(/-/g, ' ');
       document.getElementById('enquiry-product-designer').textContent = product.designer;
-      document.getElementById('enquiry-product-desc').textContent = product.description;
+      const descEl = document.getElementById('enquiry-product-desc');
+      descEl.textContent = product.description || '';
+      descEl.style.display = product.description ? '' : 'none';
 
       // Update breadcrumbs link
       document.getElementById('breadcrumb-product-link').textContent = product.name;
@@ -237,7 +253,7 @@
 
       // Update dropdown option based on product designer
       const woodSelect = document.getElementById('custom-wood');
-      if (product.designer === 'Layermax Artistry') {
+      if (product.designer === 'LayerMax Artistry') {
         woodSelect.value = 'Treated Rubber Wood';
       } else {
         woodSelect.value = 'Natural Linen Fabric';
@@ -245,7 +261,7 @@
 
       // Populate text-area prefill enquiry
       const messageInput = document.getElementById('custom-message');
-      messageInput.value = `Dear Layermax Custom Consult Team,\n\nI am writing to inquire about requesting a custom configuration of the ${product.name} (${product.category.replace('-', ' ')}).\n\nI am looking to adapt this model with custom configurations and would love to review structural wood swatches and upholstery material colors.\n\nThank you.`;
+      messageInput.value = `Dear Layermax Custom Consult Team,\n\nI am writing to inquire about requesting a custom configuration of the ${product.name} (${product.category.replace(/-/g, ' ')}).\n\nI am looking to adapt this model with custom configurations and would love to review structural wood swatches and upholstery material colors.\n\nThank you.`;
     } else {
       // Handle generic showroom enquiry
       summaryCard.innerHTML = `
@@ -262,24 +278,33 @@
       document.getElementById('custom-message').value = `Dear Layermax Custom Consult Team,\n\nI am writing to submit a general inquiry regarding custom sizes and bespoke configurations. I would love to schedule a session with a design manager.\n\nThank you.`;
     }
 
-    // Submit action handler
-    function submitCustomEnquiry(event) {
-      event.preventDefault();
-      
-      const submitBtn = document.getElementById('custom-submit-btn');
-      const form = document.getElementById('product-custom-form');
-      const successContainer = document.getElementById('custom-success-container');
-      
-      // Visual feedback on button
-      submitBtn.innerHTML = '<i class="fa-solid fa-circle-notch fa-spin"></i> Logging request...';
-      submitBtn.disabled = true;
-
-      // Simulate API submission
-      setTimeout(() => {
-        form.style.display = 'none';
-        successContainer.style.display = 'block';
-      }, 1500);
+    // Length × Width × Height, only the parts the user filled in
+    function customDimensions() {
+      const parts = ['custom-length', 'custom-width', 'custom-height']
+        .map(fieldValue)
+        .filter(Boolean);
+      return parts.length ? parts.join(' × ') + ' mm' : '';
     }
+
+    initEnquiryForm({
+      formId: 'product-custom-form',
+      btnId: 'custom-submit-btn',
+      successId: 'custom-success-container',
+      pendingText: 'Logging request...',
+      idleHTML: '<i class="fa-solid fa-compass-drafting"></i> Submit Custom Request',
+      payload: () => ({
+        type: 'custom',
+        name: fieldValue('custom-name'),
+        email: fieldValue('custom-email'),
+        phone: fieldValue('custom-phone'),
+        material: fieldValue('custom-wood'),
+        dimensions: customDimensions(),
+        message: fieldValue('custom-message'),
+        productId: product ? product.id : '',
+        productName: product ? product.name : '',
+        productUrl: product ? `${location.origin}/pages/product.html?id=${product.id}` : ''
+      })
+    });
   </script>
 </body>
 </html>

@@ -5,12 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Layermax | Designer Product Details</title>
   <meta name="description" content="Explore custom design details, color variations, and premium specifications for Layermax furniture collections.">
+  <!-- Social / canonical -->
+  <link rel="canonical" href="https://www.layermax.com/pages/product.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="LayerMax">
+  <meta property="og:url" content="https://www.layermax.com/pages/product.html">
+  <meta property="og:title" content="Layermax | Designer Product Details">
+  <meta property="og:description" content="Explore custom design details, color variations, and premium specifications for Layermax furniture collections.">
+  <meta property="og:image" content="https://www.layermax.com/assets/luxury_living_room_showcase.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Layermax | Designer Product Details">
+  <meta name="twitter:description" content="Explore custom design details, color variations, and premium specifications for Layermax furniture collections.">
+  <meta name="twitter:image" content="https://www.layermax.com/assets/luxury_living_room_showcase.png">
+  <!-- /social -->
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <!-- CSS Stylesheets -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="index.css?v=6">
+  <link rel="stylesheet" href="index.css?v=7">
   <link rel="icon" type="image/png" href="favicon.png?v=3">
 </head>
 <body>
@@ -94,7 +107,7 @@
             <div class="spec-item"><span class="spec-label" style="color: #0a2c5c; font-weight: 700; margin-right: 6px;">Product Code:</span> <span class="spec-value" id="spec-code" style="color: var(--color-dark); font-weight: 500;">Product Code</span></div>
             <div class="spec-item"><span class="spec-label" style="color: #0a2c5c; font-weight: 700; margin-right: 6px;">Material:</span> <span class="spec-value" id="spec-material" style="color: var(--color-dark); font-weight: 500;">Material</span></div>
           </div>
-          <div style="margin-top: 0; font-size: 16px;">
+          <div style="margin-top: 0; font-size: 16px;" id="product-desc-label">
             <span style="color: #0a2c5c; font-weight: 700;">Description:</span>
           </div>
           <p class="product-detail-desc" id="product-desc" style="margin-top: 6px;">
@@ -166,9 +179,9 @@
         <h4>Information</h4>
         <ul class="footer-links">
           <li><a href="about.html">About Us</a></li>
-          <li><a href="#">Showroom Locations</a></li>
-          <li><a href="#">Custom Orders</a></li>
-          <li><a href="#">Careers</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html#showroom">Showroom Locations</a></li>
+          <li><a href="custom.html">Custom Orders</a></li>
         </ul>
       </div>
 
@@ -190,8 +203,8 @@
 
 
   <!-- JavaScript files -->
-  <script src="products-data.js?v=3"></script>
-  <script src="index.js?v=6"></script>
+  <script src="products-data.js?v=9"></script>
+  <script src="index.js?v=7"></script>
   <script>
     // Get product ID from query parameter
     const urlParams = new URLSearchParams(window.location.search);
@@ -216,7 +229,14 @@
         enquireBtn.innerHTML = 'Enquire Now';
       }
 
-      document.getElementById('product-desc').textContent = product.description;
+      // Hide the whole Description block when the product has no copy yet
+      const descEl = document.getElementById('product-desc');
+      descEl.textContent = product.description || '';
+      const descLabel = document.getElementById('product-desc-label');
+      if (!product.description) {
+        descEl.style.display = 'none';
+        if (descLabel) descLabel.style.display = 'none';
+      }
 
       // Thickness / customise options (shown only when present)
       const thBlock = document.getElementById('thickness-options-block');
@@ -228,12 +248,12 @@
       } else if (thBlock) {
         thBlock.style.display = 'none';
       }
-      document.getElementById('product-category').textContent = product.category.replace('-', ' ');
+      document.getElementById('product-category').textContent = product.category.replace(/-/g, ' ');
       document.getElementById('product-designer').textContent = product.designer;
 
       // Update Spec List
       document.getElementById('spec-code').textContent = product.id.toUpperCase();
-      document.getElementById('spec-material').textContent = product.designer === 'Layermax Artistry' ? 'Treated Rubber Wood' : product.material;
+      document.getElementById('spec-material').textContent = product.designer === 'LayerMax Artistry' ? 'Treated Rubber Wood' : product.material;
       const customFurnitureLink = document.getElementById('custom-furniture-link');
       if (customFurnitureLink) {
         customFurnitureLink.href = `custom.html?id=${product.id}`;
@@ -267,21 +287,8 @@
       const related = PRODUCTS.filter(p => p.category === product.category && p.id !== product.id).slice(0, 4);
       
       if (related.length > 0) {
-        related.forEach(p => {
-          const card = document.createElement('div');
-          card.className = 'product-card';
-          card.innerHTML = `
-            <div class="product-img-box">
-              <img src="${resolveImagePath(p.img)}" alt="${p.name}">
-            </div>
-            <span class="product-category">${p.designer}</span>
-            <h4 class="product-name" title="${p.name}"><a href="product.html?id=${p.id}">${p.name}</a></h4>
-            <div class="card-footer" style="justify-content: center; padding: 4px 0;">
-              <a href="product.html?id=${p.id}" class="enquire-btn-card">Enquire Now</a>
-            </div>
-          `;
-          relatedGrid.appendChild(card);
-        });
+        // Same markup as the catalog/home grids — keeps Rubco items pointing at their listing
+        relatedGrid.innerHTML = related.map(p => productCardHTML(p, '')).join('');
       } else {
         document.getElementById('related-section').style.display = 'none';
       }

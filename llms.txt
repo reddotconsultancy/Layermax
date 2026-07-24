@@ -1,0 +1,63 @@
+# LayerMax
+
+> LayerMax Furniture Industries Ltd. manufactures and supplies premium furniture for
+> homes, offices, and hospitality venues from Bengaluru, Karnataka, India. The website is
+> an enquiry-based catalog of 1,182 products across 19 categories — it lists no prices and
+> has no shopping cart. Customers browse a product, submit an enquiry, and a design
+> consultant responds with quotation, customisation options, and lead times.
+
+Product pages are query-string based: `/pages/product.html?id=<product-id>`. The catalog is
+filtered by department (`?group=`) and sub-category (`?category=`). All product data lives in
+a single JavaScript file, `pages/products-data.js`, as a `PRODUCTS` array.
+
+## Departments
+
+- [Sofas](https://www.layermax.com/pages/catalog.html?group=sofas): 187 products — sofas, wooden couches, corner sofas
+- [Chairs](https://www.layermax.com/pages/catalog.html?group=chairs): 286 products — office chairs, dining chairs, armchairs
+- [Recliners](https://www.layermax.com/pages/catalog.html?group=recliners): 95 products — recliners, home theatre seating
+- [Beds & Mattresses](https://www.layermax.com/pages/catalog.html?group=beds): 118 products — sleeping beds, mattresses
+- [Tables](https://www.layermax.com/pages/catalog.html?group=tables): 65 products — center tables, dining tables
+- [Office](https://www.layermax.com/pages/catalog.html?group=office): 159 products — modular workstations, acoustic pods
+- [Storage](https://www.layermax.com/pages/catalog.html?group=storage): 53 products — wardrobes and storage units
+- [Café & Restaurant](https://www.layermax.com/pages/catalog.html?group=cafe): 199 products — café chairs, café tables, bar stools, banquet equipment
+
+## Key pages
+
+- [Home](https://www.layermax.com/): collections, best sellers, clientele, testimonials
+- [Full catalog](https://www.layermax.com/pages/catalog.html): every department, with search, sort, and pagination
+- [About](https://www.layermax.com/pages/about.html): company background
+- [Contact](https://www.layermax.com/pages/contact.html): phone, WhatsApp, email, Bengaluru showroom address
+- [Custom furniture request](https://www.layermax.com/pages/custom.html): bespoke dimensions, materials, upholstery
+- [Product enquiry](https://www.layermax.com/pages/enquire.html): general or product-specific enquiry form
+
+## Blog
+
+Buying guides written by the design and project teams. No pricing; each article links to the
+relevant catalog department.
+
+- [Furniture insights index](https://www.layermax.com/pages/blog.html)
+- [How to Choose an Ergonomic Office Chair](https://www.layermax.com/pages/blog-how-to-choose-an-ergonomic-office-chair.html): seat height, lumbar support, armrests, tilt mechanisms
+- [Furnishing a Banquet Hall](https://www.layermax.com/pages/blog-furnishing-a-banquet-hall.html): chair-to-guest ratios, stacking and storage, trolleys, staging and queue control
+- [Solid Wood vs Engineered Wood](https://www.layermax.com/pages/blog-solid-wood-vs-engineered-wood.html): timber movement, edge banding, where each construction belongs
+- [Café Seating: Layout, Capacity and Turnover](https://www.layermax.com/pages/blog-cafe-seating-layout-and-capacity.html): space per cover, circulation clearances, seating mix
+- [Mattress Firmness: A Straight Guide](https://www.layermax.com/pages/blog-mattress-firmness-guide.html): support vs firmness, sleeping position, layer construction
+
+## Policies
+
+- [Shipping & deliveries](https://www.layermax.com/pages/shipping.html)
+- [Returns policy](https://www.layermax.com/pages/returns.html)
+- [Warranty details](https://www.layermax.com/pages/warranty.html): 12-month manufacturing warranty
+
+## Ranges
+
+Products are grouped under six in-house and partner design lines: LayerMax Signature,
+LayerMax Artistry (treated rubber wood), Bosq Ergonomics (office seating and acoustic pods),
+Buro Design (modular office furniture), Kosmo Design (home furniture), and Rubco Premium.
+Rubco Premium items link out to their own external listings rather than an enquiry form.
+
+## Contact
+
+- Phone / WhatsApp: +91 78998 02412 (Mon–Sat, 9:00–18:00 IST)
+- Email: support@layermax.com
+- Showroom: Layermax Furniture Tower, No.7, 5th Cross, Ward No.25, Kalkere Main Road,
+  Hormamvu Agara, Kanakagiri Layout, Bengaluru, Karnataka 560043, India

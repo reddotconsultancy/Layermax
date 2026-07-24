@@ -215,14 +215,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-52",
-    "name": "DBS-52 Dining Bar Stool",
+    "name": "DBS-52 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 052 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 052 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-52/DBS-52 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-52/DBS-52 - Front View.png"
@@ -231,14 +231,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-53",
-    "name": "DBS-53 Dining Bar Stool",
+    "name": "DBS-53 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 053 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 053 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-53/DBS-53 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-53/DBS-53 - Front View.png"
@@ -247,14 +247,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-54",
-    "name": "DBS-54 Dining Bar Stool",
+    "name": "DBS-54 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 055 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 055 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-54/DBS-54 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-54/DBS-54 - Front View.png"
@@ -263,14 +263,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-55",
-    "name": "DBS-55 Dining Bar Stool",
+    "name": "DBS-55 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 056 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 056 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-55/DBS-55 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-55/DBS-55 - Front View.png"
@@ -279,14 +279,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-56",
-    "name": "DBS-56 Dining Bar Stool",
+    "name": "DBS-56 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 057 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 057 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-56/DBS-56 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-56/DBS-56 - Front View.png"
@@ -295,14 +295,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-57",
-    "name": "DBS-57 Dining Bar Stool",
+    "name": "DBS-57 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 058 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 058 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-57/DBS-57 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-57/DBS-57 - Front View.png"
@@ -311,14 +311,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-58",
-    "name": "DBS-58 Dining Bar Stool",
+    "name": "DBS-58 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 059 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 059 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-58/DBS-58 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-58/DBS-58 - Front View.png"
@@ -327,14 +327,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-59",
-    "name": "DBS-59 Dining Bar Stool",
+    "name": "DBS-59 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 060 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 060 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-59/DBS-59 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-59/DBS-59 - Front View.png"
@@ -343,14 +343,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-60",
-    "name": "DBS-60 Dining Bar Stool",
+    "name": "DBS-60 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 061 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 061 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-60/DBS-60 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-60/DBS-60 - Front View.png"
@@ -359,14 +359,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-61",
-    "name": "DBS-61 Dining Bar Stool",
+    "name": "DBS-61 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 062 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 062 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-61/DBS-61 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-61/DBS-61 - Front View.png"
@@ -375,14 +375,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-62",
-    "name": "DBS-62 Dining Bar Stool",
+    "name": "DBS-62 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 063 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 063 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-62/DBS-62 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-62/DBS-62 - Front View.png"
@@ -391,14 +391,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-63",
-    "name": "DBS-63 Dining Bar Stool",
+    "name": "DBS-63 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 064 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 064 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-63/DBS-63 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-63/DBS-63 - Front View.png"
@@ -407,14 +407,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-64",
-    "name": "DBS-64 Dining Bar Stool",
+    "name": "DBS-64 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 065 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 065 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-64/DBS-64 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-64/DBS-64 - Front View.png"
@@ -423,14 +423,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-66",
-    "name": "DBS-66 Dining Bar Stool",
+    "name": "DBS-66 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 066 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 066 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-66/DBS-66 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-66/DBS-66 - Front View.png"
@@ -439,14 +439,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-67",
-    "name": "DBS-67 Dining Bar Stool",
+    "name": "DBS-67 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 068 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 068 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-67/DBS-67 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-67/DBS-67 - Front View.png"
@@ -455,14 +455,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-68",
-    "name": "DBS-68 Dining Bar Stool",
+    "name": "DBS-68 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 069 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 069 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-68/DBS-68 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-68/DBS-68 - Front View.png"
@@ -471,14 +471,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-69",
-    "name": "DBS-69 Dining Bar Stool",
+    "name": "DBS-69 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 075 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 075 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-69/DBS-69 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-69/DBS-69 - Front View.png"
@@ -487,14 +487,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-65",
-    "name": "DBS-65 Dining Bar Stool",
+    "name": "DBS-65 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 65 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 65 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-65/DBS-65 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-65/DBS-65 - Front View.png"
@@ -503,14 +503,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-70",
-    "name": "DBS-70 Dining Bar Stool",
+    "name": "DBS-70 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 652 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 652 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-70/DBS-70 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-70/DBS-70 - Front View.png"
@@ -519,14 +519,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-71",
-    "name": "DBS-71 Dining Bar Stool",
+    "name": "DBS-71 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 653 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 653 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-71/DBS-71 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-71/DBS-71 - Front View.png"
@@ -535,14 +535,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-72",
-    "name": "DBS-72 Dining Bar Stool",
+    "name": "DBS-72 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 658 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 658 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-72/DBS-72 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-72/DBS-72 - Front View.png"
@@ -551,14 +551,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-73",
-    "name": "DBS-73 Dining Bar Stool",
+    "name": "DBS-73 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 661 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 661 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-73/DBS-73 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-73/DBS-73 - Front View.png"
@@ -567,14 +567,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-74",
-    "name": "DBS-74 Dining Bar Stool",
+    "name": "DBS-74 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 665 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 665 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-74/DBS-74 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-74/DBS-74 - Front View.png"
@@ -583,14 +583,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-75",
-    "name": "DBS-75 Dining Bar Stool",
+    "name": "DBS-75 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 666 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 666 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-75/DBS-75 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-75/DBS-75 - Front View.png"
@@ -599,14 +599,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbs-76",
-    "name": "DBS-76 Dining Bar Stool",
+    "name": "DBS-76 Bar Stool",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbs Series Dining Bar Stool Model 668 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dbs Series Bar Stool Model 668 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-bar-stools/dbs-76/DBS-76 - Front View.png",
     "images": [
       "assets/products/cafe-bar-stools/dbs-76/DBS-76 - Front View.png"
@@ -769,14 +769,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-architectural-wood-dining-chair-b",
-    "name": "Architectural Wood Dining Chair B",
+    "name": "Architectural Teak Armchair with Cream Upholstery",
     "category": "chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "chair",
+    "material": "Cream Upholstery / Solid Teak Frame",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Architectural Wood Dining Chair B combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A sculptural armchair built on crossed teak legs, with a curved wrap-around back and seat upholstered in cream. The angled frame gives it a light, architectural profile from every side.",
     "img": "assets/products/chairs/cat-architectural-wood-dining-chair-b/Architectural Wood Dining Chair B.jpg",
     "images": [
       "assets/products/chairs/cat-architectural-wood-dining-chair-b/Architectural Wood Dining Chair B.jpg"
@@ -1188,19 +1188,19 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "chrome-wire-spindle-dining-chair",
-    "name": "Chrome Wire Spindle Dining Chair",
+    "id": "black-spindle-chair-with-patterned-seat",
+    "name": "Black Spindle-Back Chair with Patterned Seat",
     "category": "cafe-chairs",
     "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "material": "Printed Fabric / Matte Black Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Chrome Wire Spindle Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/chrome-wire-spindle-dining-chair/Chrome Spindle Chair - Angle Perspective.png",
+    "description": "A slim spindle-back chair in matte black steel with a rounded seat upholstered in a bold multicolour print. The tapered splayed legs and open back keep it light in busy café floors.",
+    "img": "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/chrome-wire-spindle-dining-chair/Chrome Spindle Chair - Angle Perspective.png",
-      "assets/products/cafe-chairs/chrome-wire-spindle-dining-chair/Chrome Spindle Chair - Front View.png"
+      "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.png",
+      "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.png"
     ],
     "colors": []
   },
@@ -1253,31 +1253,31 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cube-modern-modular-table",
-    "name": "Cube Modern Modular Table",
-    "category": "cafe-tables",
-    "type": "table",
-    "material": "MDF / Metal",
+    "id": "cube-perforated-stacking-armchair",
+    "name": "Cube Perforated Stacking Armchair",
+    "category": "cafe-chairs",
+    "type": "cafe",
+    "material": "Moulded Polypropylene",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cube Modern Modular Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/cube-modern-modular-table/Cube Modern Modular Table - Front View.png",
+    "description": "A one-piece moulded polypropylene armchair with a perforated seat and back for airflow and rain drainage. Stacks for storage and holds its colour outdoors — built for café terraces and courtyards.",
+    "img": "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.png",
     "images": [
-      "assets/products/cafe-tables/cube-modern-modular-table/Cube Modern Modular Table - Front View.png"
+      "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "da-70",
-    "name": "DA-70 Dining Chair",
+    "name": "DA-70 Hoop-Back Stacking Chair",
     "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "cafe",
+    "material": "Faux Leather / Silver Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Da Series Dining Chair Model 070 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A compact stacking chair with a single bent-tube hoop back and a round padded seat in black faux leather. Light to move and stacks tight for busy cafés and canteens.",
     "img": "assets/products/cafe-chairs/da-70/DA-70 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/da-70/DA-70 - Front View.png"
@@ -1286,81 +1286,81 @@ const PRODUCTS = [
   },
   {
     "id": "da-71",
-    "name": "DA-71 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DA-71 Backless Stacking Stool",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Moulded Polypropylene / Chrome Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Da Series Dining Chair Model 604 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/da-71/DA-71 - Front View.png",
+    "description": "A backless dining-height stool with a perforated black polypropylene seat on splayed chrome legs. Stacks vertically for storage in canteens and quick-service dining.",
+    "img": "assets/products/cafe-bar-stools/da-71/DA-71 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/da-71/DA-71 - Front View.png"
+      "assets/products/cafe-bar-stools/da-71/DA-71 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "da-72",
-    "name": "DA-72 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DA-72 Round Padded Low Stool",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Faux Leather / Chrome Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Da Series Dining Chair Model 605 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/da-72/DA-72 - Front View.png",
+    "description": "A dining-height stool with a deep round cushion in black faux leather over a chrome tubular frame with a full ring base for foot support.",
+    "img": "assets/products/cafe-bar-stools/da-72/DA-72 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/da-72/DA-72 - Front View.png"
+      "assets/products/cafe-bar-stools/da-72/DA-72 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "da-73",
-    "name": "DA-73 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DA-73 Perforated Low Stool — Burgundy",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Moulded Polypropylene / Chrome Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Da Series Dining Chair Model 606 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/da-73/DA-73 - Front View.png",
+    "description": "A dining-height stool with a burgundy perforated polypropylene seat on a slim chrome frame with a ring base. Wipe-clean and light enough to reposition one-handed.",
+    "img": "assets/products/cafe-bar-stools/da-73/DA-73 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/da-73/DA-73 - Front View.png"
+      "assets/products/cafe-bar-stools/da-73/DA-73 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "da-74",
-    "name": "DA-74 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DA-74 Counter-Height Stool — Blue",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Faux Leather / Chrome Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Da Series Dining Chair Model 617 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/da-74/DA-74 - Front View.png",
+    "description": "A counter-height backless stool with a shaped blue faux-leather seat on a chrome frame with a wrap-around footrest. Sized for kitchen islands and counter service.",
+    "img": "assets/products/cafe-bar-stools/da-74/DA-74 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/da-74/DA-74 - Front View.png"
+      "assets/products/cafe-bar-stools/da-74/DA-74 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "da-75",
-    "name": "DA-75 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DA-75 Bar-Height Stool — Burgundy",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Faux Leather / Chrome Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Da Series Dining Chair Model 618 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/da-75/DA-75 - Front View.png",
+    "description": "A bar-height backless stool with a square burgundy faux-leather cushion on a tapered chrome frame with a double footrest rail. Built for bar counters and high tables.",
+    "img": "assets/products/cafe-bar-stools/da-75/DA-75 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/da-75/DA-75 - Front View.png"
+      "assets/products/cafe-bar-stools/da-75/DA-75 - Front View.png"
     ],
     "colors": []
   },
@@ -1398,14 +1398,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-dark-wood-frame-dining-chair-with-grey-seat",
-    "name": "Dark Wood Frame Dining Chair With Grey Seat",
+    "name": "Charcoal Wood-Frame Armchair with Grey Seat",
     "category": "chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "chair",
+    "material": "Grey Fabric / Charcoal-Stained Ash Frame",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dark Wood Frame Dining Chair With Grey Seat combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A low-slung armchair on a charcoal-stained ash frame, with sculpted arms flowing into the back legs and a padded grey fabric seat and backrest. Comfortable enough for long meals or meetings.",
     "img": "assets/products/chairs/cat-dark-wood-frame-dining-chair-with-grey-seat/Dark Wood Frame Dining Chair with Grey Seat.jpg",
     "images": [
       "assets/products/chairs/cat-dark-wood-frame-dining-chair-with-grey-seat/Dark Wood Frame Dining Chair with Grey Seat.jpg"
@@ -1414,62 +1414,62 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-151",
-    "name": "DBC-151 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-151 Banquet Chair — Burgundy & Gold",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Burgundy Fabric / Gold Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 151 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-151/DBC-151 - Front View.png",
+    "description": "A stacking banquet chair with a crown-shaped padded back and a deep foam seat in burgundy fabric, on a gold powder-coated steel frame. Stacks for storage between functions.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-151/DBC-151 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-151/DBC-151 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-151/DBC-151 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-152",
-    "name": "DBC-152 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-152 Banquet Chair — Red Floral",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Patterned Fabric / Black Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 152 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-152/DBC-152 - Front View.png",
+    "description": "A stacking banquet chair upholstered in a red and cream floral weave over a black powder-coated frame. The patterned fabric hides marks well in high-turnover halls.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-152/DBC-152 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-152/DBC-152 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-152/DBC-152 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-153",
-    "name": "DBC-153 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-153 Banquet Chair — Lilac & Gold",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Lilac Fabric / Gold Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 156 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-153/DBC-153 - Front View.png",
+    "description": "A stacking banquet chair in soft lilac fabric with a rounded padded back, on a gold powder-coated steel frame. Suited to wedding and reception seating.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-153/DBC-153 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-153/DBC-153 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-153/DBC-153 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-154",
-    "name": "DBC-154 Dining Chair",
+    "name": "DBC-154 Banquet Chair Trolley",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Powder-Coated Steel / Red Canvas",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 162 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A wheeled trolley for moving stacks of banquet chairs. The red canvas cradle protects upholstery in transit and the long handle gives control when loaded.",
     "img": "assets/products/cafe-banquet-equipment/dbc-154/DBC-154 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-154/DBC-154 - Front View.png"
@@ -1478,14 +1478,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-155",
-    "name": "DBC-155 Dining Chair",
+    "name": "DBC-155 Modular Stage Platform with Skirting",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Carpeted Deck / Pleated Velvet Skirting",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 163 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A modular banquet stage platform with a red carpeted deck, gold trim edge and pleated velvet skirting. Sections join to build head tables, podiums and performance risers.",
     "img": "assets/products/cafe-banquet-equipment/dbc-155/DBC-155 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-155/DBC-155 - Front View.png"
@@ -1494,94 +1494,94 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-156",
-    "name": "DBC-156 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-156 Banquet Chair — Sky Blue & Gold",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Sky Blue Fabric / Gold Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 166 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-156/DBC-156 - Front View.png",
+    "description": "A stacking banquet chair with a crown-shaped back in sky blue fabric on a gold powder-coated steel frame. Reinforced joints for daily banquet use.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-156/DBC-156 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-156/DBC-156 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-156/DBC-156 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-157",
-    "name": "DBC-157 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-157 Banquet Chair — Burgundy & Gold",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Burgundy Fabric / Gold Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 167 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-157/DBC-157 - Front View.png",
+    "description": "A stacking banquet chair in burgundy fabric with a gold powder-coated steel frame and a padded crown back. A hall standard for conferences and receptions.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-157/DBC-157 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-157/DBC-157 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-157/DBC-157 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-158",
-    "name": "DBC-158 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-158 Banquet Chair — Aubergine & Gold",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Aubergine Fabric / Gold Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 168 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-158/DBC-158 - Front View.png",
+    "description": "A stacking banquet chair upholstered in deep aubergine fabric over a gold powder-coated steel frame, with a padded seat and crown back.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-158/DBC-158 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-158/DBC-158 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-158/DBC-158 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-159",
-    "name": "DBC-159 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-159 Banquet Chair — Burgundy Velvet & Chrome",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Burgundy Velvet / Polished Chrome Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 169 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-159/DBC-159 - Front View.png",
+    "description": "A banquet chair with a square padded back and seat in burgundy velvet, framed in polished chrome. A dressier option for hotel ballrooms and private dining.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-159/DBC-159 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-159/DBC-159 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-159/DBC-159 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-160",
-    "name": "DBC-160 Dining Chair",
-    "category": "cafe-chairs",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "name": "DBC-160 Chiavari Chair — Gold",
+    "category": "cafe-banquet-equipment",
+    "type": "banquet chair",
+    "material": "Gold-Finished Resin / Reinforced Steel Core",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 170 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dbc-160/DBC-160 - Front View.png",
+    "description": "The classic Chiavari banquet chair with a bamboo-turned spindle back, in a gold finish over a reinforced core. Stackable, and the default choice for weddings and gala seating.",
+    "img": "assets/products/cafe-banquet-equipment/dbc-160/DBC-160 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dbc-160/DBC-160 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-160/DBC-160 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dbc-161",
-    "name": "DBC-161 Dining Chair",
+    "name": "DBC-161 Round Table Trolley",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Powder-Coated Steel / Padded Rails",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 171 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A transport trolley for folding round banquet tables. Upright padded rails hold tables on edge and heavy-duty castors take the load across ballroom floors.",
     "img": "assets/products/cafe-banquet-equipment/dbc-161/DBC-161 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-161/DBC-161 - Front View.png"
@@ -1590,14 +1590,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-162",
-    "name": "DBC-162 Dining Chair",
+    "name": "DBC-162 Carpeted Platform Trolley",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Powder-Coated Steel / Carpeted Deck",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 172 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A flatbed platform trolley with a red carpeted deck and a single push handle, for shifting linens, staging and equipment without marking finishes.",
     "img": "assets/products/cafe-banquet-equipment/dbc-162/DBC-162 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-162/DBC-162 - Front View.png"
@@ -1606,14 +1606,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-163",
-    "name": "DBC-163 Dining Chair",
+    "name": "DBC-163 Retractable Belt Queue Post",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Polished Stainless Steel / Retractable Webbing Belt",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 173 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A queue-control post in polished stainless steel with a retractable red webbing belt. Weighted base for stability; links post to post to shape entry lines.",
     "img": "assets/products/cafe-banquet-equipment/dbc-163/DBC-163 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-163/DBC-163 - Front View.png"
@@ -1622,14 +1622,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-164",
-    "name": "DBC-164 Dining Chair",
+    "name": "DBC-164 Velvet Rope Barrier Post",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Polished Chrome Steel / Velvet Rope",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 174 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A ball-top barrier post in polished chrome with a red velvet rope and clip ends. The formal option for entrances, red carpets and VIP areas.",
     "img": "assets/products/cafe-banquet-equipment/dbc-164/DBC-164 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-164/DBC-164 - Front View.png"
@@ -1638,14 +1638,14 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-165",
-    "name": "DBC-165 Dining Chair",
+    "name": "DBC-165 Two-Tier Stage Step",
     "category": "cafe-banquet-equipment",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "banquet equipment",
+    "material": "Powder-Coated Steel / Carpeted Treads",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dbc Series Dining Chair Model 175 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A two-tier access step with red carpeted treads on a black powder-coated steel frame, giving safe access on and off a banquet stage platform.",
     "img": "assets/products/cafe-banquet-equipment/dbc-165/DBC-165 - Front View.png",
     "images": [
       "assets/products/cafe-banquet-equipment/dbc-165/DBC-165 - Front View.png"
@@ -1654,14 +1654,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-79",
-    "name": "DMC-79 Dining Chair",
+    "name": "DMC-79 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 079 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 079 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-79/DMC-79 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-79/DMC-79 - Front View.png"
@@ -1670,14 +1670,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-80",
-    "name": "DMC-80 Dining Chair",
+    "name": "DMC-80 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 080 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 080 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-80/DMC-80 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-80/DMC-80 - Front View.png"
@@ -1686,14 +1686,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-81",
-    "name": "DMC-81 Dining Chair",
+    "name": "DMC-81 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 083 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 083 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-81/DMC-81 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-81/DMC-81 - Front View.png"
@@ -1702,14 +1702,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-82",
-    "name": "DMC-82 Dining Chair",
+    "name": "DMC-82 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 085 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 085 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-82/DMC-82 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-82/DMC-82 - Front View.png"
@@ -1718,14 +1718,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-83",
-    "name": "DMC-83 Dining Chair",
+    "name": "DMC-83 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 088 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 088 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-83/DMC-83 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-83/DMC-83 - Front View.png"
@@ -1734,14 +1734,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-84",
-    "name": "DMC-84 Dining Chair",
+    "name": "DMC-84 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 091 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 091 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-84/DMC-84 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-84/DMC-84 - Front View.png"
@@ -1750,14 +1750,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-85",
-    "name": "DMC-85 Dining Chair",
+    "name": "DMC-85 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 093 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 093 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-85/DMC-85 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-85/DMC-85 - Front View.png"
@@ -1766,14 +1766,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-86",
-    "name": "DMC-86 Dining Chair",
+    "name": "DMC-86 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 098 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 098 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-86/DMC-86 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-86/DMC-86 - Front View.png"
@@ -1782,14 +1782,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-87",
-    "name": "DMC-87 Dining Chair",
+    "name": "DMC-87 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 104 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 104 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-87/DMC-87 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-87/DMC-87 - Front View.png"
@@ -1798,14 +1798,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-88",
-    "name": "DMC-88 Dining Chair",
+    "name": "DMC-88 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 105 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 105 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-88/DMC-88 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-88/DMC-88 - Front View.png"
@@ -1814,14 +1814,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-89",
-    "name": "DMC-89 Dining Chair",
+    "name": "DMC-89 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 107 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 107 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-89/DMC-89 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-89/DMC-89 - Front View.png"
@@ -1830,14 +1830,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-90",
-    "name": "DMC-90 Dining Chair",
+    "name": "DMC-90 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 108 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 108 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-90/DMC-90 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-90/DMC-90 - Front View.png"
@@ -1846,14 +1846,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-91",
-    "name": "DMC-91 Dining Chair",
+    "name": "DMC-91 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 114 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 114 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-91/DMC-91 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-91/DMC-91 - Front View.png"
@@ -1862,14 +1862,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-92",
-    "name": "DMC-92 Dining Chair",
+    "name": "DMC-92 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 116 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 116 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-92/DMC-92 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-92/DMC-92 - Front View.png"
@@ -1878,14 +1878,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-93",
-    "name": "DMC-93 Dining Chair",
+    "name": "DMC-93 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 118 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 118 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-93/DMC-93 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-93/DMC-93 - Front View.png"
@@ -1894,14 +1894,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-94",
-    "name": "DMC-94 Dining Chair",
+    "name": "DMC-94 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 119 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 119 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-94/DMC-94 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-94/DMC-94 - Front View.png"
@@ -1910,14 +1910,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-95",
-    "name": "DMC-95 Dining Chair",
+    "name": "DMC-95 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 120 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 120 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-95/DMC-95 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-95/DMC-95 - Front View.png"
@@ -1926,14 +1926,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-96",
-    "name": "DMC-96 Dining Chair",
+    "name": "DMC-96 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 121 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 121 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-96/DMC-96 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-96/DMC-96 - Front View.png"
@@ -1942,14 +1942,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-97",
-    "name": "DMC-97 Dining Chair",
+    "name": "DMC-97 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 123 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 123 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-97/DMC-97 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-97/DMC-97 - Front View.png"
@@ -1958,14 +1958,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-98",
-    "name": "DMC-98 Dining Chair",
+    "name": "DMC-98 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 125 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 125 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-98/DMC-98 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-98/DMC-98 - Front View.png"
@@ -1974,14 +1974,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-99",
-    "name": "DMC-99 Dining Chair",
+    "name": "DMC-99 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 128 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 128 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-99/DMC-99 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-99/DMC-99 - Front View.png"
@@ -1990,14 +1990,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-100",
-    "name": "DMC-100 Dining Chair",
+    "name": "DMC-100 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 129 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 129 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-100/DMC-100 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-100/DMC-100 - Front View.png"
@@ -2006,14 +2006,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-101",
-    "name": "DMC-101 Dining Chair",
+    "name": "DMC-101 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 130 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 130 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-101/DMC-101 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-101/DMC-101 - Front View.png"
@@ -2022,14 +2022,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-102",
-    "name": "DMC-102 Dining Chair",
+    "name": "DMC-102 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 132 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 132 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-102/DMC-102 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-102/DMC-102 - Front View.png"
@@ -2038,14 +2038,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-103",
-    "name": "DMC-103 Dining Chair",
+    "name": "DMC-103 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 134 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 134 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-103/DMC-103 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-103/DMC-103 - Front View.png"
@@ -2054,14 +2054,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-104",
-    "name": "DMC-104 Dining Chair",
+    "name": "DMC-104 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 135 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 135 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-104/DMC-104 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-104/DMC-104 - Front View.png"
@@ -2070,14 +2070,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-105",
-    "name": "DMC-105 Dining Chair",
+    "name": "DMC-105 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 136 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 136 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-105/DMC-105 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-105/DMC-105 - Front View.png"
@@ -2086,14 +2086,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-106",
-    "name": "DMC-106 Dining Chair",
+    "name": "DMC-106 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 137 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 137 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-106/DMC-106 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-106/DMC-106 - Front View.png"
@@ -2102,14 +2102,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-107",
-    "name": "DMC-107 Dining Chair",
+    "name": "DMC-107 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 138 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 138 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-107/DMC-107 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-107/DMC-107 - Front View.png"
@@ -2118,14 +2118,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-108",
-    "name": "DMC-108 Dining Chair",
+    "name": "DMC-108 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 140 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 140 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-108/DMC-108 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-108/DMC-108 - Front View.png"
@@ -2134,14 +2134,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-109",
-    "name": "DMC-109 Dining Chair",
+    "name": "DMC-109 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 141 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 141 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-109/DMC-109 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-109/DMC-109 - Front View.png"
@@ -2150,14 +2150,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-110",
-    "name": "DMC-110 Dining Chair",
+    "name": "DMC-110 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 143 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 143 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-110/DMC-110 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-110/DMC-110 - Front View.png"
@@ -2166,30 +2166,30 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-111",
-    "name": "DMC-111 Dining Chair",
-    "category": "cafe-chairs",
+    "name": "DMC-111 Mesh-Back Nesting Training Chair",
+    "category": "office-chairs",
     "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "material": "Mesh Back / Fabric Seat / Powder-Coated Steel Frame",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 144 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-111/DMC-111 - Front View.png",
+    "description": "A nesting training chair with a breathable mesh back, padded fabric seat and fixed arms on a silver powder-coated frame. The seat folds so chairs nest together for storage between sessions.",
+    "img": "assets/products/office-chairs/dmc-111/DMC-111 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dmc-111/DMC-111 - Front View.png"
+      "assets/products/office-chairs/dmc-111/DMC-111 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dmc-112",
-    "name": "DMC-112 Dining Chair",
+    "name": "DMC-112 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 149 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 149 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-112/DMC-112 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-112/DMC-112 - Front View.png"
@@ -2198,14 +2198,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-113",
-    "name": "DMC-113 Dining Chair",
+    "name": "DMC-113 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 150 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 150 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-113/DMC-113 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-113/DMC-113 - Front View.png"
@@ -2214,14 +2214,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-114",
-    "name": "DMC-114 Dining Chair",
+    "name": "DMC-114 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 157 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 157 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-114/DMC-114 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-114/DMC-114 - Front View.png"
@@ -2230,14 +2230,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-115",
-    "name": "DMC-115 Dining Chair",
+    "name": "DMC-115 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 158 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 158 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-115/DMC-115 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-115/DMC-115 - Front View.png"
@@ -2246,14 +2246,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-116",
-    "name": "DMC-116 Dining Chair",
+    "name": "DMC-116 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 247 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 247 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-116/DMC-116 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-116/DMC-116 - Front View.png"
@@ -2262,14 +2262,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-117",
-    "name": "DMC-117 Dining Chair",
+    "name": "DMC-117 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 248 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 248 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-117/DMC-117 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-117/DMC-117 - Front View.png"
@@ -2278,14 +2278,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-118",
-    "name": "DMC-118 Dining Chair",
+    "name": "DMC-118 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 249 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 249 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-118/DMC-118 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-118/DMC-118 - Front View.png"
@@ -2294,14 +2294,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-119",
-    "name": "DMC-119 Dining Chair",
+    "name": "DMC-119 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 250 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 250 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-119/DMC-119 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-119/DMC-119 - Front View.png"
@@ -2310,30 +2310,30 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-120",
-    "name": "DMC-120 Dining Chair",
-    "category": "cafe-chairs",
+    "name": "DMC-120 Upholstered Wood-Frame Armchair",
+    "category": "chairs",
     "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "material": "Faux Leather / Solid Ash Frame",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 260 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-120/DMC-120 - Front View.png",
+    "description": "A curved-back armchair upholstered in white faux leather on a tapered solid ash frame. The wrap-around back doubles as armrests — suited to lounges, meeting corners and dining use.",
+    "img": "assets/products/chairs/dmc-120/DMC-120 - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/dmc-120/DMC-120 - Front View.png"
+      "assets/products/chairs/dmc-120/DMC-120 - Front View.png"
     ],
     "colors": []
   },
   {
     "id": "dmc-121",
-    "name": "DMC-121 Dining Chair",
+    "name": "DMC-121 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 276 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 276 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-121/DMC-121 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-121/DMC-121 - Front View.png"
@@ -2342,14 +2342,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-122",
-    "name": "DMC-122 Dining Chair",
+    "name": "DMC-122 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 277 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 277 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-122/DMC-122 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-122/DMC-122 - Front View.png"
@@ -2358,14 +2358,14 @@ const PRODUCTS = [
   },
   {
     "id": "dmc-123",
-    "name": "DMC-123 Dining Chair",
+    "name": "DMC-123 Cafe Chair",
     "category": "cafe-chairs",
     "type": "chair",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Dmc Series Dining Chair Model 278 combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Dmc Series Cafe Chair Model 278 combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/cafe-chairs/dmc-123/DMC-123 - Front View.png",
     "images": [
       "assets/products/cafe-chairs/dmc-123/DMC-123 - Front View.png"
@@ -2757,20 +2757,20 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "fire-black-spindle-dining-chair",
-    "name": "Fire Black Spindle Dining Chair",
-    "category": "cafe-chairs",
-    "type": "chair",
-    "material": "Premium Upholstery / Solid Wood",
+    "id": "white-spindle-back-counter-stool",
+    "name": "White Spindle-Back Counter Stool",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Powder-Coated Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Fire Black Spindle Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/fire-black-spindle-dining-chair/Fire Spindle Chair - Angle Perspective.png",
+    "description": "A counter-height stool with a Windsor-style spindle back and a shaped saddle seat, finished in matte white with a square footrest rail. Suits kitchen islands and counter service.",
+    "img": "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/fire-black-spindle-dining-chair/Fire Spindle Chair - Angle Perspective.png",
-      "assets/products/cafe-chairs/fire-black-spindle-dining-chair/Fire Spindle Chair - Front View.png",
-      "assets/products/cafe-chairs/fire-black-spindle-dining-chair/Fire Spindle Chair - Side View.png"
+      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png",
+      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png",
+      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png"
     ],
     "colors": []
   },
@@ -3802,7 +3802,6 @@ const PRODUCTS = [
     "img": "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.jpg",
     "images": [
       "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.jpg",
-      "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress_1.jpg",
       "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress_2.jpg"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-onyx-mattress",
@@ -4438,22 +4437,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "de",
-    "name": "De",
-    "category": "cafe-tables",
-    "type": "cafe",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The De combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/de/De - Front View.png",
-    "images": [
-      "assets/products/cafe-tables/de/De - Front View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "mobile-flip-top-round-table",
     "name": "Mobile Flip Top Round Table",
     "category": "cafe-tables",
@@ -4963,29 +4946,6 @@ const PRODUCTS = [
       "assets/products/center-tables/lmw-053/LMW-053.png"
     ],
     "colors": [
-      "Brown"
-    ],
-    "tags": [
-      "coffee table"
-    ]
-  },
-  {
-    "id": "lmw-051",
-    "name": "LMW-051",
-    "category": "center-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-054/LMW-054_4.png",
-    "badge": "",
-    "description": "The LMW-051 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined White, Grey or Brown colorway for your home or executive suite.",
-    "images": [
-      "assets/products/center-tables/lmw-054/LMW-054_4.png"
-    ],
-    "colors": [
-      "White",
-      "Grey",
       "Brown"
     ],
     "tags": [
@@ -6243,46 +6203,6 @@ const PRODUCTS = [
     "img": "assets/products/chairs/cat-nailhead-offwhite-linen-club-chair/nailhead_offwhite_linen_club_chair.png",
     "images": [
       "assets/products/chairs/cat-nailhead-offwhite-linen-club-chair/nailhead_offwhite_linen_club_chair.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-nova-executive-office-chair",
-    "name": "Nova Executive Office Cabinet",
-    "category": "wardrobes-storage",
-    "type": "storage",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Nova Executive Office Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Angle Perspective.png",
-    "images": [
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Context View.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Corner Detail.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Elevation View.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Front View.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - High Angle View.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Profile View.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Side View.png",
-      "assets/products/wardrobes-storage/cat-nova-executive-office-chair/Nova Executive Office Chair - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-nova-modern-swivel-chair",
-    "name": "Nova Modern Swivel Chair",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Nova Modern Swivel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-nova-modern-swivel-chair/Nova Modern Swivel Chair - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-nova-modern-swivel-chair/Nova Modern Swivel Chair - Front View.png"
     ],
     "colors": []
   },
@@ -8008,28 +7928,163 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-cabin-executive-computer-table",
-    "name": "Cabin Executive Computer Table",
+    "id": "cabin-boat-shaped-conference-table",
+    "name": "Cabin Boat-Shaped Conference Table",
     "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "conference table",
+    "material": "Engineered Wood / Dark Walnut Laminate",
     "designer": "LayerMax Signature",
-    "rating": 4.8,
+    "rating": 4.7,
     "badge": "",
-    "description": "The Cabin Executive Computer Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Angle Perspective.png",
+    "description": "A boat-shaped conference table in dark walnut seating eight to ten, with a recessed cable channel down the centre and solid panel bases. Sized for mid-room board and meeting cabins.",
+    "img": "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - Front View.png",
     "images": [
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Angle Perspective.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Close Up Detail.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Context View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Corner Detail.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Elevation View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Front View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - High Angle View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Perspective View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Profile View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Side View.png",
-      "assets/products/office-workstations/cat-cabin-executive-computer-table/Cabin Executive Computer Table - Studio Showcase.png"
+      "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - Front View.png",
+      "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - View 2.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-steel-frame-writing-desk-red",
+    "name": "Cabin Steel-Frame Writing Desk — Red",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Dark Walnut Laminate Top / Powder-Coated Steel Frame",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A compact writing desk on a red powder-coated steel frame with a dark walnut top and a full modesty panel. A bright, low-footprint option for home offices and study rooms.",
+    "img": "assets/products/office-workstations/cabin-steel-frame-writing-desk-red/Cabin Steel-Frame Writing Desk - Red - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-steel-frame-writing-desk-red/Cabin Steel-Frame Writing Desk - Red - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-computer-desk-with-keyboard-tray",
+    "name": "Cabin Computer Desk with Keyboard Tray",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A walnut computer desk with a pull-out keyboard tray, a central drawer and an enclosed CPU cabinet on one side. Castors on the front legs make it easy to reposition.",
+    "img": "assets/products/office-workstations/cabin-computer-desk-with-keyboard-tray/Cabin Computer Desk with Keyboard Tray - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-computer-desk-with-keyboard-tray/Cabin Computer Desk with Keyboard Tray - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-computer-table-with-drawer-pedestal",
+    "name": "Cabin Computer Table with Drawer Pedestal",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A computer table combining a three-drawer pedestal, a sliding keyboard tray and an open CPU bay. A complete single-user workstation in under four feet of width.",
+    "img": "assets/products/office-workstations/cabin-computer-table-with-drawer-pedestal/Cabin Computer Table with Drawer Pedestal - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-computer-table-with-drawer-pedestal/Cabin Computer Table with Drawer Pedestal - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-curved-panel-study-desk",
+    "name": "Cabin Curved-Panel Study Desk",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A slim study desk with sculpted curved side panels, an under-top storage shelf and a side hook for headphones or bags. Suits bedrooms and compact study corners.",
+    "img": "assets/products/office-workstations/cabin-curved-panel-study-desk/Cabin Curved-Panel Study Desk - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-curved-panel-study-desk/Cabin Curved-Panel Study Desk - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-curved-top-computer-trolley",
+    "name": "Cabin Curved-Top Computer Trolley",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A mobile computer trolley with a curved worktop, a single drawer and open side storage, riding on lockable castors for flexible placement.",
+    "img": "assets/products/office-workstations/cabin-curved-top-computer-trolley/Cabin Curved-Top Computer Trolley - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-curved-top-computer-trolley/Cabin Curved-Top Computer Trolley - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-compact-computer-trolley",
+    "name": "Cabin Compact Computer Trolley",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A compact computer trolley on castors with a sliding keyboard shelf and an enclosed CPU compartment. Fits into alcoves and small home-office corners.",
+    "img": "assets/products/office-workstations/cabin-compact-computer-trolley/Cabin Compact Computer Trolley - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-compact-computer-trolley/Cabin Compact Computer Trolley - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-computer-trolley-with-shelves",
+    "name": "Cabin Computer Trolley with Shelves",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A wider mobile computer trolley with a keyboard shelf over two open storage tiers, mounted on castors for easy repositioning.",
+    "img": "assets/products/office-workstations/cabin-computer-trolley-with-shelves/Cabin Computer Trolley with Shelves - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-computer-trolley-with-shelves/Cabin Computer Trolley with Shelves - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-open-shelf-computer-table",
+    "name": "Cabin Open-Shelf Computer Table",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A walnut computer table with a sliding keyboard tray above two open shelf bays, finished on castors. Keeps peripherals and files within arm’s reach.",
+    "img": "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "cabin-compact-computer-trolley-grey",
+    "name": "Cabin Compact Computer Trolley — Grey",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Grey and Charcoal Laminate",
+    "designer": "LayerMax Signature",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A compact grey and charcoal computer trolley with a sliding keyboard shelf, lower storage tier and lockable castors. A neutral finish for shared workspaces.",
+    "img": "assets/products/office-workstations/cabin-compact-computer-trolley-grey/Cabin Compact Computer Trolley - Grey - Front View.png",
+    "images": [
+      "assets/products/office-workstations/cabin-compact-computer-trolley-grey/Cabin Compact Computer Trolley - Grey - Front View.png"
     ],
     "colors": []
   },
@@ -8162,25 +8217,130 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-linea-dresser-study-table-set",
-    "name": "Linea Dresser Study Table Set",
+    "id": "linea-walnut-sliding-door-sideboard",
+    "name": "Linea Walnut Sliding-Door Sideboard",
     "category": "wardrobes-storage",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "sideboard",
+    "material": "Engineered Wood / Walnut Finish",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Linea Dresser Study Table Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Angle Perspective.png",
+    "description": "A low-line walnut sideboard pairing three deep drawers with a lattice sliding door, so everyday storage stays hidden while the console top remains free for display. Suited to living rooms, entryways and dining spaces.",
+    "img": "assets/products/wardrobes-storage/linea-walnut-sliding-door-sideboard/Linea Walnut Sliding-Door Sideboard - Front View.png",
     "images": [
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Context View.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Corner Detail.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Elevation View.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Front View.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - High Angle View.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Side View.png",
-      "assets/products/wardrobes-storage/cat-linea-dresser-study-table-set/Linea Dresser Study Table Set - Studio Showcase.png"
+      "assets/products/wardrobes-storage/linea-walnut-sliding-door-sideboard/Linea Walnut Sliding-Door Sideboard - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-grey-glass-front-crockery-cabinet",
+    "name": "Linea Grey Glass-Front Crockery Cabinet",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Glass with Brass Accents",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A tall crockery and bar cabinet in soft grey, with illuminated glass-front upper doors, an open service counter, and closed lower storage. Brass handles and a slim brass base lift the piece off the floor.",
+    "img": "assets/products/wardrobes-storage/linea-grey-glass-front-crockery-cabinet/Linea Grey Glass-Front Crockery Cabinet - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/linea-grey-glass-front-crockery-cabinet/Linea Grey Glass-Front Crockery Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-walnut-three-drawer-chest",
+    "name": "Linea Walnut Three-Drawer Chest",
+    "category": "wardrobes-storage",
+    "type": "chest",
+    "material": "Engineered Wood / Walnut Finish",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A compact three-drawer chest in warm walnut with recessed dark handles and a contrasting inset frame. Works as a bedroom dresser, hallway console or side storage unit.",
+    "img": "assets/products/wardrobes-storage/linea-walnut-three-drawer-chest/Linea Walnut Three-Drawer Chest - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/linea-walnut-three-drawer-chest/Linea Walnut Three-Drawer Chest - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-oak-study-desk-with-hutch",
+    "name": "Linea Oak Study Desk with Hutch",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Oak Finish",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A light oak study desk with an overhead open-shelf hutch and a full-height side column of drawers. Keeps books, files and desktop clutter within reach in a narrow footprint.",
+    "img": "assets/products/office-workstations/linea-oak-study-desk-with-hutch/Linea Oak Study Desk with Hutch - Front View.png",
+    "images": [
+      "assets/products/office-workstations/linea-oak-study-desk-with-hutch/Linea Oak Study Desk with Hutch - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-teak-study-table-with-organiser",
+    "name": "Linea Teak Study Table with Organiser",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Teak Finish",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A teak-finish study table with twin drawers, a low overhead organiser shelf, and an open lower compartment for bags or storage boxes. The curved apron gives comfortable knee clearance.",
+    "img": "assets/products/office-workstations/linea-teak-study-table-with-organiser/Linea Teak Study Table with Organiser - Front View.png",
+    "images": [
+      "assets/products/office-workstations/linea-teak-study-table-with-organiser/Linea Teak Study Table with Organiser - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-black-study-desk-with-hutch",
+    "name": "Linea Black Study Desk with Hutch",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Black Finish",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A matte black study desk with an integrated upper hutch and a closed side storage column. The dark finish suits contemporary home offices and shared study corners.",
+    "img": "assets/products/office-workstations/linea-black-study-desk-with-hutch/Linea Black Study Desk with Hutch - Front View.png",
+    "images": [
+      "assets/products/office-workstations/linea-black-study-desk-with-hutch/Linea Black Study Desk with Hutch - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-fluted-glass-display-cabinet",
+    "name": "Linea Fluted Glass Display Cabinet",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Fluted Panels with Glass",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A tall three-bay display cabinet framed in fluted panelling, with a lit glass centre section and closed side compartments. Raised on a slim brass base for a lighter visual footprint.",
+    "img": "assets/products/wardrobes-storage/linea-fluted-glass-display-cabinet/Linea Fluted Glass Display Cabinet - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/linea-fluted-glass-display-cabinet/Linea Fluted Glass Display Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "linea-cherry-study-desk-with-bookshelf",
+    "name": "Linea Cherry Study Desk with Bookshelf",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Cherry Finish",
+    "designer": "LayerMax Signature",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A cherry-finish study desk topped with an open bookshelf hutch and paired with a closed lower cabinet. Combines writing surface, display shelving and concealed storage in one unit.",
+    "img": "assets/products/office-workstations/linea-cherry-study-desk-with-bookshelf/Linea Cherry Study Desk with Bookshelf - Front View.png",
+    "images": [
+      "assets/products/office-workstations/linea-cherry-study-desk-with-bookshelf/Linea Cherry Study Desk with Bookshelf - Front View.png"
     ],
     "colors": []
   },
@@ -8641,7 +8801,6 @@ const PRODUCTS = [
     "img": "assets/products/dining-tables/orbis/Orbis_01.png",
     "images": [
       "assets/products/dining-tables/orbis/Orbis_01.png",
-      "assets/products/dining-tables/orbis/Orbis_02.png",
       "assets/products/dining-tables/orbis/Orbis_03.png",
       "assets/products/dining-tables/orbis/Orbis_04.png"
     ],
@@ -10281,8 +10440,7 @@ const PRODUCTS = [
     "description": "The LUNA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
       "assets/products/office-chairs/luna/LUNA.png",
-      "assets/products/office-chairs/luna/LUNA_2.png",
-      "assets/products/office-chairs/luna/LUNA_3.png"
+      "assets/products/office-chairs/luna/LUNA_2.png"
     ],
     "colors": [
       "Grey"
@@ -11375,24 +11533,16 @@ const PRODUCTS = [
     "images": [
       "assets/products/office-workstations/admiral/Admiral_01.png",
       "assets/products/office-workstations/admiral/Admiral_02.png",
-      "assets/products/office-workstations/admiral/Admiral_03.png",
       "assets/products/office-workstations/admiral/Admiral_04.png",
-      "assets/products/office-workstations/admiral/Admiral_05.png",
       "assets/products/office-workstations/admiral/Admiral_06.png",
       "assets/products/office-workstations/admiral/Admiral_07.png",
       "assets/products/office-workstations/admiral/Admiral_08.png",
       "assets/products/office-workstations/admiral/Admiral_09.png",
-      "assets/products/office-workstations/admiral/Admiral_10.png",
       "assets/products/office-workstations/admiral/Admiral_11.png",
-      "assets/products/office-workstations/admiral/Admiral_12.png",
       "assets/products/office-workstations/admiral/Admiral_13.png",
-      "assets/products/office-workstations/admiral/Admiral_14.png",
       "assets/products/office-workstations/admiral/Admiral_15.png",
-      "assets/products/office-workstations/admiral/Admiral_16.png",
       "assets/products/office-workstations/admiral/Admiral_17.png",
-      "assets/products/office-workstations/admiral/Admiral_18.png",
-      "assets/products/office-workstations/admiral/Admiral_19.png",
-      "assets/products/office-workstations/admiral/Admiral_20.png"
+      "assets/products/office-workstations/admiral/Admiral_19.png"
     ],
     "colors": []
   },
@@ -11581,23 +11731,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-airis-height-adjustable-standing-desk",
-    "name": "Airis Height Adjustable Standing Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Airis Height Adjustable Standing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-airis-height-adjustable-standing-desk/Airis Standing Desk - Isolated View.png",
-    "images": [
-      "assets/products/office-workstations/cat-airis-height-adjustable-standing-desk/Airis Standing Desk - Isolated View.png",
-      "assets/products/office-workstations/cat-airis-height-adjustable-standing-desk/Airis Standing Desk - Room Context View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-alien-executive-l-shaped-desk",
     "name": "Alien Executive L Shaped Desk",
     "category": "office-workstations",
@@ -11652,40 +11785,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-angulo-l-shaped-executive-desk",
-    "name": "Angulo L Shaped Executive Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Angulo L Shaped Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-angulo-l-shaped-executive-desk/Angulo L-Shaped Executive Desk - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-angulo-l-shaped-executive-desk/Angulo L-Shaped Executive Desk - Front View.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-arvele-executive-desk-system",
-    "name": "Arvele Executive Desk System",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Arvele Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-arvele-executive-desk-system/Arvele Executive Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-arvele-executive-desk-system/Arvele Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-arvele-executive-desk-system/Arvele Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-arvele-executive-desk-system/Arvele Executive Desk - Side View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-atria-modern-desk",
     "name": "Atria Modern Desk",
     "category": "office-workstations",
@@ -11733,74 +11832,6 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/cat-beige-tan-floating-executive-desk/beige_tan_floating_executive_desk.png",
     "images": [
       "assets/products/office-workstations/cat-beige-tan-floating-executive-desk/beige_tan_floating_executive_desk.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-canio-modern-desk",
-    "name": "Canio Modern Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Canio Modern Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-canio-modern-desk/Canio Modern Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-canio-modern-desk/Canio Modern Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-canio-modern-desk/Canio Modern Desk - Front View.png",
-      "assets/products/office-workstations/cat-canio-modern-desk/Canio Modern Desk - Side View.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-cendro-executive-desk",
-    "name": "Cendro Executive Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Cendro Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Context View.png",
-      "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Side View.png",
-      "assets/products/office-workstations/cat-cendro-executive-desk/Cendro Executive Desk - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-chief-executive-office-suite",
-    "name": "Chief Executive Office Suite",
-    "category": "wardrobes-storage",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Chief Executive Office Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Alternative View.png",
-    "images": [
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Alternative View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Close Up Detail.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Context View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Corner Detail.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Elevation View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Front View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Full View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - High Angle View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Overview View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Perspective View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Profile View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Side View.png",
-      "assets/products/wardrobes-storage/cat-chief-executive-office-suite/Chief Executive Office Suite - Studio Showcase.png"
     ],
     "colors": []
   },
@@ -11969,23 +12000,6 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/cat-dark-walnut-study-desk/dark_walnut_study_desk.png",
     "images": [
       "assets/products/office-workstations/cat-dark-walnut-study-desk/dark_walnut_study_desk.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-elio-executive-desk",
-    "name": "Elio Executive Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Elio Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-elio-executive-desk/Elio Executive Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-elio-executive-desk/Elio Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-elio-executive-desk/Elio Executive Desk - Front View.png"
     ],
     "colors": []
   },
@@ -12243,22 +12257,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-lynk-executive-desk-system",
-    "name": "Lynk Executive Desk System",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Lynk Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-lynk-executive-desk-system/Lynk Executive Desk System - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-lynk-executive-desk-system/Lynk Executive Desk System - Front View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-mahogany-3drawer-office-desk",
     "name": "Mahogany 3Drawer Office Desk",
     "category": "office-workstations",
@@ -12271,25 +12269,6 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.png",
     "images": [
       "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-merit-estillo-conference-table",
-    "name": "Merit Estillo Conference Table",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Merit Estillo Conference Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-merit-estillo-conference-table/Merit Estillo Conference Table - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-merit-estillo-conference-table/Merit Estillo Conference Table - Angle Perspective.png",
-      "assets/products/office-workstations/cat-merit-estillo-conference-table/Merit Estillo Conference Table - Corner Detail.png",
-      "assets/products/office-workstations/cat-merit-estillo-conference-table/Merit Estillo Conference Table - Front View.png",
-      "assets/products/office-workstations/cat-merit-estillo-conference-table/Merit Estillo Conference Table - Side View.png"
     ],
     "colors": []
   },
@@ -12419,22 +12398,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-nexgrid-modular-workstation",
-    "name": "Nexgrid Modular Workstation",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Nexgrid Modular Workstation combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-nexgrid-modular-workstation/Nexgrid Modular Workstation - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-nexgrid-modular-workstation/Nexgrid Modular Workstation - Front View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-nexo-executive-desk",
     "name": "Nexo Executive Desk",
     "category": "office-workstations",
@@ -12501,24 +12464,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-omnio-executive-desk",
-    "name": "Omnio Executive Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Omnio Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-omnio-executive-desk/Omnio Executive Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-omnio-executive-desk/Omnio Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-omnio-executive-desk/Omnio Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-omnio-executive-desk/Omnio Executive Desk - Side View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-orbis-executive-desk",
     "name": "Orbis Executive Desk",
     "category": "office-workstations",
@@ -12531,23 +12476,6 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/cat-orbis-executive-desk/Orbis Executive Desk - Front View.png",
     "images": [
       "assets/products/office-workstations/cat-orbis-executive-desk/Orbis Executive Desk - Front View.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "orin-executive-desk-system",
-    "name": "Orin Executive Desk System",
-    "category": "office-workstations",
-    "type": "table",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Orin Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/orin-executive-desk-system/orin-executive-desk-system - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/orin-executive-desk-system/orin-executive-desk-system - Angle Perspective.png",
-      "assets/products/office-workstations/orin-executive-desk-system/orin-executive-desk-system - Front View.png"
     ],
     "colors": []
   },
@@ -12821,7 +12749,7 @@ const PRODUCTS = [
   },
   {
     "id": "cat-supreme-executive-office-suite",
-    "name": "Supreme Executive Office Suite",
+    "name": "Supreme Executive Office Collection",
     "category": "office-workstations",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
@@ -12838,22 +12766,6 @@ const PRODUCTS = [
       "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - High Angle View.png",
       "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Side View.png",
       "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-teron-executive-desk-system",
-    "name": "Teron Executive Desk System",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Teron Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-teron-executive-desk-system/Teron Executive Desk System - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-teron-executive-desk-system/Teron Executive Desk System - Front View.png"
     ],
     "colors": []
   },
@@ -12922,23 +12834,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-vectron-executive-desk",
-    "name": "Vectron Executive Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Vectron Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-vectron-executive-desk/Vectron Executive Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-vectron-executive-desk/Vectron Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-vectron-executive-desk/Vectron Executive Desk - Front View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-vectron-x-executive-desk",
     "name": "Vectron X Executive Desk",
     "category": "office-workstations",
@@ -12953,25 +12848,6 @@ const PRODUCTS = [
       "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Angle Perspective.png",
       "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Front View.png",
       "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Side View.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-velor-executive-desk",
-    "name": "Velor Executive Desk",
-    "category": "acoustic-pods",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Velor Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/acoustic-pods/cat-velor-executive-desk/Velor Executive Desk - Angle Perspective.png",
-    "images": [
-      "assets/products/acoustic-pods/cat-velor-executive-desk/Velor Executive Desk - Angle Perspective.png",
-      "assets/products/acoustic-pods/cat-velor-executive-desk/Velor Executive Desk - Corner Detail.png",
-      "assets/products/acoustic-pods/cat-velor-executive-desk/Velor Executive Desk - Front View.png",
-      "assets/products/acoustic-pods/cat-velor-executive-desk/Velor Executive Desk - Side View.png"
     ],
     "colors": []
   },
@@ -13159,35 +13035,213 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "chief",
-    "name": "Chief",
+    "id": "chief-executive-l-shaped-desk-walnut",
+    "name": "Chief Executive L-Shaped Desk — Walnut",
     "category": "office-workstations",
-    "type": "workstation",
-    "material": "Cappuccino & Walnut Bronze",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate",
     "designer": "Buro Design",
-    "rating": 4.1,
+    "rating": 4.8,
     "badge": "",
-    "description": "• Legs: 25mm thick MDF PVC foiled with Waterfall edge • Elegant Dual color finish • 29mm thick MDF PVC foiled top with Waterfall edge covered with 4mm thick painted glass • Modesty: 33mm thick designer pattern",
-    "img": "assets/products/office-workstations/chief/Chief_01.png",
+    "description": "An L-shaped executive desk in warm walnut, pairing a full-depth worktop with a side return, integrated open storage and a three-drawer mobile pedestal. Built for cabin offices that need work surface and filing in one footprint.",
+    "img": "assets/products/office-workstations/chief-executive-l-shaped-desk-walnut/Chief Executive L-Shaped Desk - Walnut - Front View.png",
     "images": [
-      "assets/products/office-workstations/chief/Chief_01.png",
-      "assets/products/office-workstations/chief/Chief_02.png",
-      "assets/products/office-workstations/chief/Chief_03.png",
-      "assets/products/office-workstations/chief/Chief_04.png",
-      "assets/products/office-workstations/chief/Chief_05.png",
-      "assets/products/office-workstations/chief/Chief_06.png",
-      "assets/products/office-workstations/chief/Chief_07.png",
-      "assets/products/office-workstations/chief/Chief_08.png",
-      "assets/products/office-workstations/chief/Chief_09.png",
-      "assets/products/office-workstations/chief/Chief_10.png",
-      "assets/products/office-workstations/chief/Chief_11.png",
-      "assets/products/office-workstations/chief/Chief_12.png",
-      "assets/products/office-workstations/chief/Chief_13.png",
-      "assets/products/office-workstations/chief/Chief_14.png"
+      "assets/products/office-workstations/chief-executive-l-shaped-desk-walnut/Chief Executive L-Shaped Desk - Walnut - Front View.png"
     ],
-    "colors": [
-      "Cappuccino & Walnut Bronze"
-    ]
+    "colors": []
+  },
+  {
+    "id": "chief-executive-desk-with-return-dark-walnut",
+    "name": "Chief Executive Desk with Return — Dark Walnut",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Dark Walnut Laminate",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A dark walnut executive desk with a full modesty panel and a side return that doubles as a discussion surface. The wrapped panel construction gives the desk a solid, monolithic presence.",
+    "img": "assets/products/office-workstations/chief-executive-desk-with-return-dark-walnut/Chief Executive Desk with Return - Dark Walnut - Front View.png",
+    "images": [
+      "assets/products/office-workstations/chief-executive-desk-with-return-dark-walnut/Chief Executive Desk with Return - Dark Walnut - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-l-shaped-desk-metal-legs-light-ash",
+    "name": "Chief L-Shaped Desk with Metal Legs — Light Ash",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Light Ash Laminate with Steel Legs",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A light ash L-shaped desk on slim powder-coated steel legs, supplied with a two-door storage unit and a matching three-drawer mobile pedestal. Suits open-plan managerial workspaces.",
+    "img": "assets/products/office-workstations/chief-l-shaped-desk-metal-legs-light-ash/Chief L-Shaped Desk with Metal Legs - Light Ash - Front View.png",
+    "images": [
+      "assets/products/office-workstations/chief-l-shaped-desk-metal-legs-light-ash/Chief L-Shaped Desk with Metal Legs - Light Ash - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-l-shaped-workstation-sliding-credenza-light-ash",
+    "name": "Chief L-Shaped Workstation with Sliding Credenza — Light Ash",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Light Ash Laminate with Steel Legs",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A light ash workstation combining an L-shaped top on steel legs with a low sliding-door credenza and integrated drawer bank. Keeps files at desk height without blocking sightlines.",
+    "img": "assets/products/office-workstations/chief-l-shaped-workstation-sliding-credenza-light-ash/Chief L-Shaped Workstation with Sliding Credenza - Light Ash - Front View.png",
+    "images": [
+      "assets/products/office-workstations/chief-l-shaped-workstation-sliding-credenza-light-ash/Chief L-Shaped Workstation with Sliding Credenza - Light Ash - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-three-door-storage-credenza-oak",
+    "name": "Chief Three-Door Storage Credenza — Oak",
+    "category": "wardrobes-storage",
+    "type": "credenza",
+    "material": "Engineered Wood / Oak Laminate with Fluted Panel",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A three-door office credenza in oak with a fluted upper band and brushed brass pull handles. Provides full-width closed storage along a cabin wall or behind an executive desk.",
+    "img": "assets/products/wardrobes-storage/chief-three-door-storage-credenza-oak/Chief Three-Door Storage Credenza - Oak - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-three-door-storage-credenza-oak/Chief Three-Door Storage Credenza - Oak - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-credenza-with-drawer-unit-oak",
+    "name": "Chief Credenza with Drawer Unit — Oak",
+    "category": "wardrobes-storage",
+    "type": "credenza",
+    "material": "Engineered Wood / Oak Laminate with Fluted Panel",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "An oak credenza combining two hinged door bays with a central two-drawer stack, finished with a fluted band and brass handles. Lockable for document storage.",
+    "img": "assets/products/wardrobes-storage/chief-credenza-with-drawer-unit-oak/Chief Credenza with Drawer Unit - Oak - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-credenza-with-drawer-unit-oak/Chief Credenza with Drawer Unit - Oak - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-tall-glass-door-bookcase-oak",
+    "name": "Chief Tall Glass-Door Bookcase — Oak",
+    "category": "wardrobes-storage",
+    "type": "bookcase",
+    "material": "Engineered Wood / Oak Laminate with Glass Doors",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A full-height bookcase with glazed upper doors over closed fluted-panel lower storage. Displays files and awards while keeping stationery out of sight.",
+    "img": "assets/products/wardrobes-storage/chief-tall-glass-door-bookcase-oak/Chief Tall Glass-Door Bookcase - Oak - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-tall-glass-door-bookcase-oak/Chief Tall Glass-Door Bookcase - Oak - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-three-drawer-mobile-pedestal-oak",
+    "name": "Chief Three-Drawer Mobile Pedestal — Oak",
+    "category": "wardrobes-storage",
+    "type": "pedestal",
+    "material": "Engineered Wood / Oak Laminate with Fluted Panel",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A compact three-drawer mobile pedestal in oak, with a fluted top drawer and brass pulls. Rolls under any Chief desk and doubles as a bedside-height side surface.",
+    "img": "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - Front View.png",
+      "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - View 2.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-sideboard-with-drawer-bank-beige-gloss",
+    "name": "Chief Sideboard with Drawer Bank — Beige Gloss",
+    "category": "wardrobes-storage",
+    "type": "sideboard",
+    "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A high-gloss beige sideboard with a central three-drawer bank flanked by hinged door bays, set on a walnut plinth and top. Adds closed storage without visual weight.",
+    "img": "assets/products/wardrobes-storage/chief-sideboard-with-drawer-bank-beige-gloss/Chief Sideboard with Drawer Bank - Beige Gloss - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-sideboard-with-drawer-bank-beige-gloss/Chief Sideboard with Drawer Bank - Beige Gloss - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-two-door-low-cabinet-beige-gloss",
+    "name": "Chief Two-Door Low Cabinet — Beige Gloss",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A desk-height two-door cabinet in high-gloss beige with a walnut top. Sits alongside an executive desk as a printer stand or accessible file store.",
+    "img": "assets/products/wardrobes-storage/chief-two-door-low-cabinet-beige-gloss/Chief Two-Door Low Cabinet - Beige Gloss - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-two-door-low-cabinet-beige-gloss/Chief Two-Door Low Cabinet - Beige Gloss - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-mid-height-two-door-cabinet-beige-gloss",
+    "name": "Chief Mid-Height Two-Door Cabinet — Beige Gloss",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A mid-height two-door cabinet in high-gloss beige, tall enough for four filing levels while staying below eye line in an open cabin.",
+    "img": "assets/products/wardrobes-storage/chief-mid-height-two-door-cabinet-beige-gloss/Chief Mid-Height Two-Door Cabinet - Beige Gloss - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-mid-height-two-door-cabinet-beige-gloss/Chief Mid-Height Two-Door Cabinet - Beige Gloss - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-tall-cabinet-with-display-band-beige-gloss",
+    "name": "Chief Tall Cabinet with Display Band — Beige Gloss",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / High-Gloss Beige with Glass Band",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A full-height storage cabinet in high-gloss beige, broken by a glazed display band at mid level. Closed storage above and below keeps the display shelf as the focal point.",
+    "img": "assets/products/wardrobes-storage/chief-tall-cabinet-with-display-band-beige-gloss/Chief Tall Cabinet with Display Band - Beige Gloss - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-tall-cabinet-with-display-band-beige-gloss/Chief Tall Cabinet with Display Band - Beige Gloss - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "chief-three-door-display-cabinet-beige-gloss",
+    "name": "Chief Three-Door Display Cabinet — Beige Gloss",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / High-Gloss Beige with Glass Band",
+    "designer": "Buro Design",
+    "rating": 4.8,
+    "badge": "",
+    "description": "A wide three-bay cabinet in high-gloss beige with an open glazed display band across the centre. Suits reception areas and cabin walls needing both display and bulk storage.",
+    "img": "assets/products/wardrobes-storage/chief-three-door-display-cabinet-beige-gloss/Chief Three-Door Display Cabinet - Beige Gloss - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/chief-three-door-display-cabinet-beige-gloss/Chief Three-Door Display Cabinet - Beige Gloss - Front View.png"
+    ],
+    "colors": []
   },
   {
     "id": "elion",
@@ -13296,17 +13350,11 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_01.png",
     "images": [
       "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_01.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_02.png",
       "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_03.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_04.png",
       "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_05.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_06.png",
       "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_07.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_08.png",
       "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_09.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_10.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_11.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_12.png"
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_11.png"
     ],
     "colors": []
   },
@@ -13346,8 +13394,7 @@ const PRODUCTS = [
       "assets/products/office-workstations/liora/Liora_02.png",
       "assets/products/office-workstations/liora/Liora_03.png",
       "assets/products/office-workstations/liora/Liora_04.png",
-      "assets/products/office-workstations/liora/Liora_05.png",
-      "assets/products/office-workstations/liora/Liora_06.png"
+      "assets/products/office-workstations/liora/Liora_05.png"
     ],
     "colors": []
   },
@@ -13387,37 +13434,116 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "merit",
-    "name": "Merit",
+    "id": "merit-desk-with-pedestal-and-side-cabinet",
+    "name": "Merit Desk with Pedestal and Side Cabinet",
     "category": "office-workstations",
-    "type": "workstation",
-    "material": "Moldou Acacia Dark & Light",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut and Light Ash Laminate",
     "designer": "Buro Design",
     "rating": 4.7,
     "badge": "",
-    "description": "MERIT Director Suit Type 1 with Credestal 1800(W) X 2100(D) X 750(HT) MERIT Director Suit Type 2 with Credenza 1800(W) X 1800(D) X 750(HT)",
-    "img": "assets/products/office-workstations/merit/Merit_01.png",
+    "description": "A two-tone desk in walnut and light ash, fitted with a three-drawer pedestal and a two-door side cabinet at return height. The contrast fronts lift a compact cabin setup.",
+    "img": "assets/products/office-workstations/merit-desk-with-pedestal-and-side-cabinet/Merit Desk with Pedestal and Side Cabinet - Front View.png",
     "images": [
-      "assets/products/office-workstations/merit/Merit_01.png",
-      "assets/products/office-workstations/merit/Merit_02.png",
-      "assets/products/office-workstations/merit/Merit_03.png",
-      "assets/products/office-workstations/merit/Merit_04.png",
-      "assets/products/office-workstations/merit/Merit_05.png",
-      "assets/products/office-workstations/merit/Merit_06.png",
-      "assets/products/office-workstations/merit/Merit_07.png",
-      "assets/products/office-workstations/merit/Merit_08.png",
-      "assets/products/office-workstations/merit/Merit_09.png",
-      "assets/products/office-workstations/merit/Merit_10.png",
-      "assets/products/office-workstations/merit/Merit_11.png",
-      "assets/products/office-workstations/merit/Merit_12.png",
-      "assets/products/office-workstations/merit/Merit_13.png",
-      "assets/products/office-workstations/merit/Merit_14.png",
-      "assets/products/office-workstations/merit/Merit_15.png",
-      "assets/products/office-workstations/merit/Merit_16.png"
+      "assets/products/office-workstations/merit-desk-with-pedestal-and-side-cabinet/Merit Desk with Pedestal and Side Cabinet - Front View.png"
     ],
-    "colors": [
-      "Moldou Acacia Dark & Light"
-    ]
+    "colors": []
+  },
+  {
+    "id": "merit-l-shaped-desk-with-credenza",
+    "name": "Merit L-Shaped Desk with Credenza",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut and Light Ash Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "An L-shaped managerial desk with a low credenza return and a matching mobile pedestal, finished in walnut with light ash fronts.",
+    "img": "assets/products/office-workstations/merit-l-shaped-desk-with-credenza/Merit L-Shaped Desk with Credenza - Front View.png",
+    "images": [
+      "assets/products/office-workstations/merit-l-shaped-desk-with-credenza/Merit L-Shaped Desk with Credenza - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "merit-computer-table-with-hutch",
+    "name": "Merit Computer Table with Hutch",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut and Light Ash Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A computer table with a raised rear hutch, pull-out keyboard tray, open CPU bay and a three-drawer pedestal. Sized for reception and back-office terminals.",
+    "img": "assets/products/office-workstations/merit-computer-table-with-hutch/Merit Computer Table with Hutch - Front View.png",
+    "images": [
+      "assets/products/office-workstations/merit-computer-table-with-hutch/Merit Computer Table with Hutch - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "merit-straight-writing-desk",
+    "name": "Merit Straight Writing Desk",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Laminate with Light Ash Panel",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A straight-top writing desk in walnut with a contrasting light ash modesty panel and a grommet for cable pass-through.",
+    "img": "assets/products/office-workstations/merit-straight-writing-desk/Merit Straight Writing Desk - Front View.png",
+    "images": [
+      "assets/products/office-workstations/merit-straight-writing-desk/Merit Straight Writing Desk - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "merit-two-door-low-cabinet",
+    "name": "Merit Two-Door Low Cabinet",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Walnut and Light Ash Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A desk-height two-door cabinet with light ash fronts and a walnut carcass. Doubles as a printer stand beside a Merit desk.",
+    "img": "assets/products/wardrobes-storage/merit-two-door-low-cabinet/Merit Two-Door Low Cabinet - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/merit-two-door-low-cabinet/Merit Two-Door Low Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "merit-mid-height-two-door-cabinet",
+    "name": "Merit Mid-Height Two-Door Cabinet",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Walnut and Light Ash Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A mid-height two-door cabinet in the Merit two-tone finish, giving extra filing levels without closing off the room.",
+    "img": "assets/products/wardrobes-storage/merit-mid-height-two-door-cabinet/Merit Mid-Height Two-Door Cabinet - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/merit-mid-height-two-door-cabinet/Merit Mid-Height Two-Door Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "merit-sideboard-with-drawer-bank",
+    "name": "Merit Sideboard with Drawer Bank",
+    "category": "wardrobes-storage",
+    "type": "sideboard",
+    "material": "Engineered Wood / Walnut and Light Ash Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A wide sideboard pairing two door bays with a central three-drawer stack, finished in light ash over a walnut top and plinth.",
+    "img": "assets/products/wardrobes-storage/merit-sideboard-with-drawer-bank/Merit Sideboard with Drawer Bank - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/merit-sideboard-with-drawer-bank/Merit Sideboard with Drawer Bank - Front View.png"
+    ],
+    "colors": []
   },
   {
     "id": "merit_estillo_conference",
@@ -13567,37 +13693,180 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "nova-workstation",
-    "name": "Nova",
+    "id": "nova-executive-l-shaped-desk",
+    "name": "Nova Executive L-Shaped Desk",
     "category": "office-workstations",
-    "type": "workstation",
-    "material": "Vermount",
+    "type": "desk",
+    "material": "Engineered Wood / Wenge Laminate with Zebrano Accent",
     "designer": "Buro Design",
-    "rating": 5,
+    "rating": 4.7,
     "badge": "",
-    "description": "Nova has a durable, commercial-grade work surface that lets you handle any task with ease. It is accompanied by several storage options a blend of minimalistic design and maximum functionality, the Nova is simply adorable.",
-    "img": "assets/products/office-workstations/nova-workstation/Nova_01.png",
+    "description": "A large L-shaped executive desk in wenge with a zebrano accent band, combining a side credenza return and a drawer pedestal. Cable routing is built into the worktop.",
+    "img": "assets/products/office-workstations/nova-executive-l-shaped-desk/Nova Executive L-Shaped Desk - Front View.png",
     "images": [
-      "assets/products/office-workstations/nova-workstation/Nova_01.png",
-      "assets/products/office-workstations/nova-workstation/Nova_02.png",
-      "assets/products/office-workstations/nova-workstation/Nova_03.png",
-      "assets/products/office-workstations/nova-workstation/Nova_04.png",
-      "assets/products/office-workstations/nova-workstation/Nova_05.png",
-      "assets/products/office-workstations/nova-workstation/Nova_06.png",
-      "assets/products/office-workstations/nova-workstation/Nova_07.png",
-      "assets/products/office-workstations/nova-workstation/Nova_08.png",
-      "assets/products/office-workstations/nova-workstation/Nova_09.png",
-      "assets/products/office-workstations/nova-workstation/Nova_10.png",
-      "assets/products/office-workstations/nova-workstation/Nova_11.png",
-      "assets/products/office-workstations/nova-workstation/Nova_12.png",
-      "assets/products/office-workstations/nova-workstation/Nova_13.png",
-      "assets/products/office-workstations/nova-workstation/Nova_14.png",
-      "assets/products/office-workstations/nova-workstation/Nova_15.png",
-      "assets/products/office-workstations/nova-workstation/Nova_16.png"
+      "assets/products/office-workstations/nova-executive-l-shaped-desk/Nova Executive L-Shaped Desk - Front View.png"
     ],
-    "colors": [
-      "Vermount"
-    ]
+    "colors": []
+  },
+  {
+    "id": "nova-l-shaped-desk-with-side-cabinet",
+    "name": "Nova L-Shaped Desk with Side Cabinet",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A mid-size L-shaped desk in wenge, supplied with a fixed three-drawer pedestal and a lockable two-door side cabinet at return height.",
+    "img": "assets/products/office-workstations/nova-l-shaped-desk-with-side-cabinet/Nova L-Shaped Desk with Side Cabinet - Front View.png",
+    "images": [
+      "assets/products/office-workstations/nova-l-shaped-desk-with-side-cabinet/Nova L-Shaped Desk with Side Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-l-shaped-desk-with-twin-pedestals",
+    "name": "Nova L-Shaped Desk with Twin Pedestals",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "An L-shaped desk configured with pedestals under both the main top and the return, giving maximum drawer capacity in a single-user cabin.",
+    "img": "assets/products/office-workstations/nova-l-shaped-desk-with-twin-pedestals/Nova L-Shaped Desk with Twin Pedestals - Front View.png",
+    "images": [
+      "assets/products/office-workstations/nova-l-shaped-desk-with-twin-pedestals/Nova L-Shaped Desk with Twin Pedestals - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-straight-writing-desk",
+    "name": "Nova Straight Writing Desk",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A clean straight-top writing desk in wenge with a full modesty panel and levelling glides. Pairs with any Nova mobile pedestal.",
+    "img": "assets/products/office-workstations/nova-straight-writing-desk/Nova Straight Writing Desk - Front View.png",
+    "images": [
+      "assets/products/office-workstations/nova-straight-writing-desk/Nova Straight Writing Desk - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-computer-table-with-hutch",
+    "name": "Nova Computer Table with Hutch",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A computer table with a raised rear hutch, sliding keyboard tray, CPU bay and a three-drawer stack. Designed for cashier counters and back-office terminals.",
+    "img": "assets/products/office-workstations/nova-computer-table-with-hutch/Nova Computer Table with Hutch - Front View.png",
+    "images": [
+      "assets/products/office-workstations/nova-computer-table-with-hutch/Nova Computer Table with Hutch - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-credenza-with-drawer-bank",
+    "name": "Nova Credenza with Drawer Bank",
+    "category": "wardrobes-storage",
+    "type": "credenza",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A low credenza in wenge with two lockable door bays and a three-drawer bank. Sits behind an executive desk at return height.",
+    "img": "assets/products/wardrobes-storage/nova-credenza-with-drawer-bank/Nova Credenza with Drawer Bank - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/nova-credenza-with-drawer-bank/Nova Credenza with Drawer Bank - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-two-door-cabinet-accent-band",
+    "name": "Nova Two-Door Cabinet with Accent Band",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Wenge Laminate with Zebrano Accent",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A desk-height two-door storage cabinet in wenge, detailed with a zebrano accent band across the door tops and a chrome pull.",
+    "img": "assets/products/wardrobes-storage/nova-two-door-cabinet-accent-band/Nova Two-Door Cabinet with Accent Band - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/nova-two-door-cabinet-accent-band/Nova Two-Door Cabinet with Accent Band - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-two-door-lockable-cabinet",
+    "name": "Nova Two-Door Lockable Cabinet",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A plain-front two-door cabinet in wenge with a central lock and chrome handles. Fits under a return or stands alone as a printer base.",
+    "img": "assets/products/wardrobes-storage/nova-two-door-lockable-cabinet/Nova Two-Door Lockable Cabinet - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/nova-two-door-lockable-cabinet/Nova Two-Door Lockable Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-mid-height-two-door-cabinet",
+    "name": "Nova Mid-Height Two-Door Cabinet",
+    "category": "wardrobes-storage",
+    "type": "cabinet",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A mid-height lockable cabinet in wenge, giving three internal filing levels while staying below partition height.",
+    "img": "assets/products/wardrobes-storage/nova-mid-height-two-door-cabinet/Nova Mid-Height Two-Door Cabinet - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/nova-mid-height-two-door-cabinet/Nova Mid-Height Two-Door Cabinet - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-tall-glass-door-bookcase",
+    "name": "Nova Tall Glass-Door Bookcase",
+    "category": "wardrobes-storage",
+    "type": "bookcase",
+    "material": "Engineered Wood / Wenge Laminate with Glass Doors",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A full-height bookcase in wenge with glazed upper doors over solid lower doors. Adjustable shelves take box files and reference volumes.",
+    "img": "assets/products/wardrobes-storage/nova-tall-glass-door-bookcase/Nova Tall Glass-Door Bookcase - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/nova-tall-glass-door-bookcase/Nova Tall Glass-Door Bookcase - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "nova-three-drawer-mobile-pedestal",
+    "name": "Nova Three-Drawer Mobile Pedestal",
+    "category": "wardrobes-storage",
+    "type": "pedestal",
+    "material": "Engineered Wood / Wenge Laminate",
+    "designer": "Buro Design",
+    "rating": 4.7,
+    "badge": "",
+    "description": "A three-drawer mobile pedestal in wenge with a central lock and castors. Rolls under any Nova desk top.",
+    "img": "assets/products/wardrobes-storage/nova-three-drawer-mobile-pedestal/Nova Three-Drawer Mobile Pedestal - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/nova-three-drawer-mobile-pedestal/Nova Three-Drawer Mobile Pedestal - Front View.png"
+    ],
+    "colors": []
   },
   {
     "id": "nova_integra_magnus",
@@ -13709,39 +13978,20 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/prestige/Prestige_01.png",
     "images": [
       "assets/products/office-workstations/prestige/Prestige_01.png",
-      "assets/products/office-workstations/prestige/Prestige_02.png",
       "assets/products/office-workstations/prestige/Prestige_03.png",
       "assets/products/office-workstations/prestige/Prestige_04.png",
       "assets/products/office-workstations/prestige/Prestige_05.png",
-      "assets/products/office-workstations/prestige/Prestige_06.png",
       "assets/products/office-workstations/prestige/Prestige_07.png",
-      "assets/products/office-workstations/prestige/Prestige_08.png",
       "assets/products/office-workstations/prestige/Prestige_09.png",
       "assets/products/office-workstations/prestige/Prestige_10.png",
-      "assets/products/office-workstations/prestige/Prestige_11.png",
       "assets/products/office-workstations/prestige/Prestige_12.png",
       "assets/products/office-workstations/prestige/Prestige_13.png",
       "assets/products/office-workstations/prestige/Prestige_14.png",
-      "assets/products/office-workstations/prestige/Prestige_15.png",
       "assets/products/office-workstations/prestige/Prestige_16.png",
-      "assets/products/office-workstations/prestige/Prestige_17.png",
       "assets/products/office-workstations/prestige/Prestige_18.png",
-      "assets/products/office-workstations/prestige/Prestige_19.png",
       "assets/products/office-workstations/prestige/Prestige_20.png",
-      "assets/products/office-workstations/prestige/Prestige_21.png",
       "assets/products/office-workstations/prestige/Prestige_22.png",
-      "assets/products/office-workstations/prestige/Prestige_23.png",
-      "assets/products/office-workstations/prestige/Prestige_24.png",
-      "assets/products/office-workstations/prestige/Prestige_25.png",
-      "assets/products/office-workstations/prestige/Prestige_26.png",
-      "assets/products/office-workstations/prestige/Prestige_27.png",
-      "assets/products/office-workstations/prestige/Prestige_28.png",
-      "assets/products/office-workstations/prestige/Prestige_29.png",
-      "assets/products/office-workstations/prestige/Prestige_30.png",
-      "assets/products/office-workstations/prestige/Prestige_31.png",
-      "assets/products/office-workstations/prestige/Prestige_32.png",
-      "assets/products/office-workstations/prestige/Prestige_33.png",
-      "assets/products/office-workstations/prestige/Prestige_34.png"
+      "assets/products/office-workstations/prestige/Prestige_23.png"
     ],
     "colors": []
   },
@@ -13761,8 +14011,7 @@ const PRODUCTS = [
       "assets/products/office-workstations/primor/Primor_02.png",
       "assets/products/office-workstations/primor/Primor_03.png",
       "assets/products/office-workstations/primor/Primor_04.png",
-      "assets/products/office-workstations/primor/Primor_05.png",
-      "assets/products/office-workstations/primor/Primor_06.png"
+      "assets/products/office-workstations/primor/Primor_05.png"
     ],
     "colors": []
   },
@@ -13821,22 +14070,16 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/repute/Repute_01.png",
     "images": [
       "assets/products/office-workstations/repute/Repute_01.png",
-      "assets/products/office-workstations/repute/Repute_02.png",
       "assets/products/office-workstations/repute/Repute_03.png",
-      "assets/products/office-workstations/repute/Repute_04.png",
       "assets/products/office-workstations/repute/Repute_05.png",
       "assets/products/office-workstations/repute/Repute_06.png",
       "assets/products/office-workstations/repute/Repute_07.png",
       "assets/products/office-workstations/repute/Repute_08.png",
       "assets/products/office-workstations/repute/Repute_09.png",
       "assets/products/office-workstations/repute/Repute_10.png",
-      "assets/products/office-workstations/repute/Repute_11.png",
       "assets/products/office-workstations/repute/Repute_12.png",
       "assets/products/office-workstations/repute/Repute_13.png",
-      "assets/products/office-workstations/repute/Repute_14.png",
-      "assets/products/office-workstations/repute/Repute_15.png",
-      "assets/products/office-workstations/repute/Repute_16.png",
-      "assets/products/office-workstations/repute/Repute_17.png"
+      "assets/products/office-workstations/repute/Repute_14.png"
     ],
     "colors": [
       "Lyon Walnut"
@@ -13914,38 +14157,118 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "supreme",
-    "name": "Supreme",
+    "id": "supreme-executive-office-suite",
+    "name": "Supreme Executive Office Suite",
     "category": "office-workstations",
-    "type": "workstation",
-    "material": "Fumed Oak & Sahara Beige",
+    "type": "suite",
+    "material": "Engineered Wood / Dark Walnut Laminate with Fluted Detailing",
     "designer": "Buro Design",
-    "rating": 4.7,
+    "rating": 4.9,
     "badge": "",
-    "description": "Command attention with a workspace that reflects both authority and elegance. Designed with a sophisticated dual-tone finish, integrated charging ports, and premium fluted panel detailing, this executive setup blends aesthetics with functionality. The seamless combination of Fumed Oak and Sahara Beige textures, ample storage with glass-front cabinets, and a refined desk layout places you at the True centre of vision and control.",
-    "img": "assets/products/office-workstations/supreme/Supreme_01.png",
+    "description": "The complete Supreme cabin set: executive desk with fluted front, matching low credenzas, and a pair of full-height reeded-glass bookcases. Specified together for director and MD cabins.",
+    "img": "assets/products/office-workstations/supreme-executive-office-suite/Supreme Executive Office Suite - Front View.png",
     "images": [
-      "assets/products/office-workstations/supreme/Supreme_01.png",
-      "assets/products/office-workstations/supreme/Supreme_02.png",
-      "assets/products/office-workstations/supreme/Supreme_03.png",
-      "assets/products/office-workstations/supreme/Supreme_04.png",
-      "assets/products/office-workstations/supreme/Supreme_05.png",
-      "assets/products/office-workstations/supreme/Supreme_06.png",
-      "assets/products/office-workstations/supreme/Supreme_07.png",
-      "assets/products/office-workstations/supreme/Supreme_08.png",
-      "assets/products/office-workstations/supreme/Supreme_09.png",
-      "assets/products/office-workstations/supreme/Supreme_10.png",
-      "assets/products/office-workstations/supreme/Supreme_11.png",
-      "assets/products/office-workstations/supreme/Supreme_12.png",
-      "assets/products/office-workstations/supreme/Supreme_13.png",
-      "assets/products/office-workstations/supreme/Supreme_14.png",
-      "assets/products/office-workstations/supreme/Supreme_15.png",
-      "assets/products/office-workstations/supreme/Supreme_16.png",
-      "assets/products/office-workstations/supreme/Supreme_17.png"
+      "assets/products/office-workstations/supreme-executive-office-suite/Supreme Executive Office Suite - Front View.png"
     ],
-    "colors": [
-      "Fumed Oak & Sahara Beige"
-    ]
+    "colors": []
+  },
+  {
+    "id": "supreme-executive-desk-walnut",
+    "name": "Supreme Executive Desk — Walnut",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Dark Walnut Laminate with Fluted Panel",
+    "designer": "Buro Design",
+    "rating": 4.9,
+    "badge": "",
+    "description": "A dark walnut executive desk with a fluted modesty panel, an inset leather writing pad and flanking storage returns. A concealed desktop port keeps charging cables tidy.",
+    "img": "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - Front View.png",
+    "images": [
+      "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - Front View.png",
+      "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - View 2.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "supreme-l-shaped-executive-desk-two-tone",
+    "name": "Supreme L-Shaped Executive Desk — Two-Tone",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Walnut Top with Light Grey Base",
+    "designer": "Buro Design",
+    "rating": 4.9,
+    "badge": "",
+    "description": "A two-tone L-shaped executive desk pairing a dark walnut top with a light grey base and fluted end panel. Includes a drawer return and an inset leather writing surface.",
+    "img": "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - Front View.png",
+    "images": [
+      "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - Front View.png",
+      "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - View 2.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "supreme-executive-desk-with-storage-wenge-grey",
+    "name": "Supreme Executive Desk with Storage — Wenge & Grey",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Wenge and Grey Laminate",
+    "designer": "Buro Design",
+    "rating": 4.9,
+    "badge": "",
+    "description": "An executive desk in wenge and grey with a three-drawer pedestal on one side and a hinged door cabinet on the other, giving mixed filing and bulk storage under one top.",
+    "img": "assets/products/office-workstations/supreme-executive-desk-with-storage-wenge-grey/Supreme Executive Desk with Storage - Wenge & Grey - Front View.png",
+    "images": [
+      "assets/products/office-workstations/supreme-executive-desk-with-storage-wenge-grey/Supreme Executive Desk with Storage - Wenge & Grey - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "supreme-l-shaped-desk-with-credenza-grey-walnut",
+    "name": "Supreme L-Shaped Desk with Credenza — Grey & Walnut",
+    "category": "office-workstations",
+    "type": "desk",
+    "material": "Engineered Wood / Light Grey and Walnut Laminate",
+    "designer": "Buro Design",
+    "rating": 4.9,
+    "badge": "",
+    "description": "A light grey L-shaped desk with a walnut top and a matching low credenza return carrying three drawers and a door bay.",
+    "img": "assets/products/office-workstations/supreme-l-shaped-desk-with-credenza-grey-walnut/Supreme L-Shaped Desk with Credenza - Grey & Walnut - Front View.png",
+    "images": [
+      "assets/products/office-workstations/supreme-l-shaped-desk-with-credenza-grey-walnut/Supreme L-Shaped Desk with Credenza - Grey & Walnut - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "supreme-tall-reeded-glass-bookcase",
+    "name": "Supreme Tall Reeded-Glass Bookcase",
+    "category": "wardrobes-storage",
+    "type": "bookcase",
+    "material": "Engineered Wood / Walnut Laminate with Reeded Glass",
+    "designer": "Buro Design",
+    "rating": 4.9,
+    "badge": "",
+    "description": "A full-height bookcase fronted with reeded glass doors over a fluted-panel storage base, finished with slim brass handles. Files stay visible but softened behind the ribbed glazing.",
+    "img": "assets/products/wardrobes-storage/supreme-tall-reeded-glass-bookcase/Supreme Tall Reeded-Glass Bookcase - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/supreme-tall-reeded-glass-bookcase/Supreme Tall Reeded-Glass Bookcase - Front View.png"
+    ],
+    "colors": []
+  },
+  {
+    "id": "supreme-three-door-credenza",
+    "name": "Supreme Three-Door Credenza",
+    "category": "wardrobes-storage",
+    "type": "credenza",
+    "material": "Engineered Wood / Walnut Laminate with Fluted Panel",
+    "designer": "Buro Design",
+    "rating": 4.9,
+    "badge": "",
+    "description": "A three-door low credenza in dark walnut with a fluted band across the door tops and brass pulls. Runs the length of a cabin wall at desk height.",
+    "img": "assets/products/wardrobes-storage/supreme-three-door-credenza/Supreme Three-Door Credenza - Front View.png",
+    "images": [
+      "assets/products/wardrobes-storage/supreme-three-door-credenza/Supreme Three-Door Credenza - Front View.png"
+    ],
+    "colors": []
   },
   {
     "id": "teron",
@@ -13979,8 +14302,7 @@ const PRODUCTS = [
       "assets/products/office-workstations/titus/Titus_02.png",
       "assets/products/office-workstations/titus/Titus_03.png",
       "assets/products/office-workstations/titus/Titus_04.png",
-      "assets/products/office-workstations/titus/Titus_05.png",
-      "assets/products/office-workstations/titus/Titus_06.png"
+      "assets/products/office-workstations/titus/Titus_05.png"
     ],
     "colors": [
       "HG Cashmere & Dark Brown Eucalyptus"
@@ -14059,8 +14381,7 @@ const PRODUCTS = [
       "assets/products/office-workstations/vemior/Vemior_01.png",
       "assets/products/office-workstations/vemior/Vemior_02.png",
       "assets/products/office-workstations/vemior/Vemior_03.png",
-      "assets/products/office-workstations/vemior/Vemior_04.png",
-      "assets/products/office-workstations/vemior/Vemior_05.png"
+      "assets/products/office-workstations/vemior/Vemior_04.png"
     ],
     "colors": []
   },
@@ -15309,7 +15630,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.2,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Alpha combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.png"
@@ -15344,7 +15665,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.4,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Gamma combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png",
@@ -15365,7 +15686,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.9,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Delta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png",
@@ -15386,7 +15707,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.8,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Epsilon combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png",
@@ -15407,7 +15728,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.1,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Zeta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png",
@@ -15428,7 +15749,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.9,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Eta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png",
@@ -15449,12 +15770,11 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.4,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Theta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png",
       "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_02.png",
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_03.png",
       "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_04.png",
       "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_05.png",
       "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_06.png"
@@ -15470,7 +15790,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.5,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Iota combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png",
@@ -15492,7 +15812,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.8,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Kappa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
@@ -15500,8 +15820,7 @@ const PRODUCTS = [
       "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_03.png",
       "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_04.png",
       "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_05.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_06.png",
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_07.png"
+      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_06.png"
     ],
     "colors": []
   },
@@ -15514,7 +15833,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.5,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Lambda combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png",
@@ -15522,8 +15841,7 @@ const PRODUCTS = [
       "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_03.png",
       "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_04.png",
       "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_05.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_06.png",
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_07.png"
+      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_06.png"
     ],
     "colors": []
   },
@@ -15536,7 +15854,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.9,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Mu combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png",
@@ -15565,22 +15883,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-bedroom-suite-alpha",
-    "name": "Bedroom Suite Alpha",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Alpha combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-alpha/Bedroom Suite Alpha - Front View.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-alpha/Bedroom Suite Alpha - Front View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-bedroom-suite-beta",
     "name": "Bedroom Suite Beta",
     "category": "sleeping-beds",
@@ -15595,218 +15897,6 @@ const PRODUCTS = [
       "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.png",
       "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Front View.png",
       "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Side View.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-delta",
-    "name": "Bedroom Suite Delta",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Delta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-delta/Bedroom Suite Delta - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-epsilon",
-    "name": "Bedroom Suite Epsilon",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Epsilon combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-epsilon/Bedroom Suite Epsilon - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-eta",
-    "name": "Bedroom Suite Eta",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Eta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-eta/Bedroom Suite Eta - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-gamma",
-    "name": "Bedroom Suite Gamma",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Gamma combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-gamma/Bedroom Suite Gamma - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-iota",
-    "name": "Bedroom Suite Iota",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Iota combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - High Angle View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-iota/Bedroom Suite Iota - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-kappa",
-    "name": "Bedroom Suite Kappa",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Kappa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - High Angle View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-kappa/Bedroom Suite Kappa - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-lambda",
-    "name": "Bedroom Suite Lambda",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Lambda combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - High Angle View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-lambda/Bedroom Suite Lambda - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-mu",
-    "name": "Bedroom Suite Mu",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Mu combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-mu/Bedroom Suite Mu - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-mu/Bedroom Suite Mu - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-mu/Bedroom Suite Mu - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-mu/Bedroom Suite Mu - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-mu/Bedroom Suite Mu - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-mu/Bedroom Suite Mu - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-theta",
-    "name": "Bedroom Suite Theta",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Theta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-theta/Bedroom Suite Theta - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-bedroom-suite-zeta",
-    "name": "Bedroom Suite Zeta",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Zeta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Angle Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Angle Perspective.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Context View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Corner Detail.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Front View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Side View.png",
-      "assets/products/sleeping-beds/cat-bedroom-suite-zeta/Bedroom Suite Zeta - Studio Showcase.png"
     ],
     "colors": []
   },
@@ -16730,7 +16820,6 @@ const PRODUCTS = [
     "images": [
       "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.png",
       "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_02.png",
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_03.png",
       "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_04.png",
       "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_05.png",
       "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_06.png",
@@ -16960,11 +17049,8 @@ const PRODUCTS = [
     "img": "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png",
     "images": [
       "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png",
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_02.png",
       "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_03.png",
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_04.png",
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_05.png",
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_06.png"
+      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_05.png"
     ],
     "colors": []
   },
@@ -17291,18 +17377,18 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "basket-storage-unit",
-    "name": "Basket Storage Unit",
-    "category": "cafe-chairs",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "id": "white-lattice-back-brass-bar-stool",
+    "name": "White Lattice-Back Brass Bar Stool",
+    "category": "cafe-bar-stools",
+    "type": "cafe",
+    "material": "Moulded Polypropylene / Antique Brass Steel",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Basket Storage Unit combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/basket-storage-unit/Basket Storage Unit - Front View.png",
+    "description": "A counter-height bar stool with a moulded white polypropylene shell, its curved back pierced in a lattice weave, seated on four tapered antique-brass steel legs with a square footrest. Wipe-clean and stackable-friendly for cafés, bars and kitchen islands.",
+    "img": "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.png",
     "images": [
-      "assets/products/cafe-chairs/basket-storage-unit/Basket Storage Unit - Front View.png"
+      "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.png"
     ],
     "colors": []
   },
@@ -19076,22 +19162,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-beige-fabric-pedestal-swivel-tub-chair",
-    "name": "Beige Fabric Pedestal Swivel Tub Chair",
-    "category": "wardrobes-storage",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Beige Fabric Pedestal Swivel Tub Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-beige-fabric-pedestal-swivel-tub-chair/Beige Fabric Pedestal Swivel Tub Chair.jpg",
-    "images": [
-      "assets/products/wardrobes-storage/cat-beige-fabric-pedestal-swivel-tub-chair/Beige Fabric Pedestal Swivel Tub Chair.jpg"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-beige-metallic-locking-file-cabinet",
     "name": "Beige Metallic Locking File Cabinet",
     "category": "wardrobes-storage",
@@ -19200,22 +19270,6 @@ const PRODUCTS = [
     "img": "assets/products/wardrobes-storage/cat-charcoal-tall-bookshelf-tower/charcoal_tall_bookshelf_tower.png",
     "images": [
       "assets/products/wardrobes-storage/cat-charcoal-tall-bookshelf-tower/charcoal_tall_bookshelf_tower.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-cream-boucle-chesterfield-comboset",
-    "name": "Cream Boucle Chesterfield Comboset",
-    "category": "wardrobes-storage",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Cream Boucle Chesterfield Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-cream-boucle-chesterfield-comboset/cream_boucle_chesterfield_comboset.png",
-    "images": [
-      "assets/products/wardrobes-storage/cat-cream-boucle-chesterfield-comboset/cream_boucle_chesterfield_comboset.png"
     ],
     "colors": []
   },
@@ -19363,7 +19417,6 @@ const PRODUCTS = [
     "img": "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Angle Perspective.png",
     "images": [
       "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Context View.png",
       "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Corner Detail.png",
       "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Front View.png",
       "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Side View.png",
@@ -19480,24 +19533,6 @@ const PRODUCTS = [
     "img": "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.png",
     "images": [
       "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-oria-office-planter-storage-credenza",
-    "name": "Oria Office Planter Storage Credenza",
-    "category": "wardrobes-storage",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Oria Office Planter Storage Credenza combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-oria-office-planter-storage-credenza/Oria Planter Credenza - Angle Perspective.png",
-    "images": [
-      "assets/products/wardrobes-storage/cat-oria-office-planter-storage-credenza/Oria Planter Credenza - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-oria-office-planter-storage-credenza/Oria Planter Credenza - Front View.png",
-      "assets/products/wardrobes-storage/cat-oria-office-planter-storage-credenza/Oria Planter Credenza - Side View.png"
     ],
     "colors": []
   },
@@ -19665,23 +19700,14 @@ const PRODUCTS = [
     "img": "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_01.png",
     "images": [
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_01.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_02.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_03.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_04.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_05.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_06.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_07.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_08.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_09.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_10.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_11.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_12.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_13.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_14.png",
       "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_15.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_16.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_17.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_18.png"
+      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_17.png"
     ],
     "colors": []
   },
@@ -19698,25 +19724,14 @@ const PRODUCTS = [
     "img": "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_01.png",
     "images": [
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_01.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_02.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_03.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_04.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_05.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_06.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_07.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_08.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_09.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_10.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_11.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_12.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_13.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_14.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_15.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_16.png",
       "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_17.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_18.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_19.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_20.png"
+      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_19.png"
     ],
     "colors": []
   },

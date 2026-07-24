@@ -5,12 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Layermax | Contact Us</title>
   <meta name="description" content="Contact Layermax customer support for furniture inquiries, order status, customization support, and design consult sessions.">
+  <!-- Social / canonical -->
+  <link rel="canonical" href="https://www.layermax.com/pages/contact.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="LayerMax">
+  <meta property="og:url" content="https://www.layermax.com/pages/contact.html">
+  <meta property="og:title" content="Layermax | Contact Us">
+  <meta property="og:description" content="Contact Layermax customer support for furniture inquiries, order status, customization support, and design consult sessions.">
+  <meta property="og:image" content="https://www.layermax.com/assets/luxury_living_room_showcase.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Layermax | Contact Us">
+  <meta name="twitter:description" content="Contact Layermax customer support for furniture inquiries, order status, customization support, and design consult sessions.">
+  <meta name="twitter:image" content="https://www.layermax.com/assets/luxury_living_room_showcase.png">
+  <!-- /social -->
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <!-- CSS Stylesheets -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="index.css?v=6">
+  <link rel="stylesheet" href="index.css?v=7">
   <link rel="icon" type="image/png" href="favicon.png?v=3">
 </head>
 <body>
@@ -88,7 +101,7 @@
               <p style="color: var(--color-muted); font-size: 13px; margin-top: 2px;">Response within 24 hours</p>
             </div>
 
-            <div style="border-top: 1px solid var(--color-border); padding-top: 20px;">
+            <div id="showroom" style="border-top: 1px solid var(--color-border); padding-top: 20px; scroll-margin-top: 100px;">
               <h3 style="font-size: 16px; font-weight: 700; margin-bottom: 12px; color: var(--color-primary);"><i class="fa-solid fa-location-dot" style="margin-right: 8px;"></i>Main Showroom</h3>
               <p style="font-size: 14px; line-height: 1.5; color: var(--color-muted);">
                 <strong>Layermax Furniture Tower</strong><br>
@@ -107,7 +120,7 @@
             <h1 class="enquiry-form-title" style="font-size: 28px; line-height: 1.2; margin-bottom: 12px;">Contact Us</h1>
             <p class="enquiry-form-subtitle">Have questions about order tracking, delivery schedules, frame adjustments, or customized products? Send our specialist support team a message below.</p>
             
-            <form id="contact-support-form" onsubmit="submitSupportForm(event)">
+            <form id="contact-support-form">
               <div class="form-group-row-split">
                 <div class="form-input-group">
                   <label class="form-label" for="support-name">Full Name <span class="text-gold">*</span></label>
@@ -202,9 +215,9 @@
         <h4>Information</h4>
         <ul class="footer-links">
           <li><a href="about.html">About Us</a></li>
-          <li><a href="#">Showroom Locations</a></li>
-          <li><a href="#">Custom Orders</a></li>
-          <li><a href="#">Careers</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html#showroom">Showroom Locations</a></li>
+          <li><a href="custom.html">Custom Orders</a></li>
         </ul>
       </div>
 
@@ -224,26 +237,25 @@
   </footer>
 
   <!-- JavaScript files -->
-  <script src="products-data.js?v=3"></script>
-  <script src="index.js?v=6"></script>
+  <script src="index.js?v=7"></script>
+  <script src="forms.js?v=1"></script>
   <script>
-    function submitSupportForm(event) {
-      event.preventDefault();
-      
-      const submitBtn = document.getElementById('support-submit-btn');
-      const form = document.getElementById('contact-support-form');
-      const successContainer = document.getElementById('support-success-container');
-      
-      // Visual feedback
-      submitBtn.innerHTML = '<i class="fa-solid fa-circle-notch fa-spin"></i> Submitting...';
-      submitBtn.disabled = true;
-
-      // Simulate API submission
-      setTimeout(() => {
-        form.style.display = 'none';
-        successContainer.style.display = 'block';
-      }, 1500);
-    }
+    initEnquiryForm({
+      formId: 'contact-support-form',
+      btnId: 'support-submit-btn',
+      successId: 'support-success-container',
+      pendingText: 'Sending...',
+      idleHTML: '<i class="fa-solid fa-paper-plane"></i> Send Message',
+      payload: () => ({
+        type: 'support',
+        name: fieldValue('support-name'),
+        email: fieldValue('support-email'),
+        phone: fieldValue('support-phone'),
+        orderId: fieldValue('support-order-id'),
+        subject: fieldValue('support-subject'),
+        message: fieldValue('support-message')
+      })
+    });
   </script>
 </body>
 </html>

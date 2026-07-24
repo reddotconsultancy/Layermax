@@ -6,10 +6,16 @@ Thumbs.db
 
 # === Backups & scratch ===
 *.bak
+*.prebak*
+*.orig
 backup/
+# Generated one-off reports
+tools/*.html
 
 # === Tooling (if added later) ===
 node_modules/
+.wrangler/
+.dev.vars
 
 # === Large raw source assets (NOT needed to run the site) ===
 # Raw un-cropped catalogue export
@@ -19,3 +25,7 @@ Catalogue/
 assets/Logo/*.pdf
 Logo/*.pdf
 
+
+# Owner review scratch folder (not part of the site)
+ownerview/
+tools/lowres-originals/

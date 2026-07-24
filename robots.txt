@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Enquiry endpoint — nothing to index
+Disallow: /api/
+
+Sitemap: https://www.layermax.com/sitemap.xml

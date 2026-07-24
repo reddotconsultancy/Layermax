@@ -4098,6 +4098,24 @@ header.scrolled + .catalog-hero + .catalog-tabs-section {
   transform: translateY(-0.6px);
 }
 
+.enquiry-submit-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.form-error-message {
+  display: none;
+  margin-top: 14px;
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  background-color: rgba(200, 40, 40, 0.08);
+  border: 1px solid rgba(200, 40, 40, 0.25);
+  color: #a32020;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
 .enquiry-success-message {
   text-align: center;
   padding: 30px 10px;

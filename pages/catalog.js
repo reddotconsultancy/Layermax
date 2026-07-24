@@ -65,10 +65,6 @@ document.addEventListener('DOMContentLoaded', () => {
   renderProducts();
 });
 
-window.addEventListener('scroll', () => {
-  sessionStorage.setItem('catalogScrollPosition', window.scrollY);
-});
-
 // Restore correct page when user presses Back/Forward
 window.addEventListener('popstate', (e) => {
   const params = new URLSearchParams(window.location.search);
@@ -266,8 +262,9 @@ function renderPagination(totalPages, activePage) {
 // FILTERS
 function initCatalogFilters() {
   updateBadges();
-  document.getElementById('sort-products')?.addEventListener('change', renderProducts);
-  document.getElementById('catalog-search-input')?.addEventListener('input', renderProducts);
+  // Sorting or searching changes the result set, so start again from page 1
+  document.getElementById('sort-products')?.addEventListener('change', () => { currentPage = 1; renderProducts(); });
+  document.getElementById('catalog-search-input')?.addEventListener('input', () => { currentPage = 1; renderProducts(); });
   document.getElementById('clear-filters-btn')?.addEventListener('click', resetAllFilters);
   document.getElementById('empty-reset-btn')?.addEventListener('click', resetAllFilters);
   bindCategoryButtons();

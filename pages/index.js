@@ -8,7 +8,6 @@ let currentTestimonialSlide = 0;
 document.addEventListener('DOMContentLoaded', () => {
   // Global components (present on all pages)
   initStickyHeader();
-  initSearchToggle();
   initMobileMenu();
   initMobileFooterAccordion();
 
@@ -17,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (isHomepage) {
     initHeroSlider();
     initCategoryFilters();
-    initBestSellersScroll();
+    renderBestSellers();
     initTestimonialSlider();
   }
 });
@@ -70,8 +69,11 @@ function initHeroSlider() {
   const dots = document.querySelectorAll('.hero-dot');
   const prevBtn = document.getElementById('hero-prev');
   const nextBtn = document.getElementById('hero-next');
+  const slider = document.getElementById('hero-slider');
 
   if (!slides.length) return;
+
+  let autoplayTimer = null;
 
   function showSlide(index) {
     slides.forEach(s => s.classList.remove('active'));
@@ -81,13 +83,31 @@ function initHeroSlider() {
     dots[currentHeroSlide]?.classList.add('active');
   }
 
-  prevBtn?.addEventListener('click', () => showSlide(currentHeroSlide - 1));
-  nextBtn?.addEventListener('click', () => showSlide(currentHeroSlide + 1));
+  function startAutoplay() {
+    stopAutoplay();
+    autoplayTimer = setInterval(() => showSlide(currentHeroSlide + 1), 6000);
+  }
+
+  function stopAutoplay() {
+    if (autoplayTimer) { clearInterval(autoplayTimer); autoplayTimer = null; }
+  }
+
+  // Manual navigation restarts the countdown so the slide doesn't jump away
+  function goTo(index) { showSlide(index); startAutoplay(); }
+
+  prevBtn?.addEventListener('click', () => goTo(currentHeroSlide - 1));
+  nextBtn?.addEventListener('click', () => goTo(currentHeroSlide + 1));
   dots.forEach(dot => {
-    dot.addEventListener('click', (e) => showSlide(parseInt(e.target.getAttribute('data-slide'))));
+    dot.addEventListener('click', (e) => goTo(parseInt(e.target.getAttribute('data-slide'))));
   });
 
-  setInterval(() => showSlide(currentHeroSlide + 1), 6000);
+  slider?.addEventListener('mouseenter', stopAutoplay);
+  slider?.addEventListener('mouseleave', startAutoplay);
+  document.addEventListener('visibilitychange', () => {
+    document.hidden ? stopAutoplay() : startAutoplay();
+  });
+
+  startAutoplay();
 }
 
 // 5. TESTIMONIAL CAROUSEL
@@ -125,20 +145,13 @@ function renderFeaturedProducts(filterCategory = 'chair') {
   grid.innerHTML = filtered.slice(0, 8).map(p => productCardHTML(p, 'pages/')).join('');
 }
 
-function renderBestSellers(filterCategory = 'Chairs') {
+function renderBestSellers() {
   const slider = document.getElementById('best-sellers-slider');
   if (!slider) return;
 
   // Curated office-chair best sellers (shown in order)
   const BEST_SELLER_IDS = ['cosmo', 'drone', 'echo', 'eclipse', 'genesis', 'nexus'];
-  let filtered = PRODUCTS;
-  if (filterCategory === 'Chairs') {
-    filtered = BEST_SELLER_IDS.map(id => PRODUCTS.find(p => p.id === id)).filter(Boolean);
-  } else if (filterCategory === 'Sofas') {
-    filtered = PRODUCTS.filter(p => p.category === 'wooden-couches');
-  } else if (filterCategory === 'Workspace') {
-    filtered = PRODUCTS.filter(p => p.category === 'office-chairs' || p.category === 'center-tables');
-  }
+  const filtered = BEST_SELLER_IDS.map(id => PRODUCTS.find(p => p.id === id)).filter(Boolean);
 
   slider.innerHTML = filtered.slice(0, 6).map(p => productCardHTML(p, 'pages/')).join('');
 }
@@ -156,54 +169,7 @@ function initCategoryFilters() {
   });
 }
 
-function initBestSellersScroll() {
-  const tabBtns = document.querySelectorAll('.best-sellers-section .tab-btn');
-  renderBestSellers('Chairs');
-
-  tabBtns.forEach(btn => {
-    btn.addEventListener('click', (e) => {
-      tabBtns.forEach(b => b.classList.remove('active'));
-      e.target.classList.add('active');
-      renderBestSellers(e.target.textContent.trim());
-      document.getElementById('best-sellers-slider')?.scrollTo({ left: 0, behavior: 'smooth' });
-    });
-  });
-}
-
-// 7. SEARCH TOGGLE
-function initSearchToggle() {
-  const container = document.getElementById('search-box');
-  if (!container) return;
-  const toggle = document.getElementById('search-toggle');
-  const input = container.querySelector('.search-input');
-  if (!toggle || !input) return;
-
-  toggle.addEventListener('click', (e) => {
-    e.stopPropagation();
-    container.classList.toggle('active');
-    if (container.classList.contains('active')) input.focus();
-  });
-
-  document.addEventListener('click', (e) => {
-    if (!container.contains(e.target)) container.classList.remove('active');
-  });
-}
-
-// 8. NEWSLETTER SUBSCRIBE
-window.handleSubscribe = function (event) {
-  event.preventDefault();
-  const form = document.getElementById('newsletter-form');
-  const msg = document.getElementById('newsletter-msg');
-  const input = form.querySelector('input');
-
-  if (input.value) {
-    msg.classList.add('show', 'success');
-    input.value = '';
-    setTimeout(() => msg.classList.remove('show'), 4000);
-  }
-};
-
-// 9. MOBILE NAV DRAWER
+// 7. MOBILE NAV DRAWER
 function initMobileMenu() {
   const menuBtn = document.getElementById('mobile-menu-btn');
   const navLinks = document.querySelector('.nav-links');
@@ -225,7 +191,7 @@ function initMobileMenu() {
   });
 }
 
-// 10. MOBILE FOOTER ACCORDION
+// 8. MOBILE FOOTER ACCORDION
 function initMobileFooterAccordion() {
   const footerCols = document.querySelectorAll('.footer-col');
   footerCols.forEach(col => {

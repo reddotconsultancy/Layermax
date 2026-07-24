@@ -5,3 +5,6 @@ README.md
 wrangler.jsonc
 wrangler.toml
 node_modules/
+functions/
+tools/
+ownerview/
