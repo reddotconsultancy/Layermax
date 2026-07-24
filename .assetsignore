@@ -1,0 +1,7 @@
+.git/
+.gitignore
+backup/
+README.md
+wrangler.jsonc
+wrangler.toml
+node_modules/
