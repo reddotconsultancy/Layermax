@@ -8,6 +8,7 @@ const GROUPS = [
     { c: 'corner-sofas', l: 'Corner Sofas', i: 'fa-couch' } ] },
   { key: 'chairs', label: 'Chairs', icon: 'fa-chair', subs: [
     { c: 'office-chairs', l: 'Office Chairs', i: 'fa-briefcase' },
+    { c: 'dining-chairs', l: 'Dining Chairs', i: 'fa-utensils' },
     { c: 'chairs', l: 'Armchairs', i: 'fa-chair' } ] },
   { key: 'recliners', label: 'Recliners', icon: 'fa-chair', subs: [
     { c: 'recliners', l: 'Recliners', i: 'fa-chair' },

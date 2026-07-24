@@ -1090,7 +1090,7 @@ const PRODUCTS = [
   {
     "id": "cat-carved-mahogany-dining-chair",
     "name": "Carved Mahogany Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -1106,7 +1106,7 @@ const PRODUCTS = [
   {
     "id": "cat-carved-teak-wooden-dining-chair",
     "name": "Carved Teak Wooden Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -1138,7 +1138,7 @@ const PRODUCTS = [
   {
     "id": "cat-cherry-wood-geometric-dining-chair",
     "name": "Cherry Wood Geometric Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -1367,7 +1367,7 @@ const PRODUCTS = [
   {
     "id": "cat-danish-teak-slatted-dining-chair",
     "name": "Danish Teak Slatted Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -1383,7 +1383,7 @@ const PRODUCTS = [
   {
     "id": "cat-dark-mahogany-wooden-dining-chair",
     "name": "Dark Mahogany Wooden Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2727,7 +2727,7 @@ const PRODUCTS = [
   {
     "id": "cat-espresso-ladderback-dining-chair",
     "name": "Espresso Ladderback Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2793,7 +2793,7 @@ const PRODUCTS = [
   {
     "id": "cat-grey-patterned-fabric-dining-chair",
     "name": "Grey Patterned Fabric Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2825,7 +2825,7 @@ const PRODUCTS = [
   {
     "id": "cat-highback-wood-dining-chair-with-grey-cushion",
     "name": "Highback Wood Dining Chair With Grey Cushion",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2841,7 +2841,7 @@ const PRODUCTS = [
   {
     "id": "cat-light-oak-ladder-back-dining-chair-with-cream-seat",
     "name": "Light Oak Ladder Back Dining Chair With Cream Seat",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2857,7 +2857,7 @@ const PRODUCTS = [
   {
     "id": "cat-light-wood-dining-chair-with-slatted-back",
     "name": "Light Wood Dining Chair With Slatted Back",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2905,7 +2905,7 @@ const PRODUCTS = [
   {
     "id": "cat-mid-century-teak-dining-chairs-row-with-tweed-seats",
     "name": "Mid Century Teak Dining Chairs Row With Tweed Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2921,7 +2921,7 @@ const PRODUCTS = [
   {
     "id": "cat-mid-century-teak-dining-chairs-set-with-blue-seats",
     "name": "Mid Century Teak Dining Chairs Set With Blue Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2937,7 +2937,7 @@ const PRODUCTS = [
   {
     "id": "cat-mid-century-teak-dining-chairs-set-with-mustard-seats",
     "name": "Mid Century Teak Dining Chairs Set With Mustard Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2953,7 +2953,7 @@ const PRODUCTS = [
   {
     "id": "cat-mid-century-teak-dining-chairs-set-with-navy-seats",
     "name": "Mid Century Teak Dining Chairs Set With Navy Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2969,7 +2969,7 @@ const PRODUCTS = [
   {
     "id": "cat-mid-century-teak-dining-chairs-set-with-navy-seats-b",
     "name": "Mid Century Teak Dining Chairs Set With Navy Seats B",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -2985,7 +2985,7 @@ const PRODUCTS = [
   {
     "id": "cat-midcentury-walnut-dining-chair-set",
     "name": "Midcentury Walnut Dining Chair Set",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3001,7 +3001,7 @@ const PRODUCTS = [
   {
     "id": "cat-mission-oak-redvelvet-dining-chairs",
     "name": "Mission Oak Redvelvet Dining Chairs",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3081,7 +3081,7 @@ const PRODUCTS = [
   {
     "id": "cat-oak-bluepad-slatted-dining-chair",
     "name": "Oak Bluepad Slatted Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3097,7 +3097,7 @@ const PRODUCTS = [
   {
     "id": "cat-oak-highback-slatted-dining-chair",
     "name": "Oak Highback Slatted Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3113,7 +3113,7 @@ const PRODUCTS = [
   {
     "id": "cat-oak-redpad-ladderback-dining-chair",
     "name": "Oak Redpad Ladderback Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3129,7 +3129,7 @@ const PRODUCTS = [
   {
     "id": "cat-oak-slatted-padded-dining-chair",
     "name": "Oak Slatted Padded Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3145,7 +3145,7 @@ const PRODUCTS = [
   {
     "id": "cat-oak-xback-dining-chair",
     "name": "Oak Xback Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3161,7 +3161,7 @@ const PRODUCTS = [
   {
     "id": "cat-pair-of-dark-wood-dining-chairs-with-black-leather",
     "name": "Pair Of Dark Wood Dining Chairs With Black Leather",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3193,7 +3193,7 @@ const PRODUCTS = [
   {
     "id": "cat-pair-of-teak-dining-chairs-with-green-seats",
     "name": "Pair Of Teak Dining Chairs With Green Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3210,7 +3210,7 @@ const PRODUCTS = [
   {
     "id": "cat-pair-of-teak-dining-chairs-with-turquoise-seats",
     "name": "Pair Of Teak Dining Chairs With Turquoise Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3226,7 +3226,7 @@ const PRODUCTS = [
   {
     "id": "cat-row-of-4-teak-dining-chairs-with-black-seats",
     "name": "Row Of 4 Teak Dining Chairs With Black Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3242,7 +3242,7 @@ const PRODUCTS = [
   {
     "id": "cat-row-of-6-teak-dining-chairs-with-grey-seats-b",
     "name": "Row Of 6 Teak Dining Chairs With Grey Seats B",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3258,7 +3258,7 @@ const PRODUCTS = [
   {
     "id": "cat-row-of-8-teak-dining-chairs-with-grey-seats",
     "name": "Row Of 8 Teak Dining Chairs With Grey Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3274,7 +3274,7 @@ const PRODUCTS = [
   {
     "id": "cat-row-of-teak-dining-chairs-with-beige-seats",
     "name": "Row Of Teak Dining Chairs With Beige Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3306,7 +3306,7 @@ const PRODUCTS = [
   {
     "id": "cat-rustic-solid-wood-dining-chair",
     "name": "Rustic Solid Wood Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3338,7 +3338,7 @@ const PRODUCTS = [
   {
     "id": "cat-scandinavian-walnut-dining-chair",
     "name": "Scandinavian Walnut Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3354,7 +3354,7 @@ const PRODUCTS = [
   {
     "id": "cat-scandinavian-wood-dining-chair-with-sage-cushion",
     "name": "Scandinavian Wood Dining Chair With Sage Cushion",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3370,7 +3370,7 @@ const PRODUCTS = [
   {
     "id": "cat-sculptural-walnut-dining-chair-with-white-seat",
     "name": "Sculptural Walnut Dining Chair With White Seat",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3386,7 +3386,7 @@ const PRODUCTS = [
   {
     "id": "cat-sculptural-wood-dining-chair-with-cream-cushion",
     "name": "Sculptural Wood Dining Chair With Cream Cushion",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3402,7 +3402,7 @@ const PRODUCTS = [
   {
     "id": "cat-set-of-6-teak-dining-chairs-with-brown-seats",
     "name": "Set Of 6 Teak Dining Chairs With Brown Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3418,7 +3418,7 @@ const PRODUCTS = [
   {
     "id": "cat-set-of-6-teak-dining-chairs-with-olive-green-seats",
     "name": "Set Of 6 Teak Dining Chairs With Olive Green Seats",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3434,7 +3434,7 @@ const PRODUCTS = [
   {
     "id": "cat-set-of-teak-dining-chairs-with-blue-upholstery",
     "name": "Set Of Teak Dining Chairs With Blue Upholstery",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3499,7 +3499,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-and-cane-midcentury-dining-chair",
     "name": "Teak And Cane Midcentury Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3515,7 +3515,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-dining-chair-with-blue-upholstery",
     "name": "Teak Dining Chair With Blue Upholstery",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3531,7 +3531,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-dining-chair-with-green-upholstery",
     "name": "Teak Dining Chair With Green Upholstery",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3547,7 +3547,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-dining-chair-with-grey-cushion-b",
     "name": "Teak Dining Chair With Grey Cushion B",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3563,7 +3563,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-dining-chair-with-yellow-velvet-seat",
     "name": "Teak Dining Chair With Yellow Velvet Seat",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3595,7 +3595,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-highslat-dining-chair",
     "name": "Teak Highslat Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3611,7 +3611,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-ladder-back-dining-chair-with-tweed-seat",
     "name": "Teak Ladder Back Dining Chair With Tweed Seat",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -3627,7 +3627,7 @@ const PRODUCTS = [
   {
     "id": "cat-teak-ladderback-dining-chair",
     "name": "Teak Ladderback Dining Chair",
-    "category": "chairs",
+    "category": "dining-chairs",
     "type": "cafe",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
@@ -4569,8 +4569,8 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "lmw-035",
-    "name": "LMW-035",
+    "id": "lmw-032",
+    "name": "LMW-032",
     "category": "center-tables",
     "type": "table",
     "material": "Wood",
@@ -4578,12 +4578,75 @@ const PRODUCTS = [
     "rating": 4.5,
     "img": "assets/products/center-tables/lmw-035/LMW-035.png",
     "badge": "",
-    "description": "The LMW-035 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
+    "description": "The LMW-032 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
       "assets/products/center-tables/lmw-035/LMW-035.png"
     ],
     "colors": [
       "Red"
+    ],
+    "tags": [
+      "coffee table"
+    ]
+  },
+  {
+    "id": "lmw-033",
+    "name": "LMW-033",
+    "category": "center-tables",
+    "type": "table",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-036/LMW-036.png",
+    "badge": "",
+    "description": "The LMW-033 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "images": [
+      "assets/products/center-tables/lmw-036/LMW-036.png"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "tags": [
+      "coffee table"
+    ]
+  },
+  {
+    "id": "lmw-034",
+    "name": "LMW-034",
+    "category": "center-tables",
+    "type": "table",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-037/LMW-037.png",
+    "badge": "New",
+    "description": "The LMW-034 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "images": [
+      "assets/products/center-tables/lmw-037/LMW-037.png"
+    ],
+    "colors": [
+      "Brown"
+    ],
+    "tags": [
+      "coffee table"
+    ]
+  },
+  {
+    "id": "lmw-035",
+    "name": "LMW-035",
+    "category": "center-tables",
+    "type": "table",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-038/LMW-038.png",
+    "badge": "",
+    "description": "The LMW-035 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "images": [
+      "assets/products/center-tables/lmw-038/LMW-038.png"
+    ],
+    "colors": [
+      "Brown"
     ],
     "tags": [
       "coffee table"
@@ -4596,14 +4659,15 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-036/LMW-036.png",
+    "rating": 4.9,
+    "img": "assets/products/center-tables/lmw-039/LMW-039_2.png",
     "badge": "",
-    "description": "The LMW-036 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "description": "The LMW-036 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Grey or Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-036/LMW-036.png"
+      "assets/products/center-tables/lmw-039/LMW-039_2.png"
     ],
     "colors": [
+      "Grey",
       "Brown"
     ],
     "tags": [
@@ -4618,14 +4682,14 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-037/LMW-037.png",
-    "badge": "New",
-    "description": "The LMW-037 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "img": "assets/products/center-tables/lmw-040/LMW-040.png",
+    "badge": "Premium",
+    "description": "The LMW-037 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-037/LMW-037.png"
+      "assets/products/center-tables/lmw-040/LMW-040.png"
     ],
     "colors": [
-      "Brown"
+      "Red"
     ],
     "tags": [
       "coffee table"
@@ -4638,14 +4702,15 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-038/LMW-038.png",
+    "rating": 4.5,
+    "img": "assets/products/center-tables/lmw-041/LMW-041_2.png",
     "badge": "",
-    "description": "The LMW-038 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "description": "The LMW-038 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Grey or Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-038/LMW-038.png"
+      "assets/products/center-tables/lmw-041/LMW-041_2.png"
     ],
     "colors": [
+      "Grey",
       "Brown"
     ],
     "tags": [
@@ -4659,15 +4724,14 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.9,
-    "img": "assets/products/center-tables/lmw-039/LMW-039_2.png",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-042/LMW-042.png",
     "badge": "",
-    "description": "The LMW-039 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Grey or Brown colorway for your home or executive suite.",
+    "description": "The LMW-039 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-039/LMW-039_2.png"
+      "assets/products/center-tables/lmw-042/LMW-042.png"
     ],
     "colors": [
-      "Grey",
       "Brown"
     ],
     "tags": [
@@ -4682,11 +4746,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-040/LMW-040.png",
-    "badge": "Premium",
+    "img": "assets/products/center-tables/lmw-043/LMW-043.png",
+    "badge": "",
     "description": "The LMW-040 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-040/LMW-040.png"
+      "assets/products/center-tables/lmw-043/LMW-043.png"
     ],
     "colors": [
       "Red"
@@ -4702,16 +4766,15 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.5,
-    "img": "assets/products/center-tables/lmw-041/LMW-041_2.png",
+    "rating": 4.7,
+    "img": "assets/products/center-tables/lmw-044/LMW-044.png",
     "badge": "",
-    "description": "The LMW-041 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Grey or Brown colorway for your home or executive suite.",
+    "description": "The LMW-041 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-041/LMW-041_2.png"
+      "assets/products/center-tables/lmw-044/LMW-044.png"
     ],
     "colors": [
-      "Grey",
-      "Brown"
+      "Red"
     ],
     "tags": [
       "coffee table"
@@ -4724,15 +4787,15 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-042/LMW-042.png",
+    "rating": 4.7,
+    "img": "assets/products/center-tables/lmw-045/LMW-045.png",
     "badge": "",
-    "description": "The LMW-042 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "description": "The LMW-042 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-042/LMW-042.png"
+      "assets/products/center-tables/lmw-045/LMW-045.png"
     ],
     "colors": [
-      "Brown"
+      "Red"
     ],
     "tags": [
       "coffee table"
@@ -4745,15 +4808,15 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-043/LMW-043.png",
+    "rating": 4.5,
+    "img": "assets/products/center-tables/lmw-046/LMW-046.png",
     "badge": "",
-    "description": "The LMW-043 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
+    "description": "The LMW-043 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-043/LMW-043.png"
+      "assets/products/center-tables/lmw-046/LMW-046.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ],
     "tags": [
       "coffee table"
@@ -4766,15 +4829,15 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-044/LMW-044.png",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-047/LMW-047.png",
     "badge": "",
-    "description": "The LMW-044 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
+    "description": "The LMW-044 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-044/LMW-044.png"
+      "assets/products/center-tables/lmw-047/LMW-047.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ],
     "tags": [
       "coffee table"
@@ -4788,11 +4851,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-045/LMW-045.png",
+    "img": "assets/products/center-tables/lmw-048/LMW-048.png",
     "badge": "",
     "description": "The LMW-045 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-045/LMW-045.png"
+      "assets/products/center-tables/lmw-048/LMW-048.png"
     ],
     "colors": [
       "Red"
@@ -4808,12 +4871,12 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.5,
-    "img": "assets/products/center-tables/lmw-046/LMW-046.png",
-    "badge": "",
+    "rating": 4.7,
+    "img": "assets/products/center-tables/lmw-049/LMW-049.png",
+    "badge": "Bestseller",
     "description": "The LMW-046 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-046/LMW-046.png"
+      "assets/products/center-tables/lmw-049/LMW-049.png"
     ],
     "colors": [
       "Brown"
@@ -4829,12 +4892,12 @@ const PRODUCTS = [
     "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-047/LMW-047.png",
+    "rating": 4.9,
+    "img": "assets/products/center-tables/lmw-050/LMW-050.png",
     "badge": "",
     "description": "The LMW-047 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-047/LMW-047.png"
+      "assets/products/center-tables/lmw-050/LMW-050.png"
     ],
     "colors": [
       "Brown"
@@ -4847,36 +4910,15 @@ const PRODUCTS = [
     "id": "lmw-048",
     "name": "LMW-048",
     "category": "center-tables",
-    "type": "table",
+    "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-048/LMW-048.png",
-    "badge": "",
-    "description": "The LMW-048 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
-    "images": [
-      "assets/products/center-tables/lmw-048/LMW-048.png"
-    ],
-    "colors": [
-      "Red"
-    ],
-    "tags": [
-      "coffee table"
-    ]
-  },
-  {
-    "id": "lmw-049",
-    "name": "LMW-049",
-    "category": "center-tables",
-    "type": "table",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-049/LMW-049.png",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-051/LMW-051.png",
     "badge": "Bestseller",
-    "description": "The LMW-049 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
+    "description": "The LMW-048 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-049/LMW-049.png"
+      "assets/products/center-tables/lmw-051/LMW-051.png"
     ],
     "colors": [
       "Brown"
@@ -4886,18 +4928,39 @@ const PRODUCTS = [
     ]
   },
   {
+    "id": "lmw-049",
+    "name": "LMW-049",
+    "category": "center-tables",
+    "type": "chair",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-052/LMW-052.png",
+    "badge": "",
+    "description": "The LMW-049 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
+    "images": [
+      "assets/products/center-tables/lmw-052/LMW-052.png"
+    ],
+    "colors": [
+      "Red"
+    ],
+    "tags": [
+      "coffee table"
+    ]
+  },
+  {
     "id": "lmw-050",
     "name": "LMW-050",
     "category": "center-tables",
-    "type": "table",
+    "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.9,
-    "img": "assets/products/center-tables/lmw-050/LMW-050.png",
+    "rating": 4.3,
+    "img": "assets/products/center-tables/lmw-053/LMW-053.png",
     "badge": "",
     "description": "The LMW-050 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-050/LMW-050.png"
+      "assets/products/center-tables/lmw-053/LMW-053.png"
     ],
     "colors": [
       "Brown"
@@ -4913,73 +4976,10 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-051/LMW-051.png",
-    "badge": "Bestseller",
-    "description": "The LMW-051 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
-    "images": [
-      "assets/products/center-tables/lmw-051/LMW-051.png"
-    ],
-    "colors": [
-      "Brown"
-    ],
-    "tags": [
-      "coffee table"
-    ]
-  },
-  {
-    "id": "lmw-052",
-    "name": "LMW-052",
-    "category": "center-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-052/LMW-052.png",
-    "badge": "",
-    "description": "The LMW-052 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
-    "images": [
-      "assets/products/center-tables/lmw-052/LMW-052.png"
-    ],
-    "colors": [
-      "Red"
-    ],
-    "tags": [
-      "coffee table"
-    ]
-  },
-  {
-    "id": "lmw-053",
-    "name": "LMW-053",
-    "category": "center-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-053/LMW-053.png",
-    "badge": "",
-    "description": "The LMW-053 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
-    "images": [
-      "assets/products/center-tables/lmw-053/LMW-053.png"
-    ],
-    "colors": [
-      "Brown"
-    ],
-    "tags": [
-      "coffee table"
-    ]
-  },
-  {
-    "id": "lmw-054",
-    "name": "LMW-054",
-    "category": "center-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
     "rating": 4.7,
     "img": "assets/products/center-tables/lmw-054/LMW-054_4.png",
     "badge": "",
-    "description": "The LMW-054 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined White, Grey or Brown colorway for your home or executive suite.",
+    "description": "The LMW-051 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined White, Grey or Brown colorway for your home or executive suite.",
     "images": [
       "assets/products/center-tables/lmw-054/LMW-054_4.png"
     ],
@@ -6899,16 +6899,16 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "lmw-002",
-    "name": "LMW-002",
-    "category": "chairs",
-    "type": "chair",
+    "id": "lmw-073",
+    "name": "LMW-073",
+    "category": "center-tables",
+    "type": "table",
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
     "img": "assets/products/chairs/lmw-002/LMW-002_2.png",
     "badge": "",
-    "description": "The LMW-002 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Grey or Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-073 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Grey or Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
       "assets/products/chairs/lmw-002/LMW-002_2.png"
     ],
@@ -6918,8 +6918,8 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "lmw-003",
-    "name": "LMW-003",
+    "id": "lmw-002",
+    "name": "LMW-002",
     "category": "chairs",
     "type": "chair",
     "material": "Wood",
@@ -6927,12 +6927,30 @@ const PRODUCTS = [
     "rating": 4.7,
     "img": "assets/products/chairs/lmw-003/LMW-003.png",
     "badge": "",
-    "description": "The LMW-003 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-002 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
       "assets/products/chairs/lmw-003/LMW-003.png"
     ],
     "colors": [
       "Brown"
+    ]
+  },
+  {
+    "id": "lmw-003",
+    "name": "LMW-003",
+    "category": "chairs",
+    "type": "chair",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/chairs/lmw-004/LMW-004.png",
+    "badge": "",
+    "description": "The LMW-003 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "images": [
+      "assets/products/chairs/lmw-004/LMW-004.png"
+    ],
+    "colors": [
+      "Red"
     ]
   },
   {
@@ -6943,11 +6961,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-004/LMW-004.png",
+    "img": "assets/products/chairs/lmw-005/LMW-005.png",
     "badge": "",
     "description": "The LMW-004 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-004/LMW-004.png"
+      "assets/products/chairs/lmw-005/LMW-005.png"
     ],
     "colors": [
       "Red"
@@ -6960,15 +6978,15 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/chairs/lmw-005/LMW-005.png",
+    "rating": 4.7,
+    "img": "assets/products/chairs/lmw-006/LMW-006.png",
     "badge": "",
-    "description": "The LMW-005 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-005 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-005/LMW-005.png"
+      "assets/products/chairs/lmw-006/LMW-006.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ]
   },
   {
@@ -6979,14 +6997,14 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-006/LMW-006.png",
+    "img": "assets/products/chairs/lmw-007/LMW-007.png",
     "badge": "",
-    "description": "The LMW-006 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-006 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-006/LMW-006.png"
+      "assets/products/chairs/lmw-007/LMW-007.png"
     ],
     "colors": [
-      "Brown"
+      "Red"
     ]
   },
   {
@@ -6997,11 +7015,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-007/LMW-007.png",
-    "badge": "",
-    "description": "The LMW-007 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "img": "assets/products/chairs/lmw-008/LMW-008.png",
+    "badge": "New",
+    "description": "A perfect blend of comfort and style. The LMW-007 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-007/LMW-007.png"
+      "assets/products/chairs/lmw-008/LMW-008.png"
     ],
     "colors": [
       "Red"
@@ -7015,11 +7033,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-008/LMW-008.png",
-    "badge": "New",
-    "description": "A perfect blend of comfort and style. The LMW-008 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "img": "assets/products/chairs/lmw-009/LMW-009.png",
+    "badge": "",
+    "description": "The LMW-008 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-008/LMW-008.png"
+      "assets/products/chairs/lmw-009/LMW-009.png"
     ],
     "colors": [
       "Red"
@@ -7033,14 +7051,14 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-009/LMW-009.png",
-    "badge": "",
-    "description": "The LMW-009 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "img": "assets/products/chairs/lmw-010/LMW-010.png",
+    "badge": "Bestseller",
+    "description": "The LMW-009 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Yellow tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-009/LMW-009.png"
+      "assets/products/chairs/lmw-010/LMW-010.png"
     ],
     "colors": [
-      "Red"
+      "Yellow"
     ]
   },
   {
@@ -7051,14 +7069,14 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-010/LMW-010.png",
-    "badge": "Bestseller",
-    "description": "The LMW-010 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Yellow tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "img": "assets/products/chairs/lmw-011/LMW-011.png",
+    "badge": "",
+    "description": "The LMW-010 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-010/LMW-010.png"
+      "assets/products/chairs/lmw-011/LMW-011.png"
     ],
     "colors": [
-      "Yellow"
+      "Red"
     ]
   },
   {
@@ -7069,11 +7087,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-011/LMW-011.png",
+    "img": "assets/products/chairs/lmw-012/LMW-012.png",
     "badge": "",
     "description": "The LMW-011 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-011/LMW-011.png"
+      "assets/products/chairs/lmw-012/LMW-012.png"
     ],
     "colors": [
       "Red"
@@ -7087,11 +7105,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-012/LMW-012.png",
+    "img": "assets/products/chairs/lmw-013/LMW-013.png",
     "badge": "",
     "description": "The LMW-012 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-012/LMW-012.png"
+      "assets/products/chairs/lmw-013/LMW-013.png"
     ],
     "colors": [
       "Red"
@@ -7105,11 +7123,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-013/LMW-013.png",
+    "img": "assets/products/chairs/lmw-014/LMW-014.png",
     "badge": "",
     "description": "The LMW-013 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-013/LMW-013.png"
+      "assets/products/chairs/lmw-014/LMW-014.png"
     ],
     "colors": [
       "Red"
@@ -7123,11 +7141,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-014/LMW-014.png",
-    "badge": "",
+    "img": "assets/products/chairs/lmw-015/LMW-015.png",
+    "badge": "New",
     "description": "The LMW-014 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-014/LMW-014.png"
+      "assets/products/chairs/lmw-015/LMW-015.png"
     ],
     "colors": [
       "Red"
@@ -7140,28 +7158,10 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/chairs/lmw-015/LMW-015.png",
-    "badge": "New",
-    "description": "The LMW-015 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
-    "images": [
-      "assets/products/chairs/lmw-015/LMW-015.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-016",
-    "name": "LMW-016",
-    "category": "chairs",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
     "rating": 4.3,
     "img": "assets/products/chairs/lmw-016/LMW-016.png",
     "badge": "",
-    "description": "The LMW-016 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red or Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-015 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red or Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
       "assets/products/chairs/lmw-016/LMW-016.png",
       "assets/products/chairs/lmw-016/LMW-016_2.png"
@@ -7172,8 +7172,8 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "lmw-017",
-    "name": "LMW-017",
+    "id": "lmw-016",
+    "name": "LMW-016",
     "category": "chairs",
     "type": "chair",
     "material": "Wood",
@@ -7181,12 +7181,30 @@ const PRODUCTS = [
     "rating": 4.7,
     "img": "assets/products/chairs/lmw-017/LMW-017.png",
     "badge": "",
-    "description": "The LMW-017 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-016 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
       "assets/products/chairs/lmw-017/LMW-017.png"
     ],
     "colors": [
       "Brown"
+    ]
+  },
+  {
+    "id": "lmw-017",
+    "name": "LMW-017",
+    "category": "chairs",
+    "type": "chair",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/chairs/lmw-018/LMW-018.png",
+    "badge": "",
+    "description": "The LMW-017 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "images": [
+      "assets/products/chairs/lmw-018/LMW-018.png"
+    ],
+    "colors": [
+      "Red"
     ]
   },
   {
@@ -7196,14 +7214,15 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/chairs/lmw-018/LMW-018.png",
+    "rating": 4.7,
+    "img": "assets/products/chairs/lmw-020/LMW-020_2.png",
     "badge": "",
-    "description": "The LMW-018 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "The LMW-018 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful White or Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-018/LMW-018.png"
+      "assets/products/chairs/lmw-020/LMW-020_2.png"
     ],
     "colors": [
+      "White",
       "Red"
     ]
   },
@@ -7214,69 +7233,10 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.9,
-    "img": "assets/products/chairs/lmw-019/LMW-019.png",
-    "badge": "",
-    "description": "The LMW-019 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
-    "images": [
-      "assets/products/chairs/lmw-019/LMW-019.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-020",
-    "name": "LMW-020",
-    "category": "chairs",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/chairs/lmw-020/LMW-020_2.png",
-    "badge": "",
-    "description": "The LMW-020 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful White or Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
-    "images": [
-      "assets/products/chairs/lmw-020/LMW-020_2.png"
-    ],
-    "colors": [
-      "White",
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-021",
-    "name": "LMW-021",
-    "category": "chairs",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.5,
-    "img": "assets/products/chairs/lmw-021/LMW-021.png",
-    "badge": "New",
-    "description": "Combining ergonomic comfort with timeless wooden aesthetics. The LMW-021 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown or Blue tone, it adds warmth and sophistication to any dining room, office, or living space.",
-    "images": [
-      "assets/products/chairs/lmw-021/LMW-021.png",
-      "assets/products/chairs/lmw-021/LMW-021_2.png",
-      "assets/products/chairs/lmw-021/LMW-021_4.png",
-      "assets/products/chairs/lmw-021/LMW-021_5.png"
-    ],
-    "colors": [
-      "Brown",
-      "Blue"
-    ]
-  },
-  {
-    "id": "lmw-022",
-    "name": "LMW-022",
-    "category": "chairs",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
     "rating": 4.3,
     "img": "assets/products/chairs/lmw-022/LMW-022.png",
     "badge": "",
-    "description": "A perfect blend of comfort and style. The LMW-022 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Blue tone, it adds warmth and sophistication to any dining room, office, or living space.",
+    "description": "A perfect blend of comfort and style. The LMW-019 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Blue tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
       "assets/products/chairs/lmw-022/LMW-022.png"
     ],
@@ -8465,8 +8425,8 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "lmw-055",
-    "name": "LMW-055",
+    "id": "lmw-052",
+    "name": "LMW-052",
     "category": "dining-tables",
     "type": "chair",
     "material": "Wood",
@@ -8474,7 +8434,7 @@ const PRODUCTS = [
     "rating": 4.3,
     "img": "assets/products/dining-tables/lmw-055/LMW-055.png",
     "badge": "",
-    "description": "Gather and dine in elegance with the LMW-055 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
+    "description": "Gather and dine in elegance with the LMW-052 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
       "assets/products/dining-tables/lmw-055/LMW-055.png",
       "assets/products/dining-tables/lmw-055/LMW-055_2.png",
@@ -8486,8 +8446,8 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "lmw-056",
-    "name": "LMW-056",
+    "id": "lmw-053",
+    "name": "LMW-053",
     "category": "dining-tables",
     "type": "chair",
     "material": "Wood",
@@ -8495,12 +8455,67 @@ const PRODUCTS = [
     "rating": 4.3,
     "img": "assets/products/dining-tables/lmw-056/LMW-056.png",
     "badge": "",
-    "description": "Gather and dine in elegance with the LMW-056 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
+    "description": "Gather and dine in elegance with the LMW-053 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
       "assets/products/dining-tables/lmw-056/LMW-056.png"
     ],
     "colors": [
       "Brown"
+    ]
+  },
+  {
+    "id": "lmw-054",
+    "name": "LMW-054",
+    "category": "dining-tables",
+    "type": "chair",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/dining-tables/lmw-057/LMW-057_2.png",
+    "badge": "",
+    "description": "Gather and dine in elegance with the LMW-054 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
+    "images": [
+      "assets/products/dining-tables/lmw-057/LMW-057_2.png"
+    ],
+    "colors": [
+      "Grey",
+      "Red"
+    ]
+  },
+  {
+    "id": "lmw-055",
+    "name": "LMW-055",
+    "category": "dining-tables",
+    "type": "chair",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/dining-tables/lmw-058/LMW-058_2.png",
+    "badge": "Premium",
+    "description": "Gather and dine in elegance with the LMW-055 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
+    "images": [
+      "assets/products/dining-tables/lmw-058/LMW-058_2.png"
+    ],
+    "colors": [
+      "Grey"
+    ]
+  },
+  {
+    "id": "lmw-056",
+    "name": "LMW-056",
+    "category": "dining-tables",
+    "type": "chair",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.9,
+    "img": "assets/products/dining-tables/lmw-059/LMW-059.png",
+    "badge": "",
+    "description": "Gather and dine in elegance with the LMW-056 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
+    "images": [
+      "assets/products/dining-tables/lmw-059/LMW-059.png"
+    ],
+    "colors": [
+      "Grey"
     ]
   },
   {
@@ -8510,15 +8525,14 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-057/LMW-057_2.png",
+    "rating": 4.7,
+    "img": "assets/products/dining-tables/lmw-060/LMW-060.png",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-057 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-057/LMW-057_2.png"
+      "assets/products/dining-tables/lmw-060/LMW-060.png"
     ],
     "colors": [
-      "Grey",
       "Red"
     ]
   },
@@ -8530,14 +8544,15 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-058/LMW-058_2.png",
-    "badge": "Premium",
+    "img": "assets/products/dining-tables/lmw-061/LMW-061.png",
+    "badge": "",
     "description": "Gather and dine in elegance with the LMW-058 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-058/LMW-058_2.png"
+      "assets/products/dining-tables/lmw-061/LMW-061.png",
+      "assets/products/dining-tables/lmw-061/LMW-061_2.png"
     ],
     "colors": [
-      "Grey"
+      "Red"
     ]
   },
   {
@@ -8548,14 +8563,14 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/dining-tables/lmw-059/LMW-059.png",
-    "badge": "",
+    "img": "assets/products/dining-tables/lmw-062/LMW-062.png",
+    "badge": "New",
     "description": "Gather and dine in elegance with the LMW-059 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-059/LMW-059.png"
+      "assets/products/dining-tables/lmw-062/LMW-062.png"
     ],
     "colors": [
-      "Grey"
+      "Brown"
     ]
   },
   {
@@ -8566,11 +8581,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-060/LMW-060.png",
-    "badge": "",
+    "img": "assets/products/dining-tables/lmw-063/LMW-063.png",
+    "badge": "Premium",
     "description": "Gather and dine in elegance with the LMW-060 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-060/LMW-060.png"
+      "assets/products/dining-tables/lmw-063/LMW-063.png"
     ],
     "colors": [
       "Red"
@@ -8583,13 +8598,12 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-061/LMW-061.png",
+    "rating": 4.7,
+    "img": "assets/products/dining-tables/lmw-064/LMW-064.png",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-061 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-061/LMW-061.png",
-      "assets/products/dining-tables/lmw-061/LMW-061_2.png"
+      "assets/products/dining-tables/lmw-064/LMW-064.png"
     ],
     "colors": [
       "Red"
@@ -8602,64 +8616,10 @@ const PRODUCTS = [
     "type": "chair",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.9,
-    "img": "assets/products/dining-tables/lmw-062/LMW-062.png",
-    "badge": "New",
-    "description": "Gather and dine in elegance with the LMW-062 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
-    "images": [
-      "assets/products/dining-tables/lmw-062/LMW-062.png"
-    ],
-    "colors": [
-      "Brown"
-    ]
-  },
-  {
-    "id": "lmw-063",
-    "name": "LMW-063",
-    "category": "dining-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-063/LMW-063.png",
-    "badge": "Premium",
-    "description": "Gather and dine in elegance with the LMW-063 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
-    "images": [
-      "assets/products/dining-tables/lmw-063/LMW-063.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-064",
-    "name": "LMW-064",
-    "category": "dining-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-064/LMW-064.png",
-    "badge": "",
-    "description": "Gather and dine in elegance with the LMW-064 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
-    "images": [
-      "assets/products/dining-tables/lmw-064/LMW-064.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-065",
-    "name": "LMW-065",
-    "category": "dining-tables",
-    "type": "chair",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
     "rating": 4.7,
     "img": "assets/products/dining-tables/lmw-065/LMW-065_2.png",
     "badge": "",
-    "description": "Gather and dine in elegance with the LMW-065 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
+    "description": "Gather and dine in elegance with the LMW-062 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
       "assets/products/dining-tables/lmw-065/LMW-065_2.png"
     ],
@@ -10206,7 +10166,7 @@ const PRODUCTS = [
   {
     "id": "joe",
     "name": "JOE",
-    "category": "office-chairs",
+    "category": "cafe-chairs",
     "type": "chair",
     "material": "Leather",
     "designer": "LayerMax Signature",
@@ -16803,8 +16763,8 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "lmw-066",
-    "name": "LMW-066",
+    "id": "lmw-063",
+    "name": "LMW-063",
     "category": "sleeping-beds",
     "type": "bed",
     "material": "Wood",
@@ -16812,12 +16772,67 @@ const PRODUCTS = [
     "rating": 4.5,
     "img": "assets/products/sleeping-beds/lmw-066/LMW-066.png",
     "badge": "",
-    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-066 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
+    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-063 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
       "assets/products/sleeping-beds/lmw-066/LMW-066.png"
     ],
     "colors": [
       "Red"
+    ]
+  },
+  {
+    "id": "lmw-064",
+    "name": "LMW-064",
+    "category": "sleeping-beds",
+    "type": "bed",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/sleeping-beds/lmw-067/LMW-067.png",
+    "badge": "Bestseller",
+    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-064 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
+    "images": [
+      "assets/products/sleeping-beds/lmw-067/LMW-067.png"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  {
+    "id": "lmw-065",
+    "name": "LMW-065",
+    "category": "sleeping-beds",
+    "type": "bed",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/sleeping-beds/lmw-068/LMW-068.png",
+    "badge": "",
+    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-065 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
+    "images": [
+      "assets/products/sleeping-beds/lmw-068/LMW-068.png",
+      "assets/products/sleeping-beds/lmw-068/LMW-068_2.png"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  {
+    "id": "lmw-066",
+    "name": "LMW-066",
+    "category": "sleeping-beds",
+    "type": "bed",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.3,
+    "img": "assets/products/sleeping-beds/lmw-069/LMW-069.png",
+    "badge": "New",
+    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-066 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
+    "images": [
+      "assets/products/sleeping-beds/lmw-069/LMW-069.png"
+    ],
+    "colors": [
+      "Brown"
     ]
   },
   {
@@ -16827,15 +16842,15 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-067/LMW-067.png",
-    "badge": "Bestseller",
+    "rating": 4.9,
+    "img": "assets/products/sleeping-beds/lmw-070/LMW-070.png",
+    "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-067 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-067/LMW-067.png"
+      "assets/products/sleeping-beds/lmw-070/LMW-070.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ]
   },
   {
@@ -16846,15 +16861,15 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-068/LMW-068.png",
+    "img": "assets/products/sleeping-beds/lmw-071/LMW-071.png",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-068 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-068/LMW-068.png",
-      "assets/products/sleeping-beds/lmw-068/LMW-068_2.png"
+      "assets/products/sleeping-beds/lmw-071/LMW-071.png",
+      "assets/products/sleeping-beds/lmw-071/LMW-071_2.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ]
   },
   {
@@ -16865,14 +16880,15 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-069/LMW-069.png",
-    "badge": "New",
+    "img": "assets/products/sleeping-beds/lmw-072/LMW-072.png",
+    "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-069 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-069/LMW-069.png"
+      "assets/products/sleeping-beds/lmw-072/LMW-072.png",
+      "assets/products/sleeping-beds/lmw-072/LMW-072_2.png"
     ],
     "colors": [
-      "Brown"
+      "Red"
     ]
   },
   {
@@ -16883,13 +16899,15 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/sleeping-beds/lmw-070/LMW-070.png",
+    "img": "assets/products/sleeping-beds/lmw-073/LMW-073.png",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-070 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-070/LMW-070.png"
+      "assets/products/sleeping-beds/lmw-073/LMW-073.png",
+      "assets/products/sleeping-beds/lmw-073/LMW-073_2.png"
     ],
     "colors": [
+      "Grey",
       "Brown"
     ]
   },
@@ -16900,13 +16918,12 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-071/LMW-071.png",
+    "rating": 4.7,
+    "img": "assets/products/sleeping-beds/lmw-074/LMW-074.png",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-071 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-071/LMW-071.png",
-      "assets/products/sleeping-beds/lmw-071/LMW-071_2.png"
+      "assets/products/sleeping-beds/lmw-074/LMW-074.png"
     ],
     "colors": [
       "Brown"
@@ -16919,67 +16936,10 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-072/LMW-072.png",
-    "badge": "",
-    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-072 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
-    "images": [
-      "assets/products/sleeping-beds/lmw-072/LMW-072.png",
-      "assets/products/sleeping-beds/lmw-072/LMW-072_2.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-073",
-    "name": "LMW-073",
-    "category": "sleeping-beds",
-    "type": "bed",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.9,
-    "img": "assets/products/sleeping-beds/lmw-073/LMW-073.png",
-    "badge": "",
-    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-073 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
-    "images": [
-      "assets/products/sleeping-beds/lmw-073/LMW-073.png",
-      "assets/products/sleeping-beds/lmw-073/LMW-073_2.png"
-    ],
-    "colors": [
-      "Grey",
-      "Brown"
-    ]
-  },
-  {
-    "id": "lmw-074",
-    "name": "LMW-074",
-    "category": "sleeping-beds",
-    "type": "bed",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/sleeping-beds/lmw-074/LMW-074.png",
-    "badge": "",
-    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-074 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
-    "images": [
-      "assets/products/sleeping-beds/lmw-074/LMW-074.png"
-    ],
-    "colors": [
-      "Brown"
-    ]
-  },
-  {
-    "id": "lmw-075",
-    "name": "LMW-075",
-    "category": "sleeping-beds",
-    "type": "bed",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
     "rating": 4.7,
     "img": "assets/products/sleeping-beds/lmw-075/LMW-075.png",
     "badge": "",
-    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-075 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
+    "description": "Transform your bedroom into a peaceful sanctuary with the LMW-072 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
       "assets/products/sleeping-beds/lmw-075/LMW-075.png"
     ],
@@ -19985,8 +19945,8 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "lmw-023",
-    "name": "LMW-023",
+    "id": "lmw-020",
+    "name": "LMW-020",
     "category": "wooden-couches",
     "type": "couch",
     "material": "Wood",
@@ -19994,9 +19954,63 @@ const PRODUCTS = [
     "rating": 4.9,
     "img": "assets/products/wooden-couches/lmw-023/LMW-023.png",
     "badge": "",
-    "description": "Indulge in luxury with the LMW-023 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "description": "Indulge in luxury with the LMW-020 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
       "assets/products/wooden-couches/lmw-023/LMW-023.png"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  {
+    "id": "lmw-021",
+    "name": "LMW-021",
+    "category": "wooden-couches",
+    "type": "couch",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.7,
+    "img": "assets/products/wooden-couches/lmw-024/LMW-024.png",
+    "badge": "",
+    "description": "Indulge in luxury with the LMW-021 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "images": [
+      "assets/products/wooden-couches/lmw-024/LMW-024.png"
+    ],
+    "colors": [
+      "Red"
+    ]
+  },
+  {
+    "id": "lmw-022",
+    "name": "LMW-022",
+    "category": "wooden-couches",
+    "type": "couch",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.7,
+    "img": "assets/products/wooden-couches/lmw-025/LMW-025.png",
+    "badge": "",
+    "description": "Indulge in luxury with the LMW-022 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "images": [
+      "assets/products/wooden-couches/lmw-025/LMW-025.png"
+    ],
+    "colors": [
+      "Brown"
+    ]
+  },
+  {
+    "id": "lmw-023",
+    "name": "LMW-023",
+    "category": "wooden-couches",
+    "type": "couch",
+    "material": "Wood",
+    "designer": "LayerMax Artistry",
+    "rating": 4.7,
+    "img": "assets/products/wooden-couches/lmw-026/LMW-026.png",
+    "badge": "",
+    "description": "Indulge in luxury with the LMW-023 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "images": [
+      "assets/products/wooden-couches/lmw-026/LMW-026.png"
     ],
     "colors": [
       "Red"
@@ -20009,15 +20023,15 @@ const PRODUCTS = [
     "type": "couch",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-024/LMW-024.png",
+    "rating": 4.5,
+    "img": "assets/products/wooden-couches/lmw-027/LMW-027.png",
     "badge": "",
-    "description": "Indulge in luxury with the LMW-024 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "description": "Indulge in luxury with the LMW-024 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-024/LMW-024.png"
+      "assets/products/wooden-couches/lmw-027/LMW-027.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ]
   },
   {
@@ -20027,15 +20041,15 @@ const PRODUCTS = [
     "type": "couch",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-025/LMW-025.png",
-    "badge": "",
-    "description": "Indulge in luxury with the LMW-025 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "rating": 4.3,
+    "img": "assets/products/wooden-couches/lmw-028/LMW-028.png",
+    "badge": "New",
+    "description": "Indulge in luxury with the LMW-025 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-025/LMW-025.png"
+      "assets/products/wooden-couches/lmw-028/LMW-028.png"
     ],
     "colors": [
-      "Brown"
+      "Red"
     ]
   },
   {
@@ -20045,12 +20059,12 @@ const PRODUCTS = [
     "type": "couch",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-026/LMW-026.png",
-    "badge": "",
+    "rating": 4.3,
+    "img": "assets/products/wooden-couches/lmw-029/LMW-029.png",
+    "badge": "Bestseller",
     "description": "Indulge in luxury with the LMW-026 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-026/LMW-026.png"
+      "assets/products/wooden-couches/lmw-029/LMW-029.png"
     ],
     "colors": [
       "Red"
@@ -20063,15 +20077,15 @@ const PRODUCTS = [
     "type": "couch",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.5,
-    "img": "assets/products/wooden-couches/lmw-027/LMW-027.png",
+    "rating": 4.9,
+    "img": "assets/products/wooden-couches/lmw-030/LMW-030.png",
     "badge": "",
-    "description": "Indulge in luxury with the LMW-027 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "description": "Indulge in luxury with the LMW-027 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-027/LMW-027.png"
+      "assets/products/wooden-couches/lmw-030/LMW-030.png"
     ],
     "colors": [
-      "Brown"
+      "Red"
     ]
   },
   {
@@ -20082,11 +20096,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-028/LMW-028.png",
-    "badge": "New",
+    "img": "assets/products/wooden-couches/lmw-031/LMW-031.png",
+    "badge": "Premium",
     "description": "Indulge in luxury with the LMW-028 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-028/LMW-028.png"
+      "assets/products/wooden-couches/lmw-031/LMW-031.png"
     ],
     "colors": [
       "Red"
@@ -20099,12 +20113,12 @@ const PRODUCTS = [
     "type": "couch",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-029/LMW-029.png",
-    "badge": "Bestseller",
+    "rating": 4.7,
+    "img": "assets/products/wooden-couches/lmw-032/LMW-032.png",
+    "badge": "New",
     "description": "Indulge in luxury with the LMW-029 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-029/LMW-029.png"
+      "assets/products/wooden-couches/lmw-032/LMW-032.png"
     ],
     "colors": [
       "Red"
@@ -20117,15 +20131,15 @@ const PRODUCTS = [
     "type": "couch",
     "material": "Wood",
     "designer": "LayerMax Artistry",
-    "rating": 4.9,
-    "img": "assets/products/wooden-couches/lmw-030/LMW-030.png",
+    "rating": 4.7,
+    "img": "assets/products/wooden-couches/lmw-033/LMW-033.png",
     "badge": "",
-    "description": "Indulge in luxury with the LMW-030 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "description": "Indulge in luxury with the LMW-030 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-030/LMW-030.png"
+      "assets/products/wooden-couches/lmw-033/LMW-033.png"
     ],
     "colors": [
-      "Red"
+      "Brown"
     ]
   },
   {
@@ -20136,63 +20150,9 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-031/LMW-031.png",
-    "badge": "Premium",
-    "description": "Indulge in luxury with the LMW-031 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
-    "images": [
-      "assets/products/wooden-couches/lmw-031/LMW-031.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-032",
-    "name": "LMW-032",
-    "category": "wooden-couches",
-    "type": "couch",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-032/LMW-032.png",
-    "badge": "New",
-    "description": "Indulge in luxury with the LMW-032 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
-    "images": [
-      "assets/products/wooden-couches/lmw-032/LMW-032.png"
-    ],
-    "colors": [
-      "Red"
-    ]
-  },
-  {
-    "id": "lmw-033",
-    "name": "LMW-033",
-    "category": "wooden-couches",
-    "type": "couch",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-033/LMW-033.png",
-    "badge": "",
-    "description": "Indulge in luxury with the LMW-033 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
-    "images": [
-      "assets/products/wooden-couches/lmw-033/LMW-033.png"
-    ],
-    "colors": [
-      "Brown"
-    ]
-  },
-  {
-    "id": "lmw-034",
-    "name": "LMW-034",
-    "category": "wooden-couches",
-    "type": "couch",
-    "material": "Wood",
-    "designer": "LayerMax Artistry",
-    "rating": 4.3,
     "img": "assets/products/wooden-couches/lmw-034/LMW-034.png",
     "badge": "",
-    "description": "Indulge in luxury with the LMW-034 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
+    "description": "Indulge in luxury with the LMW-031 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
       "assets/products/wooden-couches/lmw-034/LMW-034.png"
     ],
