@@ -2,7 +2,7 @@
 
 > LayerMax Furniture Industries Ltd. manufactures and supplies premium furniture for
 > homes, offices, and hospitality venues from Bengaluru, Karnataka, India. The website is
-> an enquiry-based catalog of 1,182 products across 19 categories — it lists no prices and
+> an enquiry-based catalog of 1,160 products across 19 categories — it lists no prices and
 > has no shopping cart. Customers browse a product, submit an enquiry, and a design
 > consultant responds with quotation, customisation options, and lead times.
 
@@ -12,14 +12,14 @@ a single JavaScript file, `pages/products-data.js`, as a `PRODUCTS` array.
 
 ## Departments
 
-- [Sofas](https://www.layermax.com/pages/catalog.html?group=sofas): 187 products — sofas, wooden couches, corner sofas
-- [Chairs](https://www.layermax.com/pages/catalog.html?group=chairs): 286 products — office chairs, dining chairs, armchairs
-- [Recliners](https://www.layermax.com/pages/catalog.html?group=recliners): 95 products — recliners, home theatre seating
-- [Beds & Mattresses](https://www.layermax.com/pages/catalog.html?group=beds): 118 products — sleeping beds, mattresses
-- [Tables](https://www.layermax.com/pages/catalog.html?group=tables): 65 products — center tables, dining tables
-- [Office](https://www.layermax.com/pages/catalog.html?group=office): 159 products — modular workstations, acoustic pods
-- [Storage](https://www.layermax.com/pages/catalog.html?group=storage): 53 products — wardrobes and storage units
-- [Café & Restaurant](https://www.layermax.com/pages/catalog.html?group=cafe): 199 products — café chairs, café tables, bar stools, banquet equipment
+- [Sofas](https://www.layermax.com/pages/catalog.html?group=sofas): 188 products — sofas, wooden couches, corner sofas
+- [Chairs](https://www.layermax.com/pages/catalog.html?group=chairs): 287 products — office chairs, dining chairs, armchairs
+- [Recliners](https://www.layermax.com/pages/catalog.html?group=recliners): 94 products — recliners, home theatre seating
+- [Beds & Mattresses](https://www.layermax.com/pages/catalog.html?group=beds): 102 products — sleeping beds, mattresses
+- [Tables](https://www.layermax.com/pages/catalog.html?group=tables): 64 products — center tables, dining tables
+- [Office](https://www.layermax.com/pages/catalog.html?group=office): 160 products — modular workstations, acoustic pods
+- [Storage](https://www.layermax.com/pages/catalog.html?group=storage): 69 products — wardrobes and storage units
+- [Café & Restaurant](https://www.layermax.com/pages/catalog.html?group=cafe): 196 products — café chairs, café tables, bar stools, banquet equipment
 
 ## Key pages
 
@@ -58,6 +58,6 @@ Rubco Premium items link out to their own external listings rather than an enqui
 ## Contact
 
 - Phone / WhatsApp: +91 78998 02412 (Mon–Sat, 9:00–18:00 IST)
-- Email: support@layermax.com
+- Email: info@layermax.in
 - Showroom: Layermax Furniture Tower, No.7, 5th Cross, Ward No.25, Kalkere Main Road,
   Hormamvu Agara, Kanakagiri Layout, Bengaluru, Karnataka 560043, India

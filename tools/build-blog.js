@@ -212,6 +212,7 @@ const ARTICLES = [
 const NAV = `      <nav>
         <ul class="nav-links">
           <li><a href="../index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
           <li><a href="catalog.html?group=sofas">Sofas</a></li>
           <li><a href="catalog.html?group=chairs">Chairs</a></li>
           <li><a href="catalog.html?group=recliners">Recliners</a></li>
@@ -251,7 +252,7 @@ const footer = () => `  <footer>
           <a href="tel:+917899802412" class="footer-contact-btn footer-contact-btn--call" aria-label="Call Us">
             <i class="fa-solid fa-phone"></i>
           </a>
-          <a href="mailto:support@layermax.com" class="footer-contact-btn footer-contact-btn--email" aria-label="Email Us">
+          <a href="mailto:info@layermax.in" class="footer-contact-btn footer-contact-btn--email" aria-label="Email Us">
             <i class="fa-solid fa-envelope"></i>
           </a>
         </div>
@@ -260,9 +261,14 @@ const footer = () => `  <footer>
       <div class="footer-col">
         <h4>Collections</h4>
         <ul class="footer-links">
-          <li><a href="catalog.html?category=wooden-couches">Wooden Couches</a></li>
-          <li><a href="catalog.html?category=office-chairs">Office Chairs</a></li>
           <li><a href="catalog.html?group=sofas">Sofas</a></li>
+          <li><a href="catalog.html?group=chairs">Chairs</a></li>
+          <li><a href="catalog.html?group=recliners">Recliners</a></li>
+          <li><a href="catalog.html?group=beds">Beds & Mattresses</a></li>
+          <li><a href="catalog.html?group=tables">Tables</a></li>
+          <li><a href="catalog.html?group=office">Office</a></li>
+          <li><a href="catalog.html?group=storage">Storage</a></li>
+          <li><a href="catalog.html?group=cafe">Café & Restaurant</a></li>
         </ul>
       </div>
 

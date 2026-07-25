@@ -48,24 +48,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-arqis-acoustic-office-phone-pod",
-    "name": "Arqis Acoustic Office Phone Pod",
-    "category": "acoustic-pods",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Arqis Acoustic Office Phone Pod combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/acoustic-pods/cat-arqis-acoustic-office-phone-pod/Arqis Acoustic Phone Pod - Architectural Context View.png",
-    "images": [
-      "assets/products/acoustic-pods/cat-arqis-acoustic-office-phone-pod/Arqis Acoustic Phone Pod - Architectural Context View.png",
-      "assets/products/acoustic-pods/cat-arqis-acoustic-office-phone-pod/Arqis Acoustic Phone Pod - Interior Desk View.png",
-      "assets/products/acoustic-pods/cat-arqis-acoustic-office-phone-pod/Arqis Acoustic Phone Pod - Studio Cutout View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "corvo",
     "name": "Corvo",
     "category": "acoustic-pods",
@@ -81,24 +63,6 @@ const PRODUCTS = [
       "assets/products/acoustic-pods/corvo/Corvo_02.png",
       "assets/products/acoustic-pods/corvo/Corvo_03.png",
       "assets/products/acoustic-pods/corvo/Corvo_04.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "crest",
-    "name": "Crest",
-    "category": "acoustic-pods",
-    "type": "pod",
-    "material": "Compact Privacy Partition Design",
-    "designer": "Bosq Ergonomics",
-    "rating": 4.9,
-    "badge": "",
-    "description": "The CREST offers a practical solution for creating focused work areas without occupying excessive space. Built with a combination of fabric, MDF, and metal, it provides privacy, flexibility, and a clean contemporary look for collaborative and individual work settings.",
-    "img": "assets/products/acoustic-pods/crest/Crest_01.png",
-    "images": [
-      "assets/products/acoustic-pods/crest/Crest_01.png",
-      "assets/products/acoustic-pods/crest/Crest_02.png",
-      "assets/products/acoustic-pods/crest/Crest_03.png"
     ],
     "colors": []
   },
@@ -6515,16 +6479,16 @@ const PRODUCTS = [
   {
     "id": "cat-teak-living-room-sofa-armchair-suite-set",
     "name": "Teak Living Room Sofa Armchair Suite Set",
-    "category": "chairs",
-    "type": "furniture",
+    "category": "sofas",
+    "type": "sofa",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Living Room Sofa Armchair Suite Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.jpg",
+    "img": "assets/products/sofas/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.jpg",
     "images": [
-      "assets/products/chairs/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.jpg"
+      "assets/products/sofas/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.jpg"
     ],
     "colors": []
   },
@@ -6621,22 +6585,6 @@ const PRODUCTS = [
     "img": "assets/products/chairs/cat-textured-boucle-tub-chair-with-wooden-frame/Textured Boucle Tub Chair with Wooden Frame.jpg",
     "images": [
       "assets/products/chairs/cat-textured-boucle-tub-chair-with-wooden-frame/Textured Boucle Tub Chair with Wooden Frame.jpg"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-titus-executive-chair",
-    "name": "Titus Executive Chair",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Titus Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-titus-executive-chair/Titus Executive Chair - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-titus-executive-chair/Titus Executive Chair - Front View.png"
     ],
     "colors": []
   },
@@ -11645,34 +11593,6 @@ const PRODUCTS = [
     ]
   },
   {
-    "id": "cabin_computer_tables",
-    "name": "Cabin & Computer Tables",
-    "category": "office-workstations",
-    "type": "workstation",
-    "material": "Moldau Acacia Dark CABIN",
-    "designer": "Buro Design",
-    "rating": 4.3,
-    "badge": "",
-    "description": "",
-    "img": "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_01.png",
-    "images": [
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_01.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_02.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_03.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_04.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_05.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_06.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_07.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_08.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_09.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_10.png",
-      "assets/products/office-workstations/cabin_computer_tables/Cabin_Computer_Tables_11.png"
-    ],
-    "colors": [
-      "Moldau Acacia Dark CABIN"
-    ]
-  },
-  {
     "id": "cat-admiral-executive-desk",
     "name": "Admiral Executive Desk",
     "category": "office-workstations",
@@ -11821,14 +11741,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-corvo-executive-desk",
-    "name": "Corvo Executive Desk",
+    "name": "Corvo Acoustic Meeting Pod",
     "category": "acoustic-pods",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "pod",
+    "material": "Upholstered Acoustic Panels / Powder-Coated Steel Frame",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Corvo Executive Desk combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A two-person acoustic meeting pod with a curved shell, glass door, integrated bench seating and a fold-down work surface. Sound-insulated for private calls and focused work on an open office floor.",
     "img": "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Angle Perspective.png",
     "images": [
       "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Angle Perspective.png",
@@ -11839,14 +11759,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-crest-modular-executive-desk",
-    "name": "Crest Modular Executive Desk",
+    "name": "Crest Acoustic Floor Screen",
     "category": "acoustic-pods",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "pod",
+    "material": "Upholstered Acoustic Panel / Polished Steel Feet",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Crest Modular Executive Desk combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A freestanding upholstered acoustic floor screen on slim steel feet, used to zone open-plan space and dampen noise between desks. Fabric-wrapped both sides for sound absorption.",
     "img": "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Angle Perspective.png",
     "images": [
       "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Angle Perspective.png",
@@ -11856,14 +11776,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-cubix-modular-workstation",
-    "name": "Cubix Modular Workstation",
+    "name": "Cubix Acoustic Meeting Pod",
     "category": "acoustic-pods",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "pod",
+    "material": "Laminate Shell / Glass / Upholstered Seating",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cubix Modular Workstation combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A four-person mobile meeting pod with full-height glazing, twin bench seats and a central table, mounted on lockable castors. Ventilated and sound-insulated for enclosed discussions anywhere on the floor.",
     "img": "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Angle Perspective.png",
     "images": [
       "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Angle Perspective.png",
@@ -11891,14 +11811,14 @@ const PRODUCTS = [
   },
   {
     "id": "cat-cyris-modern-executive-desk",
-    "name": "Cyris Modern Executive Desk",
+    "name": "Cyris Acoustic Meeting Pod",
     "category": "acoustic-pods",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
+    "type": "pod",
+    "material": "Laminate Shell / Glass / Upholstered Seating",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Cyris Modern Executive Desk combines modern design, exceptional comfort, and lasting durability.",
+    "description": "A two-person acoustic meeting pod with glazed doors, facing upholstered seats and a round café-height table. Provides a quiet, enclosed space for quick meetings and calls.",
     "img": "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.png",
     "images": [
       "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.png",
@@ -12041,22 +11961,6 @@ const PRODUCTS = [
       "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Corner Detail.png",
       "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Front View.png",
       "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Side View.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-evon-executive-desk-system",
-    "name": "Evon Executive Desk System",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Evon Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-evon-executive-desk-system/Evon Executive Desk System - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-evon-executive-desk-system/Evon Executive Desk System - Front View.png"
     ],
     "colors": []
   },
@@ -12257,28 +12161,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-merit-executive-office-suite",
-    "name": "Merit Executive Office Suite",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Merit Executive Office Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Angle Perspective.png",
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Context View.png",
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Corner Detail.png",
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Front View.png",
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - High Angle View.png",
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Side View.png",
-      "assets/products/office-workstations/cat-merit-executive-office-suite/Merit Executive Office Suite - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-midcentury-walnut-writing-desk",
     "name": "Midcentury Walnut Writing Desk",
     "category": "office-workstations",
@@ -12416,22 +12298,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-nuvia-executive-desk-system",
-    "name": "Nuvia Executive Desk System",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Nuvia Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-nuvia-executive-desk-system/Nuvia Executive Desk System - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-nuvia-executive-desk-system/Nuvia Executive Desk System - Front View.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-oak-and-charcoal-lshaped-desk-comboset",
     "name": "Oak And Charcoal Lshaped Desk Comboset",
     "category": "office-workstations",
@@ -12444,22 +12310,6 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/cat-oak-and-charcoal-lshaped-desk-comboset/oak_and_charcoal_lshaped_desk_comboset.png",
     "images": [
       "assets/products/office-workstations/cat-oak-and-charcoal-lshaped-desk-comboset/oak_and_charcoal_lshaped_desk_comboset.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-orbis-executive-desk",
-    "name": "Orbis Executive Desk",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Orbis Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-orbis-executive-desk/Orbis Executive Desk - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-orbis-executive-desk/Orbis Executive Desk - Front View.png"
     ],
     "colors": []
   },
@@ -12732,28 +12582,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-supreme-executive-office-suite",
-    "name": "Supreme Executive Office Collection",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Supreme Executive Office Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Angle Perspective.png",
-    "images": [
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Angle Perspective.png",
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Context View.png",
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Corner Detail.png",
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Front View.png",
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - High Angle View.png",
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Side View.png",
-      "assets/products/office-workstations/cat-supreme-executive-office-suite/Supreme Executive Suite - Studio Showcase.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-twotone-oak-chocolate-executive-desk",
     "name": "Twotone Oak Chocolate Executive Desk",
     "category": "office-workstations",
@@ -12782,22 +12610,6 @@ const PRODUCTS = [
     "img": "assets/products/office-workstations/cat-twotone-oak-executive-desk/twotone_oak_executive_desk.png",
     "images": [
       "assets/products/office-workstations/cat-twotone-oak-executive-desk/twotone_oak_executive_desk.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-tyro-executive-desk-system",
-    "name": "Tyro Executive Desk System",
-    "category": "office-workstations",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Tyro Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-tyro-executive-desk-system/Tyro Executive Desk System - Front View.png",
-    "images": [
-      "assets/products/office-workstations/cat-tyro-executive-desk-system/Tyro Executive Desk System - Front View.png"
     ],
     "colors": []
   },
@@ -13547,32 +13359,6 @@ const PRODUCTS = [
       "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_04.png"
     ],
     "colors": [],
-    "tags": [
-      "coffee table"
-    ]
-  },
-  {
-    "id": "modular_conference_z_line_nova",
-    "name": "Modular Conference (Z-Line & Nova)",
-    "category": "office-workstations",
-    "type": "table",
-    "material": "Vermount",
-    "designer": "Buro Design",
-    "rating": 4.7,
-    "badge": "",
-    "description": "",
-    "img": "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_01.png",
-    "images": [
-      "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_01.png",
-      "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_02.png",
-      "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_03.png",
-      "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_04.png",
-      "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_05.png",
-      "assets/products/office-workstations/modular_conference_z_line_nova/Modular_Conference_Z_Line_Nova_06.png"
-    ],
-    "colors": [
-      "Vermount"
-    ],
     "tags": [
       "coffee table"
     ]
@@ -15612,9 +15398,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.2,
+    "rating": 4.4,
     "badge": "",
-    "description": "The Bedroom Suite Alpha combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Gamma combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.png"
@@ -15630,7 +15416,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.9,
     "badge": "",
-    "description": "",
+    "description": "The Bedroom Suite Delta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png"
@@ -15644,9 +15430,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.4,
+    "rating": 4.8,
     "badge": "",
-    "description": "The Bedroom Suite Gamma combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Epsilon combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png"
@@ -15660,9 +15446,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.9,
+    "rating": 4.1,
     "badge": "",
-    "description": "The Bedroom Suite Delta combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Zeta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png"
@@ -15676,9 +15462,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.8,
+    "rating": 4.9,
     "badge": "",
-    "description": "The Bedroom Suite Epsilon combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Eta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png"
@@ -15692,9 +15478,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.1,
+    "rating": 4.4,
     "badge": "",
-    "description": "The Bedroom Suite Zeta combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Theta combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png"
@@ -15708,9 +15494,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.9,
+    "rating": 4.5,
     "badge": "",
-    "description": "The Bedroom Suite Eta combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Iota combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png"
@@ -15724,9 +15510,9 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.4,
+    "rating": 4.8,
     "badge": "",
-    "description": "The Bedroom Suite Theta combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Kappa combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png"
@@ -15742,7 +15528,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.5,
     "badge": "",
-    "description": "The Bedroom Suite Iota combines modern design, exceptional comfort, and lasting durability.",
+    "description": "The Bedroom Suite Lambda combines modern design, exceptional comfort, and lasting durability.",
     "img": "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png",
     "images": [
       "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png"
@@ -15756,44 +15542,12 @@ const PRODUCTS = [
     "type": "bed",
     "material": "Engineered Wood",
     "designer": "Kosmo Design",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Bedroom Suite Kappa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
-    "images": [
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "bedroom_set_11",
-    "name": "Bedroom Set 11",
-    "category": "sleeping-beds",
-    "type": "bed",
-    "material": "Engineered Wood",
-    "designer": "Kosmo Design",
-    "rating": 4.5,
-    "badge": "",
-    "description": "The Bedroom Suite Lambda combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png",
-    "images": [
-      "assets/products/sleeping-beds/bedroom_set_11/Bedroom_Set_11_01.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "bedroom_set_12",
-    "name": "Bedroom Set 12",
-    "category": "sleeping-beds",
-    "type": "bed",
-    "material": "Engineered Wood",
-    "designer": "Kosmo Design",
     "rating": 4.9,
     "badge": "",
     "description": "The Bedroom Suite Mu combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_12/Bedroom_Set_12_01.png"
+      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png"
     ],
     "colors": []
   },
@@ -16502,38 +16256,6 @@ const PRODUCTS = [
     "colors": []
   },
   {
-    "id": "cat-nestor-oak-wood-single-bed-with-upholstered-headboard",
-    "name": "Nestor Oak Wood Single Bed With Upholstered Headboard",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Nestor Oak Wood Single Bed With Upholstered Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-nestor-oak-wood-single-bed-with-upholstered-headboard/Nestor Single Bed - Front Perspective.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-nestor-oak-wood-single-bed-with-upholstered-headboard/Nestor Single Bed - Front Perspective.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-noble-luxury-upholstered-king-bedroom-suite",
-    "name": "Noble Luxury Upholstered King Bedroom Suite",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Noble Luxury Upholstered King Bedroom Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-noble-luxury-upholstered-king-bedroom-suite/Noble Luxury Upholstered King Bedroom Suite.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-noble-luxury-upholstered-king-bedroom-suite/Noble Luxury Upholstered King Bedroom Suite.png"
-    ],
-    "colors": []
-  },
-  {
     "id": "cat-oak-bed-frame-with-upholstered-headboard",
     "name": "Oak Bed Frame With Upholstered Headboard",
     "category": "sleeping-beds",
@@ -16578,22 +16300,6 @@ const PRODUCTS = [
     "img": "assets/products/sleeping-beds/cat-oak-wood-bed-with-dark-headboard/oak_wood_bed_with_dark_headboard.png",
     "images": [
       "assets/products/sleeping-beds/cat-oak-wood-bed-with-dark-headboard/oak_wood_bed_with_dark_headboard.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-oak-wood-single-bed-study-bedroom-suite-set",
-    "name": "Oak Wood Single Bed Study Bedroom Suite Set",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Oak Wood Single Bed Study Bedroom Suite Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-oak-wood-single-bed-study-bedroom-suite-set/Oak Wood Single Bed Study Bedroom Suite Set.png",
-    "images": [
-      "assets/products/sleeping-beds/cat-oak-wood-single-bed-study-bedroom-suite-set/Oak Wood Single Bed Study Bedroom Suite Set.png"
     ],
     "colors": []
   },
@@ -17101,7 +16807,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.8,
     "badge": "",
-    "description": "",
+    "description": "The Single Bed & Study Set is a complete oak-finish bedroom suite for students and single rooms, pairing a storage single bed with a hutch study desk, a two-door wardrobe and a drawer bedside unit. Clean engineered-wood construction with grey accents ties the pieces together for a coordinated, space-efficient setup.",
     "img": "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png",
     "images": [
       "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png"
@@ -17117,7 +16823,7 @@ const PRODUCTS = [
     "designer": "Kosmo Design",
     "rating": 4.9,
     "badge": "",
-    "description": "",
+    "description": "The Woodland bedroom set brings a warm natural-oak look to the room, combining a cushioned-headboard storage bed with a fluted-panel wardrobe, a dresser with mirror and a matching bedside unit. Built in durable engineered wood, the coordinated suite balances soft upholstery with ribbed timber detailing for a modern, cohesive bedroom.",
     "img": "assets/products/sleeping-beds/woodland/Woodland_01.png",
     "images": [
       "assets/products/sleeping-beds/woodland/Woodland_01.png"
@@ -19560,54 +19266,6 @@ const PRODUCTS = [
       "assets/products/wardrobes-storage/forge/Forge_02.png",
       "assets/products/wardrobes-storage/forge/Forge_03.png",
       "assets/products/wardrobes-storage/forge/Forge_04.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "linea_dresser_study_table",
-    "name": "Linea Dresser & Study Table",
-    "category": "wardrobes-storage",
-    "type": "table",
-    "material": "Engineered Wood",
-    "designer": "Kosmo Design",
-    "rating": 4.8,
-    "badge": "",
-    "description": "",
-    "img": "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_01.png",
-    "images": [
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_01.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_03.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_05.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_07.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_09.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_11.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_13.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_15.png",
-      "assets/products/wardrobes-storage/linea_dresser_study_table/Linea_Dresser_Study_Table_17.png"
-    ],
-    "colors": []
-  },
-  {
-    "id": "max_sliding_wardrobes",
-    "name": "Max & Sliding Wardrobes",
-    "category": "wardrobes-storage",
-    "type": "storage",
-    "material": "Engineered Wood",
-    "designer": "Kosmo Design",
-    "rating": 4.3,
-    "badge": "",
-    "description": "",
-    "img": "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_01.png",
-    "images": [
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_01.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_03.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_05.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_07.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_09.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_13.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_14.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_17.png",
-      "assets/products/wardrobes-storage/max_sliding_wardrobes/Max_Sliding_Wardrobes_19.png"
     ],
     "colors": []
   },

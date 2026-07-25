@@ -1697,17 +1697,17 @@ footer {
 }
 
 .footer-contact-btn--whatsapp {
-  background-color: #e8faf0;
-  color: #25D366;
-  border-color: #b7e9cf;
+  background-color: var(--color-secondary);
+  color: var(--color-primary);
+  border-color: var(--color-border);
 }
 
 .footer-contact-btn--whatsapp:hover {
-  background-color: #25D366;
+  background-color: var(--color-primary);
   color: #ffffff;
-  border-color: #25D366;
+  border-color: var(--color-primary);
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(37, 211, 102, 0.3);
+  box-shadow: var(--shadow-md);
 }
 
 .footer-contact-btn--call {
