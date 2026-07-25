@@ -38,7 +38,7 @@ GROUPS.forEach(g => g.subs.forEach(s => { GROUP_BY_CAT[s.c] = g; }));
 let currentGroupKey = 'sofas';
 let activeCategory = 'all';          // 'all' = every sub-category in the current group
 let currentPage = 1;
-const ITEMS_PER_PAGE = 15;
+const ITEMS_PER_PAGE = 18;
 
 document.addEventListener('DOMContentLoaded', () => {
   const params = new URLSearchParams(window.location.search);
@@ -227,6 +227,27 @@ function renderProducts() {
   if (emptyState) emptyState.style.display = 'none';
   grid.innerHTML = paginated.map(p => productCardHTML(p, '')).join('');
   renderPagination(totalPages, currentPage);
+
+  // Prefetch next page images so the next click paints instantly
+  prefetchPage(filtered, currentPage + 1);
+}
+
+// Warm the browser cache with a page's images (idle, non-blocking)
+const _prefetched = new Set();
+function prefetchPage(list, page) {
+  const start = (page - 1) * ITEMS_PER_PAGE;
+  const slice = list.slice(start, start + ITEMS_PER_PAGE);
+  if (!slice.length) return;
+  const run = () => slice.forEach(p => {
+    const src = resolveImagePath(p.img);
+    if (_prefetched.has(src)) return;
+    _prefetched.add(src);
+    const img = new Image();
+    img.decoding = 'async';
+    img.src = src;
+  });
+  if (window.requestIdleCallback) requestIdleCallback(run, { timeout: 1200 });
+  else setTimeout(run, 200);
 }
 
 // PAGINATION
@@ -253,7 +274,14 @@ function renderPagination(totalPages, activePage) {
   html += `<button class="page-btn page-next ${activePage === totalPages ? 'disabled' : ''}" ${activePage === totalPages ? 'disabled' : ''}>Next</button>`;
   container.innerHTML = html;
 
-  const goTo = (page) => { currentPage = page; renderProducts(); document.querySelector('.catalog-main-section')?.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+  const goTo = (page) => {
+    if (page === currentPage) return;
+    currentPage = page;
+    renderProducts();
+    // Instant jump to the grid top — no waiting on a long smooth-scroll animation
+    const anchor = document.querySelector('.catalog-main-section') || document.querySelector('.catalog-grid');
+    anchor?.scrollIntoView({ behavior: 'auto', block: 'start' });
+  };
   container.querySelectorAll('.page-btn[data-page]').forEach(btn => btn.addEventListener('click', () => goTo(parseInt(btn.getAttribute('data-page')))));
   container.querySelector('.page-prev')?.addEventListener('click', () => { if (currentPage > 1) goTo(currentPage - 1); });
   container.querySelector('.page-next')?.addEventListener('click', () => { if (currentPage < totalPages) goTo(currentPage + 1); });

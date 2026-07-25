@@ -33,7 +33,7 @@ function productCardHTML(p, prefix = '') {
     <div class="product-card" data-id="${p.id}" data-name="${p.name}" data-category="${p.category}" data-img="${p.img}">
       <a href="${link}" ${target} style="display: block; width: 100%;">
         <div class="product-img-box">
-          <img src="${resolveImagePath(p.img)}" alt="${p.name}">
+          <img src="${resolveImagePath(p.img)}" alt="${p.name}" loading="lazy" decoding="async">
         </div>
       </a>
       <span class="product-category">${p.designer}</span>

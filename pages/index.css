@@ -3111,6 +3111,28 @@ header.scrolled + .catalog-hero + .catalog-tabs-section {
     font-weight: 700;
     border-radius: 6px;
   }
+  .catalog-pagination {
+    gap: 5px;
+    margin-top: 32px;
+  }
+  .page-btn {
+    min-width: 34px;
+    height: 34px;
+    padding: 0 8px;
+    font-size: 12.5px;
+    border-radius: 8px;
+  }
+  .page-btn.page-prev,
+  .page-btn.page-next {
+    padding: 0 12px;
+    font-size: 12px;
+  }
+  .page-ellipsis {
+    width: 20px;
+    height: 34px;
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
 }
 
 /* Responsiveness adjustments */
