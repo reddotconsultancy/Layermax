@@ -6,7 +6,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE = 'https://www.layermax.com';
+const SITE = 'https://www.layermax.in';
 const ROOT = path.join(__dirname, '..');
 
 global.window = { location: { pathname: '/' } };

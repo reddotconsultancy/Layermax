@@ -12,41 +12,41 @@ a single JavaScript file, `pages/products-data.js`, as a `PRODUCTS` array.
 
 ## Departments
 
-- [Sofas](https://www.layermax.com/pages/catalog.html?group=sofas): 188 products — sofas, wooden couches, corner sofas
-- [Chairs](https://www.layermax.com/pages/catalog.html?group=chairs): 287 products — office chairs, dining chairs, armchairs
-- [Recliners](https://www.layermax.com/pages/catalog.html?group=recliners): 94 products — recliners, home theatre seating
-- [Beds & Mattresses](https://www.layermax.com/pages/catalog.html?group=beds): 102 products — sleeping beds, mattresses
-- [Tables](https://www.layermax.com/pages/catalog.html?group=tables): 64 products — center tables, dining tables
-- [Office](https://www.layermax.com/pages/catalog.html?group=office): 160 products — modular workstations, acoustic pods
-- [Storage](https://www.layermax.com/pages/catalog.html?group=storage): 69 products — wardrobes and storage units
-- [Café & Restaurant](https://www.layermax.com/pages/catalog.html?group=cafe): 196 products — café chairs, café tables, bar stools, banquet equipment
+- [Sofas](https://www.layermax.in/pages/catalog.html?group=sofas): 188 products — sofas, wooden couches, corner sofas
+- [Chairs](https://www.layermax.in/pages/catalog.html?group=chairs): 287 products — office chairs, dining chairs, armchairs
+- [Recliners](https://www.layermax.in/pages/catalog.html?group=recliners): 94 products — recliners, home theatre seating
+- [Beds & Mattresses](https://www.layermax.in/pages/catalog.html?group=beds): 102 products — sleeping beds, mattresses
+- [Tables](https://www.layermax.in/pages/catalog.html?group=tables): 64 products — center tables, dining tables
+- [Office](https://www.layermax.in/pages/catalog.html?group=office): 160 products — modular workstations, acoustic pods
+- [Storage](https://www.layermax.in/pages/catalog.html?group=storage): 69 products — wardrobes and storage units
+- [Café & Restaurant](https://www.layermax.in/pages/catalog.html?group=cafe): 196 products — café chairs, café tables, bar stools, banquet equipment
 
 ## Key pages
 
-- [Home](https://www.layermax.com/): collections, best sellers, clientele, testimonials
-- [Full catalog](https://www.layermax.com/pages/catalog.html): every department, with search, sort, and pagination
-- [About](https://www.layermax.com/pages/about.html): company background
-- [Contact](https://www.layermax.com/pages/contact.html): phone, WhatsApp, email, Bengaluru showroom address
-- [Custom furniture request](https://www.layermax.com/pages/custom.html): bespoke dimensions, materials, upholstery
-- [Product enquiry](https://www.layermax.com/pages/enquire.html): general or product-specific enquiry form
+- [Home](https://www.layermax.in/): collections, best sellers, clientele, testimonials
+- [Full catalog](https://www.layermax.in/pages/catalog.html): every department, with search, sort, and pagination
+- [About](https://www.layermax.in/pages/about.html): company background
+- [Contact](https://www.layermax.in/pages/contact.html): phone, WhatsApp, email, Bengaluru showroom address
+- [Custom furniture request](https://www.layermax.in/pages/custom.html): bespoke dimensions, materials, upholstery
+- [Product enquiry](https://www.layermax.in/pages/enquire.html): general or product-specific enquiry form
 
 ## Blog
 
 Buying guides written by the design and project teams. No pricing; each article links to the
 relevant catalog department.
 
-- [Furniture insights index](https://www.layermax.com/pages/blog.html)
-- [How to Choose an Ergonomic Office Chair](https://www.layermax.com/pages/blog-how-to-choose-an-ergonomic-office-chair.html): seat height, lumbar support, armrests, tilt mechanisms
-- [Furnishing a Banquet Hall](https://www.layermax.com/pages/blog-furnishing-a-banquet-hall.html): chair-to-guest ratios, stacking and storage, trolleys, staging and queue control
-- [Solid Wood vs Engineered Wood](https://www.layermax.com/pages/blog-solid-wood-vs-engineered-wood.html): timber movement, edge banding, where each construction belongs
-- [Café Seating: Layout, Capacity and Turnover](https://www.layermax.com/pages/blog-cafe-seating-layout-and-capacity.html): space per cover, circulation clearances, seating mix
-- [Mattress Firmness: A Straight Guide](https://www.layermax.com/pages/blog-mattress-firmness-guide.html): support vs firmness, sleeping position, layer construction
+- [Furniture insights index](https://www.layermax.in/pages/blog.html)
+- [How to Choose an Ergonomic Office Chair](https://www.layermax.in/pages/blog-how-to-choose-an-ergonomic-office-chair.html): seat height, lumbar support, armrests, tilt mechanisms
+- [Furnishing a Banquet Hall](https://www.layermax.in/pages/blog-furnishing-a-banquet-hall.html): chair-to-guest ratios, stacking and storage, trolleys, staging and queue control
+- [Solid Wood vs Engineered Wood](https://www.layermax.in/pages/blog-solid-wood-vs-engineered-wood.html): timber movement, edge banding, where each construction belongs
+- [Café Seating: Layout, Capacity and Turnover](https://www.layermax.in/pages/blog-cafe-seating-layout-and-capacity.html): space per cover, circulation clearances, seating mix
+- [Mattress Firmness: A Straight Guide](https://www.layermax.in/pages/blog-mattress-firmness-guide.html): support vs firmness, sleeping position, layer construction
 
 ## Policies
 
-- [Shipping & deliveries](https://www.layermax.com/pages/shipping.html)
-- [Returns policy](https://www.layermax.com/pages/returns.html)
-- [Warranty details](https://www.layermax.com/pages/warranty.html): 12-month manufacturing warranty
+- [Shipping & deliveries](https://www.layermax.in/pages/shipping.html)
+- [Returns policy](https://www.layermax.in/pages/returns.html)
+- [Warranty details](https://www.layermax.in/pages/warranty.html): 12-month manufacturing warranty
 
 ## Ranges
 

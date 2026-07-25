@@ -25,8 +25,8 @@ Put local secrets in `.dev.vars` (git-ignored):
 
 ```
 RESEND_API_KEY=re_xxxxxxxx
-ENQUIRY_FROM=Layermax <enquiries@layermax.com>
-ENQUIRY_TO=sales@layermax.com
+ENQUIRY_FROM=Layermax <enquiries@layermax.in>
+ENQUIRY_TO=sales@layermax.in
 ```
 
 Opening `index.html` from disk works for a quick look, but a server is recommended so
@@ -106,8 +106,8 @@ Required environment variables (Pages → Settings → Environment variables):
 | Variable | Type | Example |
 |---|---|---|
 | `RESEND_API_KEY` | secret | `re_...` |
-| `ENQUIRY_FROM` | plain | `Layermax <enquiries@layermax.com>` — domain must be verified in Resend |
-| `ENQUIRY_TO` | plain | `sales@layermax.com` (comma-separate for several) |
+| `ENQUIRY_FROM` | plain | `Layermax <enquiries@layermax.in>` — domain must be verified in Resend |
+| `ENQUIRY_TO` | plain | `sales@layermax.in` (comma-separate for several) |
 
 If any of these are missing the endpoint returns a 500 and the form shows an error asking
 the customer to call instead — it never shows a false success.
@@ -121,7 +121,7 @@ node tools/generate-sitemap.js
 ```
 
 `SITE` at the top of that script, the canonical/`og:url` tags in each page's `<head>`, and
-the URLs in `robots.txt` and `llms.txt` all assume `https://www.layermax.com`. Update all
+the URLs in `robots.txt` and `llms.txt` all assume `https://www.layermax.in`. Update all
 four if the production hostname changes.
 
 ## Notes

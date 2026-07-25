@@ -7,7 +7,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 process.chdir(ROOT);
 
-const SITE = 'https://www.layermax.com';
+const SITE = 'https://www.layermax.in';
 const CSS_V = 'v=7';
 const JS_V = 'v=7';
 

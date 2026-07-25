@@ -4,4 +4,4 @@ Allow: /
 # Enquiry endpoint — nothing to index
 Disallow: /api/
 
-Sitemap: https://www.layermax.com/sitemap.xml
+Sitemap: https://www.layermax.in/sitemap.xml
