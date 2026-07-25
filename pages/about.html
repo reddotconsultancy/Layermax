@@ -40,10 +40,10 @@
       top: 100px;
     }
     .about-customizer-grid .customizer-image-box img {
-      aspect-ratio: 4 / 5;
+      width: 100%;
       height: auto;
-      object-fit: cover;
-      object-position: top center;
+      border-radius: 24px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     }
 
     .about-custom-content {
@@ -72,6 +72,9 @@
       .about-customizer-grid {
         grid-template-columns: 1fr;
         gap: 40px;
+      }
+      .about-customizer-grid .customizer-image-box {
+        max-height: none;
       }
     }
   </style>
