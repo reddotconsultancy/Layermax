@@ -1,10 +1,15 @@
 // Cloudflare Pages Function — POST /api/enquiry
 // Sends enquiry / customisation / support submissions via Resend.
 //
-// Required environment variables (Pages > Settings > Environment variables):
-//   RESEND_API_KEY  secret  — Resend API key
-//   ENQUIRY_FROM    plain   — verified sender, e.g. "Layermax <enquiries@layermax.com>"
-//   ENQUIRY_TO      plain   — destination inbox, comma-separated for several
+// Environment variables (Pages > Settings > Environment variables):
+//   RESEND_API_KEY  secret  — Resend API key  (REQUIRED — the only var you must set)
+//   ENQUIRY_FROM    plain   — optional override; defaults to Layermax <enquiries@layermax.in>
+//   ENQUIRY_TO      plain   — optional override; defaults to info@layermax.in
+//
+// The sending domain (layermax.in) must be verified in Resend for delivery to work.
+
+const DEFAULT_FROM = 'Layermax <enquiries@layermax.in>';
+const DEFAULT_TO = 'info@layermax.in';
 
 const FORM_TYPES = {
   product: 'Product Enquiry',
@@ -62,10 +67,12 @@ export async function onRequest({ request, env }) {
   if (!name || !message) return json({ ok: false, error: 'Name and message are required.' }, 400);
   if (!isEmail(email)) return json({ ok: false, error: 'A valid email address is required.' }, 400);
 
-  if (!env.RESEND_API_KEY || !env.ENQUIRY_FROM || !env.ENQUIRY_TO) {
-    console.error('Missing RESEND_API_KEY / ENQUIRY_FROM / ENQUIRY_TO');
+  if (!env.RESEND_API_KEY) {
+    console.error('Missing RESEND_API_KEY');
     return json({ ok: false, error: 'Enquiries are temporarily unavailable. Please call or WhatsApp us.' }, 500);
   }
+  const fromAddress = env.ENQUIRY_FROM || DEFAULT_FROM;
+  const toAddresses = (env.ENQUIRY_TO || DEFAULT_TO).split(',').map((t) => t.trim());
 
   const label = FORM_TYPES[data.type] || 'Website Enquiry';
   const rows = Object.entries(FIELD_LABELS)
@@ -97,8 +104,8 @@ export async function onRequest({ request, env }) {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        from: env.ENQUIRY_FROM,
-        to: env.ENQUIRY_TO.split(',').map((t) => t.trim()),
+        from: fromAddress,
+        to: toAddresses,
         reply_to: email,
         subject,
         html
