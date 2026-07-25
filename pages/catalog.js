@@ -256,8 +256,11 @@ function renderPagination(totalPages, activePage) {
   if (!container) return;
   if (totalPages <= 1) { container.innerHTML = ''; return; }
 
-  let html = `<button class="page-btn page-prev ${activePage === 1 ? 'disabled' : ''}" ${activePage === 1 ? 'disabled' : ''}>Previous</button>`;
-  const maxVisible = 5;
+  const isMobile = window.matchMedia('(max-width: 600px)').matches;
+  const prevLabel = isMobile ? '‹' : 'Previous';
+  const nextLabel = isMobile ? '›' : 'Next';
+  let html = `<button class="page-btn page-prev ${activePage === 1 ? 'disabled' : ''}" ${activePage === 1 ? 'disabled' : ''} aria-label="Previous">${prevLabel}</button>`;
+  const maxVisible = isMobile ? 3 : 5;
   let startPage = Math.max(1, activePage - Math.floor(maxVisible / 2));
   let endPage = Math.min(totalPages, startPage + maxVisible - 1);
   if (endPage - startPage < maxVisible - 1) startPage = Math.max(1, endPage - maxVisible + 1);
@@ -271,7 +274,7 @@ function renderPagination(totalPages, activePage) {
     if (endPage < totalPages - 1) html += `<span class="page-ellipsis">…</span>`;
     html += `<button class="page-btn" data-page="${totalPages}">${totalPages}</button>`;
   }
-  html += `<button class="page-btn page-next ${activePage === totalPages ? 'disabled' : ''}" ${activePage === totalPages ? 'disabled' : ''}>Next</button>`;
+  html += `<button class="page-btn page-next ${activePage === totalPages ? 'disabled' : ''}" ${activePage === totalPages ? 'disabled' : ''} aria-label="Next">${nextLabel}</button>`;
   container.innerHTML = html;
 
   const goTo = (page) => {

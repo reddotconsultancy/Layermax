@@ -3114,24 +3114,27 @@ header.scrolled + .catalog-hero + .catalog-tabs-section {
   .catalog-pagination {
     gap: 5px;
     margin-top: 32px;
+    flex-wrap: nowrap;
   }
   .page-btn {
-    min-width: 34px;
-    height: 34px;
-    padding: 0 8px;
+    min-width: 32px;
+    height: 32px;
+    padding: 0 6px;
     font-size: 12.5px;
     border-radius: 8px;
   }
   .page-btn.page-prev,
   .page-btn.page-next {
-    padding: 0 12px;
-    font-size: 12px;
+    min-width: 32px;
+    padding: 0;
+    font-size: 18px;
+    line-height: 1;
   }
   .page-ellipsis {
-    width: 20px;
-    height: 34px;
+    width: 14px;
+    height: 32px;
     font-size: 14px;
-    letter-spacing: 1px;
+    letter-spacing: 0;
   }
 }
 
