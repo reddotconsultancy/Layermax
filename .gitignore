@@ -29,3 +29,8 @@ Logo/*.pdf
 # Owner review scratch folder (not part of the site)
 ownerview/
 tools/lowres-originals/
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
