@@ -1,7 +1,14 @@
 // Shared submit handler for the enquiry / custom / support forms.
-// Posts to the /api/enquiry Pages Function, which relays through Resend.
+// Posts directly to Web3Forms for simple, free email delivery.
 
-const ENQUIRY_ENDPOINT = '/api/enquiry';
+const ENQUIRY_ENDPOINT = 'https://api.web3forms.com/submit';
+const ACCESS_KEY = '19492cd3-6fe1-4967-969f-94985016397a';
+
+const FORM_TYPES = {
+  product: 'Product Enquiry',
+  custom: 'Custom Furniture Request',
+  support: 'Support Message'
+};
 
 // Reads a field's value by id; returns '' when the element is absent.
 function fieldValue(id) {
@@ -63,15 +70,27 @@ window.initEnquiryForm = function initEnquiryForm(opts) {
     submitBtn.disabled = true;
 
     try {
+      const userPayload = opts.payload();
+      const label = FORM_TYPES[userPayload.type] || 'Website Enquiry';
+      const subject = userPayload.productName
+        ? `${label}: ${userPayload.productName} — ${userPayload.name}`
+        : (userPayload.subject || `${label} — ${userPayload.name}`);
+
       const res = await fetch(ENQUIRY_ENDPOINT, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...opts.payload(), company: honeypot.value })
+        body: JSON.stringify({
+          access_key: ACCESS_KEY,
+          from_name: userPayload.name || 'Layermax Website',
+          subject: subject,
+          ...userPayload,
+          company: honeypot.value
+        })
       });
       const body = await res.json().catch(() => ({}));
 
-      if (!res.ok || !body.ok) {
-        throw new Error(body.error || 'We could not send your message. Please try again, or call us on +91 78998 02412.');
+      if (!res.ok || !body.success) {
+        throw new Error(body.message || 'We could not send your message. Please try again, or call us on +91 78998 02412.');
       }
 
       form.style.display = 'none';
@@ -83,3 +102,4 @@ window.initEnquiryForm = function initEnquiryForm(opts) {
     }
   });
 };
+

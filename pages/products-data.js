@@ -20,12 +20,12 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "Premium",
     "description": "The Arcone is designed to provide a private and distraction-free workspace for individual users. Featuring a distinctive curved profile, advanced soundproofing technology, integrated ventilation, and built-in power access, it creates a comfortable environment for focused work, virtual meetings, and confidential conversations.",
-    "img": "assets/products/acoustic-pods/arqis/Arqis_01.png",
+    "img": "assets/products/acoustic-pods/arqis/Arqis_01.webp",
     "images": [
-      "assets/products/acoustic-pods/arqis/Arqis_01.png",
-      "assets/products/acoustic-pods/arqis/Arqis_02.png",
-      "assets/products/acoustic-pods/arqis/Arqis_03.png",
-      "assets/products/acoustic-pods/arqis/Arqis_04.png"
+      "assets/products/acoustic-pods/arqis/Arqis_01.webp",
+      "assets/products/acoustic-pods/arqis/Arqis_02.webp",
+      "assets/products/acoustic-pods/arqis/Arqis_03.webp",
+      "assets/products/acoustic-pods/arqis/Arqis_04.webp"
     ],
     "colors": []
   },
@@ -39,11 +39,11 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "The CANIO is designed to create defined work zones while maintaining openness within the workspace. Combining fabric, MDF, and metal construction, it provides visual separation, enhanced privacy, and a refined professional appearance suitable for dynamic office environments.",
-    "img": "assets/products/acoustic-pods/canio/Canio_01.png",
+    "img": "assets/products/acoustic-pods/canio/Canio_01.webp",
     "images": [
-      "assets/products/acoustic-pods/canio/Canio_01.png",
-      "assets/products/acoustic-pods/canio/Canio_02.png",
-      "assets/products/acoustic-pods/canio/Canio_03.png"
+      "assets/products/acoustic-pods/canio/Canio_01.webp",
+      "assets/products/acoustic-pods/canio/Canio_02.webp",
+      "assets/products/acoustic-pods/canio/Canio_03.webp"
     ],
     "colors": []
   },
@@ -57,12 +57,12 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "Premium",
     "description": "The ARCTWO offers a collaborative yet private environment for two users. Its curved architectural form, acoustic insulation, and integrated ventilation system help create a comfortable space for meetings, discussions, and focused teamwork while maintaining visual sophistication.",
-    "img": "assets/products/acoustic-pods/corvo/Corvo_01.png",
+    "img": "assets/products/acoustic-pods/corvo/Corvo_01.webp",
     "images": [
-      "assets/products/acoustic-pods/corvo/Corvo_01.png",
-      "assets/products/acoustic-pods/corvo/Corvo_02.png",
-      "assets/products/acoustic-pods/corvo/Corvo_03.png",
-      "assets/products/acoustic-pods/corvo/Corvo_04.png"
+      "assets/products/acoustic-pods/corvo/Corvo_01.webp",
+      "assets/products/acoustic-pods/corvo/Corvo_02.webp",
+      "assets/products/acoustic-pods/corvo/Corvo_03.webp",
+      "assets/products/acoustic-pods/corvo/Corvo_04.webp"
     ],
     "colors": []
   },
@@ -76,12 +76,12 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "Premium",
     "description": "The Dual Square Pod combines a clean geometric design with advanced workplace functionality. Designed for two users, it provides an enclosed environment with soundproofing, ventilation, power connectivity, and castor wheels for enhanced mobility and flexible workspace planning.",
-    "img": "assets/products/acoustic-pods/cubix/Cubix_01.png",
+    "img": "assets/products/acoustic-pods/cubix/Cubix_01.webp",
     "images": [
-      "assets/products/acoustic-pods/cubix/Cubix_01.png",
-      "assets/products/acoustic-pods/cubix/Cubix_02.png",
-      "assets/products/acoustic-pods/cubix/Cubix_03.png",
-      "assets/products/acoustic-pods/cubix/Cubix_04.png"
+      "assets/products/acoustic-pods/cubix/Cubix_01.webp",
+      "assets/products/acoustic-pods/cubix/Cubix_02.webp",
+      "assets/products/acoustic-pods/cubix/Cubix_03.webp",
+      "assets/products/acoustic-pods/cubix/Cubix_04.webp"
     ],
     "colors": []
   },
@@ -95,12 +95,12 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "Premium",
     "description": "The Cyris is engineered to provide a dedicated space for collaboration and focused discussions. Designed with acoustic insulation, active ventilation, and integrated power access, it supports productive teamwork while maintaining privacy and comfort in open office environments.",
-    "img": "assets/products/acoustic-pods/cyris/Cyris_01.png",
+    "img": "assets/products/acoustic-pods/cyris/Cyris_01.webp",
     "images": [
-      "assets/products/acoustic-pods/cyris/Cyris_01.png",
-      "assets/products/acoustic-pods/cyris/Cyris_02.png",
-      "assets/products/acoustic-pods/cyris/Cyris_03.png",
-      "assets/products/acoustic-pods/cyris/Cyris_04.png"
+      "assets/products/acoustic-pods/cyris/Cyris_01.webp",
+      "assets/products/acoustic-pods/cyris/Cyris_02.webp",
+      "assets/products/acoustic-pods/cyris/Cyris_03.webp",
+      "assets/products/acoustic-pods/cyris/Cyris_04.webp"
     ],
     "colors": []
   },
@@ -114,12 +114,12 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "Premium",
     "description": "The Velor is a private and mobile workspace solution for focused individual work. Equipped with soundproofing technology, active ventilation, integrated power access, and castor wheels, it provides flexibility, comfort, and privacy within evolving office environments.",
-    "img": "assets/products/acoustic-pods/velor/Velor_01.png",
+    "img": "assets/products/acoustic-pods/velor/Velor_01.webp",
     "images": [
-      "assets/products/acoustic-pods/velor/Velor_01.png",
-      "assets/products/acoustic-pods/velor/Velor_02.png",
-      "assets/products/acoustic-pods/velor/Velor_03.png",
-      "assets/products/acoustic-pods/velor/Velor_04.png"
+      "assets/products/acoustic-pods/velor/Velor_01.webp",
+      "assets/products/acoustic-pods/velor/Velor_02.webp",
+      "assets/products/acoustic-pods/velor/Velor_03.webp",
+      "assets/products/acoustic-pods/velor/Velor_04.webp"
     ],
     "colors": []
   },
@@ -133,11 +133,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Tufted Hydraulic Swivel Bar Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Corner Detail.png",
-      "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Corner Detail.webp",
+      "assets/products/cafe-bar-stools/black-tufted-hydraulic-swivel-bar-stool/Black Tufted Swivel Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -151,9 +151,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "New",
     "description": "This versatile collection of molded perforated bar stools features vibrant colors and multiple base styles including warm wooden legs, a rolling swivel base, and a sleek chrome pedestal base.",
-    "img": "assets/products/cafe-bar-stools/molded-perforated-bar-stools/molded_perforated_bar_stools.png",
+    "img": "assets/products/cafe-bar-stools/molded-perforated-bar-stools/molded_perforated_bar_stools.webp",
     "images": [
-      "assets/products/cafe-bar-stools/molded-perforated-bar-stools/molded_perforated_bar_stools.png"
+      "assets/products/cafe-bar-stools/molded-perforated-bar-stools/molded_perforated_bar_stools.webp"
     ],
     "colors": [
       "Red",
@@ -171,9 +171,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Boho Black Cane Counter Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/boho-black-cane-counter-stool/boho_black_cane_counter_stool.png",
+    "img": "assets/products/cafe-bar-stools/boho-black-cane-counter-stool/boho_black_cane_counter_stool.webp",
     "images": [
-      "assets/products/cafe-bar-stools/boho-black-cane-counter-stool/boho_black_cane_counter_stool.png"
+      "assets/products/cafe-bar-stools/boho-black-cane-counter-stool/boho_black_cane_counter_stool.webp"
     ],
     "colors": []
   },
@@ -187,9 +187,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 052 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-52/DBS-52 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-52/DBS-52 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-52/DBS-52 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-52/DBS-52 - Front View.webp"
     ],
     "colors": []
   },
@@ -203,9 +203,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 053 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-53/DBS-53 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-53/DBS-53 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-53/DBS-53 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-53/DBS-53 - Front View.webp"
     ],
     "colors": []
   },
@@ -219,9 +219,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 055 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-54/DBS-54 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-54/DBS-54 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-54/DBS-54 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-54/DBS-54 - Front View.webp"
     ],
     "colors": []
   },
@@ -235,9 +235,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 056 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-55/DBS-55 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-55/DBS-55 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-55/DBS-55 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-55/DBS-55 - Front View.webp"
     ],
     "colors": []
   },
@@ -251,9 +251,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 057 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-56/DBS-56 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-56/DBS-56 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-56/DBS-56 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-56/DBS-56 - Front View.webp"
     ],
     "colors": []
   },
@@ -267,9 +267,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 058 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-57/DBS-57 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-57/DBS-57 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-57/DBS-57 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-57/DBS-57 - Front View.webp"
     ],
     "colors": []
   },
@@ -283,9 +283,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 059 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-58/DBS-58 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-58/DBS-58 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-58/DBS-58 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-58/DBS-58 - Front View.webp"
     ],
     "colors": []
   },
@@ -299,9 +299,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 060 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-59/DBS-59 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-59/DBS-59 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-59/DBS-59 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-59/DBS-59 - Front View.webp"
     ],
     "colors": []
   },
@@ -315,9 +315,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 061 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-60/DBS-60 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-60/DBS-60 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-60/DBS-60 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-60/DBS-60 - Front View.webp"
     ],
     "colors": []
   },
@@ -331,9 +331,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 062 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-61/DBS-61 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-61/DBS-61 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-61/DBS-61 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-61/DBS-61 - Front View.webp"
     ],
     "colors": []
   },
@@ -347,9 +347,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 063 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-62/DBS-62 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-62/DBS-62 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-62/DBS-62 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-62/DBS-62 - Front View.webp"
     ],
     "colors": []
   },
@@ -363,9 +363,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 064 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-63/DBS-63 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-63/DBS-63 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-63/DBS-63 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-63/DBS-63 - Front View.webp"
     ],
     "colors": []
   },
@@ -379,9 +379,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 065 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-64/DBS-64 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-64/DBS-64 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-64/DBS-64 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-64/DBS-64 - Front View.webp"
     ],
     "colors": []
   },
@@ -395,9 +395,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 066 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-66/DBS-66 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-66/DBS-66 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-66/DBS-66 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-66/DBS-66 - Front View.webp"
     ],
     "colors": []
   },
@@ -411,9 +411,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 068 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-67/DBS-67 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-67/DBS-67 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-67/DBS-67 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-67/DBS-67 - Front View.webp"
     ],
     "colors": []
   },
@@ -427,9 +427,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 069 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-68/DBS-68 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-68/DBS-68 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-68/DBS-68 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-68/DBS-68 - Front View.webp"
     ],
     "colors": []
   },
@@ -443,9 +443,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 075 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-69/DBS-69 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-69/DBS-69 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-69/DBS-69 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-69/DBS-69 - Front View.webp"
     ],
     "colors": []
   },
@@ -459,9 +459,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 65 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-65/DBS-65 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-65/DBS-65 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-65/DBS-65 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-65/DBS-65 - Front View.webp"
     ],
     "colors": []
   },
@@ -475,9 +475,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 652 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-70/DBS-70 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-70/DBS-70 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-70/DBS-70 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-70/DBS-70 - Front View.webp"
     ],
     "colors": []
   },
@@ -491,9 +491,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 653 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-71/DBS-71 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-71/DBS-71 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-71/DBS-71 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-71/DBS-71 - Front View.webp"
     ],
     "colors": []
   },
@@ -507,9 +507,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 658 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-72/DBS-72 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-72/DBS-72 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-72/DBS-72 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-72/DBS-72 - Front View.webp"
     ],
     "colors": []
   },
@@ -523,9 +523,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 661 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-73/DBS-73 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-73/DBS-73 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-73/DBS-73 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-73/DBS-73 - Front View.webp"
     ],
     "colors": []
   },
@@ -539,9 +539,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 665 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-74/DBS-74 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-74/DBS-74 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-74/DBS-74 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-74/DBS-74 - Front View.webp"
     ],
     "colors": []
   },
@@ -555,9 +555,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 666 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-75/DBS-75 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-75/DBS-75 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-75/DBS-75 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-75/DBS-75 - Front View.webp"
     ],
     "colors": []
   },
@@ -571,9 +571,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dbs Series Bar Stool Model 668 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/dbs-76/DBS-76 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/dbs-76/DBS-76 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/dbs-76/DBS-76 - Front View.png"
+      "assets/products/cafe-bar-stools/dbs-76/DBS-76 - Front View.webp"
     ],
     "colors": []
   },
@@ -587,10 +587,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Industrial Red Metal Tolix Bar Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/industrial-red-metal-tolix-bar-stool/Red Tolix Bar Stool - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/industrial-red-metal-tolix-bar-stool/Red Tolix Bar Stool - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/industrial-red-metal-tolix-bar-stool/Red Tolix Bar Stool - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/industrial-red-metal-tolix-bar-stool/Red Tolix Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/industrial-red-metal-tolix-bar-stool/Red Tolix Bar Stool - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/industrial-red-metal-tolix-bar-stool/Red Tolix Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -604,10 +604,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Industrial Tolix Bar Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/industrial-tolix-bar-stool/Industrial Tolix Bar Stool - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/industrial-tolix-bar-stool/Industrial Tolix Bar Stool - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool/Industrial Tolix Bar Stool - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool/Industrial Tolix Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool/Industrial Tolix Bar Stool - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool/Industrial Tolix Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -621,10 +621,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Industrial Tolix Bar Stool High Angle combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/industrial-tolix-bar-stool-high-angle/Industrial Tolix Bar Stool High Angle - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/industrial-tolix-bar-stool-high-angle/Industrial Tolix Bar Stool High Angle - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool-high-angle/Industrial Tolix Bar Stool High Angle - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool-high-angle/Industrial Tolix Bar Stool High Angle - Front View.png"
+      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool-high-angle/Industrial Tolix Bar Stool High Angle - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/industrial-tolix-bar-stool-high-angle/Industrial Tolix Bar Stool High Angle - Front View.webp"
     ],
     "colors": []
   },
@@ -638,10 +638,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Industrial White Tolix Bar Stool With Wood Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/industrial-white-tolix-bar-stool-with-wood-seat/White Tolix Wood Seat Bar Stool - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/industrial-white-tolix-bar-stool-with-wood-seat/White Tolix Wood Seat Bar Stool - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/industrial-white-tolix-bar-stool-with-wood-seat/White Tolix Wood Seat Bar Stool - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/industrial-white-tolix-bar-stool-with-wood-seat/White Tolix Wood Seat Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/industrial-white-tolix-bar-stool-with-wood-seat/White Tolix Wood Seat Bar Stool - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/industrial-white-tolix-bar-stool-with-wood-seat/White Tolix Wood Seat Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -655,10 +655,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Lime Green Eames Shell Bar Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/lime-green-eames-shell-bar-stool/Lime Green Eames Bar Stool - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/lime-green-eames-shell-bar-stool/Lime Green Eames Bar Stool - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/lime-green-eames-shell-bar-stool/Lime Green Eames Bar Stool - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/lime-green-eames-shell-bar-stool/Lime Green Eames Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/lime-green-eames-shell-bar-stool/Lime Green Eames Bar Stool - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/lime-green-eames-shell-bar-stool/Lime Green Eames Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -672,10 +672,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern White Hydraulic Swivel Bar Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/modern-white-hydraulic-swivel-bar-stool/White Swivel Bar Stool - Angle Perspective.png",
+    "img": "assets/products/cafe-bar-stools/modern-white-hydraulic-swivel-bar-stool/White Swivel Bar Stool - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-bar-stools/modern-white-hydraulic-swivel-bar-stool/White Swivel Bar Stool - Angle Perspective.png",
-      "assets/products/cafe-bar-stools/modern-white-hydraulic-swivel-bar-stool/White Swivel Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/modern-white-hydraulic-swivel-bar-stool/White Swivel Bar Stool - Angle Perspective.webp",
+      "assets/products/cafe-bar-stools/modern-white-hydraulic-swivel-bar-stool/White Swivel Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -689,9 +689,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Orange Molded Bar Stool combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-bar-stools/orange-molded-bar-stool/orange_molded_bar_stool.png",
+    "img": "assets/products/cafe-bar-stools/orange-molded-bar-stool/orange_molded_bar_stool.webp",
     "images": [
-      "assets/products/cafe-bar-stools/orange-molded-bar-stool/orange_molded_bar_stool.png"
+      "assets/products/cafe-bar-stools/orange-molded-bar-stool/orange_molded_bar_stool.webp"
     ],
     "colors": []
   },
@@ -703,11 +703,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/cafe-chairs/beam/Beam.png",
+    "img": "assets/products/cafe-chairs/beam/Beam.webp",
     "badge": "Bestseller",
     "description": "The Beam Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Blue, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/cafe-chairs/beam/Beam.png"
+      "assets/products/cafe-chairs/beam/Beam.webp"
     ],
     "colors": [
       "Blue"
@@ -721,11 +721,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/cafe-chairs/black/BLACK.png",
+    "img": "assets/products/cafe-chairs/black/BLACK.webp",
     "badge": "Bestseller",
     "description": "Add color to every conversation, the BLACK Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/cafe-chairs/black/BLACK.png"
+      "assets/products/cafe-chairs/black/BLACK.webp"
     ],
     "colors": [
       "Red"
@@ -741,9 +741,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A sculptural armchair built on crossed teak legs, with a curved wrap-around back and seat upholstered in cream. The angled frame gives it a light, architectural profile from every side.",
-    "img": "assets/products/chairs/cat-architectural-wood-dining-chair-b/Architectural Wood Dining Chair B.jpg",
+    "img": "assets/products/chairs/cat-architectural-wood-dining-chair-b/Architectural Wood Dining Chair B.webp",
     "images": [
-      "assets/products/chairs/cat-architectural-wood-dining-chair-b/Architectural Wood Dining Chair B.jpg"
+      "assets/products/chairs/cat-architectural-wood-dining-chair-b/Architectural Wood Dining Chair B.webp"
     ],
     "colors": []
   },
@@ -757,9 +757,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black And Walnut Lshaped Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-black-and-walnut-lshaped-desk/black_and_walnut_lshaped_desk.png",
+    "img": "assets/products/office-workstations/cat-black-and-walnut-lshaped-desk/black_and_walnut_lshaped_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-black-and-walnut-lshaped-desk/black_and_walnut_lshaped_desk.png"
+      "assets/products/office-workstations/cat-black-and-walnut-lshaped-desk/black_and_walnut_lshaped_desk.webp"
     ],
     "colors": []
   },
@@ -773,9 +773,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Electric Standing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-black-electric-standing-desk/black_electric_standing_desk.png",
+    "img": "assets/products/office-workstations/cat-black-electric-standing-desk/black_electric_standing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-black-electric-standing-desk/black_electric_standing_desk.png"
+      "assets/products/office-workstations/cat-black-electric-standing-desk/black_electric_standing_desk.webp"
     ],
     "colors": []
   },
@@ -789,9 +789,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Folding Semicircular Banquet Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/black-folding-semicircular-banquet-table/black_folding_semicircular_banquet_table.png",
+    "img": "assets/products/cafe-tables/black-folding-semicircular-banquet-table/black_folding_semicircular_banquet_table.webp",
     "images": [
-      "assets/products/cafe-tables/black-folding-semicircular-banquet-table/black_folding_semicircular_banquet_table.png"
+      "assets/products/cafe-tables/black-folding-semicircular-banquet-table/black_folding_semicircular_banquet_table.webp"
     ],
     "colors": []
   },
@@ -805,9 +805,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Lattice Patio Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/black-lattice-patio-dining-chair/black_lattice_patio_dining_chair.png",
+    "img": "assets/products/cafe-chairs/black-lattice-patio-dining-chair/black_lattice_patio_dining_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/black-lattice-patio-dining-chair/black_lattice_patio_dining_chair.png"
+      "assets/products/cafe-chairs/black-lattice-patio-dining-chair/black_lattice_patio_dining_chair.webp"
     ],
     "colors": []
   },
@@ -821,9 +821,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather 3 Seat Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-black-leather-3seat-power-recliner/black_leather_3seat_power_recliner.png",
+    "img": "assets/products/recliners/cat-black-leather-3seat-power-recliner/black_leather_3seat_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-black-leather-3seat-power-recliner/black_leather_3seat_power_recliner.png"
+      "assets/products/recliners/cat-black-leather-3seat-power-recliner/black_leather_3seat_power_recliner.webp"
     ],
     "colors": []
   },
@@ -837,9 +837,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather 3 Seat Theater Row combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-black-leather-3seat-theater-row/black_leather_3seat_theater_row.png",
+    "img": "assets/products/home-theatre-seating/cat-black-leather-3seat-theater-row/black_leather_3seat_theater_row.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-black-leather-3seat-theater-row/black_leather_3seat_theater_row.png"
+      "assets/products/home-theatre-seating/cat-black-leather-3seat-theater-row/black_leather_3seat_theater_row.webp"
     ],
     "colors": []
   },
@@ -853,9 +853,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather 4 Seat Theater Recliner Row combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-black-leather-4seat-theater-recliner-row/black_leather_4seat_theater_recliner_row.png",
+    "img": "assets/products/home-theatre-seating/cat-black-leather-4seat-theater-recliner-row/black_leather_4seat_theater_recliner_row.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-black-leather-4seat-theater-recliner-row/black_leather_4seat_theater_recliner_row.png"
+      "assets/products/home-theatre-seating/cat-black-leather-4seat-theater-recliner-row/black_leather_4seat_theater_recliner_row.webp"
     ],
     "colors": []
   },
@@ -869,9 +869,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Channeltufted Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-black-leather-channeltufted-loveseat/black_leather_channeltufted_loveseat.png",
+    "img": "assets/products/sofas/cat-black-leather-channeltufted-loveseat/black_leather_channeltufted_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-black-leather-channeltufted-loveseat/black_leather_channeltufted_loveseat.png"
+      "assets/products/sofas/cat-black-leather-channeltufted-loveseat/black_leather_channeltufted_loveseat.webp"
     ],
     "colors": []
   },
@@ -885,9 +885,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Ergonomic Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-black-leather-ergonomic-power-recliner/black_leather_ergonomic_power_recliner.png",
+    "img": "assets/products/recliners/cat-black-leather-ergonomic-power-recliner/black_leather_ergonomic_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-black-leather-ergonomic-power-recliner/black_leather_ergonomic_power_recliner.png"
+      "assets/products/recliners/cat-black-leather-ergonomic-power-recliner/black_leather_ergonomic_power_recliner.webp"
     ],
     "colors": []
   },
@@ -901,9 +901,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Executive Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-black-leather-executive-recliner/black_leather_executive_recliner.png",
+    "img": "assets/products/recliners/cat-black-leather-executive-recliner/black_leather_executive_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-black-leather-executive-recliner/black_leather_executive_recliner.png"
+      "assets/products/recliners/cat-black-leather-executive-recliner/black_leather_executive_recliner.webp"
     ],
     "colors": []
   },
@@ -917,9 +917,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Recliner Living Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-black-leather-recliner-living-set/black_leather_recliner_living_set.png",
+    "img": "assets/products/recliners/cat-black-leather-recliner-living-set/black_leather_recliner_living_set.webp",
     "images": [
-      "assets/products/recliners/cat-black-leather-recliner-living-set/black_leather_recliner_living_set.png"
+      "assets/products/recliners/cat-black-leather-recliner-living-set/black_leather_recliner_living_set.webp"
     ],
     "colors": []
   },
@@ -933,9 +933,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Sectional Sofa With Orange Accent combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-black-leather-sectional-sofa-with-orange-accent/Black Leather Sectional Sofa with Orange Accent.jpg",
+    "img": "assets/products/corner-sofas/cat-black-leather-sectional-sofa-with-orange-accent/Black Leather Sectional Sofa with Orange Accent.webp",
     "images": [
-      "assets/products/corner-sofas/cat-black-leather-sectional-sofa-with-orange-accent/Black Leather Sectional Sofa with Orange Accent.jpg"
+      "assets/products/corner-sofas/cat-black-leather-sectional-sofa-with-orange-accent/Black Leather Sectional Sofa with Orange Accent.webp"
     ],
     "colors": []
   },
@@ -949,9 +949,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Sofa Chair Table Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-black-leather-sofa-chair-table-suite/black_leather_sofa_chair_table_suite.png",
+    "img": "assets/products/sofas/cat-black-leather-sofa-chair-table-suite/black_leather_sofa_chair_table_suite.webp",
     "images": [
-      "assets/products/sofas/cat-black-leather-sofa-chair-table-suite/black_leather_sofa_chair_table_suite.png"
+      "assets/products/sofas/cat-black-leather-sofa-chair-table-suite/black_leather_sofa_chair_table_suite.webp"
     ],
     "colors": []
   },
@@ -965,9 +965,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-black-leather-theater-recliner/black_leather_theater_recliner.png",
+    "img": "assets/products/home-theatre-seating/cat-black-leather-theater-recliner/black_leather_theater_recliner.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-black-leather-theater-recliner/black_leather_theater_recliner.png"
+      "assets/products/home-theatre-seating/cat-black-leather-theater-recliner/black_leather_theater_recliner.webp"
     ],
     "colors": []
   },
@@ -981,9 +981,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather U Reclining Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-black-leather-u-reclining-sectional/black_leather_u_reclining_sectional.png",
+    "img": "assets/products/corner-sofas/cat-black-leather-u-reclining-sectional/black_leather_u_reclining_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-black-leather-u-reclining-sectional/black_leather_u_reclining_sectional.png"
+      "assets/products/corner-sofas/cat-black-leather-u-reclining-sectional/black_leather_u_reclining_sectional.webp"
     ],
     "colors": []
   },
@@ -997,9 +997,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Verticalstitch Recliner Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-black-leather-verticalstitch-recliner-comboset/black_leather_verticalstitch_recliner_comboset.png",
+    "img": "assets/products/recliners/cat-black-leather-verticalstitch-recliner-comboset/black_leather_verticalstitch_recliner_comboset.webp",
     "images": [
-      "assets/products/recliners/cat-black-leather-verticalstitch-recliner-comboset/black_leather_verticalstitch_recliner_comboset.png"
+      "assets/products/recliners/cat-black-leather-verticalstitch-recliner-comboset/black_leather_verticalstitch_recliner_comboset.webp"
     ],
     "colors": []
   },
@@ -1013,9 +1013,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Metal Folding Utility Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/black-metal-folding-utility-table/black_metal_folding_utility_table.png",
+    "img": "assets/products/cafe-tables/black-metal-folding-utility-table/black_metal_folding_utility_table.webp",
     "images": [
-      "assets/products/cafe-tables/black-metal-folding-utility-table/black_metal_folding_utility_table.png"
+      "assets/products/cafe-tables/black-metal-folding-utility-table/black_metal_folding_utility_table.webp"
     ],
     "colors": []
   },
@@ -1029,9 +1029,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Tufted Fabric 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-black-tufted-fabric-3-seater-sofa/Black Tufted Fabric 3-Seater Sofa.jpg",
+    "img": "assets/products/sofas/cat-black-tufted-fabric-3-seater-sofa/Black Tufted Fabric 3-Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-black-tufted-fabric-3-seater-sofa/Black Tufted Fabric 3-Seater Sofa.jpg"
+      "assets/products/sofas/cat-black-tufted-fabric-3-seater-sofa/Black Tufted Fabric 3-Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -1045,9 +1045,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brown Molded Tub Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-brown-molded-tub-accent-chair/Brown Molded Tub Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-brown-molded-tub-accent-chair/Brown Molded Tub Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-brown-molded-tub-accent-chair/Brown Molded Tub Accent Chair.jpg"
+      "assets/products/chairs/cat-brown-molded-tub-accent-chair/Brown Molded Tub Accent Chair.webp"
     ],
     "colors": []
   },
@@ -1061,9 +1061,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Carved Mahogany Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-carved-mahogany-dining-chair/carved_mahogany_dining_chair.png",
+    "img": "assets/products/chairs/cat-carved-mahogany-dining-chair/carved_mahogany_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-carved-mahogany-dining-chair/carved_mahogany_dining_chair.png"
+      "assets/products/chairs/cat-carved-mahogany-dining-chair/carved_mahogany_dining_chair.webp"
     ],
     "colors": []
   },
@@ -1077,9 +1077,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Carved Teak Wooden Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-carved-teak-wooden-dining-chair/Carved Teak Wooden Dining Chair.jpg",
+    "img": "assets/products/chairs/cat-carved-teak-wooden-dining-chair/Carved Teak Wooden Dining Chair.webp",
     "images": [
-      "assets/products/chairs/cat-carved-teak-wooden-dining-chair/Carved Teak Wooden Dining Chair.jpg"
+      "assets/products/chairs/cat-carved-teak-wooden-dining-chair/Carved Teak Wooden Dining Chair.webp"
     ],
     "colors": []
   },
@@ -1093,9 +1093,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Matte Stackable Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/charcoal-matte-stackable-dining-chair/charcoal_matte_stackable_dining_chair.png",
+    "img": "assets/products/cafe-chairs/charcoal-matte-stackable-dining-chair/charcoal_matte_stackable_dining_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/charcoal-matte-stackable-dining-chair/charcoal_matte_stackable_dining_chair.png"
+      "assets/products/cafe-chairs/charcoal-matte-stackable-dining-chair/charcoal_matte_stackable_dining_chair.webp"
     ],
     "colors": []
   },
@@ -1109,15 +1109,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cherry Wood Geometric Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cherry-wood-geometric-dining-chair/cherry_wood_geometric_dining_chair.png",
+    "img": "assets/products/chairs/cat-cherry-wood-geometric-dining-chair/cherry_wood_geometric_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-cherry-wood-geometric-dining-chair/cherry_wood_geometric_dining_chair.png"
+      "assets/products/chairs/cat-cherry-wood-geometric-dining-chair/cherry_wood_geometric_dining_chair.webp"
     ],
     "colors": []
   },
   {
     "id": "chrome-cafe-pedestal-table-base",
-    "name": "Chrome Café Pedestal Table Base",
+    "name": "Chrome CafÃ© Pedestal Table Base",
     "category": "cafe-tables",
     "type": "table",
     "material": "Chrome Plated Steel / Pedestal Design",
@@ -1125,13 +1125,13 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Chrome Cafe Pedestal Table Base combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Angle Perspective.png",
+    "img": "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Angle Perspective.png",
-      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Corner Detail.png",
-      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Front View.png",
-      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Side View.png",
-      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Studio Showcase.png"
+      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Angle Perspective.webp",
+      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Corner Detail.webp",
+      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Front View.webp",
+      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Side View.webp",
+      "assets/products/cafe-tables/chrome-cafe-pedestal-table-base/chrome-cafe-pedestal-table-base - Studio Showcase.webp"
     ],
     "colors": []
   },
@@ -1145,9 +1145,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Chrome Spindle Back Dining Chair With Wooden Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/chrome-spindle-back-dining-chair-with-wooden-seat/Chrome Spindle Back Dining Chair with Wooden Seat.png",
+    "img": "assets/products/cafe-chairs/chrome-spindle-back-dining-chair-with-wooden-seat/Chrome Spindle Back Dining Chair with Wooden Seat.webp",
     "images": [
-      "assets/products/cafe-chairs/chrome-spindle-back-dining-chair-with-wooden-seat/Chrome Spindle Back Dining Chair with Wooden Seat.png"
+      "assets/products/cafe-chairs/chrome-spindle-back-dining-chair-with-wooden-seat/Chrome Spindle Back Dining Chair with Wooden Seat.webp"
     ],
     "colors": []
   },
@@ -1160,11 +1160,11 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A slim spindle-back chair in matte black steel with a rounded seat upholstered in a bold multicolour print. The tapered splayed legs and open back keep it light in busy café floors.",
-    "img": "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.png",
+    "description": "A slim spindle-back chair in matte black steel with a rounded seat upholstered in a bold multicolour print. The tapered splayed legs and open back keep it light in busy cafÃ© floors.",
+    "img": "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.png",
-      "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.png"
+      "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.webp",
+      "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.webp"
     ],
     "colors": []
   },
@@ -1178,9 +1178,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Black Leather Sofa Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cognac-black-leather-sofa-set/Cognac & Black Leather Sofa Set.jpg",
+    "img": "assets/products/sofas/cat-cognac-black-leather-sofa-set/Cognac & Black Leather Sofa Set.webp",
     "images": [
-      "assets/products/sofas/cat-cognac-black-leather-sofa-set/Cognac & Black Leather Sofa Set.jpg"
+      "assets/products/sofas/cat-cognac-black-leather-sofa-set/Cognac & Black Leather Sofa Set.webp"
     ],
     "colors": []
   },
@@ -1194,9 +1194,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Armchair With Black Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cognac-leather-armchair-with-black-frame/Cognac Leather Armchair with Black Frame.jpg",
+    "img": "assets/products/chairs/cat-cognac-leather-armchair-with-black-frame/Cognac Leather Armchair with Black Frame.webp",
     "images": [
-      "assets/products/chairs/cat-cognac-leather-armchair-with-black-frame/Cognac Leather Armchair with Black Frame.jpg"
+      "assets/products/chairs/cat-cognac-leather-armchair-with-black-frame/Cognac Leather Armchair with Black Frame.webp"
     ],
     "colors": []
   },
@@ -1210,9 +1210,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Crimson Red Sculptural Designer Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/crimson-red-sculptural-designer-chair/crimson_red_sculptural_designer_chair.png",
+    "img": "assets/products/cafe-chairs/crimson-red-sculptural-designer-chair/crimson_red_sculptural_designer_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/crimson-red-sculptural-designer-chair/crimson_red_sculptural_designer_chair.png"
+      "assets/products/cafe-chairs/crimson-red-sculptural-designer-chair/crimson_red_sculptural_designer_chair.webp"
     ],
     "colors": []
   },
@@ -1225,10 +1225,10 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A one-piece moulded polypropylene armchair with a perforated seat and back for airflow and rain drainage. Stacks for storage and holds its colour outdoors — built for café terraces and courtyards.",
-    "img": "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.png",
+    "description": "A one-piece moulded polypropylene armchair with a perforated seat and back for airflow and rain drainage. Stacks for storage and holds its colour outdoors â€” built for cafÃ© terraces and courtyards.",
+    "img": "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.png"
+      "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.webp"
     ],
     "colors": []
   },
@@ -1241,10 +1241,10 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A compact stacking chair with a single bent-tube hoop back and a round padded seat in black faux leather. Light to move and stacks tight for busy cafés and canteens.",
-    "img": "assets/products/cafe-chairs/da-70/DA-70 - Front View.png",
+    "description": "A compact stacking chair with a single bent-tube hoop back and a round padded seat in black faux leather. Light to move and stacks tight for busy cafÃ©s and canteens.",
+    "img": "assets/products/cafe-chairs/da-70/DA-70 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/da-70/DA-70 - Front View.png"
+      "assets/products/cafe-chairs/da-70/DA-70 - Front View.webp"
     ],
     "colors": []
   },
@@ -1258,9 +1258,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A backless dining-height stool with a perforated black polypropylene seat on splayed chrome legs. Stacks vertically for storage in canteens and quick-service dining.",
-    "img": "assets/products/cafe-bar-stools/da-71/DA-71 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/da-71/DA-71 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/da-71/DA-71 - Front View.png"
+      "assets/products/cafe-bar-stools/da-71/DA-71 - Front View.webp"
     ],
     "colors": []
   },
@@ -1274,15 +1274,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A dining-height stool with a deep round cushion in black faux leather over a chrome tubular frame with a full ring base for foot support.",
-    "img": "assets/products/cafe-bar-stools/da-72/DA-72 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/da-72/DA-72 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/da-72/DA-72 - Front View.png"
+      "assets/products/cafe-bar-stools/da-72/DA-72 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "da-73",
-    "name": "DA-73 Perforated Low Stool — Burgundy",
+    "name": "DA-73 Perforated Low Stool â€” Burgundy",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Moulded Polypropylene / Chrome Steel",
@@ -1290,15 +1290,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A dining-height stool with a burgundy perforated polypropylene seat on a slim chrome frame with a ring base. Wipe-clean and light enough to reposition one-handed.",
-    "img": "assets/products/cafe-bar-stools/da-73/DA-73 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/da-73/DA-73 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/da-73/DA-73 - Front View.png"
+      "assets/products/cafe-bar-stools/da-73/DA-73 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "da-74",
-    "name": "DA-74 Counter-Height Stool — Blue",
+    "name": "DA-74 Counter-Height Stool â€” Blue",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Faux Leather / Chrome Steel",
@@ -1306,15 +1306,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A counter-height backless stool with a shaped blue faux-leather seat on a chrome frame with a wrap-around footrest. Sized for kitchen islands and counter service.",
-    "img": "assets/products/cafe-bar-stools/da-74/DA-74 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/da-74/DA-74 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/da-74/DA-74 - Front View.png"
+      "assets/products/cafe-bar-stools/da-74/DA-74 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "da-75",
-    "name": "DA-75 Bar-Height Stool — Burgundy",
+    "name": "DA-75 Bar-Height Stool â€” Burgundy",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Faux Leather / Chrome Steel",
@@ -1322,9 +1322,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A bar-height backless stool with a square burgundy faux-leather cushion on a tapered chrome frame with a double footrest rail. Built for bar counters and high tables.",
-    "img": "assets/products/cafe-bar-stools/da-75/DA-75 - Front View.png",
+    "img": "assets/products/cafe-bar-stools/da-75/DA-75 - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/da-75/DA-75 - Front View.png"
+      "assets/products/cafe-bar-stools/da-75/DA-75 - Front View.webp"
     ],
     "colors": []
   },
@@ -1338,9 +1338,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Danish Teak Slatted Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-danish-teak-slatted-dining-chair/danish_teak_slatted_dining_chair.png",
+    "img": "assets/products/chairs/cat-danish-teak-slatted-dining-chair/danish_teak_slatted_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-danish-teak-slatted-dining-chair/danish_teak_slatted_dining_chair.png"
+      "assets/products/chairs/cat-danish-teak-slatted-dining-chair/danish_teak_slatted_dining_chair.webp"
     ],
     "colors": []
   },
@@ -1354,9 +1354,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Mahogany Wooden Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-dark-mahogany-wooden-dining-chair/Dark Mahogany Wooden Dining Chair.jpg",
+    "img": "assets/products/chairs/cat-dark-mahogany-wooden-dining-chair/Dark Mahogany Wooden Dining Chair.webp",
     "images": [
-      "assets/products/chairs/cat-dark-mahogany-wooden-dining-chair/Dark Mahogany Wooden Dining Chair.jpg"
+      "assets/products/chairs/cat-dark-mahogany-wooden-dining-chair/Dark Mahogany Wooden Dining Chair.webp"
     ],
     "colors": []
   },
@@ -1370,15 +1370,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A low-slung armchair on a charcoal-stained ash frame, with sculpted arms flowing into the back legs and a padded grey fabric seat and backrest. Comfortable enough for long meals or meetings.",
-    "img": "assets/products/chairs/cat-dark-wood-frame-dining-chair-with-grey-seat/Dark Wood Frame Dining Chair with Grey Seat.jpg",
+    "img": "assets/products/chairs/cat-dark-wood-frame-dining-chair-with-grey-seat/Dark Wood Frame Dining Chair with Grey Seat.webp",
     "images": [
-      "assets/products/chairs/cat-dark-wood-frame-dining-chair-with-grey-seat/Dark Wood Frame Dining Chair with Grey Seat.jpg"
+      "assets/products/chairs/cat-dark-wood-frame-dining-chair-with-grey-seat/Dark Wood Frame Dining Chair with Grey Seat.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-151",
-    "name": "DBC-151 Banquet Chair — Burgundy & Gold",
+    "name": "DBC-151 Banquet Chair â€” Burgundy & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Burgundy Fabric / Gold Powder-Coated Steel",
@@ -1386,15 +1386,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A stacking banquet chair with a crown-shaped padded back and a deep foam seat in burgundy fabric, on a gold powder-coated steel frame. Stacks for storage between functions.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-151/DBC-151 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-151/DBC-151 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-151/DBC-151 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-151/DBC-151 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-152",
-    "name": "DBC-152 Banquet Chair — Red Floral",
+    "name": "DBC-152 Banquet Chair â€” Red Floral",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Patterned Fabric / Black Powder-Coated Steel",
@@ -1402,15 +1402,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A stacking banquet chair upholstered in a red and cream floral weave over a black powder-coated frame. The patterned fabric hides marks well in high-turnover halls.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-152/DBC-152 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-152/DBC-152 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-152/DBC-152 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-152/DBC-152 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-153",
-    "name": "DBC-153 Banquet Chair — Lilac & Gold",
+    "name": "DBC-153 Banquet Chair â€” Lilac & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Lilac Fabric / Gold Powder-Coated Steel",
@@ -1418,9 +1418,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A stacking banquet chair in soft lilac fabric with a rounded padded back, on a gold powder-coated steel frame. Suited to wedding and reception seating.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-153/DBC-153 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-153/DBC-153 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-153/DBC-153 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-153/DBC-153 - Front View.webp"
     ],
     "colors": []
   },
@@ -1434,9 +1434,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A wheeled trolley for moving stacks of banquet chairs. The red canvas cradle protects upholstery in transit and the long handle gives control when loaded.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-154/DBC-154 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-154/DBC-154 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-154/DBC-154 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-154/DBC-154 - Front View.webp"
     ],
     "colors": []
   },
@@ -1450,15 +1450,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A modular banquet stage platform with a red carpeted deck, gold trim edge and pleated velvet skirting. Sections join to build head tables, podiums and performance risers.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-155/DBC-155 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-155/DBC-155 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-155/DBC-155 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-155/DBC-155 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-156",
-    "name": "DBC-156 Banquet Chair — Sky Blue & Gold",
+    "name": "DBC-156 Banquet Chair â€” Sky Blue & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Sky Blue Fabric / Gold Powder-Coated Steel",
@@ -1466,15 +1466,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A stacking banquet chair with a crown-shaped back in sky blue fabric on a gold powder-coated steel frame. Reinforced joints for daily banquet use.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-156/DBC-156 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-156/DBC-156 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-156/DBC-156 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-156/DBC-156 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-157",
-    "name": "DBC-157 Banquet Chair — Burgundy & Gold",
+    "name": "DBC-157 Banquet Chair â€” Burgundy & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Burgundy Fabric / Gold Powder-Coated Steel",
@@ -1482,15 +1482,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A stacking banquet chair in burgundy fabric with a gold powder-coated steel frame and a padded crown back. A hall standard for conferences and receptions.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-157/DBC-157 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-157/DBC-157 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-157/DBC-157 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-157/DBC-157 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-158",
-    "name": "DBC-158 Banquet Chair — Aubergine & Gold",
+    "name": "DBC-158 Banquet Chair â€” Aubergine & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Aubergine Fabric / Gold Powder-Coated Steel",
@@ -1498,15 +1498,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A stacking banquet chair upholstered in deep aubergine fabric over a gold powder-coated steel frame, with a padded seat and crown back.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-158/DBC-158 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-158/DBC-158 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-158/DBC-158 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-158/DBC-158 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-159",
-    "name": "DBC-159 Banquet Chair — Burgundy Velvet & Chrome",
+    "name": "DBC-159 Banquet Chair â€” Burgundy Velvet & Chrome",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Burgundy Velvet / Polished Chrome Steel",
@@ -1514,15 +1514,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A banquet chair with a square padded back and seat in burgundy velvet, framed in polished chrome. A dressier option for hotel ballrooms and private dining.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-159/DBC-159 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-159/DBC-159 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-159/DBC-159 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-159/DBC-159 - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "dbc-160",
-    "name": "DBC-160 Chiavari Chair — Gold",
+    "name": "DBC-160 Chiavari Chair â€” Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Gold-Finished Resin / Reinforced Steel Core",
@@ -1530,9 +1530,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The classic Chiavari banquet chair with a bamboo-turned spindle back, in a gold finish over a reinforced core. Stackable, and the default choice for weddings and gala seating.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-160/DBC-160 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-160/DBC-160 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-160/DBC-160 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-160/DBC-160 - Front View.webp"
     ],
     "colors": []
   },
@@ -1546,9 +1546,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A transport trolley for folding round banquet tables. Upright padded rails hold tables on edge and heavy-duty castors take the load across ballroom floors.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-161/DBC-161 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-161/DBC-161 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-161/DBC-161 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-161/DBC-161 - Front View.webp"
     ],
     "colors": []
   },
@@ -1562,9 +1562,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A flatbed platform trolley with a red carpeted deck and a single push handle, for shifting linens, staging and equipment without marking finishes.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-162/DBC-162 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-162/DBC-162 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-162/DBC-162 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-162/DBC-162 - Front View.webp"
     ],
     "colors": []
   },
@@ -1578,9 +1578,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A queue-control post in polished stainless steel with a retractable red webbing belt. Weighted base for stability; links post to post to shape entry lines.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-163/DBC-163 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-163/DBC-163 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-163/DBC-163 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-163/DBC-163 - Front View.webp"
     ],
     "colors": []
   },
@@ -1594,9 +1594,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A ball-top barrier post in polished chrome with a red velvet rope and clip ends. The formal option for entrances, red carpets and VIP areas.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-164/DBC-164 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-164/DBC-164 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-164/DBC-164 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-164/DBC-164 - Front View.webp"
     ],
     "colors": []
   },
@@ -1610,9 +1610,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A two-tier access step with red carpeted treads on a black powder-coated steel frame, giving safe access on and off a banquet stage platform.",
-    "img": "assets/products/cafe-banquet-equipment/dbc-165/DBC-165 - Front View.png",
+    "img": "assets/products/cafe-banquet-equipment/dbc-165/DBC-165 - Front View.webp",
     "images": [
-      "assets/products/cafe-banquet-equipment/dbc-165/DBC-165 - Front View.png"
+      "assets/products/cafe-banquet-equipment/dbc-165/DBC-165 - Front View.webp"
     ],
     "colors": []
   },
@@ -1626,9 +1626,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 079 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-79/DMC-79 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-79/DMC-79 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-79/DMC-79 - Front View.png"
+      "assets/products/cafe-chairs/dmc-79/DMC-79 - Front View.webp"
     ],
     "colors": []
   },
@@ -1642,9 +1642,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 080 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-80/DMC-80 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-80/DMC-80 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-80/DMC-80 - Front View.png"
+      "assets/products/cafe-chairs/dmc-80/DMC-80 - Front View.webp"
     ],
     "colors": []
   },
@@ -1658,9 +1658,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 083 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-81/DMC-81 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-81/DMC-81 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-81/DMC-81 - Front View.png"
+      "assets/products/cafe-chairs/dmc-81/DMC-81 - Front View.webp"
     ],
     "colors": []
   },
@@ -1674,9 +1674,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 085 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-82/DMC-82 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-82/DMC-82 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-82/DMC-82 - Front View.png"
+      "assets/products/cafe-chairs/dmc-82/DMC-82 - Front View.webp"
     ],
     "colors": []
   },
@@ -1690,9 +1690,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 088 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-83/DMC-83 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-83/DMC-83 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-83/DMC-83 - Front View.png"
+      "assets/products/cafe-chairs/dmc-83/DMC-83 - Front View.webp"
     ],
     "colors": []
   },
@@ -1706,9 +1706,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 091 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-84/DMC-84 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-84/DMC-84 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-84/DMC-84 - Front View.png"
+      "assets/products/cafe-chairs/dmc-84/DMC-84 - Front View.webp"
     ],
     "colors": []
   },
@@ -1722,9 +1722,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 093 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-85/DMC-85 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-85/DMC-85 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-85/DMC-85 - Front View.png"
+      "assets/products/cafe-chairs/dmc-85/DMC-85 - Front View.webp"
     ],
     "colors": []
   },
@@ -1738,9 +1738,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 098 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-86/DMC-86 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-86/DMC-86 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-86/DMC-86 - Front View.png"
+      "assets/products/cafe-chairs/dmc-86/DMC-86 - Front View.webp"
     ],
     "colors": []
   },
@@ -1754,9 +1754,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 104 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-87/DMC-87 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-87/DMC-87 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-87/DMC-87 - Front View.png"
+      "assets/products/cafe-chairs/dmc-87/DMC-87 - Front View.webp"
     ],
     "colors": []
   },
@@ -1770,9 +1770,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 105 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-88/DMC-88 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-88/DMC-88 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-88/DMC-88 - Front View.png"
+      "assets/products/cafe-chairs/dmc-88/DMC-88 - Front View.webp"
     ],
     "colors": []
   },
@@ -1786,9 +1786,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 107 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-89/DMC-89 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-89/DMC-89 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-89/DMC-89 - Front View.png"
+      "assets/products/cafe-chairs/dmc-89/DMC-89 - Front View.webp"
     ],
     "colors": []
   },
@@ -1802,9 +1802,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 108 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-90/DMC-90 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-90/DMC-90 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-90/DMC-90 - Front View.png"
+      "assets/products/cafe-chairs/dmc-90/DMC-90 - Front View.webp"
     ],
     "colors": []
   },
@@ -1818,9 +1818,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 114 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-91/DMC-91 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-91/DMC-91 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-91/DMC-91 - Front View.png"
+      "assets/products/cafe-chairs/dmc-91/DMC-91 - Front View.webp"
     ],
     "colors": []
   },
@@ -1834,9 +1834,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 116 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-92/DMC-92 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-92/DMC-92 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-92/DMC-92 - Front View.png"
+      "assets/products/cafe-chairs/dmc-92/DMC-92 - Front View.webp"
     ],
     "colors": []
   },
@@ -1850,9 +1850,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 118 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-93/DMC-93 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-93/DMC-93 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-93/DMC-93 - Front View.png"
+      "assets/products/cafe-chairs/dmc-93/DMC-93 - Front View.webp"
     ],
     "colors": []
   },
@@ -1866,9 +1866,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 119 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-94/DMC-94 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-94/DMC-94 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-94/DMC-94 - Front View.png"
+      "assets/products/cafe-chairs/dmc-94/DMC-94 - Front View.webp"
     ],
     "colors": []
   },
@@ -1882,9 +1882,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 120 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-95/DMC-95 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-95/DMC-95 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-95/DMC-95 - Front View.png"
+      "assets/products/cafe-chairs/dmc-95/DMC-95 - Front View.webp"
     ],
     "colors": []
   },
@@ -1898,9 +1898,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 121 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-96/DMC-96 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-96/DMC-96 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-96/DMC-96 - Front View.png"
+      "assets/products/cafe-chairs/dmc-96/DMC-96 - Front View.webp"
     ],
     "colors": []
   },
@@ -1914,9 +1914,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 123 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-97/DMC-97 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-97/DMC-97 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-97/DMC-97 - Front View.png"
+      "assets/products/cafe-chairs/dmc-97/DMC-97 - Front View.webp"
     ],
     "colors": []
   },
@@ -1930,9 +1930,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 125 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-98/DMC-98 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-98/DMC-98 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-98/DMC-98 - Front View.png"
+      "assets/products/cafe-chairs/dmc-98/DMC-98 - Front View.webp"
     ],
     "colors": []
   },
@@ -1946,9 +1946,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 128 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-99/DMC-99 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-99/DMC-99 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-99/DMC-99 - Front View.png"
+      "assets/products/cafe-chairs/dmc-99/DMC-99 - Front View.webp"
     ],
     "colors": []
   },
@@ -1962,9 +1962,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 129 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-100/DMC-100 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-100/DMC-100 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-100/DMC-100 - Front View.png"
+      "assets/products/cafe-chairs/dmc-100/DMC-100 - Front View.webp"
     ],
     "colors": []
   },
@@ -1978,9 +1978,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 130 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-101/DMC-101 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-101/DMC-101 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-101/DMC-101 - Front View.png"
+      "assets/products/cafe-chairs/dmc-101/DMC-101 - Front View.webp"
     ],
     "colors": []
   },
@@ -1994,9 +1994,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 132 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-102/DMC-102 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-102/DMC-102 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-102/DMC-102 - Front View.png"
+      "assets/products/cafe-chairs/dmc-102/DMC-102 - Front View.webp"
     ],
     "colors": []
   },
@@ -2010,9 +2010,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 134 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-103/DMC-103 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-103/DMC-103 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-103/DMC-103 - Front View.png"
+      "assets/products/cafe-chairs/dmc-103/DMC-103 - Front View.webp"
     ],
     "colors": []
   },
@@ -2026,9 +2026,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 135 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-104/DMC-104 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-104/DMC-104 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-104/DMC-104 - Front View.png"
+      "assets/products/cafe-chairs/dmc-104/DMC-104 - Front View.webp"
     ],
     "colors": []
   },
@@ -2042,9 +2042,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 136 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-105/DMC-105 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-105/DMC-105 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-105/DMC-105 - Front View.png"
+      "assets/products/cafe-chairs/dmc-105/DMC-105 - Front View.webp"
     ],
     "colors": []
   },
@@ -2058,9 +2058,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 137 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-106/DMC-106 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-106/DMC-106 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-106/DMC-106 - Front View.png"
+      "assets/products/cafe-chairs/dmc-106/DMC-106 - Front View.webp"
     ],
     "colors": []
   },
@@ -2074,9 +2074,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 138 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-107/DMC-107 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-107/DMC-107 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-107/DMC-107 - Front View.png"
+      "assets/products/cafe-chairs/dmc-107/DMC-107 - Front View.webp"
     ],
     "colors": []
   },
@@ -2090,9 +2090,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 140 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-108/DMC-108 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-108/DMC-108 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-108/DMC-108 - Front View.png"
+      "assets/products/cafe-chairs/dmc-108/DMC-108 - Front View.webp"
     ],
     "colors": []
   },
@@ -2106,9 +2106,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 141 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-109/DMC-109 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-109/DMC-109 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-109/DMC-109 - Front View.png"
+      "assets/products/cafe-chairs/dmc-109/DMC-109 - Front View.webp"
     ],
     "colors": []
   },
@@ -2122,9 +2122,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 143 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-110/DMC-110 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-110/DMC-110 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-110/DMC-110 - Front View.png"
+      "assets/products/cafe-chairs/dmc-110/DMC-110 - Front View.webp"
     ],
     "colors": []
   },
@@ -2138,9 +2138,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A nesting training chair with a breathable mesh back, padded fabric seat and fixed arms on a silver powder-coated frame. The seat folds so chairs nest together for storage between sessions.",
-    "img": "assets/products/office-chairs/dmc-111/DMC-111 - Front View.png",
+    "img": "assets/products/office-chairs/dmc-111/DMC-111 - Front View.webp",
     "images": [
-      "assets/products/office-chairs/dmc-111/DMC-111 - Front View.png"
+      "assets/products/office-chairs/dmc-111/DMC-111 - Front View.webp"
     ],
     "colors": []
   },
@@ -2154,9 +2154,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 149 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-112/DMC-112 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-112/DMC-112 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-112/DMC-112 - Front View.png"
+      "assets/products/cafe-chairs/dmc-112/DMC-112 - Front View.webp"
     ],
     "colors": []
   },
@@ -2170,9 +2170,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 150 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-113/DMC-113 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-113/DMC-113 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-113/DMC-113 - Front View.png"
+      "assets/products/cafe-chairs/dmc-113/DMC-113 - Front View.webp"
     ],
     "colors": []
   },
@@ -2186,9 +2186,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 157 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-114/DMC-114 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-114/DMC-114 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-114/DMC-114 - Front View.png"
+      "assets/products/cafe-chairs/dmc-114/DMC-114 - Front View.webp"
     ],
     "colors": []
   },
@@ -2202,9 +2202,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 158 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-115/DMC-115 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-115/DMC-115 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-115/DMC-115 - Front View.png"
+      "assets/products/cafe-chairs/dmc-115/DMC-115 - Front View.webp"
     ],
     "colors": []
   },
@@ -2218,9 +2218,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 247 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-116/DMC-116 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-116/DMC-116 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-116/DMC-116 - Front View.png"
+      "assets/products/cafe-chairs/dmc-116/DMC-116 - Front View.webp"
     ],
     "colors": []
   },
@@ -2234,9 +2234,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 248 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-117/DMC-117 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-117/DMC-117 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-117/DMC-117 - Front View.png"
+      "assets/products/cafe-chairs/dmc-117/DMC-117 - Front View.webp"
     ],
     "colors": []
   },
@@ -2250,9 +2250,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 249 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-118/DMC-118 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-118/DMC-118 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-118/DMC-118 - Front View.png"
+      "assets/products/cafe-chairs/dmc-118/DMC-118 - Front View.webp"
     ],
     "colors": []
   },
@@ -2266,9 +2266,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 250 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-119/DMC-119 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-119/DMC-119 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-119/DMC-119 - Front View.png"
+      "assets/products/cafe-chairs/dmc-119/DMC-119 - Front View.webp"
     ],
     "colors": []
   },
@@ -2281,10 +2281,10 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A curved-back armchair upholstered in white faux leather on a tapered solid ash frame. The wrap-around back doubles as armrests — suited to lounges, meeting corners and dining use.",
-    "img": "assets/products/chairs/dmc-120/DMC-120 - Front View.png",
+    "description": "A curved-back armchair upholstered in white faux leather on a tapered solid ash frame. The wrap-around back doubles as armrests â€” suited to lounges, meeting corners and dining use.",
+    "img": "assets/products/chairs/dmc-120/DMC-120 - Front View.webp",
     "images": [
-      "assets/products/chairs/dmc-120/DMC-120 - Front View.png"
+      "assets/products/chairs/dmc-120/DMC-120 - Front View.webp"
     ],
     "colors": []
   },
@@ -2298,9 +2298,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 276 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-121/DMC-121 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-121/DMC-121 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-121/DMC-121 - Front View.png"
+      "assets/products/cafe-chairs/dmc-121/DMC-121 - Front View.webp"
     ],
     "colors": []
   },
@@ -2314,9 +2314,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 277 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-122/DMC-122 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-122/DMC-122 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-122/DMC-122 - Front View.png"
+      "assets/products/cafe-chairs/dmc-122/DMC-122 - Front View.webp"
     ],
     "colors": []
   },
@@ -2330,9 +2330,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dmc Series Cafe Chair Model 278 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dmc-123/DMC-123 - Front View.png",
+    "img": "assets/products/cafe-chairs/dmc-123/DMC-123 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dmc-123/DMC-123 - Front View.png"
+      "assets/products/cafe-chairs/dmc-123/DMC-123 - Front View.webp"
     ],
     "colors": []
   },
@@ -2346,9 +2346,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 003 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-3/DPC-3 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-3/DPC-3 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-3/DPC-3 - Front View.png"
+      "assets/products/cafe-chairs/dpc-3/DPC-3 - Front View.webp"
     ],
     "colors": []
   },
@@ -2362,9 +2362,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 004 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-4/DPC-4 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-4/DPC-4 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-4/DPC-4 - Front View.png"
+      "assets/products/cafe-chairs/dpc-4/DPC-4 - Front View.webp"
     ],
     "colors": []
   },
@@ -2378,9 +2378,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 005 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-5/DPC-5 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-5/DPC-5 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-5/DPC-5 - Front View.png"
+      "assets/products/cafe-chairs/dpc-5/DPC-5 - Front View.webp"
     ],
     "colors": []
   },
@@ -2394,9 +2394,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 006 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-6/DPC-6 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-6/DPC-6 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-6/DPC-6 - Front View.png"
+      "assets/products/cafe-chairs/dpc-6/DPC-6 - Front View.webp"
     ],
     "colors": []
   },
@@ -2410,9 +2410,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 007 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-7/DPC-7 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-7/DPC-7 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-7/DPC-7 - Front View.png"
+      "assets/products/cafe-chairs/dpc-7/DPC-7 - Front View.webp"
     ],
     "colors": []
   },
@@ -2426,9 +2426,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 008 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-8/DPC-8 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-8/DPC-8 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-8/DPC-8 - Front View.png"
+      "assets/products/cafe-chairs/dpc-8/DPC-8 - Front View.webp"
     ],
     "colors": []
   },
@@ -2442,9 +2442,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 009 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-9/DPC-9 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-9/DPC-9 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-9/DPC-9 - Front View.png"
+      "assets/products/cafe-chairs/dpc-9/DPC-9 - Front View.webp"
     ],
     "colors": []
   },
@@ -2458,9 +2458,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 020 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-10/DPC-10 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-10/DPC-10 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-10/DPC-10 - Front View.png"
+      "assets/products/cafe-chairs/dpc-10/DPC-10 - Front View.webp"
     ],
     "colors": []
   },
@@ -2474,9 +2474,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 024 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-11/DPC-11 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-11/DPC-11 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-11/DPC-11 - Front View.png"
+      "assets/products/cafe-chairs/dpc-11/DPC-11 - Front View.webp"
     ],
     "colors": []
   },
@@ -2490,9 +2490,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 179 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-12/DPC-12 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-12/DPC-12 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-12/DPC-12 - Front View.png"
+      "assets/products/cafe-chairs/dpc-12/DPC-12 - Front View.webp"
     ],
     "colors": []
   },
@@ -2506,9 +2506,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 180 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-13/DPC-13 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-13/DPC-13 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-13/DPC-13 - Front View.png"
+      "assets/products/cafe-chairs/dpc-13/DPC-13 - Front View.webp"
     ],
     "colors": []
   },
@@ -2522,9 +2522,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 184 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-14/DPC-14 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-14/DPC-14 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-14/DPC-14 - Front View.png"
+      "assets/products/cafe-chairs/dpc-14/DPC-14 - Front View.webp"
     ],
     "colors": []
   },
@@ -2538,9 +2538,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 186 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-15/DPC-15 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-15/DPC-15 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-15/DPC-15 - Front View.png"
+      "assets/products/cafe-chairs/dpc-15/DPC-15 - Front View.webp"
     ],
     "colors": []
   },
@@ -2554,9 +2554,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 187 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-16/DPC-16 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-16/DPC-16 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-16/DPC-16 - Front View.png"
+      "assets/products/cafe-chairs/dpc-16/DPC-16 - Front View.webp"
     ],
     "colors": []
   },
@@ -2570,9 +2570,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 188 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-17/DPC-17 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-17/DPC-17 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-17/DPC-17 - Front View.png"
+      "assets/products/cafe-chairs/dpc-17/DPC-17 - Front View.webp"
     ],
     "colors": []
   },
@@ -2586,9 +2586,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dpc Series Plastic Chair Model 189 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dpc-18/DPC-18 - Front View.png",
+    "img": "assets/products/cafe-chairs/dpc-18/DPC-18 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dpc-18/DPC-18 - Front View.png"
+      "assets/products/cafe-chairs/dpc-18/DPC-18 - Front View.webp"
     ],
     "colors": []
   },
@@ -2602,9 +2602,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dwc Series Wooden Chair Model 026 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dwc-26/DWC-26 - Front View.png",
+    "img": "assets/products/cafe-chairs/dwc-26/DWC-26 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dwc-26/DWC-26 - Front View.png"
+      "assets/products/cafe-chairs/dwc-26/DWC-26 - Front View.webp"
     ],
     "colors": []
   },
@@ -2618,9 +2618,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dwc Series Wooden Chair Model 027 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dwc-27/DWC-27 - Front View.png",
+    "img": "assets/products/cafe-chairs/dwc-27/DWC-27 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dwc-27/DWC-27 - Front View.png"
+      "assets/products/cafe-chairs/dwc-27/DWC-27 - Front View.webp"
     ],
     "colors": []
   },
@@ -2634,9 +2634,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dwc Series Wooden Chair Model 028 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dwc-28/DWC-28 - Front View.png",
+    "img": "assets/products/cafe-chairs/dwc-28/DWC-28 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dwc-28/DWC-28 - Front View.png"
+      "assets/products/cafe-chairs/dwc-28/DWC-28 - Front View.webp"
     ],
     "colors": []
   },
@@ -2650,9 +2650,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dwc Series Wooden Chair Model 029 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dwc-29/DWC-29 - Front View.png",
+    "img": "assets/products/cafe-chairs/dwc-29/DWC-29 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dwc-29/DWC-29 - Front View.png"
+      "assets/products/cafe-chairs/dwc-29/DWC-29 - Front View.webp"
     ],
     "colors": []
   },
@@ -2666,9 +2666,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dwc Series Wooden Chair Model 030 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dwc-30/DWC-30 - Front View.png",
+    "img": "assets/products/cafe-chairs/dwc-30/DWC-30 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dwc-30/DWC-30 - Front View.png"
+      "assets/products/cafe-chairs/dwc-30/DWC-30 - Front View.webp"
     ],
     "colors": []
   },
@@ -2682,9 +2682,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dwc Series Wooden Chair Model 031 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/dwc-31/DWC-31 - Front View.png",
+    "img": "assets/products/cafe-chairs/dwc-31/DWC-31 - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/dwc-31/DWC-31 - Front View.png"
+      "assets/products/cafe-chairs/dwc-31/DWC-31 - Front View.webp"
     ],
     "colors": []
   },
@@ -2698,9 +2698,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Espresso Ladderback Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-espresso-ladderback-dining-chair/espresso_ladderback_dining_chair.png",
+    "img": "assets/products/chairs/cat-espresso-ladderback-dining-chair/espresso_ladderback_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-espresso-ladderback-dining-chair/espresso_ladderback_dining_chair.png"
+      "assets/products/chairs/cat-espresso-ladderback-dining-chair/espresso_ladderback_dining_chair.webp"
     ],
     "colors": []
   },
@@ -2714,9 +2714,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Faceted Gray Molded Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/faceted-gray-molded-dining-chair/faceted_gray_molded_dining_chair.png",
+    "img": "assets/products/cafe-chairs/faceted-gray-molded-dining-chair/faceted_gray_molded_dining_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/faceted-gray-molded-dining-chair/faceted_gray_molded_dining_chair.png"
+      "assets/products/cafe-chairs/faceted-gray-molded-dining-chair/faceted_gray_molded_dining_chair.webp"
     ],
     "colors": []
   },
@@ -2730,11 +2730,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A counter-height stool with a Windsor-style spindle back and a shaped saddle seat, finished in matte white with a square footrest rail. Suits kitchen islands and counter service.",
-    "img": "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png",
+    "img": "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png",
-      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png",
-      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.png"
+      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.webp",
+      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.webp",
+      "assets/products/cafe-bar-stools/white-spindle-back-counter-stool/White Spindle-Back Counter Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -2748,9 +2748,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Futuristic Cantilever Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-futuristic-cantilever-executive-desk/futuristic_cantilever_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-futuristic-cantilever-executive-desk/futuristic_cantilever_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-futuristic-cantilever-executive-desk/futuristic_cantilever_executive_desk.png"
+      "assets/products/office-workstations/cat-futuristic-cantilever-executive-desk/futuristic_cantilever_executive_desk.webp"
     ],
     "colors": []
   },
@@ -2764,9 +2764,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Patterned Fabric Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-patterned-fabric-dining-chair/Grey Patterned Fabric Dining Chair.jpg",
+    "img": "assets/products/chairs/cat-grey-patterned-fabric-dining-chair/Grey Patterned Fabric Dining Chair.webp",
     "images": [
-      "assets/products/chairs/cat-grey-patterned-fabric-dining-chair/Grey Patterned Fabric Dining Chair.jpg"
+      "assets/products/chairs/cat-grey-patterned-fabric-dining-chair/Grey Patterned Fabric Dining Chair.webp"
     ],
     "colors": []
   },
@@ -2780,9 +2780,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Sculptural Armchair With Black Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-sculptural-armchair-with-black-frame/Grey Sculptural Armchair with Black Frame.jpg",
+    "img": "assets/products/chairs/cat-grey-sculptural-armchair-with-black-frame/Grey Sculptural Armchair with Black Frame.webp",
     "images": [
-      "assets/products/chairs/cat-grey-sculptural-armchair-with-black-frame/Grey Sculptural Armchair with Black Frame.jpg"
+      "assets/products/chairs/cat-grey-sculptural-armchair-with-black-frame/Grey Sculptural Armchair with Black Frame.webp"
     ],
     "colors": []
   },
@@ -2796,9 +2796,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Highback Wood Dining Chair With Grey Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-highback-wood-dining-chair-with-grey-cushion/Highback Wood Dining Chair with Grey Cushion.jpg",
+    "img": "assets/products/chairs/cat-highback-wood-dining-chair-with-grey-cushion/Highback Wood Dining Chair with Grey Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-highback-wood-dining-chair-with-grey-cushion/Highback Wood Dining Chair with Grey Cushion.jpg"
+      "assets/products/chairs/cat-highback-wood-dining-chair-with-grey-cushion/Highback Wood Dining Chair with Grey Cushion.webp"
     ],
     "colors": []
   },
@@ -2812,9 +2812,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Ladder Back Dining Chair With Cream Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-oak-ladder-back-dining-chair-with-cream-seat/Light Oak Ladder Back Dining Chair with Cream Seat.jpg",
+    "img": "assets/products/chairs/cat-light-oak-ladder-back-dining-chair-with-cream-seat/Light Oak Ladder Back Dining Chair with Cream Seat.webp",
     "images": [
-      "assets/products/chairs/cat-light-oak-ladder-back-dining-chair-with-cream-seat/Light Oak Ladder Back Dining Chair with Cream Seat.jpg"
+      "assets/products/chairs/cat-light-oak-ladder-back-dining-chair-with-cream-seat/Light Oak Ladder Back Dining Chair with Cream Seat.webp"
     ],
     "colors": []
   },
@@ -2828,9 +2828,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Wood Dining Chair With Slatted Back combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-wood-dining-chair-with-slatted-back/Light Wood Dining Chair with Slatted Back.jpg",
+    "img": "assets/products/chairs/cat-light-wood-dining-chair-with-slatted-back/Light Wood Dining Chair with Slatted Back.webp",
     "images": [
-      "assets/products/chairs/cat-light-wood-dining-chair-with-slatted-back/Light Wood Dining Chair with Slatted Back.jpg"
+      "assets/products/chairs/cat-light-wood-dining-chair-with-slatted-back/Light Wood Dining Chair with Slatted Back.webp"
     ],
     "colors": []
   },
@@ -2844,9 +2844,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Lime Green Lattice Patio Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/lime-green-lattice-patio-chair/lime_green_lattice_patio_chair.png",
+    "img": "assets/products/cafe-chairs/lime-green-lattice-patio-chair/lime_green_lattice_patio_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/lime-green-lattice-patio-chair/lime_green_lattice_patio_chair.png"
+      "assets/products/cafe-chairs/lime-green-lattice-patio-chair/lime_green_lattice_patio_chair.webp"
     ],
     "colors": []
   },
@@ -2860,9 +2860,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Matte Black Sleek Molded Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/matte-black-sleek-molded-dining-chair/matte_black_sleek_molded_dining_chair.png",
+    "img": "assets/products/cafe-chairs/matte-black-sleek-molded-dining-chair/matte_black_sleek_molded_dining_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/matte-black-sleek-molded-dining-chair/matte_black_sleek_molded_dining_chair.png"
+      "assets/products/cafe-chairs/matte-black-sleek-molded-dining-chair/matte_black_sleek_molded_dining_chair.webp"
     ],
     "colors": []
   },
@@ -2876,9 +2876,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Dining Chairs Row With Tweed Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-row-with-tweed-seats/Mid-Century Teak Dining Chairs Row with Tweed Seats.jpg",
+    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-row-with-tweed-seats/Mid-Century Teak Dining Chairs Row with Tweed Seats.webp",
     "images": [
-      "assets/products/chairs/cat-mid-century-teak-dining-chairs-row-with-tweed-seats/Mid-Century Teak Dining Chairs Row with Tweed Seats.jpg"
+      "assets/products/chairs/cat-mid-century-teak-dining-chairs-row-with-tweed-seats/Mid-Century Teak Dining Chairs Row with Tweed Seats.webp"
     ],
     "colors": []
   },
@@ -2892,9 +2892,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Dining Chairs Set With Blue Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-blue-seats/Mid-Century Teak Dining Chairs Set with Blue Seats.jpg",
+    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-blue-seats/Mid-Century Teak Dining Chairs Set with Blue Seats.webp",
     "images": [
-      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-blue-seats/Mid-Century Teak Dining Chairs Set with Blue Seats.jpg"
+      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-blue-seats/Mid-Century Teak Dining Chairs Set with Blue Seats.webp"
     ],
     "colors": []
   },
@@ -2908,9 +2908,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Dining Chairs Set With Mustard Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-mustard-seats/Mid-Century Teak Dining Chairs Set with Mustard Seats.jpg",
+    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-mustard-seats/Mid-Century Teak Dining Chairs Set with Mustard Seats.webp",
     "images": [
-      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-mustard-seats/Mid-Century Teak Dining Chairs Set with Mustard Seats.jpg"
+      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-mustard-seats/Mid-Century Teak Dining Chairs Set with Mustard Seats.webp"
     ],
     "colors": []
   },
@@ -2924,9 +2924,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Dining Chairs Set With Navy Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats/Mid-Century Teak Dining Chairs Set with Navy Seats.jpg",
+    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats/Mid-Century Teak Dining Chairs Set with Navy Seats.webp",
     "images": [
-      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats/Mid-Century Teak Dining Chairs Set with Navy Seats.jpg"
+      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats/Mid-Century Teak Dining Chairs Set with Navy Seats.webp"
     ],
     "colors": []
   },
@@ -2940,9 +2940,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Dining Chairs Set With Navy Seats B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats-b/Mid-Century Teak Dining Chairs Set with Navy Seats B.jpg",
+    "img": "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats-b/Mid-Century Teak Dining Chairs Set with Navy Seats B.webp",
     "images": [
-      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats-b/Mid-Century Teak Dining Chairs Set with Navy Seats B.jpg"
+      "assets/products/chairs/cat-mid-century-teak-dining-chairs-set-with-navy-seats-b/Mid-Century Teak Dining Chairs Set with Navy Seats B.webp"
     ],
     "colors": []
   },
@@ -2956,9 +2956,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Midcentury Walnut Dining Chair Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-midcentury-walnut-dining-chair-set/midcentury_walnut_dining_chair_set.png",
+    "img": "assets/products/chairs/cat-midcentury-walnut-dining-chair-set/midcentury_walnut_dining_chair_set.webp",
     "images": [
-      "assets/products/chairs/cat-midcentury-walnut-dining-chair-set/midcentury_walnut_dining_chair_set.png"
+      "assets/products/chairs/cat-midcentury-walnut-dining-chair-set/midcentury_walnut_dining_chair_set.webp"
     ],
     "colors": []
   },
@@ -2972,9 +2972,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mission Oak Redvelvet Dining Chairs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mission-oak-redvelvet-dining-chairs/mission_oak_redvelvet_dining_chairs.png",
+    "img": "assets/products/chairs/cat-mission-oak-redvelvet-dining-chairs/mission_oak_redvelvet_dining_chairs.webp",
     "images": [
-      "assets/products/chairs/cat-mission-oak-redvelvet-dining-chairs/mission_oak_redvelvet_dining_chairs.png"
+      "assets/products/chairs/cat-mission-oak-redvelvet-dining-chairs/mission_oak_redvelvet_dining_chairs.webp"
     ],
     "colors": []
   },
@@ -2988,9 +2988,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Black Molded Shell Wire Base Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/modern-black-molded-shell-wire-base-dining-chair/Black Molded Shell Wire Base Dining Chair.png",
+    "img": "assets/products/cafe-chairs/modern-black-molded-shell-wire-base-dining-chair/Black Molded Shell Wire Base Dining Chair.webp",
     "images": [
-      "assets/products/cafe-chairs/modern-black-molded-shell-wire-base-dining-chair/Black Molded Shell Wire Base Dining Chair.png"
+      "assets/products/cafe-chairs/modern-black-molded-shell-wire-base-dining-chair/Black Molded Shell Wire Base Dining Chair.webp"
     ],
     "colors": []
   },
@@ -3004,9 +3004,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern White Molded Shell Dark Wood Legs Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/modern-white-molded-shell-dark-wood-legs-dining-chair/White Molded Shell Dark Wood Legs Dining Chair.png",
+    "img": "assets/products/cafe-chairs/modern-white-molded-shell-dark-wood-legs-dining-chair/White Molded Shell Dark Wood Legs Dining Chair.webp",
     "images": [
-      "assets/products/cafe-chairs/modern-white-molded-shell-dark-wood-legs-dining-chair/White Molded Shell Dark Wood Legs Dining Chair.png"
+      "assets/products/cafe-chairs/modern-white-molded-shell-dark-wood-legs-dining-chair/White Molded Shell Dark Wood Legs Dining Chair.webp"
     ],
     "colors": []
   },
@@ -3020,9 +3020,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern White Molded Shell Wooden Eiffel Legs Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/modern-white-molded-shell-wooden-eiffel-legs-dining-chair/White Molded Shell Wooden Eiffel Legs Dining Chair.png",
+    "img": "assets/products/cafe-chairs/modern-white-molded-shell-wooden-eiffel-legs-dining-chair/White Molded Shell Wooden Eiffel Legs Dining Chair.webp",
     "images": [
-      "assets/products/cafe-chairs/modern-white-molded-shell-wooden-eiffel-legs-dining-chair/White Molded Shell Wooden Eiffel Legs Dining Chair.png"
+      "assets/products/cafe-chairs/modern-white-molded-shell-wooden-eiffel-legs-dining-chair/White Molded Shell Wooden Eiffel Legs Dining Chair.webp"
     ],
     "colors": []
   },
@@ -3036,9 +3036,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nordic Black And Wood Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/nordic-black-and-wood-dining-chair/nordic_black_and_wood_dining_chair.png",
+    "img": "assets/products/cafe-chairs/nordic-black-and-wood-dining-chair/nordic_black_and_wood_dining_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/nordic-black-and-wood-dining-chair/nordic_black_and_wood_dining_chair.png"
+      "assets/products/cafe-chairs/nordic-black-and-wood-dining-chair/nordic_black_and_wood_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3052,9 +3052,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Bluepad Slatted Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-oak-bluepad-slatted-dining-chair/oak_bluepad_slatted_dining_chair.png",
+    "img": "assets/products/chairs/cat-oak-bluepad-slatted-dining-chair/oak_bluepad_slatted_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-oak-bluepad-slatted-dining-chair/oak_bluepad_slatted_dining_chair.png"
+      "assets/products/chairs/cat-oak-bluepad-slatted-dining-chair/oak_bluepad_slatted_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3068,9 +3068,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Highback Slatted Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-oak-highback-slatted-dining-chair/oak_highback_slatted_dining_chair.png",
+    "img": "assets/products/chairs/cat-oak-highback-slatted-dining-chair/oak_highback_slatted_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-oak-highback-slatted-dining-chair/oak_highback_slatted_dining_chair.png"
+      "assets/products/chairs/cat-oak-highback-slatted-dining-chair/oak_highback_slatted_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3084,9 +3084,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Redpad Ladderback Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-oak-redpad-ladderback-dining-chair/oak_redpad_ladderback_dining_chair.png",
+    "img": "assets/products/chairs/cat-oak-redpad-ladderback-dining-chair/oak_redpad_ladderback_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-oak-redpad-ladderback-dining-chair/oak_redpad_ladderback_dining_chair.png"
+      "assets/products/chairs/cat-oak-redpad-ladderback-dining-chair/oak_redpad_ladderback_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3100,9 +3100,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Slatted Padded Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-oak-slatted-padded-dining-chair/oak_slatted_padded_dining_chair.png",
+    "img": "assets/products/chairs/cat-oak-slatted-padded-dining-chair/oak_slatted_padded_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-oak-slatted-padded-dining-chair/oak_slatted_padded_dining_chair.png"
+      "assets/products/chairs/cat-oak-slatted-padded-dining-chair/oak_slatted_padded_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3116,9 +3116,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Xback Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-oak-xback-dining-chair/oak_xback_dining_chair.png",
+    "img": "assets/products/chairs/cat-oak-xback-dining-chair/oak_xback_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-oak-xback-dining-chair/oak_xback_dining_chair.png"
+      "assets/products/chairs/cat-oak-xback-dining-chair/oak_xback_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3132,9 +3132,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pair Of Dark Wood Dining Chairs With Black Leather combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pair-of-dark-wood-dining-chairs-with-black-leather/Pair of Dark Wood Dining Chairs with Black Leather.jpg",
+    "img": "assets/products/chairs/cat-pair-of-dark-wood-dining-chairs-with-black-leather/Pair of Dark Wood Dining Chairs with Black Leather.webp",
     "images": [
-      "assets/products/chairs/cat-pair-of-dark-wood-dining-chairs-with-black-leather/Pair of Dark Wood Dining Chairs with Black Leather.jpg"
+      "assets/products/chairs/cat-pair-of-dark-wood-dining-chairs-with-black-leather/Pair of Dark Wood Dining Chairs with Black Leather.webp"
     ],
     "colors": []
   },
@@ -3148,9 +3148,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pair Of Mustard Yellow Armchairs With Black Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pair-of-mustard-yellow-armchairs-with-black-frame/Pair of Mustard Yellow Armchairs with Black Frame.jpg",
+    "img": "assets/products/chairs/cat-pair-of-mustard-yellow-armchairs-with-black-frame/Pair of Mustard Yellow Armchairs with Black Frame.webp",
     "images": [
-      "assets/products/chairs/cat-pair-of-mustard-yellow-armchairs-with-black-frame/Pair of Mustard Yellow Armchairs with Black Frame.jpg"
+      "assets/products/chairs/cat-pair-of-mustard-yellow-armchairs-with-black-frame/Pair of Mustard Yellow Armchairs with Black Frame.webp"
     ],
     "colors": []
   },
@@ -3164,10 +3164,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pair Of Teak Dining Chairs With Green Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-green-seats/Pair of Teak Dining Chairs with Green Seats - Front View.jpg",
+    "img": "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-green-seats/Pair of Teak Dining Chairs with Green Seats - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-green-seats/Pair of Teak Dining Chairs with Green Seats - Front View.jpg",
-      "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-green-seats/Pair of Teak Dining Chairs with Green Seats - Side View.jpg"
+      "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-green-seats/Pair of Teak Dining Chairs with Green Seats - Front View.webp",
+      "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-green-seats/Pair of Teak Dining Chairs with Green Seats - Side View.webp"
     ],
     "colors": []
   },
@@ -3181,9 +3181,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pair Of Teak Dining Chairs With Turquoise Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-turquoise-seats/Pair of Teak Dining Chairs with Turquoise Seats.jpg",
+    "img": "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-turquoise-seats/Pair of Teak Dining Chairs with Turquoise Seats.webp",
     "images": [
-      "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-turquoise-seats/Pair of Teak Dining Chairs with Turquoise Seats.jpg"
+      "assets/products/chairs/cat-pair-of-teak-dining-chairs-with-turquoise-seats/Pair of Teak Dining Chairs with Turquoise Seats.webp"
     ],
     "colors": []
   },
@@ -3197,9 +3197,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Row Of 4 Teak Dining Chairs With Black Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-row-of-4-teak-dining-chairs-with-black-seats/Row of 4 Teak Dining Chairs with Black Seats.jpg",
+    "img": "assets/products/chairs/cat-row-of-4-teak-dining-chairs-with-black-seats/Row of 4 Teak Dining Chairs with Black Seats.webp",
     "images": [
-      "assets/products/chairs/cat-row-of-4-teak-dining-chairs-with-black-seats/Row of 4 Teak Dining Chairs with Black Seats.jpg"
+      "assets/products/chairs/cat-row-of-4-teak-dining-chairs-with-black-seats/Row of 4 Teak Dining Chairs with Black Seats.webp"
     ],
     "colors": []
   },
@@ -3213,9 +3213,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Row Of 6 Teak Dining Chairs With Grey Seats B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-row-of-6-teak-dining-chairs-with-grey-seats-b/Row of 6 Teak Dining Chairs with Grey Seats B.jpg",
+    "img": "assets/products/chairs/cat-row-of-6-teak-dining-chairs-with-grey-seats-b/Row of 6 Teak Dining Chairs with Grey Seats B.webp",
     "images": [
-      "assets/products/chairs/cat-row-of-6-teak-dining-chairs-with-grey-seats-b/Row of 6 Teak Dining Chairs with Grey Seats B.jpg"
+      "assets/products/chairs/cat-row-of-6-teak-dining-chairs-with-grey-seats-b/Row of 6 Teak Dining Chairs with Grey Seats B.webp"
     ],
     "colors": []
   },
@@ -3229,9 +3229,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Row Of 8 Teak Dining Chairs With Grey Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-row-of-8-teak-dining-chairs-with-grey-seats/Row of 8 Teak Dining Chairs with Grey Seats.jpg",
+    "img": "assets/products/chairs/cat-row-of-8-teak-dining-chairs-with-grey-seats/Row of 8 Teak Dining Chairs with Grey Seats.webp",
     "images": [
-      "assets/products/chairs/cat-row-of-8-teak-dining-chairs-with-grey-seats/Row of 8 Teak Dining Chairs with Grey Seats.jpg"
+      "assets/products/chairs/cat-row-of-8-teak-dining-chairs-with-grey-seats/Row of 8 Teak Dining Chairs with Grey Seats.webp"
     ],
     "colors": []
   },
@@ -3245,9 +3245,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Row Of Teak Dining Chairs With Beige Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-row-of-teak-dining-chairs-with-beige-seats/Row of Teak Dining Chairs with Beige Seats.jpg",
+    "img": "assets/products/chairs/cat-row-of-teak-dining-chairs-with-beige-seats/Row of Teak Dining Chairs with Beige Seats.webp",
     "images": [
-      "assets/products/chairs/cat-row-of-teak-dining-chairs-with-beige-seats/Row of Teak Dining Chairs with Beige Seats.jpg"
+      "assets/products/chairs/cat-row-of-teak-dining-chairs-with-beige-seats/Row of Teak Dining Chairs with Beige Seats.webp"
     ],
     "colors": []
   },
@@ -3261,9 +3261,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rust Geometric Molded Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/rust-geometric-molded-chair/rust_geometric_molded_chair.png",
+    "img": "assets/products/cafe-chairs/rust-geometric-molded-chair/rust_geometric_molded_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/rust-geometric-molded-chair/rust_geometric_molded_chair.png"
+      "assets/products/cafe-chairs/rust-geometric-molded-chair/rust_geometric_molded_chair.webp"
     ],
     "colors": []
   },
@@ -3277,9 +3277,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rustic Solid Wood Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-rustic-solid-wood-dining-chair/Rustic Solid Wood Dining Chair.jpg",
+    "img": "assets/products/chairs/cat-rustic-solid-wood-dining-chair/Rustic Solid Wood Dining Chair.webp",
     "images": [
-      "assets/products/chairs/cat-rustic-solid-wood-dining-chair/Rustic Solid Wood Dining Chair.jpg"
+      "assets/products/chairs/cat-rustic-solid-wood-dining-chair/Rustic Solid Wood Dining Chair.webp"
     ],
     "colors": []
   },
@@ -3293,9 +3293,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Table Base Black Cross Frame With Wooden Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/scandinavian-table-base-black-cross-frame-with-wooden-legs/Scandinavian Table Base Black Cross Frame with Wooden Legs.png",
+    "img": "assets/products/cafe-tables/scandinavian-table-base-black-cross-frame-with-wooden-legs/Scandinavian Table Base Black Cross Frame with Wooden Legs.webp",
     "images": [
-      "assets/products/cafe-tables/scandinavian-table-base-black-cross-frame-with-wooden-legs/Scandinavian Table Base Black Cross Frame with Wooden Legs.png"
+      "assets/products/cafe-tables/scandinavian-table-base-black-cross-frame-with-wooden-legs/Scandinavian Table Base Black Cross Frame with Wooden Legs.webp"
     ],
     "colors": []
   },
@@ -3309,9 +3309,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Walnut Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-scandinavian-walnut-dining-chair/Scandinavian Walnut Dining Chair.jpg",
+    "img": "assets/products/chairs/cat-scandinavian-walnut-dining-chair/Scandinavian Walnut Dining Chair.webp",
     "images": [
-      "assets/products/chairs/cat-scandinavian-walnut-dining-chair/Scandinavian Walnut Dining Chair.jpg"
+      "assets/products/chairs/cat-scandinavian-walnut-dining-chair/Scandinavian Walnut Dining Chair.webp"
     ],
     "colors": []
   },
@@ -3325,9 +3325,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Wood Dining Chair With Sage Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-scandinavian-wood-dining-chair-with-sage-cushion/Scandinavian Wood Dining Chair with Sage Cushion.jpg",
+    "img": "assets/products/chairs/cat-scandinavian-wood-dining-chair-with-sage-cushion/Scandinavian Wood Dining Chair with Sage Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-scandinavian-wood-dining-chair-with-sage-cushion/Scandinavian Wood Dining Chair with Sage Cushion.jpg"
+      "assets/products/chairs/cat-scandinavian-wood-dining-chair-with-sage-cushion/Scandinavian Wood Dining Chair with Sage Cushion.webp"
     ],
     "colors": []
   },
@@ -3341,9 +3341,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sculptural Walnut Dining Chair With White Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-sculptural-walnut-dining-chair-with-white-seat/Sculptural Walnut Dining Chair with White Seat.jpg",
+    "img": "assets/products/chairs/cat-sculptural-walnut-dining-chair-with-white-seat/Sculptural Walnut Dining Chair with White Seat.webp",
     "images": [
-      "assets/products/chairs/cat-sculptural-walnut-dining-chair-with-white-seat/Sculptural Walnut Dining Chair with White Seat.jpg"
+      "assets/products/chairs/cat-sculptural-walnut-dining-chair-with-white-seat/Sculptural Walnut Dining Chair with White Seat.webp"
     ],
     "colors": []
   },
@@ -3357,9 +3357,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sculptural Wood Dining Chair With Cream Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-sculptural-wood-dining-chair-with-cream-cushion/Sculptural Wood Dining Chair with Cream Cushion.jpg",
+    "img": "assets/products/chairs/cat-sculptural-wood-dining-chair-with-cream-cushion/Sculptural Wood Dining Chair with Cream Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-sculptural-wood-dining-chair-with-cream-cushion/Sculptural Wood Dining Chair with Cream Cushion.jpg"
+      "assets/products/chairs/cat-sculptural-wood-dining-chair-with-cream-cushion/Sculptural Wood Dining Chair with Cream Cushion.webp"
     ],
     "colors": []
   },
@@ -3373,9 +3373,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Set Of 6 Teak Dining Chairs With Brown Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-brown-seats/Set of 6 Teak Dining Chairs with Brown Seats.jpg",
+    "img": "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-brown-seats/Set of 6 Teak Dining Chairs with Brown Seats.webp",
     "images": [
-      "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-brown-seats/Set of 6 Teak Dining Chairs with Brown Seats.jpg"
+      "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-brown-seats/Set of 6 Teak Dining Chairs with Brown Seats.webp"
     ],
     "colors": []
   },
@@ -3389,9 +3389,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Set Of 6 Teak Dining Chairs With Olive Green Seats combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-olive-green-seats/Set of 6 Teak Dining Chairs with Olive Green Seats.jpg",
+    "img": "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-olive-green-seats/Set of 6 Teak Dining Chairs with Olive Green Seats.webp",
     "images": [
-      "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-olive-green-seats/Set of 6 Teak Dining Chairs with Olive Green Seats.jpg"
+      "assets/products/chairs/cat-set-of-6-teak-dining-chairs-with-olive-green-seats/Set of 6 Teak Dining Chairs with Olive Green Seats.webp"
     ],
     "colors": []
   },
@@ -3405,9 +3405,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Set Of Teak Dining Chairs With Blue Upholstery combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-set-of-teak-dining-chairs-with-blue-upholstery/Set of Teak Dining Chairs with Blue Upholstery.jpg",
+    "img": "assets/products/chairs/cat-set-of-teak-dining-chairs-with-blue-upholstery/Set of Teak Dining Chairs with Blue Upholstery.webp",
     "images": [
-      "assets/products/chairs/cat-set-of-teak-dining-chairs-with-blue-upholstery/Set of Teak Dining Chairs with Blue Upholstery.jpg"
+      "assets/products/chairs/cat-set-of-teak-dining-chairs-with-blue-upholstery/Set of Teak Dining Chairs with Blue Upholstery.webp"
     ],
     "colors": []
   },
@@ -3421,9 +3421,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Stainless Steel Ladder Back Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/stainless-steel-ladder-back-dining-chair/Stainless Steel Ladder Back Dining Chair.png",
+    "img": "assets/products/cafe-chairs/stainless-steel-ladder-back-dining-chair/Stainless Steel Ladder Back Dining Chair.webp",
     "images": [
-      "assets/products/cafe-chairs/stainless-steel-ladder-back-dining-chair/Stainless Steel Ladder Back Dining Chair.png"
+      "assets/products/cafe-chairs/stainless-steel-ladder-back-dining-chair/Stainless Steel Ladder Back Dining Chair.webp"
     ],
     "colors": []
   },
@@ -3437,10 +3437,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sweden Orange Plastic Ergonomic Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/sweden-orange-plastic-ergonomic-chair/Sweden Orange Chair - Angle Perspective.png",
+    "img": "assets/products/cafe-chairs/sweden-orange-plastic-ergonomic-chair/Sweden Orange Chair - Angle Perspective.webp",
     "images": [
-      "assets/products/cafe-chairs/sweden-orange-plastic-ergonomic-chair/Sweden Orange Chair - Angle Perspective.png",
-      "assets/products/cafe-chairs/sweden-orange-plastic-ergonomic-chair/Sweden Orange Chair - Front View.png"
+      "assets/products/cafe-chairs/sweden-orange-plastic-ergonomic-chair/Sweden Orange Chair - Angle Perspective.webp",
+      "assets/products/cafe-chairs/sweden-orange-plastic-ergonomic-chair/Sweden Orange Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -3454,9 +3454,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sweedan combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/sweedan/Sweedan - Front View.png",
+    "img": "assets/products/cafe-chairs/sweedan/Sweedan - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/sweedan/Sweedan - Front View.png"
+      "assets/products/cafe-chairs/sweedan/Sweedan - Front View.webp"
     ],
     "colors": []
   },
@@ -3470,9 +3470,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak And Cane Midcentury Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-and-cane-midcentury-dining-chair/teak_and_cane_midcentury_dining_chair.png",
+    "img": "assets/products/chairs/cat-teak-and-cane-midcentury-dining-chair/teak_and_cane_midcentury_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-teak-and-cane-midcentury-dining-chair/teak_and_cane_midcentury_dining_chair.png"
+      "assets/products/chairs/cat-teak-and-cane-midcentury-dining-chair/teak_and_cane_midcentury_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3486,9 +3486,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Dining Chair With Blue Upholstery combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-dining-chair-with-blue-upholstery/Teak Dining Chair with Blue Upholstery.jpg",
+    "img": "assets/products/chairs/cat-teak-dining-chair-with-blue-upholstery/Teak Dining Chair with Blue Upholstery.webp",
     "images": [
-      "assets/products/chairs/cat-teak-dining-chair-with-blue-upholstery/Teak Dining Chair with Blue Upholstery.jpg"
+      "assets/products/chairs/cat-teak-dining-chair-with-blue-upholstery/Teak Dining Chair with Blue Upholstery.webp"
     ],
     "colors": []
   },
@@ -3502,9 +3502,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Dining Chair With Green Upholstery combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-dining-chair-with-green-upholstery/Teak Dining Chair with Green Upholstery.jpg",
+    "img": "assets/products/chairs/cat-teak-dining-chair-with-green-upholstery/Teak Dining Chair with Green Upholstery.webp",
     "images": [
-      "assets/products/chairs/cat-teak-dining-chair-with-green-upholstery/Teak Dining Chair with Green Upholstery.jpg"
+      "assets/products/chairs/cat-teak-dining-chair-with-green-upholstery/Teak Dining Chair with Green Upholstery.webp"
     ],
     "colors": []
   },
@@ -3518,9 +3518,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Dining Chair With Grey Cushion B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-dining-chair-with-grey-cushion-b/Teak Dining Chair with Grey Cushion B.jpg",
+    "img": "assets/products/chairs/cat-teak-dining-chair-with-grey-cushion-b/Teak Dining Chair with Grey Cushion B.webp",
     "images": [
-      "assets/products/chairs/cat-teak-dining-chair-with-grey-cushion-b/Teak Dining Chair with Grey Cushion B.jpg"
+      "assets/products/chairs/cat-teak-dining-chair-with-grey-cushion-b/Teak Dining Chair with Grey Cushion B.webp"
     ],
     "colors": []
   },
@@ -3534,9 +3534,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Dining Chair With Yellow Velvet Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-dining-chair-with-yellow-velvet-seat/Teak Dining Chair with Yellow Velvet Seat.jpg",
+    "img": "assets/products/chairs/cat-teak-dining-chair-with-yellow-velvet-seat/Teak Dining Chair with Yellow Velvet Seat.webp",
     "images": [
-      "assets/products/chairs/cat-teak-dining-chair-with-yellow-velvet-seat/Teak Dining Chair with Yellow Velvet Seat.jpg"
+      "assets/products/chairs/cat-teak-dining-chair-with-yellow-velvet-seat/Teak Dining Chair with Yellow Velvet Seat.webp"
     ],
     "colors": []
   },
@@ -3550,9 +3550,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Frame Loveseat Sofa With Black Leather combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-teak-frame-loveseat-sofa-with-black-leather/Teak Frame Loveseat Sofa with Black Leather.jpg",
+    "img": "assets/products/wooden-couches/cat-teak-frame-loveseat-sofa-with-black-leather/Teak Frame Loveseat Sofa with Black Leather.webp",
     "images": [
-      "assets/products/wooden-couches/cat-teak-frame-loveseat-sofa-with-black-leather/Teak Frame Loveseat Sofa with Black Leather.jpg"
+      "assets/products/wooden-couches/cat-teak-frame-loveseat-sofa-with-black-leather/Teak Frame Loveseat Sofa with Black Leather.webp"
     ],
     "colors": []
   },
@@ -3566,9 +3566,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Highslat Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-highslat-dining-chair/teak_highslat_dining_chair.png",
+    "img": "assets/products/chairs/cat-teak-highslat-dining-chair/teak_highslat_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-teak-highslat-dining-chair/teak_highslat_dining_chair.png"
+      "assets/products/chairs/cat-teak-highslat-dining-chair/teak_highslat_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3582,9 +3582,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Ladder Back Dining Chair With Tweed Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-ladder-back-dining-chair-with-tweed-seat/Teak Ladder Back Dining Chair with Tweed Seat.jpg",
+    "img": "assets/products/chairs/cat-teak-ladder-back-dining-chair-with-tweed-seat/Teak Ladder Back Dining Chair with Tweed Seat.webp",
     "images": [
-      "assets/products/chairs/cat-teak-ladder-back-dining-chair-with-tweed-seat/Teak Ladder Back Dining Chair with Tweed Seat.jpg"
+      "assets/products/chairs/cat-teak-ladder-back-dining-chair-with-tweed-seat/Teak Ladder Back Dining Chair with Tweed Seat.webp"
     ],
     "colors": []
   },
@@ -3598,9 +3598,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Ladderback Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-ladderback-dining-chair/teak_ladderback_dining_chair.png",
+    "img": "assets/products/chairs/cat-teak-ladderback-dining-chair/teak_ladderback_dining_chair.webp",
     "images": [
-      "assets/products/chairs/cat-teak-ladderback-dining-chair/teak_ladderback_dining_chair.png"
+      "assets/products/chairs/cat-teak-ladderback-dining-chair/teak_ladderback_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3614,9 +3614,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Slatted Garden Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-slatted-garden-chair/teak_slatted_garden_chair.png",
+    "img": "assets/products/chairs/cat-teak-slatted-garden-chair/teak_slatted_garden_chair.webp",
     "images": [
-      "assets/products/chairs/cat-teak-slatted-garden-chair/teak_slatted_garden_chair.png"
+      "assets/products/chairs/cat-teak-slatted-garden-chair/teak_slatted_garden_chair.webp"
     ],
     "colors": []
   },
@@ -3630,9 +3630,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Black Compact Writing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-walnut-black-compact-writing-desk/walnut_black_compact_writing_desk.png",
+    "img": "assets/products/office-workstations/cat-walnut-black-compact-writing-desk/walnut_black_compact_writing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-walnut-black-compact-writing-desk/walnut_black_compact_writing_desk.png"
+      "assets/products/office-workstations/cat-walnut-black-compact-writing-desk/walnut_black_compact_writing_desk.webp"
     ],
     "colors": []
   },
@@ -3646,9 +3646,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Credenza Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/walnut-credenza-executive-desk/walnut-credenza-executive-desk.png",
+    "img": "assets/products/office-workstations/walnut-credenza-executive-desk/walnut-credenza-executive-desk.webp",
     "images": [
-      "assets/products/office-workstations/walnut-credenza-executive-desk/walnut-credenza-executive-desk.png"
+      "assets/products/office-workstations/walnut-credenza-executive-desk/walnut-credenza-executive-desk.webp"
     ],
     "colors": []
   },
@@ -3662,9 +3662,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Veneer Black Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-walnut-veneer-black-executive-desk/walnut_veneer_black_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-walnut-veneer-black-executive-desk/walnut_veneer_black_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-walnut-veneer-black-executive-desk/walnut_veneer_black_executive_desk.png"
+      "assets/products/office-workstations/cat-walnut-veneer-black-executive-desk/walnut_veneer_black_executive_desk.webp"
     ],
     "colors": []
   },
@@ -3678,9 +3678,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The White Molded Scandi Dining Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/white-molded-scandi-dining-chair/white_molded_scandi_dining_chair.png",
+    "img": "assets/products/cafe-chairs/white-molded-scandi-dining-chair/white_molded_scandi_dining_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/white-molded-scandi-dining-chair/white_molded_scandi_dining_chair.png"
+      "assets/products/cafe-chairs/white-molded-scandi-dining-chair/white_molded_scandi_dining_chair.webp"
     ],
     "colors": []
   },
@@ -3692,12 +3692,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/cafe-chairs/chronos/CHRONOS_2.png",
+    "img": "assets/products/cafe-chairs/chronos/CHRONOS_2.webp",
     "badge": "New",
     "description": "The CHRONOS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, Green or Yellow, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/cafe-chairs/chronos/CHRONOS_2.png",
-      "assets/products/cafe-chairs/chronos/CHRONOS_3.png"
+      "assets/products/cafe-chairs/chronos/CHRONOS_2.webp",
+      "assets/products/cafe-chairs/chronos/CHRONOS_3.webp"
     ],
     "colors": [
       "Grey",
@@ -3713,13 +3713,13 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/cafe-chairs/ola/OLA.png",
+    "img": "assets/products/cafe-chairs/ola/OLA.webp",
     "badge": "",
     "description": "The OLA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Green or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/cafe-chairs/ola/OLA.png",
-      "assets/products/cafe-chairs/ola/OLA_2.png",
-      "assets/products/cafe-chairs/ola/OLA_3.png"
+      "assets/products/cafe-chairs/ola/OLA.webp",
+      "assets/products/cafe-chairs/ola/OLA_2.webp",
+      "assets/products/cafe-chairs/ola/OLA_3.webp"
     ],
     "colors": [
       "Green",
@@ -3734,16 +3734,16 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.5,
-    "img": "assets/products/cafe-chairs/onyx/ONYX.png",
+    "img": "assets/products/cafe-chairs/onyx/ONYX.webp",
     "badge": "",
     "description": "The ONYX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red, Blue, Yellow, White or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/cafe-chairs/onyx/ONYX.png",
-      "assets/products/cafe-chairs/onyx/ONYX_2.png",
-      "assets/products/cafe-chairs/onyx/ONYX_3.png",
-      "assets/products/cafe-chairs/onyx/ONYX_4.png",
-      "assets/products/cafe-chairs/onyx/ONYX_5.png",
-      "assets/products/cafe-chairs/onyx/ONYX_6.png"
+      "assets/products/cafe-chairs/onyx/ONYX.webp",
+      "assets/products/cafe-chairs/onyx/ONYX_2.webp",
+      "assets/products/cafe-chairs/onyx/ONYX_3.webp",
+      "assets/products/cafe-chairs/onyx/ONYX_4.webp",
+      "assets/products/cafe-chairs/onyx/ONYX_5.webp",
+      "assets/products/cafe-chairs/onyx/ONYX_6.webp"
     ],
     "colors": [
       "Red",
@@ -3762,11 +3762,11 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Cover: Exclusive 100% 90-110 GSM printed polyester twill fabric is multi-needle quilted with 2 nos of 18 density 7 mm peeled foam together with 17 gm/m² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is on the top. Border/Stabilizer: 110 GSM printed polyester twill fabric covered over the 5 mm 13 density peeled foam. Brand: Rubco Sleeping System. Thickness: 4/5 Inch. Inner Core: 4\" Thickness - 80 Density Rubberised Coir Block (BIS Certified); 5\" Thickness - 28 Density 20mm PU foam and 4\" 80 Density Rubberised Coir Block. Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and centre band wrapping. Warranty: 2 years.",
-    "img": "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.jpg",
+    "description": "Cover: Exclusive 100% 90-110 GSM printed polyester twill fabric is multi-needle quilted with 2 nos of 18 density 7 mm peeled foam together with 17 gm/mÂ² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is on the top. Border/Stabilizer: 110 GSM printed polyester twill fabric covered over the 5 mm 13 density peeled foam. Brand: Rubco Sleeping System. Thickness: 4/5 Inch. Inner Core: 4\" Thickness - 80 Density Rubberised Coir Block (BIS Certified); 5\" Thickness - 28 Density 20mm PU foam and 4\" 80 Density Rubberised Coir Block. Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and centre band wrapping. Warranty: 2 years.",
+    "img": "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.webp",
     "images": [
-      "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.jpg",
-      "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress_2.jpg"
+      "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.webp",
+      "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress_2.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-onyx-mattress",
     "colors": [
@@ -3782,13 +3782,13 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/stelle/STELLE.png",
+    "img": "assets/products/office-chairs/stelle/STELLE.webp",
     "badge": "New",
     "description": "The STELLE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/stelle/STELLE.png",
-      "assets/products/office-chairs/stelle/STELLE_2.png",
-      "assets/products/office-chairs/stelle/STELLE_3.png"
+      "assets/products/office-chairs/stelle/STELLE.webp",
+      "assets/products/office-chairs/stelle/STELLE_2.webp",
+      "assets/products/office-chairs/stelle/STELLE_3.webp"
     ],
     "colors": [
       "Brown"
@@ -3804,12 +3804,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Stelle | STM Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/stelle---stm/Stelle _ STM - 301.png",
+    "img": "assets/products/office-chairs/stelle---stm/Stelle _ STM - 301.webp",
     "images": [
-      "assets/products/office-chairs/stelle---stm/Stelle _ STM - 301.png",
-      "assets/products/office-chairs/stelle---stm/Stelle _ STM -101.png",
-      "assets/products/office-chairs/stelle---stm/Stelle _ STM -201.png",
-      "assets/products/office-chairs/stelle---stm/Stelle _ STM -201_2.png"
+      "assets/products/office-chairs/stelle---stm/Stelle _ STM - 301.webp",
+      "assets/products/office-chairs/stelle---stm/Stelle _ STM -101.webp",
+      "assets/products/office-chairs/stelle---stm/Stelle _ STM -201.webp",
+      "assets/products/office-chairs/stelle---stm/Stelle _ STM -201_2.webp"
     ],
     "colors": [
       "Grey"
@@ -3825,12 +3825,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Reflecting intelligent design and thinking, the Stelle | STZ Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 101.png",
+    "img": "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 101.webp",
     "images": [
-      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 101.png",
-      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 101_2.png",
-      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 201.png",
-      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 301.png"
+      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 101.webp",
+      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 101_2.webp",
+      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 201.webp",
+      "assets/products/office-chairs/stelle---stz/Stelle _ STZ - 301.webp"
     ],
     "colors": [
       "Grey"
@@ -3844,12 +3844,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/cafe-chairs/zest/ZEST.png",
+    "img": "assets/products/cafe-chairs/zest/ZEST.webp",
     "badge": "",
     "description": "The ZEST Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Blue or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/cafe-chairs/zest/ZEST.png",
-      "assets/products/cafe-chairs/zest/ZEST_2.png"
+      "assets/products/cafe-chairs/zest/ZEST.webp",
+      "assets/products/cafe-chairs/zest/ZEST_2.webp"
     ],
     "colors": [
       "Blue",
@@ -3866,9 +3866,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Convertible Multi Functional Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/convertible-multi-functional-table/Convertible Multi Functional Table - Front View.png",
+    "img": "assets/products/cafe-tables/convertible-multi-functional-table/Convertible Multi Functional Table - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/convertible-multi-functional-table/Convertible Multi Functional Table - Front View.png"
+      "assets/products/cafe-tables/convertible-multi-functional-table/Convertible Multi Functional Table - Front View.webp"
     ],
     "colors": []
   },
@@ -3882,9 +3882,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Crescent Reception Counter combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-crescent-reception-counter/Crescent Reception Counter - Front View.png",
+    "img": "assets/products/office-workstations/cat-crescent-reception-counter/Crescent Reception Counter - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-crescent-reception-counter/Crescent Reception Counter - Front View.png"
+      "assets/products/office-workstations/cat-crescent-reception-counter/Crescent Reception Counter - Front View.webp"
     ],
     "colors": []
   },
@@ -3898,9 +3898,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1001 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1001/DCT-1001 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1001/DCT-1001 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1001/DCT-1001 - Front View.png"
+      "assets/products/cafe-tables/dct-1001/DCT-1001 - Front View.webp"
     ],
     "colors": []
   },
@@ -3914,9 +3914,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1002 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1002/DCT-1002 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1002/DCT-1002 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1002/DCT-1002 - Front View.png"
+      "assets/products/cafe-tables/dct-1002/DCT-1002 - Front View.webp"
     ],
     "colors": []
   },
@@ -3930,9 +3930,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1004 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1003/DCT-1003 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1003/DCT-1003 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1003/DCT-1003 - Front View.png"
+      "assets/products/cafe-tables/dct-1003/DCT-1003 - Front View.webp"
     ],
     "colors": []
   },
@@ -3946,9 +3946,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1005 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1004/DCT-1004 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1004/DCT-1004 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1004/DCT-1004 - Front View.png"
+      "assets/products/cafe-tables/dct-1004/DCT-1004 - Front View.webp"
     ],
     "colors": []
   },
@@ -3962,9 +3962,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1006 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1005/DCT-1005 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1005/DCT-1005 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1005/DCT-1005 - Front View.png"
+      "assets/products/cafe-tables/dct-1005/DCT-1005 - Front View.webp"
     ],
     "colors": []
   },
@@ -3978,9 +3978,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1007 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1006/DCT-1006 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1006/DCT-1006 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1006/DCT-1006 - Front View.png"
+      "assets/products/cafe-tables/dct-1006/DCT-1006 - Front View.webp"
     ],
     "colors": []
   },
@@ -3994,9 +3994,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1009 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1007/DCT-1007 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1007/DCT-1007 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1007/DCT-1007 - Front View.png"
+      "assets/products/cafe-tables/dct-1007/DCT-1007 - Front View.webp"
     ],
     "colors": []
   },
@@ -4010,9 +4010,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1013 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1008/DCT-1008 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1008/DCT-1008 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1008/DCT-1008 - Front View.png"
+      "assets/products/cafe-tables/dct-1008/DCT-1008 - Front View.webp"
     ],
     "colors": []
   },
@@ -4026,9 +4026,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1014 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1009/DCT-1009 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1009/DCT-1009 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1009/DCT-1009 - Front View.png"
+      "assets/products/cafe-tables/dct-1009/DCT-1009 - Front View.webp"
     ],
     "colors": []
   },
@@ -4042,9 +4042,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1018 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1010/DCT-1010 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1010/DCT-1010 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1010/DCT-1010 - Front View.png"
+      "assets/products/cafe-tables/dct-1010/DCT-1010 - Front View.webp"
     ],
     "colors": []
   },
@@ -4058,9 +4058,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1019 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1011/DCT-1011 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1011/DCT-1011 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1011/DCT-1011 - Front View.png"
+      "assets/products/cafe-tables/dct-1011/DCT-1011 - Front View.webp"
     ],
     "colors": []
   },
@@ -4074,9 +4074,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1021 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1012/DCT-1012 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1012/DCT-1012 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1012/DCT-1012 - Front View.png"
+      "assets/products/cafe-tables/dct-1012/DCT-1012 - Front View.webp"
     ],
     "colors": []
   },
@@ -4090,9 +4090,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1022 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1013/DCT-1013 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1013/DCT-1013 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1013/DCT-1013 - Front View.png"
+      "assets/products/cafe-tables/dct-1013/DCT-1013 - Front View.webp"
     ],
     "colors": []
   },
@@ -4106,9 +4106,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1025 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1014/DCT-1014 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1014/DCT-1014 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1014/DCT-1014 - Front View.png"
+      "assets/products/cafe-tables/dct-1014/DCT-1014 - Front View.webp"
     ],
     "colors": []
   },
@@ -4122,9 +4122,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1026 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1015/DCT-1015 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1015/DCT-1015 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1015/DCT-1015 - Front View.png"
+      "assets/products/cafe-tables/dct-1015/DCT-1015 - Front View.webp"
     ],
     "colors": []
   },
@@ -4138,9 +4138,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1030 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1016/DCT-1016 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1016/DCT-1016 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1016/DCT-1016 - Front View.png"
+      "assets/products/cafe-tables/dct-1016/DCT-1016 - Front View.webp"
     ],
     "colors": []
   },
@@ -4154,9 +4154,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1032 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1017/DCT-1017 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1017/DCT-1017 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1017/DCT-1017 - Front View.png"
+      "assets/products/cafe-tables/dct-1017/DCT-1017 - Front View.webp"
     ],
     "colors": []
   },
@@ -4170,9 +4170,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1034 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1018/DCT-1018 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1018/DCT-1018 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1018/DCT-1018 - Front View.png"
+      "assets/products/cafe-tables/dct-1018/DCT-1018 - Front View.webp"
     ],
     "colors": []
   },
@@ -4186,9 +4186,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1035 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1019/DCT-1019 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1019/DCT-1019 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1019/DCT-1019 - Front View.png"
+      "assets/products/cafe-tables/dct-1019/DCT-1019 - Front View.webp"
     ],
     "colors": []
   },
@@ -4202,9 +4202,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1037 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1020/DCT-1020 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1020/DCT-1020 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1020/DCT-1020 - Front View.png"
+      "assets/products/cafe-tables/dct-1020/DCT-1020 - Front View.webp"
     ],
     "colors": []
   },
@@ -4218,9 +4218,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1044 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1021/DCT-1021 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1021/DCT-1021 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1021/DCT-1021 - Front View.png"
+      "assets/products/cafe-tables/dct-1021/DCT-1021 - Front View.webp"
     ],
     "colors": []
   },
@@ -4234,9 +4234,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1045 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1022/DCT-1022 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1022/DCT-1022 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1022/DCT-1022 - Front View.png"
+      "assets/products/cafe-tables/dct-1022/DCT-1022 - Front View.webp"
     ],
     "colors": []
   },
@@ -4250,9 +4250,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1047 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1023/DCT-1023 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1023/DCT-1023 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1023/DCT-1023 - Front View.png"
+      "assets/products/cafe-tables/dct-1023/DCT-1023 - Front View.webp"
     ],
     "colors": []
   },
@@ -4266,9 +4266,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1049 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1024/DCT-1024 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1024/DCT-1024 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1024/DCT-1024 - Front View.png"
+      "assets/products/cafe-tables/dct-1024/DCT-1024 - Front View.webp"
     ],
     "colors": []
   },
@@ -4282,9 +4282,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1050 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1025/DCT-1025 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1025/DCT-1025 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1025/DCT-1025 - Front View.png"
+      "assets/products/cafe-tables/dct-1025/DCT-1025 - Front View.webp"
     ],
     "colors": []
   },
@@ -4298,9 +4298,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1051 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1026/DCT-1026 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1026/DCT-1026 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1026/DCT-1026 - Front View.png"
+      "assets/products/cafe-tables/dct-1026/DCT-1026 - Front View.webp"
     ],
     "colors": []
   },
@@ -4314,9 +4314,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1052 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1027/DCT-1027 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1027/DCT-1027 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1027/DCT-1027 - Front View.png"
+      "assets/products/cafe-tables/dct-1027/DCT-1027 - Front View.webp"
     ],
     "colors": []
   },
@@ -4330,9 +4330,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1053 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1028/DCT-1028 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1028/DCT-1028 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1028/DCT-1028 - Front View.png"
+      "assets/products/cafe-tables/dct-1028/DCT-1028 - Front View.webp"
     ],
     "colors": []
   },
@@ -4346,9 +4346,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1054 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1029/DCT-1029 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1029/DCT-1029 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1029/DCT-1029 - Front View.png"
+      "assets/products/cafe-tables/dct-1029/DCT-1029 - Front View.webp"
     ],
     "colors": []
   },
@@ -4362,9 +4362,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1055 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1030/DCT-1030 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1030/DCT-1030 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1030/DCT-1030 - Front View.png"
+      "assets/products/cafe-tables/dct-1030/DCT-1030 - Front View.webp"
     ],
     "colors": []
   },
@@ -4378,9 +4378,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1056 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1031/DCT-1031 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1031/DCT-1031 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1031/DCT-1031 - Front View.png"
+      "assets/products/cafe-tables/dct-1031/DCT-1031 - Front View.webp"
     ],
     "colors": []
   },
@@ -4394,9 +4394,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dct Series Coffee Table Model 1057 combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/dct-1032/DCT-1032 - Front View.png",
+    "img": "assets/products/cafe-tables/dct-1032/DCT-1032 - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/dct-1032/DCT-1032 - Front View.png"
+      "assets/products/cafe-tables/dct-1032/DCT-1032 - Front View.webp"
     ],
     "colors": []
   },
@@ -4410,9 +4410,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mobile Flip Top Round Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/mobile-flip-top-round-table/Mobile Flip Top Round Table - Front View.png",
+    "img": "assets/products/cafe-tables/mobile-flip-top-round-table/Mobile Flip Top Round Table - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/mobile-flip-top-round-table/Mobile Flip Top Round Table - Front View.png"
+      "assets/products/cafe-tables/mobile-flip-top-round-table/Mobile Flip Top Round Table - Front View.webp"
     ],
     "colors": []
   },
@@ -4426,9 +4426,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mobile Round Folding Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/mobile-round-folding-table/Mobile Round Folding Table - Front View.png",
+    "img": "assets/products/cafe-tables/mobile-round-folding-table/Mobile Round Folding Table - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/mobile-round-folding-table/Mobile Round Folding Table - Front View.png"
+      "assets/products/cafe-tables/mobile-round-folding-table/Mobile Round Folding Table - Front View.webp"
     ],
     "colors": []
   },
@@ -4442,9 +4442,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The White Round Folding Conference Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/white-round-folding-conference-table/white_round_folding_conference_table.png",
+    "img": "assets/products/cafe-tables/white-round-folding-conference-table/white_round_folding_conference_table.webp",
     "images": [
-      "assets/products/cafe-tables/white-round-folding-conference-table/white_round_folding_conference_table.png"
+      "assets/products/cafe-tables/white-round-folding-conference-table/white_round_folding_conference_table.webp"
     ],
     "colors": []
   },
@@ -4458,9 +4458,9 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "DE-GRID is a sturdy pantry table set designed for communal spaces, featuring a durable table with a metal frame construction paired with two matching benches. Its minimal and robust design ensures both functionality and long-lasting use.",
-    "img": "assets/products/cafe-tables/de_grid/De_Grid_01.png",
+    "img": "assets/products/cafe-tables/de_grid/De_Grid_01.webp",
     "images": [
-      "assets/products/cafe-tables/de_grid/De_Grid_01.png"
+      "assets/products/cafe-tables/de_grid/De_Grid_01.webp"
     ],
     "colors": [],
     "tags": [
@@ -4477,9 +4477,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Coffee Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-dark-walnut-coffee-table/Dark Walnut Coffee Table.jpg",
+    "img": "assets/products/center-tables/cat-dark-walnut-coffee-table/Dark Walnut Coffee Table.webp",
     "images": [
-      "assets/products/center-tables/cat-dark-walnut-coffee-table/Dark Walnut Coffee Table.jpg"
+      "assets/products/center-tables/cat-dark-walnut-coffee-table/Dark Walnut Coffee Table.webp"
     ],
     "colors": []
   },
@@ -4493,9 +4493,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Geometric Chrome Nesting Console Tables combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/geometric-chrome-nesting-console-tables/Geometric Chrome Nesting Tables - Front View.png",
+    "img": "assets/products/cafe-tables/geometric-chrome-nesting-console-tables/Geometric Chrome Nesting Tables - Front View.webp",
     "images": [
-      "assets/products/cafe-tables/geometric-chrome-nesting-console-tables/Geometric Chrome Nesting Tables - Front View.png"
+      "assets/products/cafe-tables/geometric-chrome-nesting-console-tables/Geometric Chrome Nesting Tables - Front View.webp"
     ],
     "colors": []
   },
@@ -4509,9 +4509,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Large Cream Lsectional With Coffee Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-large-cream-lsectional-with-coffee-table/large_cream_lsectional_with_coffee_table.png",
+    "img": "assets/products/corner-sofas/cat-large-cream-lsectional-with-coffee-table/large_cream_lsectional_with_coffee_table.webp",
     "images": [
-      "assets/products/corner-sofas/cat-large-cream-lsectional-with-coffee-table/large_cream_lsectional_with_coffee_table.png"
+      "assets/products/corner-sofas/cat-large-cream-lsectional-with-coffee-table/large_cream_lsectional_with_coffee_table.webp"
     ],
     "colors": []
   },
@@ -4523,11 +4523,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.5,
-    "img": "assets/products/center-tables/lmw-035/LMW-035.png",
+    "img": "assets/products/center-tables/lmw-035/LMW-035.webp",
     "badge": "",
     "description": "The LMW-032 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-035/LMW-035.png"
+      "assets/products/center-tables/lmw-035/LMW-035.webp"
     ],
     "colors": [
       "Red"
@@ -4544,11 +4544,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-036/LMW-036.png",
+    "img": "assets/products/center-tables/lmw-036/LMW-036.webp",
     "badge": "",
     "description": "The LMW-033 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-036/LMW-036.png"
+      "assets/products/center-tables/lmw-036/LMW-036.webp"
     ],
     "colors": [
       "Brown"
@@ -4565,11 +4565,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-037/LMW-037.png",
+    "img": "assets/products/center-tables/lmw-037/LMW-037.webp",
     "badge": "New",
     "description": "The LMW-034 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-037/LMW-037.png"
+      "assets/products/center-tables/lmw-037/LMW-037.webp"
     ],
     "colors": [
       "Brown"
@@ -4586,11 +4586,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-038/LMW-038.png",
+    "img": "assets/products/center-tables/lmw-038/LMW-038.webp",
     "badge": "",
     "description": "The LMW-035 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-038/LMW-038.png"
+      "assets/products/center-tables/lmw-038/LMW-038.webp"
     ],
     "colors": [
       "Brown"
@@ -4607,11 +4607,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/center-tables/lmw-039/LMW-039_2.png",
+    "img": "assets/products/center-tables/lmw-039/LMW-039_2.webp",
     "badge": "",
     "description": "The LMW-036 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Grey or Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-039/LMW-039_2.png"
+      "assets/products/center-tables/lmw-039/LMW-039_2.webp"
     ],
     "colors": [
       "Grey",
@@ -4629,11 +4629,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-040/LMW-040.png",
+    "img": "assets/products/center-tables/lmw-040/LMW-040.webp",
     "badge": "Premium",
     "description": "The LMW-037 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-040/LMW-040.png"
+      "assets/products/center-tables/lmw-040/LMW-040.webp"
     ],
     "colors": [
       "Red"
@@ -4650,11 +4650,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.5,
-    "img": "assets/products/center-tables/lmw-041/LMW-041_2.png",
+    "img": "assets/products/center-tables/lmw-041/LMW-041_2.webp",
     "badge": "",
     "description": "The LMW-038 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Grey or Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-041/LMW-041_2.png"
+      "assets/products/center-tables/lmw-041/LMW-041_2.webp"
     ],
     "colors": [
       "Grey",
@@ -4672,11 +4672,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-042/LMW-042.png",
+    "img": "assets/products/center-tables/lmw-042/LMW-042.webp",
     "badge": "",
     "description": "The LMW-039 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-042/LMW-042.png"
+      "assets/products/center-tables/lmw-042/LMW-042.webp"
     ],
     "colors": [
       "Brown"
@@ -4693,11 +4693,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-043/LMW-043.png",
+    "img": "assets/products/center-tables/lmw-043/LMW-043.webp",
     "badge": "",
     "description": "The LMW-040 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-043/LMW-043.png"
+      "assets/products/center-tables/lmw-043/LMW-043.webp"
     ],
     "colors": [
       "Red"
@@ -4714,11 +4714,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-044/LMW-044.png",
+    "img": "assets/products/center-tables/lmw-044/LMW-044.webp",
     "badge": "",
     "description": "The LMW-041 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-044/LMW-044.png"
+      "assets/products/center-tables/lmw-044/LMW-044.webp"
     ],
     "colors": [
       "Red"
@@ -4735,11 +4735,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-045/LMW-045.png",
+    "img": "assets/products/center-tables/lmw-045/LMW-045.webp",
     "badge": "",
     "description": "The LMW-042 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-045/LMW-045.png"
+      "assets/products/center-tables/lmw-045/LMW-045.webp"
     ],
     "colors": [
       "Red"
@@ -4756,11 +4756,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.5,
-    "img": "assets/products/center-tables/lmw-046/LMW-046.png",
+    "img": "assets/products/center-tables/lmw-046/LMW-046.webp",
     "badge": "",
     "description": "The LMW-043 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-046/LMW-046.png"
+      "assets/products/center-tables/lmw-046/LMW-046.webp"
     ],
     "colors": [
       "Brown"
@@ -4777,11 +4777,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-047/LMW-047.png",
+    "img": "assets/products/center-tables/lmw-047/LMW-047.webp",
     "badge": "",
     "description": "The LMW-044 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-047/LMW-047.png"
+      "assets/products/center-tables/lmw-047/LMW-047.webp"
     ],
     "colors": [
       "Brown"
@@ -4798,11 +4798,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-048/LMW-048.png",
+    "img": "assets/products/center-tables/lmw-048/LMW-048.webp",
     "badge": "",
     "description": "The LMW-045 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-048/LMW-048.png"
+      "assets/products/center-tables/lmw-048/LMW-048.webp"
     ],
     "colors": [
       "Red"
@@ -4819,11 +4819,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/center-tables/lmw-049/LMW-049.png",
+    "img": "assets/products/center-tables/lmw-049/LMW-049.webp",
     "badge": "Bestseller",
     "description": "The LMW-046 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-049/LMW-049.png"
+      "assets/products/center-tables/lmw-049/LMW-049.webp"
     ],
     "colors": [
       "Brown"
@@ -4840,11 +4840,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/center-tables/lmw-050/LMW-050.png",
+    "img": "assets/products/center-tables/lmw-050/LMW-050.webp",
     "badge": "",
     "description": "The LMW-047 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-050/LMW-050.png"
+      "assets/products/center-tables/lmw-050/LMW-050.webp"
     ],
     "colors": [
       "Brown"
@@ -4861,11 +4861,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-051/LMW-051.png",
+    "img": "assets/products/center-tables/lmw-051/LMW-051.webp",
     "badge": "Bestseller",
     "description": "The LMW-048 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-051/LMW-051.png"
+      "assets/products/center-tables/lmw-051/LMW-051.webp"
     ],
     "colors": [
       "Brown"
@@ -4882,11 +4882,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-052/LMW-052.png",
+    "img": "assets/products/center-tables/lmw-052/LMW-052.webp",
     "badge": "",
     "description": "The LMW-049 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Red colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-052/LMW-052.png"
+      "assets/products/center-tables/lmw-052/LMW-052.webp"
     ],
     "colors": [
       "Red"
@@ -4903,11 +4903,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/center-tables/lmw-053/LMW-053.png",
+    "img": "assets/products/center-tables/lmw-053/LMW-053.webp",
     "badge": "",
     "description": "The LMW-050 side table is a sleek and functional addition to modern interiors. Crafted with premium wood and displaying a rich natural grain, it offers sturdy construction and versatile surface utility. An ideal accent piece, nightstand, or end table in a refined Brown colorway for your home or executive suite.",
     "images": [
-      "assets/products/center-tables/lmw-053/LMW-053.png"
+      "assets/products/center-tables/lmw-053/LMW-053.webp"
     ],
     "colors": [
       "Brown"
@@ -4926,9 +4926,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aludra Highback Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-aludra-highback-chair/Aludra Highback Chair - Front View.png",
+    "img": "assets/products/chairs/cat-aludra-highback-chair/Aludra Highback Chair - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-aludra-highback-chair/Aludra Highback Chair - Front View.png"
+      "assets/products/chairs/cat-aludra-highback-chair/Aludra Highback Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -4942,9 +4942,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aquila Modern Swivel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-aquila-modern-swivel-chair/Aquila Modern Swivel Chair - Front View.png",
+    "img": "assets/products/chairs/cat-aquila-modern-swivel-chair/Aquila Modern Swivel Chair - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-aquila-modern-swivel-chair/Aquila Modern Swivel Chair - Front View.png"
+      "assets/products/chairs/cat-aquila-modern-swivel-chair/Aquila Modern Swivel Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -4958,9 +4958,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Architectural Walnut Chair With White Backrest combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-architectural-walnut-chair-with-white-backrest/Architectural Walnut Chair with White Backrest.jpg",
+    "img": "assets/products/chairs/cat-architectural-walnut-chair-with-white-backrest/Architectural Walnut Chair with White Backrest.webp",
     "images": [
-      "assets/products/chairs/cat-architectural-walnut-chair-with-white-backrest/Architectural Walnut Chair with White Backrest.jpg"
+      "assets/products/chairs/cat-architectural-walnut-chair-with-white-backrest/Architectural Walnut Chair with White Backrest.webp"
     ],
     "colors": []
   },
@@ -4974,9 +4974,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Architectural Wood Armchair With Cream Leather Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-architectural-wood-armchair-with-cream-leather-seat/Architectural Wood Armchair with Cream Leather Seat.jpg",
+    "img": "assets/products/chairs/cat-architectural-wood-armchair-with-cream-leather-seat/Architectural Wood Armchair with Cream Leather Seat.webp",
     "images": [
-      "assets/products/chairs/cat-architectural-wood-armchair-with-cream-leather-seat/Architectural Wood Armchair with Cream Leather Seat.jpg"
+      "assets/products/chairs/cat-architectural-wood-armchair-with-cream-leather-seat/Architectural Wood Armchair with Cream Leather Seat.webp"
     ],
     "colors": []
   },
@@ -4990,9 +4990,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Architectural Wooden Armchair With Dark Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-architectural-wooden-armchair-with-dark-cushion/Architectural Wooden Armchair with Dark Cushion.jpg",
+    "img": "assets/products/chairs/cat-architectural-wooden-armchair-with-dark-cushion/Architectural Wooden Armchair with Dark Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-architectural-wooden-armchair-with-dark-cushion/Architectural Wooden Armchair with Dark Cushion.jpg"
+      "assets/products/chairs/cat-architectural-wooden-armchair-with-dark-cushion/Architectural Wooden Armchair with Dark Cushion.webp"
     ],
     "colors": []
   },
@@ -5006,9 +5006,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Astrae Ergonomic Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-astrae-ergonomic-chair/Astrae Ergonomic Chair - Front View.png",
+    "img": "assets/products/chairs/cat-astrae-ergonomic-chair/Astrae Ergonomic Chair - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-astrae-ergonomic-chair/Astrae Ergonomic Chair - Front View.png"
+      "assets/products/chairs/cat-astrae-ergonomic-chair/Astrae Ergonomic Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5022,9 +5022,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aura Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-aura-accent-chair/Aura Accent Chair - Front View.png",
+    "img": "assets/products/sofas/cat-aura-accent-chair/Aura Accent Chair - Front View.webp",
     "images": [
-      "assets/products/sofas/cat-aura-accent-chair/Aura Accent Chair - Front View.png"
+      "assets/products/sofas/cat-aura-accent-chair/Aura Accent Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5038,9 +5038,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Auriga Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-auriga-executive-chair/Auriga Executive Chair - Front View.png",
+    "img": "assets/products/recliners/cat-auriga-executive-chair/Auriga Executive Chair - Front View.webp",
     "images": [
-      "assets/products/recliners/cat-auriga-executive-chair/Auriga Executive Chair - Front View.png"
+      "assets/products/recliners/cat-auriga-executive-chair/Auriga Executive Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5054,9 +5054,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bamboo Leather Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-bamboo-leather-armchair/Bamboo Leather Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-bamboo-leather-armchair/Bamboo Leather Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-bamboo-leather-armchair/Bamboo Leather Armchair - Single Seater.png"
+      "assets/products/chairs/cat-bamboo-leather-armchair/Bamboo Leather Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5070,9 +5070,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Boucle Fabric Accent Tub Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-beige-boucle-fabric-accent-tub-chair/Beige Boucle Fabric Accent Tub Chair.jpg",
+    "img": "assets/products/chairs/cat-beige-boucle-fabric-accent-tub-chair/Beige Boucle Fabric Accent Tub Chair.webp",
     "images": [
-      "assets/products/chairs/cat-beige-boucle-fabric-accent-tub-chair/Beige Boucle Fabric Accent Tub Chair.jpg"
+      "assets/products/chairs/cat-beige-boucle-fabric-accent-tub-chair/Beige Boucle Fabric Accent Tub Chair.webp"
     ],
     "colors": []
   },
@@ -5086,9 +5086,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Channeltufted Club Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-beige-channeltufted-club-armchair/beige_channeltufted_club_armchair.png",
+    "img": "assets/products/chairs/cat-beige-channeltufted-club-armchair/beige_channeltufted_club_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-beige-channeltufted-club-armchair/beige_channeltufted_club_armchair.png"
+      "assets/products/chairs/cat-beige-channeltufted-club-armchair/beige_channeltufted_club_armchair.webp"
     ],
     "colors": []
   },
@@ -5102,9 +5102,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Velvet Club Chair Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-beige-velvet-club-chair-comboset/beige_velvet_club_chair_comboset.png",
+    "img": "assets/products/chairs/cat-beige-velvet-club-chair-comboset/beige_velvet_club_chair_comboset.webp",
     "images": [
-      "assets/products/chairs/cat-beige-velvet-club-chair-comboset/beige_velvet_club_chair_comboset.png"
+      "assets/products/chairs/cat-beige-velvet-club-chair-comboset/beige_velvet_club_chair_comboset.webp"
     ],
     "colors": []
   },
@@ -5118,9 +5118,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Blue Patterned Traditional Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-blue-patterned-traditional-armchair/blue_patterned_traditional_armchair.png",
+    "img": "assets/products/chairs/cat-blue-patterned-traditional-armchair/blue_patterned_traditional_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-blue-patterned-traditional-armchair/blue_patterned_traditional_armchair.png"
+      "assets/products/chairs/cat-blue-patterned-traditional-armchair/blue_patterned_traditional_armchair.webp"
     ],
     "colors": []
   },
@@ -5134,9 +5134,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Blue Plaid Upholstered Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-blue-plaid-upholstered-armchair/Blue Plaid Upholstered Armchair.jpg",
+    "img": "assets/products/chairs/cat-blue-plaid-upholstered-armchair/Blue Plaid Upholstered Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-blue-plaid-upholstered-armchair/Blue Plaid Upholstered Armchair.jpg"
+      "assets/products/chairs/cat-blue-plaid-upholstered-armchair/Blue Plaid Upholstered Armchair.webp"
     ],
     "colors": []
   },
@@ -5150,9 +5150,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Botanical Floral Wingback Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-botanical-floral-wingback-armchair/botanical_floral_wingback_armchair.png",
+    "img": "assets/products/chairs/cat-botanical-floral-wingback-armchair/botanical_floral_wingback_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-botanical-floral-wingback-armchair/botanical_floral_wingback_armchair.png"
+      "assets/products/chairs/cat-botanical-floral-wingback-armchair/botanical_floral_wingback_armchair.webp"
     ],
     "colors": []
   },
@@ -5166,9 +5166,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Breeze Linen Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-breeze-linen-armchair/Breeze Linen Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-breeze-linen-armchair/Breeze Linen Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-breeze-linen-armchair/Breeze Linen Armchair - Single Seater.png"
+      "assets/products/chairs/cat-breeze-linen-armchair/Breeze Linen Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5182,9 +5182,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brown Fabric Curved Back Barrel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-brown-fabric-curved-back-barrel-chair/Brown Fabric Curved Back Barrel Chair.jpg",
+    "img": "assets/products/chairs/cat-brown-fabric-curved-back-barrel-chair/Brown Fabric Curved Back Barrel Chair.webp",
     "images": [
-      "assets/products/chairs/cat-brown-fabric-curved-back-barrel-chair/Brown Fabric Curved Back Barrel Chair.jpg"
+      "assets/products/chairs/cat-brown-fabric-curved-back-barrel-chair/Brown Fabric Curved Back Barrel Chair.webp"
     ],
     "colors": []
   },
@@ -5198,9 +5198,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brume Sage Green Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-brume-sage-green-armchair/Brume Sage Green Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-brume-sage-green-armchair/Brume Sage Green Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-brume-sage-green-armchair/Brume Sage Green Armchair - Single Seater.png"
+      "assets/products/chairs/cat-brume-sage-green-armchair/Brume Sage Green Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5214,9 +5214,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Calypso Charcoal Grey Velvet Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/calypso-charcoal-grey-velvet-recliner/calypso-charcoal-grey-velvet-recliner.png",
+    "img": "assets/products/recliners/calypso-charcoal-grey-velvet-recliner/calypso-charcoal-grey-velvet-recliner.webp",
     "images": [
-      "assets/products/recliners/calypso-charcoal-grey-velvet-recliner/calypso-charcoal-grey-velvet-recliner.png"
+      "assets/products/recliners/calypso-charcoal-grey-velvet-recliner/calypso-charcoal-grey-velvet-recliner.webp"
     ],
     "colors": []
   },
@@ -5230,9 +5230,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Carina Modern Reclining Loveseat combines premium comfort, modern styling, and dual manual reclining seats.",
-    "img": "assets/products/recliners/carina-modern-recliner/carina-modern-recliner.png",
+    "img": "assets/products/recliners/carina-modern-recliner/carina-modern-recliner.webp",
     "images": [
-      "assets/products/recliners/carina-modern-recliner/carina-modern-recliner.png"
+      "assets/products/recliners/carina-modern-recliner/carina-modern-recliner.webp"
     ],
     "colors": []
   },
@@ -5246,10 +5246,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cassiopeia Highback Executive Reclining Sofa features high-quality brown leather upholstery, generous padding, and integrated reclining footrests for optimal support.",
-    "img": "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-angle.png",
+    "img": "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-angle.webp",
     "images": [
-      "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-angle.png",
-      "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-front.png"
+      "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-angle.webp",
+      "assets/products/recliners/cassiopeia-highback-executive-recliner/cassiopeia-highback-executive-recliner-front.webp"
     ],
     "colors": []
   },
@@ -5263,10 +5263,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Celene Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-celene-accent-chair/Celene Accent Chair - Angle Perspective.png",
+    "img": "assets/products/chairs/cat-celene-accent-chair/Celene Accent Chair - Angle Perspective.webp",
     "images": [
-      "assets/products/chairs/cat-celene-accent-chair/Celene Accent Chair - Angle Perspective.png",
-      "assets/products/chairs/cat-celene-accent-chair/Celene Accent Chair - Front View.png"
+      "assets/products/chairs/cat-celene-accent-chair/Celene Accent Chair - Angle Perspective.webp",
+      "assets/products/chairs/cat-celene-accent-chair/Celene Accent Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5280,11 +5280,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Centaurus Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Angle Perspective.png",
+    "img": "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Angle Perspective.webp",
     "images": [
-      "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Angle Perspective.png",
-      "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Front View.png",
-      "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Side View.png"
+      "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Angle Perspective.webp",
+      "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Front View.webp",
+      "assets/products/recliners/cat-centaurus-executive-chair/Centaurus Executive Chair - Side View.webp"
     ],
     "colors": []
   },
@@ -5298,9 +5298,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Grey Curved Barrel Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-charcoal-grey-curved-barrel-accent-chair/Charcoal Grey Curved Barrel Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-charcoal-grey-curved-barrel-accent-chair/Charcoal Grey Curved Barrel Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-charcoal-grey-curved-barrel-accent-chair/Charcoal Grey Curved Barrel Accent Chair.jpg"
+      "assets/products/chairs/cat-charcoal-grey-curved-barrel-accent-chair/Charcoal Grey Curved Barrel Accent Chair.webp"
     ],
     "colors": []
   },
@@ -5314,9 +5314,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Grey Fabric Armchair With Tapered Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-charcoal-grey-fabric-armchair-with-tapered-legs/Charcoal Grey Fabric Armchair with Tapered Legs.jpg",
+    "img": "assets/products/chairs/cat-charcoal-grey-fabric-armchair-with-tapered-legs/Charcoal Grey Fabric Armchair with Tapered Legs.webp",
     "images": [
-      "assets/products/chairs/cat-charcoal-grey-fabric-armchair-with-tapered-legs/Charcoal Grey Fabric Armchair with Tapered Legs.jpg"
+      "assets/products/chairs/cat-charcoal-grey-fabric-armchair-with-tapered-legs/Charcoal Grey Fabric Armchair with Tapered Legs.webp"
     ],
     "colors": []
   },
@@ -5330,9 +5330,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cirrus Textured Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cirrus-textured-armchair/Cirrus Textured Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-cirrus-textured-armchair/Cirrus Textured Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-cirrus-textured-armchair/Cirrus Textured Armchair - Single Seater.png"
+      "assets/products/chairs/cat-cirrus-textured-armchair/Cirrus Textured Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5346,9 +5346,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Classic Gama Pvc Office Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/classic-gama-pvc-office-chair/Classic Gama PVC Office Chair - Front View.png",
+    "img": "assets/products/cafe-chairs/classic-gama-pvc-office-chair/Classic Gama PVC Office Chair - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/classic-gama-pvc-office-chair/Classic Gama PVC Office Chair - Front View.png"
+      "assets/products/cafe-chairs/classic-gama-pvc-office-chair/Classic Gama PVC Office Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5362,9 +5362,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Classic Gama Wood Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/classic-gama-wood-executive-chair/Classic Gama Wood Executive Chair - Front View.png",
+    "img": "assets/products/cafe-chairs/classic-gama-wood-executive-chair/Classic Gama Wood Executive Chair - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/classic-gama-wood-executive-chair/Classic Gama Wood Executive Chair - Front View.png"
+      "assets/products/cafe-chairs/classic-gama-wood-executive-chair/Classic Gama Wood Executive Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5378,9 +5378,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Classic Smart Swivel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/classic-smart-swivel-chair/Classic Smart Swivel Chair - Front View.png",
+    "img": "assets/products/cafe-chairs/classic-smart-swivel-chair/Classic Smart Swivel Chair - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/classic-smart-swivel-chair/Classic Smart Swivel Chair - Front View.png"
+      "assets/products/cafe-chairs/classic-smart-swivel-chair/Classic Smart Swivel Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5394,9 +5394,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Classic Zeta Executive Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/classic-zeta-executive-chair/Classic Zeta Executive Chair - Front View.png",
+    "img": "assets/products/cafe-chairs/classic-zeta-executive-chair/Classic Zeta Executive Chair - Front View.webp",
     "images": [
-      "assets/products/cafe-chairs/classic-zeta-executive-chair/Classic Zeta Executive Chair - Front View.png"
+      "assets/products/cafe-chairs/classic-zeta-executive-chair/Classic Zeta Executive Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5410,9 +5410,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Armchair With Wood Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cognac-leather-armchair-with-wood-frame/Cognac Leather Armchair with Wood Frame.jpg",
+    "img": "assets/products/chairs/cat-cognac-leather-armchair-with-wood-frame/Cognac Leather Armchair with Wood Frame.webp",
     "images": [
-      "assets/products/chairs/cat-cognac-leather-armchair-with-wood-frame/Cognac Leather Armchair with Wood Frame.jpg"
+      "assets/products/chairs/cat-cognac-leather-armchair-with-wood-frame/Cognac Leather Armchair with Wood Frame.webp"
     ],
     "colors": []
   },
@@ -5426,9 +5426,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Corsica Cream Velvet Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-corsica-cream-velvet-armchair/Corsica Cream Velvet Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-corsica-cream-velvet-armchair/Corsica Cream Velvet Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-corsica-cream-velvet-armchair/Corsica Cream Velvet Armchair - Single Seater.png"
+      "assets/products/chairs/cat-corsica-cream-velvet-armchair/Corsica Cream Velvet Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5442,9 +5442,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Corvus Office Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-corvus-office-chair/Corvus Office Chair - Front View.png",
+    "img": "assets/products/sofas/cat-corvus-office-chair/Corvus Office Chair - Front View.webp",
     "images": [
-      "assets/products/sofas/cat-corvus-office-chair/Corvus Office Chair - Front View.png"
+      "assets/products/sofas/cat-corvus-office-chair/Corvus Office Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5458,9 +5458,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cosma Modern Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cosma-modern-armchair/Cosma Modern Armchair - Front View.png",
+    "img": "assets/products/chairs/cat-cosma-modern-armchair/Cosma Modern Armchair - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-cosma-modern-armchair/Cosma Modern Armchair - Front View.png"
+      "assets/products/chairs/cat-cosma-modern-armchair/Cosma Modern Armchair - Front View.webp"
     ],
     "colors": []
   },
@@ -5474,9 +5474,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Boucle Rounded Swivel Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-boucle-rounded-swivel-armchair/cream_boucle_rounded_swivel_armchair.png",
+    "img": "assets/products/chairs/cat-cream-boucle-rounded-swivel-armchair/cream_boucle_rounded_swivel_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-cream-boucle-rounded-swivel-armchair/cream_boucle_rounded_swivel_armchair.png"
+      "assets/products/chairs/cat-cream-boucle-rounded-swivel-armchair/cream_boucle_rounded_swivel_armchair.webp"
     ],
     "colors": []
   },
@@ -5490,9 +5490,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Linen Accent Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-linen-accent-armchair/cream_linen_accent_armchair.png",
+    "img": "assets/products/chairs/cat-cream-linen-accent-armchair/cream_linen_accent_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-cream-linen-accent-armchair/cream_linen_accent_armchair.png"
+      "assets/products/chairs/cat-cream-linen-accent-armchair/cream_linen_accent_armchair.webp"
     ],
     "colors": []
   },
@@ -5506,9 +5506,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Linen Armchair And Ottoman Combo combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-linen-armchair-and-ottoman-combo/cream_linen_armchair_and_ottoman_combo.png",
+    "img": "assets/products/chairs/cat-cream-linen-armchair-and-ottoman-combo/cream_linen_armchair_and_ottoman_combo.webp",
     "images": [
-      "assets/products/chairs/cat-cream-linen-armchair-and-ottoman-combo/cream_linen_armchair_and_ottoman_combo.png"
+      "assets/products/chairs/cat-cream-linen-armchair-and-ottoman-combo/cream_linen_armchair_and_ottoman_combo.webp"
     ],
     "colors": []
   },
@@ -5522,9 +5522,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Textured Accent Club Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-textured-accent-club-chair/cream_textured_accent_club_chair.png",
+    "img": "assets/products/chairs/cat-cream-textured-accent-club-chair/cream_textured_accent_club_chair.webp",
     "images": [
-      "assets/products/chairs/cat-cream-textured-accent-club-chair/cream_textured_accent_club_chair.png"
+      "assets/products/chairs/cat-cream-textured-accent-club-chair/cream_textured_accent_club_chair.webp"
     ],
     "colors": []
   },
@@ -5538,9 +5538,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Tufted Swivel Lounge Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-tufted-swivel-lounge-chair/cream_tufted_swivel_lounge_chair.png",
+    "img": "assets/products/chairs/cat-cream-tufted-swivel-lounge-chair/cream_tufted_swivel_lounge_chair.webp",
     "images": [
-      "assets/products/chairs/cat-cream-tufted-swivel-lounge-chair/cream_tufted_swivel_lounge_chair.png"
+      "assets/products/chairs/cat-cream-tufted-swivel-lounge-chair/cream_tufted_swivel_lounge_chair.webp"
     ],
     "colors": []
   },
@@ -5554,9 +5554,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Velvet Tealcushion Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-velvet-tealcushion-accent-chair/cream_velvet_tealcushion_accent_chair.png",
+    "img": "assets/products/chairs/cat-cream-velvet-tealcushion-accent-chair/cream_velvet_tealcushion_accent_chair.webp",
     "images": [
-      "assets/products/chairs/cat-cream-velvet-tealcushion-accent-chair/cream_velvet_tealcushion_accent_chair.png"
+      "assets/products/chairs/cat-cream-velvet-tealcushion-accent-chair/cream_velvet_tealcushion_accent_chair.webp"
     ],
     "colors": []
   },
@@ -5570,9 +5570,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Woven Deep Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cream-woven-deep-armchair/cream_woven_deep_armchair.png",
+    "img": "assets/products/chairs/cat-cream-woven-deep-armchair/cream_woven_deep_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-cream-woven-deep-armchair/cream_woven_deep_armchair.png"
+      "assets/products/chairs/cat-cream-woven-deep-armchair/cream_woven_deep_armchair.webp"
     ],
     "colors": []
   },
@@ -5586,9 +5586,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cressida Executive Swivel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-cressida-executive-swivel-chair/Cressida Executive Swivel Chair - Front View.png",
+    "img": "assets/products/chairs/cat-cressida-executive-swivel-chair/Cressida Executive Swivel Chair - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-cressida-executive-swivel-chair/Cressida Executive Swivel Chair - Front View.png"
+      "assets/products/chairs/cat-cressida-executive-swivel-chair/Cressida Executive Swivel Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5602,9 +5602,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Curved Beige Fabric Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-curved-beige-fabric-accent-chair/Curved Beige Fabric Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-curved-beige-fabric-accent-chair/Curved Beige Fabric Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-curved-beige-fabric-accent-chair/Curved Beige Fabric Accent Chair.jpg"
+      "assets/products/chairs/cat-curved-beige-fabric-accent-chair/Curved Beige Fabric Accent Chair.webp"
     ],
     "colors": []
   },
@@ -5618,9 +5618,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Curved Grey Fabric Swivel Tub Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-curved-grey-fabric-swivel-tub-chair/Curved Grey Fabric Swivel Tub Chair.jpg",
+    "img": "assets/products/chairs/cat-curved-grey-fabric-swivel-tub-chair/Curved Grey Fabric Swivel Tub Chair.webp",
     "images": [
-      "assets/products/chairs/cat-curved-grey-fabric-swivel-tub-chair/Curved Grey Fabric Swivel Tub Chair.jpg"
+      "assets/products/chairs/cat-curved-grey-fabric-swivel-tub-chair/Curved Grey Fabric Swivel Tub Chair.webp"
     ],
     "colors": []
   },
@@ -5634,9 +5634,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Curved Wood Frame Tub Chair With Grey Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-curved-wood-frame-tub-chair-with-grey-cushion/Curved Wood Frame Tub Chair with Grey Cushion.jpg",
+    "img": "assets/products/chairs/cat-curved-wood-frame-tub-chair-with-grey-cushion/Curved Wood Frame Tub Chair with Grey Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-curved-wood-frame-tub-chair-with-grey-cushion/Curved Wood Frame Tub Chair with Grey Cushion.jpg"
+      "assets/products/chairs/cat-curved-wood-frame-tub-chair-with-grey-cushion/Curved Wood Frame Tub Chair with Grey Cushion.webp"
     ],
     "colors": []
   },
@@ -5650,9 +5650,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Brown Sculptural Tub Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-dark-brown-sculptural-tub-chair/Dark Brown Sculptural Tub Chair.jpg",
+    "img": "assets/products/chairs/cat-dark-brown-sculptural-tub-chair/Dark Brown Sculptural Tub Chair.webp",
     "images": [
-      "assets/products/chairs/cat-dark-brown-sculptural-tub-chair/Dark Brown Sculptural Tub Chair.jpg"
+      "assets/products/chairs/cat-dark-brown-sculptural-tub-chair/Dark Brown Sculptural Tub Chair.webp"
     ],
     "colors": []
   },
@@ -5666,9 +5666,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Green Fabric Accent Chair With Wood Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-dark-green-fabric-accent-chair-with-wood-frame/Dark Green Fabric Accent Chair with Wood Frame.jpg",
+    "img": "assets/products/chairs/cat-dark-green-fabric-accent-chair-with-wood-frame/Dark Green Fabric Accent Chair with Wood Frame.webp",
     "images": [
-      "assets/products/chairs/cat-dark-green-fabric-accent-chair-with-wood-frame/Dark Green Fabric Accent Chair with Wood Frame.jpg"
+      "assets/products/chairs/cat-dark-green-fabric-accent-chair-with-wood-frame/Dark Green Fabric Accent Chair with Wood Frame.webp"
     ],
     "colors": []
   },
@@ -5682,9 +5682,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Navy Leather Swivel Barrel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-dark-navy-leather-swivel-barrel-chair/Dark Navy Leather Swivel Barrel Chair.jpg",
+    "img": "assets/products/chairs/cat-dark-navy-leather-swivel-barrel-chair/Dark Navy Leather Swivel Barrel Chair.webp",
     "images": [
-      "assets/products/chairs/cat-dark-navy-leather-swivel-barrel-chair/Dark Navy Leather Swivel Barrel Chair.jpg"
+      "assets/products/chairs/cat-dark-navy-leather-swivel-barrel-chair/Dark Navy Leather Swivel Barrel Chair.webp"
     ],
     "colors": []
   },
@@ -5698,9 +5698,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Wood Frame Armchair With Grey Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-dark-wood-frame-armchair-with-grey-cushion/Dark Wood Frame Armchair with Grey Cushion.jpg",
+    "img": "assets/products/chairs/cat-dark-wood-frame-armchair-with-grey-cushion/Dark Wood Frame Armchair with Grey Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-dark-wood-frame-armchair-with-grey-cushion/Dark Wood Frame Armchair with Grey Cushion.jpg"
+      "assets/products/chairs/cat-dark-wood-frame-armchair-with-grey-cushion/Dark Wood Frame Armchair with Grey Cushion.webp"
     ],
     "colors": []
   },
@@ -5714,9 +5714,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Draco Swivel Executive Recliner combines a premium executive swivel design, heavy-duty cup holders, and plush reclining leather seat support.",
-    "img": "assets/products/recliners/draco-swivel-executive-recliner/draco-swivel-executive-recliner.png",
+    "img": "assets/products/recliners/draco-swivel-executive-recliner/draco-swivel-executive-recliner.webp",
     "images": [
-      "assets/products/recliners/draco-swivel-executive-recliner/draco-swivel-executive-recliner.png"
+      "assets/products/recliners/draco-swivel-executive-recliner/draco-swivel-executive-recliner.webp"
     ],
     "colors": []
   },
@@ -5730,9 +5730,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Drift Textured Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-drift-textured-armchair/Drift Textured Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-drift-textured-armchair/Drift Textured Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-drift-textured-armchair/Drift Textured Armchair - Single Seater.png"
+      "assets/products/chairs/cat-drift-textured-armchair/Drift Textured Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5746,9 +5746,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dusk Boucle Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-dusk-boucle-armchair/Dusk Boucle Armchair - Single Seater.png",
+    "img": "assets/products/chairs/cat-dusk-boucle-armchair/Dusk Boucle Armchair - Single Seater.webp",
     "images": [
-      "assets/products/chairs/cat-dusk-boucle-armchair/Dusk Boucle Armchair - Single Seater.png"
+      "assets/products/chairs/cat-dusk-boucle-armchair/Dusk Boucle Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -5762,9 +5762,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Eos Modern Swivel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-eos-modern-swivel-chair/Eos Modern Swivel Chair - Front View.png",
+    "img": "assets/products/chairs/cat-eos-modern-swivel-chair/Eos Modern Swivel Chair - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-eos-modern-swivel-chair/Eos Modern Swivel Chair - Front View.png"
+      "assets/products/chairs/cat-eos-modern-swivel-chair/Eos Modern Swivel Chair - Front View.webp"
     ],
     "colors": []
   },
@@ -5778,9 +5778,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Gray Linen Boxy Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-gray-linen-boxy-armchair/gray_linen_boxy_armchair.png",
+    "img": "assets/products/chairs/cat-gray-linen-boxy-armchair/gray_linen_boxy_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-gray-linen-boxy-armchair/gray_linen_boxy_armchair.png"
+      "assets/products/chairs/cat-gray-linen-boxy-armchair/gray_linen_boxy_armchair.webp"
     ],
     "colors": []
   },
@@ -5794,9 +5794,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Architectural Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-fabric-architectural-armchair/Grey Fabric Architectural Armchair.jpg",
+    "img": "assets/products/chairs/cat-grey-fabric-architectural-armchair/Grey Fabric Architectural Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-grey-fabric-architectural-armchair/Grey Fabric Architectural Armchair.jpg"
+      "assets/products/chairs/cat-grey-fabric-architectural-armchair/Grey Fabric Architectural Armchair.webp"
     ],
     "colors": []
   },
@@ -5810,9 +5810,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Armchair With Dark Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-fabric-armchair-with-dark-legs/Grey Fabric Armchair with Dark Legs.jpg",
+    "img": "assets/products/chairs/cat-grey-fabric-armchair-with-dark-legs/Grey Fabric Armchair with Dark Legs.webp",
     "images": [
-      "assets/products/chairs/cat-grey-fabric-armchair-with-dark-legs/Grey Fabric Armchair with Dark Legs.jpg"
+      "assets/products/chairs/cat-grey-fabric-armchair-with-dark-legs/Grey Fabric Armchair with Dark Legs.webp"
     ],
     "colors": []
   },
@@ -5826,9 +5826,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Curved Back Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-fabric-curved-back-accent-chair/Grey Fabric Curved Back Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-grey-fabric-curved-back-accent-chair/Grey Fabric Curved Back Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-grey-fabric-curved-back-accent-chair/Grey Fabric Curved Back Accent Chair.jpg"
+      "assets/products/chairs/cat-grey-fabric-curved-back-accent-chair/Grey Fabric Curved Back Accent Chair.webp"
     ],
     "colors": []
   },
@@ -5842,9 +5842,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Swivel Barrel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-fabric-swivel-barrel-chair/Grey Fabric Swivel Barrel Chair - Front Perspective.jpg",
+    "img": "assets/products/chairs/cat-grey-fabric-swivel-barrel-chair/Grey Fabric Swivel Barrel Chair - Front Perspective.webp",
     "images": [
-      "assets/products/chairs/cat-grey-fabric-swivel-barrel-chair/Grey Fabric Swivel Barrel Chair - Front Perspective.jpg"
+      "assets/products/chairs/cat-grey-fabric-swivel-barrel-chair/Grey Fabric Swivel Barrel Chair - Front Perspective.webp"
     ],
     "colors": []
   },
@@ -5858,9 +5858,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Tub Chair With Wooden Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-grey-fabric-tub-chair-with-wooden-legs/Grey Fabric Tub Chair with Wooden Legs.jpg",
+    "img": "assets/products/chairs/cat-grey-fabric-tub-chair-with-wooden-legs/Grey Fabric Tub Chair with Wooden Legs.webp",
     "images": [
-      "assets/products/chairs/cat-grey-fabric-tub-chair-with-wooden-legs/Grey Fabric Tub Chair with Wooden Legs.jpg"
+      "assets/products/chairs/cat-grey-fabric-tub-chair-with-wooden-legs/Grey Fabric Tub Chair with Wooden Legs.webp"
     ],
     "colors": []
   },
@@ -5874,9 +5874,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Heather Gray Boxy Club Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-heather-gray-boxy-club-chair/heather_gray_boxy_club_chair.png",
+    "img": "assets/products/chairs/cat-heather-gray-boxy-club-chair/heather_gray_boxy_club_chair.webp",
     "images": [
-      "assets/products/chairs/cat-heather-gray-boxy-club-chair/heather_gray_boxy_club_chair.png"
+      "assets/products/chairs/cat-heather-gray-boxy-club-chair/heather_gray_boxy_club_chair.webp"
     ],
     "colors": []
   },
@@ -5890,9 +5890,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Industrial Leather Wireframe Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-industrial-leather-wireframe-armchair/industrial_leather_wireframe_armchair.png",
+    "img": "assets/products/chairs/cat-industrial-leather-wireframe-armchair/industrial_leather_wireframe_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-industrial-leather-wireframe-armchair/industrial_leather_wireframe_armchair.png"
+      "assets/products/chairs/cat-industrial-leather-wireframe-armchair/industrial_leather_wireframe_armchair.webp"
     ],
     "colors": []
   },
@@ -5906,9 +5906,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray Chevronpillow Club Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-gray-chevronpillow-club-chair/light_gray_chevronpillow_club_chair.png",
+    "img": "assets/products/chairs/cat-light-gray-chevronpillow-club-chair/light_gray_chevronpillow_club_chair.webp",
     "images": [
-      "assets/products/chairs/cat-light-gray-chevronpillow-club-chair/light_gray_chevronpillow_club_chair.png"
+      "assets/products/chairs/cat-light-gray-chevronpillow-club-chair/light_gray_chevronpillow_club_chair.webp"
     ],
     "colors": []
   },
@@ -5922,9 +5922,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Grey Fabric Swivel Barrel Chair B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-grey-fabric-swivel-barrel-chair-b/Light Grey Fabric Swivel Barrel Chair B.jpg",
+    "img": "assets/products/chairs/cat-light-grey-fabric-swivel-barrel-chair-b/Light Grey Fabric Swivel Barrel Chair B.webp",
     "images": [
-      "assets/products/chairs/cat-light-grey-fabric-swivel-barrel-chair-b/Light Grey Fabric Swivel Barrel Chair B.jpg"
+      "assets/products/chairs/cat-light-grey-fabric-swivel-barrel-chair-b/Light Grey Fabric Swivel Barrel Chair B.webp"
     ],
     "colors": []
   },
@@ -5938,9 +5938,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Armchair With Grey Yellow Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-oak-armchair-with-grey-yellow-cushions/Light Oak Armchair with Grey & Yellow Cushions.jpg",
+    "img": "assets/products/chairs/cat-light-oak-armchair-with-grey-yellow-cushions/Light Oak Armchair with Grey & Yellow Cushions.webp",
     "images": [
-      "assets/products/chairs/cat-light-oak-armchair-with-grey-yellow-cushions/Light Oak Armchair with Grey & Yellow Cushions.jpg"
+      "assets/products/chairs/cat-light-oak-armchair-with-grey-yellow-cushions/Light Oak Armchair with Grey & Yellow Cushions.webp"
     ],
     "colors": []
   },
@@ -5954,9 +5954,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Armchair With Navy Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-oak-armchair-with-navy-cushion/Light Oak Armchair with Navy Cushion.jpg",
+    "img": "assets/products/chairs/cat-light-oak-armchair-with-navy-cushion/Light Oak Armchair with Navy Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-light-oak-armchair-with-navy-cushion/Light Oak Armchair with Navy Cushion.jpg"
+      "assets/products/chairs/cat-light-oak-armchair-with-navy-cushion/Light Oak Armchair with Navy Cushion.webp"
     ],
     "colors": []
   },
@@ -5970,9 +5970,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Armchair With Tan Leather Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-oak-armchair-with-tan-leather-cushion/Light Oak Armchair with Tan Leather Cushion.jpg",
+    "img": "assets/products/chairs/cat-light-oak-armchair-with-tan-leather-cushion/Light Oak Armchair with Tan Leather Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-light-oak-armchair-with-tan-leather-cushion/Light Oak Armchair with Tan Leather Cushion.jpg"
+      "assets/products/chairs/cat-light-oak-armchair-with-tan-leather-cushion/Light Oak Armchair with Tan Leather Cushion.webp"
     ],
     "colors": []
   },
@@ -5986,9 +5986,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Slatted Frame Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-light-oak-slatted-frame-sofa/Light Oak Slatted Frame Sofa - Perspective View.jpg",
+    "img": "assets/products/wooden-couches/cat-light-oak-slatted-frame-sofa/Light Oak Slatted Frame Sofa - Perspective View.webp",
     "images": [
-      "assets/products/wooden-couches/cat-light-oak-slatted-frame-sofa/Light Oak Slatted Frame Sofa - Perspective View.jpg"
+      "assets/products/wooden-couches/cat-light-oak-slatted-frame-sofa/Light Oak Slatted Frame Sofa - Perspective View.webp"
     ],
     "colors": []
   },
@@ -6002,9 +6002,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Wood Armchair With Charcoal Seat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-wood-armchair-with-charcoal-seat/Light Wood Armchair with Charcoal Seat.jpg",
+    "img": "assets/products/chairs/cat-light-wood-armchair-with-charcoal-seat/Light Wood Armchair with Charcoal Seat.webp",
     "images": [
-      "assets/products/chairs/cat-light-wood-armchair-with-charcoal-seat/Light Wood Armchair with Charcoal Seat.jpg"
+      "assets/products/chairs/cat-light-wood-armchair-with-charcoal-seat/Light Wood Armchair with Charcoal Seat.webp"
     ],
     "colors": []
   },
@@ -6018,9 +6018,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Wood Lounge Armchair With Grey Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-light-wood-lounge-armchair-with-grey-cushions/Light Wood Lounge Armchair with Grey Cushions.jpg",
+    "img": "assets/products/chairs/cat-light-wood-lounge-armchair-with-grey-cushions/Light Wood Lounge Armchair with Grey Cushions.webp",
     "images": [
-      "assets/products/chairs/cat-light-wood-lounge-armchair-with-grey-cushions/Light Wood Lounge Armchair with Grey Cushions.jpg"
+      "assets/products/chairs/cat-light-wood-lounge-armchair-with-grey-cushions/Light Wood Lounge Armchair with Grey Cushions.webp"
     ],
     "colors": []
   },
@@ -6034,9 +6034,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Marbled Blue Damask Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-marbled-blue-damask-armchair/marbled_blue_damask_armchair.png",
+    "img": "assets/products/chairs/cat-marbled-blue-damask-armchair/marbled_blue_damask_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-marbled-blue-damask-armchair/marbled_blue_damask_armchair.png"
+      "assets/products/chairs/cat-marbled-blue-damask-armchair/marbled_blue_damask_armchair.webp"
     ],
     "colors": []
   },
@@ -6050,9 +6050,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Armchair With Sage Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mid-century-teak-armchair-with-sage-cushions/Mid-Century Teak Armchair with Sage Cushions.jpg",
+    "img": "assets/products/chairs/cat-mid-century-teak-armchair-with-sage-cushions/Mid-Century Teak Armchair with Sage Cushions.webp",
     "images": [
-      "assets/products/chairs/cat-mid-century-teak-armchair-with-sage-cushions/Mid-Century Teak Armchair with Sage Cushions.jpg"
+      "assets/products/chairs/cat-mid-century-teak-armchair-with-sage-cushions/Mid-Century Teak Armchair with Sage Cushions.webp"
     ],
     "colors": []
   },
@@ -6066,9 +6066,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Minimalist Wood Slatted Frame Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-minimalist-wood-slatted-frame-sofa/Minimalist Wood Slatted Frame Sofa.jpg",
+    "img": "assets/products/wooden-couches/cat-minimalist-wood-slatted-frame-sofa/Minimalist Wood Slatted Frame Sofa.webp",
     "images": [
-      "assets/products/wooden-couches/cat-minimalist-wood-slatted-frame-sofa/Minimalist Wood Slatted Frame Sofa.jpg"
+      "assets/products/wooden-couches/cat-minimalist-wood-slatted-frame-sofa/Minimalist Wood Slatted Frame Sofa.webp"
     ],
     "colors": []
   },
@@ -6082,9 +6082,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Architectural Walnut Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-modern-architectural-walnut-armchair/Modern Architectural Walnut Armchair.jpg",
+    "img": "assets/products/chairs/cat-modern-architectural-walnut-armchair/Modern Architectural Walnut Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-modern-architectural-walnut-armchair/Modern Architectural Walnut Armchair.jpg"
+      "assets/products/chairs/cat-modern-architectural-walnut-armchair/Modern Architectural Walnut Armchair.webp"
     ],
     "colors": []
   },
@@ -6098,9 +6098,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Grey Armchair With Dark Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-modern-grey-armchair-with-dark-frame/Modern Grey Armchair with Dark Frame.jpg",
+    "img": "assets/products/chairs/cat-modern-grey-armchair-with-dark-frame/Modern Grey Armchair with Dark Frame.webp",
     "images": [
-      "assets/products/chairs/cat-modern-grey-armchair-with-dark-frame/Modern Grey Armchair with Dark Frame.jpg"
+      "assets/products/chairs/cat-modern-grey-armchair-with-dark-frame/Modern Grey Armchair with Dark Frame.webp"
     ],
     "colors": []
   },
@@ -6114,11 +6114,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Office Training Folding Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Angle Perspective.png",
+    "img": "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Angle Perspective.webp",
     "images": [
-      "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Angle Perspective.png",
-      "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Front View.png",
-      "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Side View.png"
+      "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Angle Perspective.webp",
+      "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Front View.webp",
+      "assets/products/chairs/cat-modern-office-training-folding-chair/Office Training Chair - Side View.webp"
     ],
     "colors": []
   },
@@ -6132,9 +6132,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mustard Yellow Fabric Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-mustard-yellow-fabric-accent-chair/Mustard Yellow Fabric Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-mustard-yellow-fabric-accent-chair/Mustard Yellow Fabric Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-mustard-yellow-fabric-accent-chair/Mustard Yellow Fabric Accent Chair.jpg"
+      "assets/products/chairs/cat-mustard-yellow-fabric-accent-chair/Mustard Yellow Fabric Accent Chair.webp"
     ],
     "colors": []
   },
@@ -6148,9 +6148,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mustard Yellow Perforated Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-chairs/mustard-yellow-perforated-accent-chair/mustard_yellow_perforated_accent_chair.png",
+    "img": "assets/products/cafe-chairs/mustard-yellow-perforated-accent-chair/mustard_yellow_perforated_accent_chair.webp",
     "images": [
-      "assets/products/cafe-chairs/mustard-yellow-perforated-accent-chair/mustard_yellow_perforated_accent_chair.png"
+      "assets/products/cafe-chairs/mustard-yellow-perforated-accent-chair/mustard_yellow_perforated_accent_chair.webp"
     ],
     "colors": []
   },
@@ -6164,9 +6164,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nailhead Offwhite Linen Club Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-nailhead-offwhite-linen-club-chair/nailhead_offwhite_linen_club_chair.png",
+    "img": "assets/products/chairs/cat-nailhead-offwhite-linen-club-chair/nailhead_offwhite_linen_club_chair.webp",
     "images": [
-      "assets/products/chairs/cat-nailhead-offwhite-linen-club-chair/nailhead_offwhite_linen_club_chair.png"
+      "assets/products/chairs/cat-nailhead-offwhite-linen-club-chair/nailhead_offwhite_linen_club_chair.webp"
     ],
     "colors": []
   },
@@ -6180,9 +6180,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Crimsonpad Ladderback Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-oak-crimsonpad-ladderback-chair/oak_crimsonpad_ladderback_chair.png",
+    "img": "assets/products/chairs/cat-oak-crimsonpad-ladderback-chair/oak_crimsonpad_ladderback_chair.webp",
     "images": [
-      "assets/products/chairs/cat-oak-crimsonpad-ladderback-chair/oak_crimsonpad_ladderback_chair.png"
+      "assets/products/chairs/cat-oak-crimsonpad-ladderback-chair/oak_crimsonpad_ladderback_chair.webp"
     ],
     "colors": []
   },
@@ -6196,9 +6196,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Offwhite Boucle Tub Chair And Ottoman combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-offwhite-boucle-tub-chair-and-ottoman/offwhite_boucle_tub_chair_and_ottoman.png",
+    "img": "assets/products/chairs/cat-offwhite-boucle-tub-chair-and-ottoman/offwhite_boucle_tub_chair_and_ottoman.webp",
     "images": [
-      "assets/products/chairs/cat-offwhite-boucle-tub-chair-and-ottoman/offwhite_boucle_tub_chair_and_ottoman.png"
+      "assets/products/chairs/cat-offwhite-boucle-tub-chair-and-ottoman/offwhite_boucle_tub_chair_and_ottoman.webp"
     ],
     "colors": []
   },
@@ -6212,9 +6212,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Olive Green Leather Swivel Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-olive-green-leather-swivel-armchair/Olive Green Leather Swivel Armchair.jpg",
+    "img": "assets/products/chairs/cat-olive-green-leather-swivel-armchair/Olive Green Leather Swivel Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-olive-green-leather-swivel-armchair/Olive Green Leather Swivel Armchair.jpg"
+      "assets/products/chairs/cat-olive-green-leather-swivel-armchair/Olive Green Leather Swivel Armchair.webp"
     ],
     "colors": []
   },
@@ -6228,9 +6228,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pair Of Grey Fabric Accent Chairs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pair-of-grey-fabric-accent-chairs/Pair of Grey Fabric Accent Chairs.jpg",
+    "img": "assets/products/chairs/cat-pair-of-grey-fabric-accent-chairs/Pair of Grey Fabric Accent Chairs.webp",
     "images": [
-      "assets/products/chairs/cat-pair-of-grey-fabric-accent-chairs/Pair of Grey Fabric Accent Chairs.jpg"
+      "assets/products/chairs/cat-pair-of-grey-fabric-accent-chairs/Pair of Grey Fabric Accent Chairs.webp"
     ],
     "colors": []
   },
@@ -6244,9 +6244,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pair Of Teak Armchairs With Teal And Cognac Leather combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pair-of-teak-armchairs-with-teal-and-cognac-leather/Pair of Teak Armchairs with Teal and Cognac Leather.jpg",
+    "img": "assets/products/chairs/cat-pair-of-teak-armchairs-with-teal-and-cognac-leather/Pair of Teak Armchairs with Teal and Cognac Leather.webp",
     "images": [
-      "assets/products/chairs/cat-pair-of-teak-armchairs-with-teal-and-cognac-leather/Pair of Teak Armchairs with Teal and Cognac Leather.jpg"
+      "assets/products/chairs/cat-pair-of-teak-armchairs-with-teal-and-cognac-leather/Pair of Teak Armchairs with Teal and Cognac Leather.webp"
     ],
     "colors": []
   },
@@ -6260,9 +6260,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Paisley Pattern Velvet Brass Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-paisley-pattern-velvet-brass-armchair/paisley_pattern_velvet_brass_armchair.png",
+    "img": "assets/products/chairs/cat-paisley-pattern-velvet-brass-armchair/paisley_pattern_velvet_brass_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-paisley-pattern-velvet-brass-armchair/paisley_pattern_velvet_brass_armchair.png"
+      "assets/products/chairs/cat-paisley-pattern-velvet-brass-armchair/paisley_pattern_velvet_brass_armchair.webp"
     ],
     "colors": []
   },
@@ -6276,9 +6276,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pinstripe Fabric Wingback Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-pinstripe-fabric-wingback-armchair/Pinstripe Fabric Wingback Armchair.jpg",
+    "img": "assets/products/chairs/cat-pinstripe-fabric-wingback-armchair/Pinstripe Fabric Wingback Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-pinstripe-fabric-wingback-armchair/Pinstripe Fabric Wingback Armchair.jpg"
+      "assets/products/chairs/cat-pinstripe-fabric-wingback-armchair/Pinstripe Fabric Wingback Armchair.webp"
     ],
     "colors": []
   },
@@ -6292,9 +6292,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Popart Print Wingback Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-popart-print-wingback-armchair/popart_print_wingback_armchair.png",
+    "img": "assets/products/chairs/cat-popart-print-wingback-armchair/popart_print_wingback_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-popart-print-wingback-armchair/popart_print_wingback_armchair.png"
+      "assets/products/chairs/cat-popart-print-wingback-armchair/popart_print_wingback_armchair.webp"
     ],
     "colors": []
   },
@@ -6308,9 +6308,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Purple Velvet Accent Tub Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-purple-velvet-accent-tub-chair/Purple Velvet Accent Tub Chair.jpg",
+    "img": "assets/products/chairs/cat-purple-velvet-accent-tub-chair/Purple Velvet Accent Tub Chair.webp",
     "images": [
-      "assets/products/chairs/cat-purple-velvet-accent-tub-chair/Purple Velvet Accent Tub Chair.jpg"
+      "assets/products/chairs/cat-purple-velvet-accent-tub-chair/Purple Velvet Accent Tub Chair.webp"
     ],
     "colors": []
   },
@@ -6324,11 +6324,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Repute Executive Office Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Angle Perspective.png",
-      "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Front View.png",
-      "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Side View.png"
+      "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Front View.webp",
+      "assets/products/office-workstations/cat-repute-executive-office-chair/Repute Executive Office Chair - Side View.webp"
     ],
     "colors": []
   },
@@ -6342,9 +6342,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Round Grey Fabric Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-round-grey-fabric-accent-chair/Round Grey Fabric Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-round-grey-fabric-accent-chair/Round Grey Fabric Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-round-grey-fabric-accent-chair/Round Grey Fabric Accent Chair.jpg"
+      "assets/products/chairs/cat-round-grey-fabric-accent-chair/Round Grey Fabric Accent Chair.webp"
     ],
     "colors": []
   },
@@ -6358,9 +6358,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Royal Purple Velvet Barrel Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-royal-purple-velvet-barrel-chair/royal_purple_velvet_barrel_chair.png",
+    "img": "assets/products/chairs/cat-royal-purple-velvet-barrel-chair/royal_purple_velvet_barrel_chair.webp",
     "images": [
-      "assets/products/chairs/cat-royal-purple-velvet-barrel-chair/royal_purple_velvet_barrel_chair.png"
+      "assets/products/chairs/cat-royal-purple-velvet-barrel-chair/royal_purple_velvet_barrel_chair.webp"
     ],
     "colors": []
   },
@@ -6374,9 +6374,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Saddle Brown Highback Wingback Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-saddle-brown-highback-wingback-armchair/saddle_brown_highback_wingback_armchair.png",
+    "img": "assets/products/chairs/cat-saddle-brown-highback-wingback-armchair/saddle_brown_highback_wingback_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-saddle-brown-highback-wingback-armchair/saddle_brown_highback_wingback_armchair.png"
+      "assets/products/chairs/cat-saddle-brown-highback-wingback-armchair/saddle_brown_highback_wingback_armchair.webp"
     ],
     "colors": []
   },
@@ -6390,9 +6390,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scalloped Velvet Barrel Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-scalloped-velvet-barrel-accent-chair/Scalloped Velvet Barrel Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-scalloped-velvet-barrel-accent-chair/Scalloped Velvet Barrel Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-scalloped-velvet-barrel-accent-chair/Scalloped Velvet Barrel Accent Chair.jpg"
+      "assets/products/chairs/cat-scalloped-velvet-barrel-accent-chair/Scalloped Velvet Barrel Accent Chair.webp"
     ],
     "colors": []
   },
@@ -6406,9 +6406,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Dining Room Table And Chair Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-scandinavian-dining-room-table-and-chair-set/Scandinavian Dining Room Table and Chair Set.jpg",
+    "img": "assets/products/chairs/cat-scandinavian-dining-room-table-and-chair-set/Scandinavian Dining Room Table and Chair Set.webp",
     "images": [
-      "assets/products/chairs/cat-scandinavian-dining-room-table-and-chair-set/Scandinavian Dining Room Table and Chair Set.jpg"
+      "assets/products/chairs/cat-scandinavian-dining-room-table-and-chair-set/Scandinavian Dining Room Table and Chair Set.webp"
     ],
     "colors": []
   },
@@ -6422,9 +6422,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Seafoam Green Plush Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-seafoam-green-plush-armchair/seafoam_green_plush_armchair.png",
+    "img": "assets/products/chairs/cat-seafoam-green-plush-armchair/seafoam_green_plush_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-seafoam-green-plush-armchair/seafoam_green_plush_armchair.png"
+      "assets/products/chairs/cat-seafoam-green-plush-armchair/seafoam_green_plush_armchair.webp"
     ],
     "colors": []
   },
@@ -6438,9 +6438,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Nailhead Sofa And Chair Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tan-nailhead-sofa-and-chair-set/tan_nailhead_sofa_and_chair_set.png",
+    "img": "assets/products/sofas/cat-tan-nailhead-sofa-and-chair-set/tan_nailhead_sofa_and_chair_set.webp",
     "images": [
-      "assets/products/sofas/cat-tan-nailhead-sofa-and-chair-set/tan_nailhead_sofa_and_chair_set.png"
+      "assets/products/sofas/cat-tan-nailhead-sofa-and-chair-set/tan_nailhead_sofa_and_chair_set.webp"
     ],
     "colors": []
   },
@@ -6454,9 +6454,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tartan Plaid Upholstered Armchairs Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-tartan-plaid-upholstered-armchairs-set/Tartan Plaid Upholstered Armchairs Set.jpg",
+    "img": "assets/products/chairs/cat-tartan-plaid-upholstered-armchairs-set/Tartan Plaid Upholstered Armchairs Set.webp",
     "images": [
-      "assets/products/chairs/cat-tartan-plaid-upholstered-armchairs-set/Tartan Plaid Upholstered Armchairs Set.jpg"
+      "assets/products/chairs/cat-tartan-plaid-upholstered-armchairs-set/Tartan Plaid Upholstered Armchairs Set.webp"
     ],
     "colors": []
   },
@@ -6470,9 +6470,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Armchair With Terracotta Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teak-armchair-with-terracotta-cushion/Teak Armchair with Terracotta Cushion.jpg",
+    "img": "assets/products/chairs/cat-teak-armchair-with-terracotta-cushion/Teak Armchair with Terracotta Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-teak-armchair-with-terracotta-cushion/Teak Armchair with Terracotta Cushion.jpg"
+      "assets/products/chairs/cat-teak-armchair-with-terracotta-cushion/Teak Armchair with Terracotta Cushion.webp"
     ],
     "colors": []
   },
@@ -6486,9 +6486,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Living Room Sofa Armchair Suite Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.jpg",
+    "img": "assets/products/sofas/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.webp",
     "images": [
-      "assets/products/sofas/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.jpg"
+      "assets/products/sofas/cat-teak-living-room-sofa-armchair-suite-set/Teak Living Room Sofa & Armchair Suite Set.webp"
     ],
     "colors": []
   },
@@ -6502,9 +6502,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teal Blue Round Swivel Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-teal-blue-round-swivel-accent-chair/Teal Blue Round Swivel Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-teal-blue-round-swivel-accent-chair/Teal Blue Round Swivel Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-teal-blue-round-swivel-accent-chair/Teal Blue Round Swivel Accent Chair.jpg"
+      "assets/products/chairs/cat-teal-blue-round-swivel-accent-chair/Teal Blue Round Swivel Accent Chair.webp"
     ],
     "colors": []
   },
@@ -6518,9 +6518,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Terracotta Cylinder Tub Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-terracotta-cylinder-tub-armchair/Terracotta Cylinder Tub Armchair.jpg",
+    "img": "assets/products/chairs/cat-terracotta-cylinder-tub-armchair/Terracotta Cylinder Tub Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-terracotta-cylinder-tub-armchair/Terracotta Cylinder Tub Armchair.jpg"
+      "assets/products/chairs/cat-terracotta-cylinder-tub-armchair/Terracotta Cylinder Tub Armchair.webp"
     ],
     "colors": []
   },
@@ -6534,9 +6534,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Terracotta Leather Low Profile Accent Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-terracotta-leather-low-profile-accent-chair/Terracotta Leather Low Profile Accent Chair.jpg",
+    "img": "assets/products/chairs/cat-terracotta-leather-low-profile-accent-chair/Terracotta Leather Low Profile Accent Chair.webp",
     "images": [
-      "assets/products/chairs/cat-terracotta-leather-low-profile-accent-chair/Terracotta Leather Low Profile Accent Chair.jpg"
+      "assets/products/chairs/cat-terracotta-leather-low-profile-accent-chair/Terracotta Leather Low Profile Accent Chair.webp"
     ],
     "colors": []
   },
@@ -6550,9 +6550,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Terracotta Sculptural Velvet Tub Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-terracotta-sculptural-velvet-tub-armchair/Terracotta Sculptural Velvet Tub Armchair.jpg",
+    "img": "assets/products/chairs/cat-terracotta-sculptural-velvet-tub-armchair/Terracotta Sculptural Velvet Tub Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-terracotta-sculptural-velvet-tub-armchair/Terracotta Sculptural Velvet Tub Armchair.jpg"
+      "assets/products/chairs/cat-terracotta-sculptural-velvet-tub-armchair/Terracotta Sculptural Velvet Tub Armchair.webp"
     ],
     "colors": []
   },
@@ -6566,9 +6566,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Terracotta Two Tone Round Tub Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-terracotta-two-tone-round-tub-chair/Terracotta Two-Tone Round Tub Chair.jpg",
+    "img": "assets/products/chairs/cat-terracotta-two-tone-round-tub-chair/Terracotta Two-Tone Round Tub Chair.webp",
     "images": [
-      "assets/products/chairs/cat-terracotta-two-tone-round-tub-chair/Terracotta Two-Tone Round Tub Chair.jpg"
+      "assets/products/chairs/cat-terracotta-two-tone-round-tub-chair/Terracotta Two-Tone Round Tub Chair.webp"
     ],
     "colors": []
   },
@@ -6582,9 +6582,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Textured Boucle Tub Chair With Wooden Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-textured-boucle-tub-chair-with-wooden-frame/Textured Boucle Tub Chair with Wooden Frame.jpg",
+    "img": "assets/products/chairs/cat-textured-boucle-tub-chair-with-wooden-frame/Textured Boucle Tub Chair with Wooden Frame.webp",
     "images": [
-      "assets/products/chairs/cat-textured-boucle-tub-chair-with-wooden-frame/Textured Boucle Tub Chair with Wooden Frame.jpg"
+      "assets/products/chairs/cat-textured-boucle-tub-chair-with-wooden-frame/Textured Boucle Tub Chair with Wooden Frame.webp"
     ],
     "colors": []
   },
@@ -6598,9 +6598,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tufted Light Blue Wingback Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-tufted-light-blue-wingback-armchair/Tufted Light Blue Wingback Armchair.jpg",
+    "img": "assets/products/chairs/cat-tufted-light-blue-wingback-armchair/Tufted Light Blue Wingback Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-tufted-light-blue-wingback-armchair/Tufted Light Blue Wingback Armchair.jpg"
+      "assets/products/chairs/cat-tufted-light-blue-wingback-armchair/Tufted Light Blue Wingback Armchair.webp"
     ],
     "colors": []
   },
@@ -6614,9 +6614,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Velvet Sage Gray Plush Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-velvet-sage-gray-plush-armchair/velvet_sage_gray_plush_armchair.png",
+    "img": "assets/products/chairs/cat-velvet-sage-gray-plush-armchair/velvet_sage_gray_plush_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-velvet-sage-gray-plush-armchair/velvet_sage_gray_plush_armchair.png"
+      "assets/products/chairs/cat-velvet-sage-gray-plush-armchair/velvet_sage_gray_plush_armchair.webp"
     ],
     "colors": []
   },
@@ -6630,9 +6630,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Vintage Floral Pattern Upholstered Club Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-vintage-floral-pattern-upholstered-club-armchair/Vintage Floral Pattern Upholstered Club Armchair.jpg",
+    "img": "assets/products/chairs/cat-vintage-floral-pattern-upholstered-club-armchair/Vintage Floral Pattern Upholstered Club Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-vintage-floral-pattern-upholstered-club-armchair/Vintage Floral Pattern Upholstered Club Armchair.jpg"
+      "assets/products/chairs/cat-vintage-floral-pattern-upholstered-club-armchair/Vintage Floral Pattern Upholstered Club Armchair.webp"
     ],
     "colors": []
   },
@@ -6646,9 +6646,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Armchair With Brown Leather Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-walnut-armchair-with-brown-leather-cushion/Walnut Armchair with Brown Leather Cushion.jpg",
+    "img": "assets/products/chairs/cat-walnut-armchair-with-brown-leather-cushion/Walnut Armchair with Brown Leather Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-walnut-armchair-with-brown-leather-cushion/Walnut Armchair with Brown Leather Cushion.jpg"
+      "assets/products/chairs/cat-walnut-armchair-with-brown-leather-cushion/Walnut Armchair with Brown Leather Cushion.webp"
     ],
     "colors": []
   },
@@ -6662,9 +6662,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Armchair With Grey Cushion B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-walnut-armchair-with-grey-cushion-b/Walnut Armchair with Grey Cushion B.jpg",
+    "img": "assets/products/chairs/cat-walnut-armchair-with-grey-cushion-b/Walnut Armchair with Grey Cushion B.webp",
     "images": [
-      "assets/products/chairs/cat-walnut-armchair-with-grey-cushion-b/Walnut Armchair with Grey Cushion B.jpg"
+      "assets/products/chairs/cat-walnut-armchair-with-grey-cushion-b/Walnut Armchair with Grey Cushion B.webp"
     ],
     "colors": []
   },
@@ -6678,9 +6678,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Dining Table Set With 4 Chairs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-walnut-dining-table-set-with-4-chairs/Walnut Dining Table Set with 4 Chairs.jpg",
+    "img": "assets/products/dining-tables/cat-walnut-dining-table-set-with-4-chairs/Walnut Dining Table Set with 4 Chairs.webp",
     "images": [
-      "assets/products/dining-tables/cat-walnut-dining-table-set-with-4-chairs/Walnut Dining Table Set with 4 Chairs.jpg"
+      "assets/products/dining-tables/cat-walnut-dining-table-set-with-4-chairs/Walnut Dining Table Set with 4 Chairs.webp"
     ],
     "colors": []
   },
@@ -6694,9 +6694,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Frame Armchair With Beige Cushion combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-walnut-frame-armchair-with-beige-cushion/Walnut Frame Armchair with Beige Cushion.jpg",
+    "img": "assets/products/chairs/cat-walnut-frame-armchair-with-beige-cushion/Walnut Frame Armchair with Beige Cushion.webp",
     "images": [
-      "assets/products/chairs/cat-walnut-frame-armchair-with-beige-cushion/Walnut Frame Armchair with Beige Cushion.jpg"
+      "assets/products/chairs/cat-walnut-frame-armchair-with-beige-cushion/Walnut Frame Armchair with Beige Cushion.webp"
     ],
     "colors": []
   },
@@ -6710,9 +6710,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Frame Lounge Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-walnut-frame-lounge-armchair/Walnut Frame Lounge Armchair.jpg",
+    "img": "assets/products/chairs/cat-walnut-frame-lounge-armchair/Walnut Frame Lounge Armchair.webp",
     "images": [
-      "assets/products/chairs/cat-walnut-frame-lounge-armchair/Walnut Frame Lounge Armchair.jpg"
+      "assets/products/chairs/cat-walnut-frame-lounge-armchair/Walnut Frame Lounge Armchair.webp"
     ],
     "colors": []
   },
@@ -6726,9 +6726,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Warm Tan Tropicalpillow Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-warm-tan-tropicalpillow-armchair/warm_tan_tropicalpillow_armchair.png",
+    "img": "assets/products/chairs/cat-warm-tan-tropicalpillow-armchair/warm_tan_tropicalpillow_armchair.webp",
     "images": [
-      "assets/products/chairs/cat-warm-tan-tropicalpillow-armchair/warm_tan_tropicalpillow_armchair.png"
+      "assets/products/chairs/cat-warm-tan-tropicalpillow-armchair/warm_tan_tropicalpillow_armchair.webp"
     ],
     "colors": []
   },
@@ -6742,9 +6742,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Yellow Fabric Tub Armchair With Wooden Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-yellow-fabric-tub-armchair-with-wooden-legs/Yellow Fabric Tub Armchair with Wooden Legs.jpg",
+    "img": "assets/products/chairs/cat-yellow-fabric-tub-armchair-with-wooden-legs/Yellow Fabric Tub Armchair with Wooden Legs.webp",
     "images": [
-      "assets/products/chairs/cat-yellow-fabric-tub-armchair-with-wooden-legs/Yellow Fabric Tub Armchair with Wooden Legs.jpg"
+      "assets/products/chairs/cat-yellow-fabric-tub-armchair-with-wooden-legs/Yellow Fabric Tub Armchair with Wooden Legs.webp"
     ],
     "colors": []
   },
@@ -6756,11 +6756,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/chairs/lmw-001/LMW-001.png",
+    "img": "assets/products/chairs/lmw-001/LMW-001.webp",
     "badge": "",
     "description": "The LMW-001 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-001/LMW-001.png"
+      "assets/products/chairs/lmw-001/LMW-001.webp"
     ],
     "colors": [
       "Red"
@@ -6774,11 +6774,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-002/LMW-002_2.png",
+    "img": "assets/products/chairs/lmw-002/LMW-002_2.webp",
     "badge": "",
     "description": "The LMW-073 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Grey or Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-002/LMW-002_2.png"
+      "assets/products/chairs/lmw-002/LMW-002_2.webp"
     ],
     "colors": [
       "Grey",
@@ -6793,11 +6793,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-003/LMW-003.png",
+    "img": "assets/products/chairs/lmw-003/LMW-003.webp",
     "badge": "",
     "description": "The LMW-002 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-003/LMW-003.png"
+      "assets/products/chairs/lmw-003/LMW-003.webp"
     ],
     "colors": [
       "Brown"
@@ -6811,11 +6811,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-004/LMW-004.png",
+    "img": "assets/products/chairs/lmw-004/LMW-004.webp",
     "badge": "",
     "description": "The LMW-003 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-004/LMW-004.png"
+      "assets/products/chairs/lmw-004/LMW-004.webp"
     ],
     "colors": [
       "Red"
@@ -6829,11 +6829,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-005/LMW-005.png",
+    "img": "assets/products/chairs/lmw-005/LMW-005.webp",
     "badge": "",
     "description": "The LMW-004 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-005/LMW-005.png"
+      "assets/products/chairs/lmw-005/LMW-005.webp"
     ],
     "colors": [
       "Red"
@@ -6847,11 +6847,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-006/LMW-006.png",
+    "img": "assets/products/chairs/lmw-006/LMW-006.webp",
     "badge": "",
     "description": "The LMW-005 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-006/LMW-006.png"
+      "assets/products/chairs/lmw-006/LMW-006.webp"
     ],
     "colors": [
       "Brown"
@@ -6865,11 +6865,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-007/LMW-007.png",
+    "img": "assets/products/chairs/lmw-007/LMW-007.webp",
     "badge": "",
     "description": "The LMW-006 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-007/LMW-007.png"
+      "assets/products/chairs/lmw-007/LMW-007.webp"
     ],
     "colors": [
       "Red"
@@ -6883,11 +6883,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-008/LMW-008.png",
+    "img": "assets/products/chairs/lmw-008/LMW-008.webp",
     "badge": "New",
     "description": "A perfect blend of comfort and style. The LMW-007 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-008/LMW-008.png"
+      "assets/products/chairs/lmw-008/LMW-008.webp"
     ],
     "colors": [
       "Red"
@@ -6901,11 +6901,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-009/LMW-009.png",
+    "img": "assets/products/chairs/lmw-009/LMW-009.webp",
     "badge": "",
     "description": "The LMW-008 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-009/LMW-009.png"
+      "assets/products/chairs/lmw-009/LMW-009.webp"
     ],
     "colors": [
       "Red"
@@ -6919,11 +6919,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-010/LMW-010.png",
+    "img": "assets/products/chairs/lmw-010/LMW-010.webp",
     "badge": "Bestseller",
     "description": "The LMW-009 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Yellow tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-010/LMW-010.png"
+      "assets/products/chairs/lmw-010/LMW-010.webp"
     ],
     "colors": [
       "Yellow"
@@ -6937,11 +6937,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-011/LMW-011.png",
+    "img": "assets/products/chairs/lmw-011/LMW-011.webp",
     "badge": "",
     "description": "The LMW-010 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-011/LMW-011.png"
+      "assets/products/chairs/lmw-011/LMW-011.webp"
     ],
     "colors": [
       "Red"
@@ -6955,11 +6955,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-012/LMW-012.png",
+    "img": "assets/products/chairs/lmw-012/LMW-012.webp",
     "badge": "",
     "description": "The LMW-011 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-012/LMW-012.png"
+      "assets/products/chairs/lmw-012/LMW-012.webp"
     ],
     "colors": [
       "Red"
@@ -6973,11 +6973,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-013/LMW-013.png",
+    "img": "assets/products/chairs/lmw-013/LMW-013.webp",
     "badge": "",
     "description": "The LMW-012 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-013/LMW-013.png"
+      "assets/products/chairs/lmw-013/LMW-013.webp"
     ],
     "colors": [
       "Red"
@@ -6991,11 +6991,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-014/LMW-014.png",
+    "img": "assets/products/chairs/lmw-014/LMW-014.webp",
     "badge": "",
     "description": "The LMW-013 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-014/LMW-014.png"
+      "assets/products/chairs/lmw-014/LMW-014.webp"
     ],
     "colors": [
       "Red"
@@ -7009,11 +7009,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-015/LMW-015.png",
+    "img": "assets/products/chairs/lmw-015/LMW-015.webp",
     "badge": "New",
     "description": "The LMW-014 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-015/LMW-015.png"
+      "assets/products/chairs/lmw-015/LMW-015.webp"
     ],
     "colors": [
       "Red"
@@ -7027,12 +7027,12 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-016/LMW-016.png",
+    "img": "assets/products/chairs/lmw-016/LMW-016.webp",
     "badge": "",
     "description": "The LMW-015 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red or Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-016/LMW-016.png",
-      "assets/products/chairs/lmw-016/LMW-016_2.png"
+      "assets/products/chairs/lmw-016/LMW-016.webp",
+      "assets/products/chairs/lmw-016/LMW-016_2.webp"
     ],
     "colors": [
       "Red",
@@ -7047,11 +7047,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-017/LMW-017.png",
+    "img": "assets/products/chairs/lmw-017/LMW-017.webp",
     "badge": "",
     "description": "The LMW-016 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Brown tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-017/LMW-017.png"
+      "assets/products/chairs/lmw-017/LMW-017.webp"
     ],
     "colors": [
       "Brown"
@@ -7065,11 +7065,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-018/LMW-018.png",
+    "img": "assets/products/chairs/lmw-018/LMW-018.webp",
     "badge": "",
     "description": "The LMW-017 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-018/LMW-018.png"
+      "assets/products/chairs/lmw-018/LMW-018.webp"
     ],
     "colors": [
       "Red"
@@ -7083,11 +7083,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/chairs/lmw-020/LMW-020_2.png",
+    "img": "assets/products/chairs/lmw-020/LMW-020_2.webp",
     "badge": "",
     "description": "The LMW-018 chair represents a perfect balance of comfort, style, and utility. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful White or Red tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-020/LMW-020_2.png"
+      "assets/products/chairs/lmw-020/LMW-020_2.webp"
     ],
     "colors": [
       "White",
@@ -7102,11 +7102,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/chairs/lmw-022/LMW-022.png",
+    "img": "assets/products/chairs/lmw-022/LMW-022.webp",
     "badge": "",
     "description": "A perfect blend of comfort and style. The LMW-019 chair showcases a premium blend of classic craftsmanship and modern design. Crafted from solid wood with a robust structure, it provides comfortable, sturdy support. Finished in a beautiful Blue tone, it adds warmth and sophistication to any dining room, office, or living space.",
     "images": [
-      "assets/products/chairs/lmw-022/LMW-022.png"
+      "assets/products/chairs/lmw-022/LMW-022.webp"
     ],
     "colors": [
       "Blue"
@@ -7122,9 +7122,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cherry Wood Dining Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-cherry-wood-6seater-dining-set/cherry_wood_6seater_dining_set.png",
+    "img": "assets/products/dining-tables/cat-cherry-wood-6seater-dining-set/cherry_wood_6seater_dining_set.webp",
     "images": [
-      "assets/products/dining-tables/cat-cherry-wood-6seater-dining-set/cherry_wood_6seater_dining_set.png"
+      "assets/products/dining-tables/cat-cherry-wood-6seater-dining-set/cherry_wood_6seater_dining_set.webp"
     ],
     "colors": []
   },
@@ -7138,9 +7138,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Honey Oak Dining Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-honey-oak-8seater-dining-suite/honey_oak_8seater_dining_suite.png",
+    "img": "assets/products/dining-tables/cat-honey-oak-8seater-dining-suite/honey_oak_8seater_dining_suite.webp",
     "images": [
-      "assets/products/dining-tables/cat-honey-oak-8seater-dining-suite/honey_oak_8seater_dining_suite.png"
+      "assets/products/dining-tables/cat-honey-oak-8seater-dining-suite/honey_oak_8seater_dining_suite.webp"
     ],
     "colors": []
   },
@@ -7154,9 +7154,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mahogany Crossback 4 Seater Dining Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-mahogany-crossback-4seater-dining-set/mahogany_crossback_4seater_dining_set.png",
+    "img": "assets/products/dining-tables/cat-mahogany-crossback-4seater-dining-set/mahogany_crossback_4seater_dining_set.webp",
     "images": [
-      "assets/products/dining-tables/cat-mahogany-crossback-4seater-dining-set/mahogany_crossback_4seater_dining_set.png"
+      "assets/products/dining-tables/cat-mahogany-crossback-4seater-dining-set/mahogany_crossback_4seater_dining_set.webp"
     ],
     "colors": []
   },
@@ -7169,15 +7169,15 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big.webp",
     "images": [
-      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_1.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_2.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_3.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_4.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_5.jpg"
+      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_1.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_2.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_3.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_4.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big_5.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/easy-chair-cloth-type-big",
     "colors": [
@@ -7194,14 +7194,14 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small.webp",
     "images": [
-      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_1.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_2.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_3.jpg",
-      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_4.jpg"
+      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_1.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_2.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_3.webp",
+      "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/easy-chair-cloth-type-small",
     "colors": [
@@ -7218,13 +7218,13 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/chairs/rubco-grand-father-chair/grand_father_chair.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/chairs/rubco-grand-father-chair/grand_father_chair.webp",
     "images": [
-      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair.jpg",
-      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair_1.jpg",
-      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair_2.jpg",
-      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair_3.jpg"
+      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair.webp",
+      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair_1.webp",
+      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair_2.webp",
+      "assets/products/chairs/rubco-grand-father-chair/grand_father_chair_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/grand-father-chair",
     "colors": [
@@ -7242,10 +7242,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Amethyst Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-amethyst-sectional-sofa/Amethyst Sectional Sofa - Isolated L-Shape View.png",
+    "img": "assets/products/corner-sofas/cat-amethyst-sectional-sofa/Amethyst Sectional Sofa - Isolated L-Shape View.webp",
     "images": [
-      "assets/products/corner-sofas/cat-amethyst-sectional-sofa/Amethyst Sectional Sofa - Isolated L-Shape View.png",
-      "assets/products/corner-sofas/cat-amethyst-sectional-sofa/Amethyst Sectional Sofa - With Coffee Table View.png"
+      "assets/products/corner-sofas/cat-amethyst-sectional-sofa/Amethyst Sectional Sofa - Isolated L-Shape View.webp",
+      "assets/products/corner-sofas/cat-amethyst-sectional-sofa/Amethyst Sectional Sofa - With Coffee Table View.webp"
     ],
     "colors": []
   },
@@ -7259,9 +7259,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Brown Chaise Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-beige-brown-chaise-sectional/beige_brown_chaise_sectional.png",
+    "img": "assets/products/corner-sofas/cat-beige-brown-chaise-sectional/beige_brown_chaise_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-beige-brown-chaise-sectional/beige_brown_chaise_sectional.png"
+      "assets/products/corner-sofas/cat-beige-brown-chaise-sectional/beige_brown_chaise_sectional.webp"
     ],
     "colors": []
   },
@@ -7275,9 +7275,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Fabric Corner Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-beige-fabric-corner-sectional/beige_fabric_corner_sectional.png",
+    "img": "assets/products/corner-sofas/cat-beige-fabric-corner-sectional/beige_fabric_corner_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-beige-fabric-corner-sectional/beige_fabric_corner_sectional.png"
+      "assets/products/corner-sofas/cat-beige-fabric-corner-sectional/beige_fabric_corner_sectional.webp"
     ],
     "colors": []
   },
@@ -7291,9 +7291,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Leather Curved Modular Sectional Sofa Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-beige-leather-curved-modular-sectional-sofa-suite/Beige Leather Curved Modular Sectional Sofa Suite.jpg",
+    "img": "assets/products/corner-sofas/cat-beige-leather-curved-modular-sectional-sofa-suite/Beige Leather Curved Modular Sectional Sofa Suite.webp",
     "images": [
-      "assets/products/corner-sofas/cat-beige-leather-curved-modular-sectional-sofa-suite/Beige Leather Curved Modular Sectional Sofa Suite.jpg"
+      "assets/products/corner-sofas/cat-beige-leather-curved-modular-sectional-sofa-suite/Beige Leather Curved Modular Sectional Sofa Suite.webp"
     ],
     "colors": []
   },
@@ -7307,9 +7307,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Blue Leather Reclining Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-blue-leather-reclining-sectional/blue_leather_reclining_sectional.png",
+    "img": "assets/products/corner-sofas/cat-blue-leather-reclining-sectional/blue_leather_reclining_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-blue-leather-reclining-sectional/blue_leather_reclining_sectional.png"
+      "assets/products/corner-sofas/cat-blue-leather-reclining-sectional/blue_leather_reclining_sectional.webp"
     ],
     "colors": []
   },
@@ -7323,9 +7323,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Chaise Sectional With Throw combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-charcoal-chaise-sectional-with-throw/charcoal_chaise_sectional_with_throw.png",
+    "img": "assets/products/corner-sofas/cat-charcoal-chaise-sectional-with-throw/charcoal_chaise_sectional_with_throw.webp",
     "images": [
-      "assets/products/corner-sofas/cat-charcoal-chaise-sectional-with-throw/charcoal_chaise_sectional_with_throw.png"
+      "assets/products/corner-sofas/cat-charcoal-chaise-sectional-with-throw/charcoal_chaise_sectional_with_throw.webp"
     ],
     "colors": []
   },
@@ -7339,9 +7339,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Grey L Shape Sectional Sofa C combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-charcoal-grey-l-shape-sectional-sofa-c/Charcoal Grey L-Shape Sectional Sofa C.jpg",
+    "img": "assets/products/corner-sofas/cat-charcoal-grey-l-shape-sectional-sofa-c/Charcoal Grey L-Shape Sectional Sofa C.webp",
     "images": [
-      "assets/products/corner-sofas/cat-charcoal-grey-l-shape-sectional-sofa-c/Charcoal Grey L-Shape Sectional Sofa C.jpg"
+      "assets/products/corner-sofas/cat-charcoal-grey-l-shape-sectional-sofa-c/Charcoal Grey L-Shape Sectional Sofa C.webp"
     ],
     "colors": []
   },
@@ -7355,9 +7355,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Sectional Sofa Collection combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cognac-leather-sectional-sofa-collection/Cognac Leather Sectional Sofa Collection.jpg",
+    "img": "assets/products/corner-sofas/cat-cognac-leather-sectional-sofa-collection/Cognac Leather Sectional Sofa Collection.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cognac-leather-sectional-sofa-collection/Cognac Leather Sectional Sofa Collection.jpg"
+      "assets/products/corner-sofas/cat-cognac-leather-sectional-sofa-collection/Cognac Leather Sectional Sofa Collection.webp"
     ],
     "colors": []
   },
@@ -7371,9 +7371,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Corner Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa/Cream Leather Corner Sectional Sofa.jpg",
+    "img": "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa/Cream Leather Corner Sectional Sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa/Cream Leather Corner Sectional Sofa.jpg"
+      "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa/Cream Leather Corner Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7387,9 +7387,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Corner Sectional Sofa With Gold Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa-with-gold-legs/Cream Leather Corner Sectional Sofa with Gold Legs.jpg",
+    "img": "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa-with-gold-legs/Cream Leather Corner Sectional Sofa with Gold Legs.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa-with-gold-legs/Cream Leather Corner Sectional Sofa with Gold Legs.jpg"
+      "assets/products/corner-sofas/cat-cream-leather-corner-sectional-sofa-with-gold-legs/Cream Leather Corner Sectional Sofa with Gold Legs.webp"
     ],
     "colors": []
   },
@@ -7403,9 +7403,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather L Shape Sectional Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cream-leather-l-shape-sectional-sofa-b/Cream Leather L-Shape Sectional Sofa B.jpg",
+    "img": "assets/products/corner-sofas/cat-cream-leather-l-shape-sectional-sofa-b/Cream Leather L-Shape Sectional Sofa B.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cream-leather-l-shape-sectional-sofa-b/Cream Leather L-Shape Sectional Sofa B.jpg"
+      "assets/products/corner-sofas/cat-cream-leather-l-shape-sectional-sofa-b/Cream Leather L-Shape Sectional Sofa B.webp"
     ],
     "colors": []
   },
@@ -7419,9 +7419,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Modular Sectional Sofa Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cream-leather-modular-sectional-sofa-set/Cream Leather Modular Sectional Sofa Set.jpg",
+    "img": "assets/products/corner-sofas/cat-cream-leather-modular-sectional-sofa-set/Cream Leather Modular Sectional Sofa Set.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cream-leather-modular-sectional-sofa-set/Cream Leather Modular Sectional Sofa Set.jpg"
+      "assets/products/corner-sofas/cat-cream-leather-modular-sectional-sofa-set/Cream Leather Modular Sectional Sofa Set.webp"
     ],
     "colors": []
   },
@@ -7435,9 +7435,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Modular L Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cream-modular-l-sectional-sofa/cream_modular_l_sectional_sofa.png",
+    "img": "assets/products/corner-sofas/cat-cream-modular-l-sectional-sofa/cream_modular_l_sectional_sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cream-modular-l-sectional-sofa/cream_modular_l_sectional_sofa.png"
+      "assets/products/corner-sofas/cat-cream-modular-l-sectional-sofa/cream_modular_l_sectional_sofa.webp"
     ],
     "colors": []
   },
@@ -7451,9 +7451,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Tufted Lsectional Sofa Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-cream-tufted-lsectional-sofa-comboset/cream_tufted_lsectional_sofa_comboset.png",
+    "img": "assets/products/corner-sofas/cat-cream-tufted-lsectional-sofa-comboset/cream_tufted_lsectional_sofa_comboset.webp",
     "images": [
-      "assets/products/corner-sofas/cat-cream-tufted-lsectional-sofa-comboset/cream_tufted_lsectional_sofa_comboset.png"
+      "assets/products/corner-sofas/cat-cream-tufted-lsectional-sofa-comboset/cream_tufted_lsectional_sofa_comboset.webp"
     ],
     "colors": []
   },
@@ -7467,9 +7467,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Curved Light Gray Chaise Lounge combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-curved-light-gray-chaise-lounge/curved_light_gray_chaise_lounge.png",
+    "img": "assets/products/corner-sofas/cat-curved-light-gray-chaise-lounge/curved_light_gray_chaise_lounge.webp",
     "images": [
-      "assets/products/corner-sofas/cat-curved-light-gray-chaise-lounge/curved_light_gray_chaise_lounge.png"
+      "assets/products/corner-sofas/cat-curved-light-gray-chaise-lounge/curved_light_gray_chaise_lounge.webp"
     ],
     "colors": []
   },
@@ -7483,9 +7483,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Charcoal Grey Fabric Corner Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-dark-charcoal-grey-fabric-corner-sectional-sofa/Dark Charcoal Grey Fabric Corner Sectional Sofa.jpg",
+    "img": "assets/products/corner-sofas/cat-dark-charcoal-grey-fabric-corner-sectional-sofa/Dark Charcoal Grey Fabric Corner Sectional Sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-dark-charcoal-grey-fabric-corner-sectional-sofa/Dark Charcoal Grey Fabric Corner Sectional Sofa.jpg"
+      "assets/products/corner-sofas/cat-dark-charcoal-grey-fabric-corner-sectional-sofa/Dark Charcoal Grey Fabric Corner Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7499,9 +7499,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Grey L Shape Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-dark-grey-l-shape-sectional-sofa/Dark Grey L-Shape Sectional Sofa - Front View.jpg",
+    "img": "assets/products/corner-sofas/cat-dark-grey-l-shape-sectional-sofa/Dark Grey L-Shape Sectional Sofa - Front View.webp",
     "images": [
-      "assets/products/corner-sofas/cat-dark-grey-l-shape-sectional-sofa/Dark Grey L-Shape Sectional Sofa - Front View.jpg"
+      "assets/products/corner-sofas/cat-dark-grey-l-shape-sectional-sofa/Dark Grey L-Shape Sectional Sofa - Front View.webp"
     ],
     "colors": []
   },
@@ -7515,9 +7515,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Navy Leather Corner Sectional Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-dark-navy-leather-corner-sectional-sofa-b/Dark Navy Leather Corner Sectional Sofa B.jpg",
+    "img": "assets/products/corner-sofas/cat-dark-navy-leather-corner-sectional-sofa-b/Dark Navy Leather Corner Sectional Sofa B.webp",
     "images": [
-      "assets/products/corner-sofas/cat-dark-navy-leather-corner-sectional-sofa-b/Dark Navy Leather Corner Sectional Sofa B.jpg"
+      "assets/products/corner-sofas/cat-dark-navy-leather-corner-sectional-sofa-b/Dark Navy Leather Corner Sectional Sofa B.webp"
     ],
     "colors": []
   },
@@ -7531,9 +7531,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Navy Leather L Shape Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-dark-navy-leather-l-shape-sectional-sofa/Dark Navy Leather L-Shape Sectional Sofa.jpg",
+    "img": "assets/products/corner-sofas/cat-dark-navy-leather-l-shape-sectional-sofa/Dark Navy Leather L-Shape Sectional Sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-dark-navy-leather-l-shape-sectional-sofa/Dark Navy Leather L-Shape Sectional Sofa.jpg"
+      "assets/products/corner-sofas/cat-dark-navy-leather-l-shape-sectional-sofa/Dark Navy Leather L-Shape Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7547,9 +7547,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Deep Red Leather Corner Sofa Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional/deep-red-leather-corner-sofa-sectional.jpg",
+    "img": "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional/deep-red-leather-corner-sofa-sectional.webp",
     "images": [
-      "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional/deep-red-leather-corner-sofa-sectional.jpg"
+      "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional/deep-red-leather-corner-sofa-sectional.webp"
     ],
     "colors": []
   },
@@ -7563,9 +7563,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Deep Red Leather Corner Sofa Sectional B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional-b/deep-red-leather-corner-sofa-sectional-b.jpg",
+    "img": "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional-b/deep-red-leather-corner-sofa-sectional-b.webp",
     "images": [
-      "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional-b/deep-red-leather-corner-sofa-sectional-b.jpg"
+      "assets/products/corner-sofas/deep-red-leather-corner-sofa-sectional-b/deep-red-leather-corner-sofa-sectional-b.webp"
     ],
     "colors": []
   },
@@ -7579,9 +7579,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dusty Blue Leather Chaise Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-dusty-blue-leather-chaise-sectional/dusty_blue_leather_chaise_sectional.png",
+    "img": "assets/products/corner-sofas/cat-dusty-blue-leather-chaise-sectional/dusty_blue_leather_chaise_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-dusty-blue-leather-chaise-sectional/dusty_blue_leather_chaise_sectional.png"
+      "assets/products/corner-sofas/cat-dusty-blue-leather-chaise-sectional/dusty_blue_leather_chaise_sectional.webp"
     ],
     "colors": []
   },
@@ -7595,10 +7595,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Emerald Modern Sectional Chaise Sofa Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-emerald-modern-sectional-chaise-sofa-set/Emerald Sectional Sofa - Angle Perspective.png",
+    "img": "assets/products/corner-sofas/cat-emerald-modern-sectional-chaise-sofa-set/Emerald Sectional Sofa - Angle Perspective.webp",
     "images": [
-      "assets/products/corner-sofas/cat-emerald-modern-sectional-chaise-sofa-set/Emerald Sectional Sofa - Angle Perspective.png",
-      "assets/products/corner-sofas/cat-emerald-modern-sectional-chaise-sofa-set/Emerald Sectional Sofa - Front View.png"
+      "assets/products/corner-sofas/cat-emerald-modern-sectional-chaise-sofa-set/Emerald Sectional Sofa - Angle Perspective.webp",
+      "assets/products/corner-sofas/cat-emerald-modern-sectional-chaise-sofa-set/Emerald Sectional Sofa - Front View.webp"
     ],
     "colors": []
   },
@@ -7612,9 +7612,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Gray Fabric Modular Sectional Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-gray-fabric-modular-sectional-suite/gray_fabric_modular_sectional_suite.png",
+    "img": "assets/products/corner-sofas/cat-gray-fabric-modular-sectional-suite/gray_fabric_modular_sectional_suite.webp",
     "images": [
-      "assets/products/corner-sofas/cat-gray-fabric-modular-sectional-suite/gray_fabric_modular_sectional_suite.png"
+      "assets/products/corner-sofas/cat-gray-fabric-modular-sectional-suite/gray_fabric_modular_sectional_suite.webp"
     ],
     "colors": []
   },
@@ -7628,9 +7628,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Modular Sectional Sofa Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-grey-fabric-modular-sectional-sofa-suite/Grey Fabric Modular Sectional Sofa Suite.jpg",
+    "img": "assets/products/corner-sofas/cat-grey-fabric-modular-sectional-sofa-suite/Grey Fabric Modular Sectional Sofa Suite.webp",
     "images": [
-      "assets/products/corner-sofas/cat-grey-fabric-modular-sectional-sofa-suite/Grey Fabric Modular Sectional Sofa Suite.jpg"
+      "assets/products/corner-sofas/cat-grey-fabric-modular-sectional-sofa-suite/Grey Fabric Modular Sectional Sofa Suite.webp"
     ],
     "colors": []
   },
@@ -7644,9 +7644,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Heather Gray Lsectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-heather-gray-lsectional-sofa/heather_gray_lsectional_sofa.png",
+    "img": "assets/products/corner-sofas/cat-heather-gray-lsectional-sofa/heather_gray_lsectional_sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-heather-gray-lsectional-sofa/heather_gray_lsectional_sofa.png"
+      "assets/products/corner-sofas/cat-heather-gray-lsectional-sofa/heather_gray_lsectional_sofa.webp"
     ],
     "colors": []
   },
@@ -7660,9 +7660,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Large Grey Leather Sectional Sofa Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-large-grey-leather-sectional-sofa-suite/Large Grey Leather Sectional Sofa Suite.jpg",
+    "img": "assets/products/corner-sofas/cat-large-grey-leather-sectional-sofa-suite/Large Grey Leather Sectional Sofa Suite.webp",
     "images": [
-      "assets/products/corner-sofas/cat-large-grey-leather-sectional-sofa-suite/Large Grey Leather Sectional Sofa Suite.jpg"
+      "assets/products/corner-sofas/cat-large-grey-leather-sectional-sofa-suite/Large Grey Leather Sectional Sofa Suite.webp"
     ],
     "colors": []
   },
@@ -7676,9 +7676,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Blue Fabric Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-light-blue-fabric-sectional-sofa/Light Blue Fabric Sectional Sofa.jpg",
+    "img": "assets/products/corner-sofas/cat-light-blue-fabric-sectional-sofa/Light Blue Fabric Sectional Sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-light-blue-fabric-sectional-sofa/Light Blue Fabric Sectional Sofa.jpg"
+      "assets/products/corner-sofas/cat-light-blue-fabric-sectional-sofa/Light Blue Fabric Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7692,9 +7692,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray Curved Sectional Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-light-gray-curved-sectional-set/light_gray_curved_sectional_set.png",
+    "img": "assets/products/corner-sofas/cat-light-gray-curved-sectional-set/light_gray_curved_sectional_set.webp",
     "images": [
-      "assets/products/corner-sofas/cat-light-gray-curved-sectional-set/light_gray_curved_sectional_set.png"
+      "assets/products/corner-sofas/cat-light-gray-curved-sectional-set/light_gray_curved_sectional_set.webp"
     ],
     "colors": []
   },
@@ -7708,9 +7708,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Grey L Shape Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa/Light Grey L-Shape Sectional Sofa - Top and Front Views.jpg",
+    "img": "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa/Light Grey L-Shape Sectional Sofa - Top and Front Views.webp",
     "images": [
-      "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa/Light Grey L-Shape Sectional Sofa - Top and Front Views.jpg"
+      "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa/Light Grey L-Shape Sectional Sofa - Top and Front Views.webp"
     ],
     "colors": []
   },
@@ -7724,9 +7724,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Grey L Shape Sectional Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa-b/Light Grey L-Shape Sectional Sofa B.jpg",
+    "img": "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa-b/Light Grey L-Shape Sectional Sofa B.webp",
     "images": [
-      "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa-b/Light Grey L-Shape Sectional Sofa B.jpg"
+      "assets/products/corner-sofas/cat-light-grey-l-shape-sectional-sofa-b/Light Grey L-Shape Sectional Sofa B.webp"
     ],
     "colors": []
   },
@@ -7740,9 +7740,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern L Shape Leather Sectional Sofa Suite With Ottoman combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-modern-l-shape-leather-sectional-sofa-suite-with-ottoman/Modern L-Shape Leather Sectional Sofa Suite with Ottoman.jpg",
+    "img": "assets/products/corner-sofas/cat-modern-l-shape-leather-sectional-sofa-suite-with-ottoman/Modern L-Shape Leather Sectional Sofa Suite with Ottoman.webp",
     "images": [
-      "assets/products/corner-sofas/cat-modern-l-shape-leather-sectional-sofa-suite-with-ottoman/Modern L-Shape Leather Sectional Sofa Suite with Ottoman.jpg"
+      "assets/products/corner-sofas/cat-modern-l-shape-leather-sectional-sofa-suite-with-ottoman/Modern L-Shape Leather Sectional Sofa Suite with Ottoman.webp"
     ],
     "colors": []
   },
@@ -7756,9 +7756,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Light Beige L Shape Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-modern-light-beige-l-shape-sectional-sofa/Modern Light Beige L-Shape Sectional Sofa.jpg",
+    "img": "assets/products/corner-sofas/cat-modern-light-beige-l-shape-sectional-sofa/Modern Light Beige L-Shape Sectional Sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-modern-light-beige-l-shape-sectional-sofa/Modern Light Beige L-Shape Sectional Sofa.jpg"
+      "assets/products/corner-sofas/cat-modern-light-beige-l-shape-sectional-sofa/Modern Light Beige L-Shape Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7772,9 +7772,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern U Modular Sectional Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-modern-u-modular-sectional-suite/modern_u_modular_sectional_suite.png",
+    "img": "assets/products/corner-sofas/cat-modern-u-modular-sectional-suite/modern_u_modular_sectional_suite.webp",
     "images": [
-      "assets/products/corner-sofas/cat-modern-u-modular-sectional-suite/modern_u_modular_sectional_suite.png"
+      "assets/products/corner-sofas/cat-modern-u-modular-sectional-suite/modern_u_modular_sectional_suite.webp"
     ],
     "colors": []
   },
@@ -7788,9 +7788,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oversized Light Gray Curved Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-oversized-light-gray-curved-sectional/oversized_light_gray_curved_sectional.png",
+    "img": "assets/products/corner-sofas/cat-oversized-light-gray-curved-sectional/oversized_light_gray_curved_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-oversized-light-gray-curved-sectional/oversized_light_gray_curved_sectional.png"
+      "assets/products/corner-sofas/cat-oversized-light-gray-curved-sectional/oversized_light_gray_curved_sectional.webp"
     ],
     "colors": []
   },
@@ -7804,9 +7804,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Soft Gray Chaise Sectional combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-soft-gray-chaise-sectional/soft_gray_chaise_sectional.png",
+    "img": "assets/products/corner-sofas/cat-soft-gray-chaise-sectional/soft_gray_chaise_sectional.webp",
     "images": [
-      "assets/products/corner-sofas/cat-soft-gray-chaise-sectional/soft_gray_chaise_sectional.png"
+      "assets/products/corner-sofas/cat-soft-gray-chaise-sectional/soft_gray_chaise_sectional.webp"
     ],
     "colors": []
   },
@@ -7820,9 +7820,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Brown Leather Corner Recliner Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-tan-brown-leather-corner-recliner-sectional-sofa/Tan Brown Leather Corner Recliner Sectional Sofa.jpg",
+    "img": "assets/products/recliners/cat-tan-brown-leather-corner-recliner-sectional-sofa/Tan Brown Leather Corner Recliner Sectional Sofa.webp",
     "images": [
-      "assets/products/recliners/cat-tan-brown-leather-corner-recliner-sectional-sofa/Tan Brown Leather Corner Recliner Sectional Sofa.jpg"
+      "assets/products/recliners/cat-tan-brown-leather-corner-recliner-sectional-sofa/Tan Brown Leather Corner Recliner Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7836,9 +7836,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Leather L Shape Sectional Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/corner-sofas/cat-tan-leather-l-shape-sectional-sofa/Tan Leather L-Shape Sectional Sofa.jpg",
+    "img": "assets/products/corner-sofas/cat-tan-leather-l-shape-sectional-sofa/Tan Leather L-Shape Sectional Sofa.webp",
     "images": [
-      "assets/products/corner-sofas/cat-tan-leather-l-shape-sectional-sofa/Tan Leather L-Shape Sectional Sofa.jpg"
+      "assets/products/corner-sofas/cat-tan-leather-l-shape-sectional-sofa/Tan Leather L-Shape Sectional Sofa.webp"
     ],
     "colors": []
   },
@@ -7852,9 +7852,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Architectural Teak Dining Table B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-architectural-teak-dining-table-b/Architectural Teak Dining Table B.jpg",
+    "img": "assets/products/dining-tables/cat-architectural-teak-dining-table-b/Architectural Teak Dining Table B.webp",
     "images": [
-      "assets/products/dining-tables/cat-architectural-teak-dining-table-b/Architectural Teak Dining Table B.jpg"
+      "assets/products/dining-tables/cat-architectural-teak-dining-table-b/Architectural Teak Dining Table B.webp"
     ],
     "colors": []
   },
@@ -7868,10 +7868,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Architectural Walnut Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-architectural-walnut-dining-table/Architectural Walnut Dining Table - Front View.jpg",
+    "img": "assets/products/dining-tables/cat-architectural-walnut-dining-table/Architectural Walnut Dining Table - Front View.webp",
     "images": [
-      "assets/products/dining-tables/cat-architectural-walnut-dining-table/Architectural Walnut Dining Table - Front View.jpg",
-      "assets/products/dining-tables/cat-architectural-walnut-dining-table/Architectural Walnut Dining Table - Side View.jpg"
+      "assets/products/dining-tables/cat-architectural-walnut-dining-table/Architectural Walnut Dining Table - Front View.webp",
+      "assets/products/dining-tables/cat-architectural-walnut-dining-table/Architectural Walnut Dining Table - Side View.webp"
     ],
     "colors": []
   },
@@ -7885,16 +7885,16 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A boat-shaped conference table in dark walnut seating eight to ten, with a recessed cable channel down the centre and solid panel bases. Sized for mid-room board and meeting cabins.",
-    "img": "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - Front View.png",
+    "img": "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - Front View.png",
-      "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - View 2.png"
+      "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - Front View.webp",
+      "assets/products/office-workstations/cabin-boat-shaped-conference-table/Cabin Boat-Shaped Conference Table - View 2.webp"
     ],
     "colors": []
   },
   {
     "id": "cabin-steel-frame-writing-desk-red",
-    "name": "Cabin Steel-Frame Writing Desk — Red",
+    "name": "Cabin Steel-Frame Writing Desk â€” Red",
     "category": "office-workstations",
     "type": "desk",
     "material": "Dark Walnut Laminate Top / Powder-Coated Steel Frame",
@@ -7902,9 +7902,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A compact writing desk on a red powder-coated steel frame with a dark walnut top and a full modesty panel. A bright, low-footprint option for home offices and study rooms.",
-    "img": "assets/products/office-workstations/cabin-steel-frame-writing-desk-red/Cabin Steel-Frame Writing Desk - Red - Front View.png",
+    "img": "assets/products/office-workstations/cabin-steel-frame-writing-desk-red/Cabin Steel-Frame Writing Desk - Red - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-steel-frame-writing-desk-red/Cabin Steel-Frame Writing Desk - Red - Front View.png"
+      "assets/products/office-workstations/cabin-steel-frame-writing-desk-red/Cabin Steel-Frame Writing Desk - Red - Front View.webp"
     ],
     "colors": []
   },
@@ -7918,9 +7918,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A walnut computer desk with a pull-out keyboard tray, a central drawer and an enclosed CPU cabinet on one side. Castors on the front legs make it easy to reposition.",
-    "img": "assets/products/office-workstations/cabin-computer-desk-with-keyboard-tray/Cabin Computer Desk with Keyboard Tray - Front View.png",
+    "img": "assets/products/office-workstations/cabin-computer-desk-with-keyboard-tray/Cabin Computer Desk with Keyboard Tray - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-computer-desk-with-keyboard-tray/Cabin Computer Desk with Keyboard Tray - Front View.png"
+      "assets/products/office-workstations/cabin-computer-desk-with-keyboard-tray/Cabin Computer Desk with Keyboard Tray - Front View.webp"
     ],
     "colors": []
   },
@@ -7934,9 +7934,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A computer table combining a three-drawer pedestal, a sliding keyboard tray and an open CPU bay. A complete single-user workstation in under four feet of width.",
-    "img": "assets/products/office-workstations/cabin-computer-table-with-drawer-pedestal/Cabin Computer Table with Drawer Pedestal - Front View.png",
+    "img": "assets/products/office-workstations/cabin-computer-table-with-drawer-pedestal/Cabin Computer Table with Drawer Pedestal - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-computer-table-with-drawer-pedestal/Cabin Computer Table with Drawer Pedestal - Front View.png"
+      "assets/products/office-workstations/cabin-computer-table-with-drawer-pedestal/Cabin Computer Table with Drawer Pedestal - Front View.webp"
     ],
     "colors": []
   },
@@ -7950,9 +7950,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A slim study desk with sculpted curved side panels, an under-top storage shelf and a side hook for headphones or bags. Suits bedrooms and compact study corners.",
-    "img": "assets/products/office-workstations/cabin-curved-panel-study-desk/Cabin Curved-Panel Study Desk - Front View.png",
+    "img": "assets/products/office-workstations/cabin-curved-panel-study-desk/Cabin Curved-Panel Study Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-curved-panel-study-desk/Cabin Curved-Panel Study Desk - Front View.png"
+      "assets/products/office-workstations/cabin-curved-panel-study-desk/Cabin Curved-Panel Study Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -7966,9 +7966,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A mobile computer trolley with a curved worktop, a single drawer and open side storage, riding on lockable castors for flexible placement.",
-    "img": "assets/products/office-workstations/cabin-curved-top-computer-trolley/Cabin Curved-Top Computer Trolley - Front View.png",
+    "img": "assets/products/office-workstations/cabin-curved-top-computer-trolley/Cabin Curved-Top Computer Trolley - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-curved-top-computer-trolley/Cabin Curved-Top Computer Trolley - Front View.png"
+      "assets/products/office-workstations/cabin-curved-top-computer-trolley/Cabin Curved-Top Computer Trolley - Front View.webp"
     ],
     "colors": []
   },
@@ -7982,9 +7982,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A compact computer trolley on castors with a sliding keyboard shelf and an enclosed CPU compartment. Fits into alcoves and small home-office corners.",
-    "img": "assets/products/office-workstations/cabin-compact-computer-trolley/Cabin Compact Computer Trolley - Front View.png",
+    "img": "assets/products/office-workstations/cabin-compact-computer-trolley/Cabin Compact Computer Trolley - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-compact-computer-trolley/Cabin Compact Computer Trolley - Front View.png"
+      "assets/products/office-workstations/cabin-compact-computer-trolley/Cabin Compact Computer Trolley - Front View.webp"
     ],
     "colors": []
   },
@@ -7998,9 +7998,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A wider mobile computer trolley with a keyboard shelf over two open storage tiers, mounted on castors for easy repositioning.",
-    "img": "assets/products/office-workstations/cabin-computer-trolley-with-shelves/Cabin Computer Trolley with Shelves - Front View.png",
+    "img": "assets/products/office-workstations/cabin-computer-trolley-with-shelves/Cabin Computer Trolley with Shelves - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-computer-trolley-with-shelves/Cabin Computer Trolley with Shelves - Front View.png"
+      "assets/products/office-workstations/cabin-computer-trolley-with-shelves/Cabin Computer Trolley with Shelves - Front View.webp"
     ],
     "colors": []
   },
@@ -8013,16 +8013,16 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.7,
     "badge": "",
-    "description": "A walnut computer table with a sliding keyboard tray above two open shelf bays, finished on castors. Keeps peripherals and files within arm’s reach.",
-    "img": "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.png",
+    "description": "A walnut computer table with a sliding keyboard tray above two open shelf bays, finished on castors. Keeps peripherals and files within armâ€™s reach.",
+    "img": "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.png"
+      "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "cabin-compact-computer-trolley-grey",
-    "name": "Cabin Compact Computer Trolley — Grey",
+    "name": "Cabin Compact Computer Trolley â€” Grey",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Grey and Charcoal Laminate",
@@ -8030,9 +8030,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A compact grey and charcoal computer trolley with a sliding keyboard shelf, lower storage tier and lockable castors. A neutral finish for shared workspaces.",
-    "img": "assets/products/office-workstations/cabin-compact-computer-trolley-grey/Cabin Compact Computer Trolley - Grey - Front View.png",
+    "img": "assets/products/office-workstations/cabin-compact-computer-trolley-grey/Cabin Compact Computer Trolley - Grey - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cabin-compact-computer-trolley-grey/Cabin Compact Computer Trolley - Grey - Front View.png"
+      "assets/products/office-workstations/cabin-compact-computer-trolley-grey/Cabin Compact Computer Trolley - Grey - Front View.webp"
     ],
     "colors": []
   },
@@ -8046,9 +8046,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Espresso Wooden Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-dark-espresso-wooden-dining-table/Dark Espresso Wooden Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-dark-espresso-wooden-dining-table/Dark Espresso Wooden Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-dark-espresso-wooden-dining-table/Dark Espresso Wooden Dining Table.jpg"
+      "assets/products/center-tables/cat-dark-espresso-wooden-dining-table/Dark Espresso Wooden Dining Table.webp"
     ],
     "colors": []
   },
@@ -8062,9 +8062,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Modern Executive Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-dark-walnut-modern-executive-dining-table/Dark Walnut Modern Executive Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-dark-walnut-modern-executive-dining-table/Dark Walnut Modern Executive Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-dark-walnut-modern-executive-dining-table/Dark Walnut Modern Executive Dining Table.jpg"
+      "assets/products/center-tables/cat-dark-walnut-modern-executive-dining-table/Dark Walnut Modern Executive Dining Table.webp"
     ],
     "colors": []
   },
@@ -8078,9 +8078,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Rectangular Dining Table B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-dark-walnut-rectangular-dining-table-b/Dark Walnut Rectangular Dining Table B.jpg",
+    "img": "assets/products/center-tables/cat-dark-walnut-rectangular-dining-table-b/Dark Walnut Rectangular Dining Table B.webp",
     "images": [
-      "assets/products/center-tables/cat-dark-walnut-rectangular-dining-table-b/Dark Walnut Rectangular Dining Table B.jpg"
+      "assets/products/center-tables/cat-dark-walnut-rectangular-dining-table-b/Dark Walnut Rectangular Dining Table B.webp"
     ],
     "colors": []
   },
@@ -8094,9 +8094,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Delta Modern Office Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/chairs/cat-delta-modern-office-table/Delta Modern Office Table - Front View.png",
+    "img": "assets/products/chairs/cat-delta-modern-office-table/Delta Modern Office Table - Front View.webp",
     "images": [
-      "assets/products/chairs/cat-delta-modern-office-table/Delta Modern Office Table - Front View.png"
+      "assets/products/chairs/cat-delta-modern-office-table/Delta Modern Office Table - Front View.webp"
     ],
     "colors": []
   },
@@ -8110,9 +8110,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Glass Top Dining Table With Wooden A Frame Base combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-glass-top-dining-table-with-wooden-a-frame-base/Glass Top Dining Table with Wooden A-Frame Base.jpg",
+    "img": "assets/products/center-tables/cat-glass-top-dining-table-with-wooden-a-frame-base/Glass Top Dining Table with Wooden A-Frame Base.webp",
     "images": [
-      "assets/products/center-tables/cat-glass-top-dining-table-with-wooden-a-frame-base/Glass Top Dining Table with Wooden A-Frame Base.jpg"
+      "assets/products/center-tables/cat-glass-top-dining-table-with-wooden-a-frame-base/Glass Top Dining Table with Wooden A-Frame Base.webp"
     ],
     "colors": []
   },
@@ -8126,9 +8126,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Rectangular Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-light-oak-rectangular-dining-table/Light Oak Rectangular Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-light-oak-rectangular-dining-table/Light Oak Rectangular Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-light-oak-rectangular-dining-table/Light Oak Rectangular Dining Table.jpg"
+      "assets/products/center-tables/cat-light-oak-rectangular-dining-table/Light Oak Rectangular Dining Table.webp"
     ],
     "colors": []
   },
@@ -8142,9 +8142,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Trestle Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-light-oak-trestle-dining-table/Light Oak Trestle Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-light-oak-trestle-dining-table/Light Oak Trestle Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-light-oak-trestle-dining-table/Light Oak Trestle Dining Table.jpg"
+      "assets/products/center-tables/cat-light-oak-trestle-dining-table/Light Oak Trestle Dining Table.webp"
     ],
     "colors": []
   },
@@ -8158,9 +8158,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Wood Long Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-light-wood-long-dining-table/Light Wood Long Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-light-wood-long-dining-table/Light Wood Long Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-light-wood-long-dining-table/Light Wood Long Dining Table.jpg"
+      "assets/products/center-tables/cat-light-wood-long-dining-table/Light Wood Long Dining Table.webp"
     ],
     "colors": []
   },
@@ -8174,9 +8174,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A low-line walnut sideboard pairing three deep drawers with a lattice sliding door, so everyday storage stays hidden while the console top remains free for display. Suited to living rooms, entryways and dining spaces.",
-    "img": "assets/products/wardrobes-storage/linea-walnut-sliding-door-sideboard/Linea Walnut Sliding-Door Sideboard - Front View.png",
+    "img": "assets/products/wardrobes-storage/linea-walnut-sliding-door-sideboard/Linea Walnut Sliding-Door Sideboard - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/linea-walnut-sliding-door-sideboard/Linea Walnut Sliding-Door Sideboard - Front View.png"
+      "assets/products/wardrobes-storage/linea-walnut-sliding-door-sideboard/Linea Walnut Sliding-Door Sideboard - Front View.webp"
     ],
     "colors": []
   },
@@ -8190,9 +8190,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A tall crockery and bar cabinet in soft grey, with illuminated glass-front upper doors, an open service counter, and closed lower storage. Brass handles and a slim brass base lift the piece off the floor.",
-    "img": "assets/products/wardrobes-storage/linea-grey-glass-front-crockery-cabinet/Linea Grey Glass-Front Crockery Cabinet - Front View.png",
+    "img": "assets/products/wardrobes-storage/linea-grey-glass-front-crockery-cabinet/Linea Grey Glass-Front Crockery Cabinet - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/linea-grey-glass-front-crockery-cabinet/Linea Grey Glass-Front Crockery Cabinet - Front View.png"
+      "assets/products/wardrobes-storage/linea-grey-glass-front-crockery-cabinet/Linea Grey Glass-Front Crockery Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -8206,9 +8206,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A compact three-drawer chest in warm walnut with recessed dark handles and a contrasting inset frame. Works as a bedroom dresser, hallway console or side storage unit.",
-    "img": "assets/products/wardrobes-storage/linea-walnut-three-drawer-chest/Linea Walnut Three-Drawer Chest - Front View.png",
+    "img": "assets/products/wardrobes-storage/linea-walnut-three-drawer-chest/Linea Walnut Three-Drawer Chest - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/linea-walnut-three-drawer-chest/Linea Walnut Three-Drawer Chest - Front View.png"
+      "assets/products/wardrobes-storage/linea-walnut-three-drawer-chest/Linea Walnut Three-Drawer Chest - Front View.webp"
     ],
     "colors": []
   },
@@ -8222,9 +8222,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A light oak study desk with an overhead open-shelf hutch and a full-height side column of drawers. Keeps books, files and desktop clutter within reach in a narrow footprint.",
-    "img": "assets/products/office-workstations/linea-oak-study-desk-with-hutch/Linea Oak Study Desk with Hutch - Front View.png",
+    "img": "assets/products/office-workstations/linea-oak-study-desk-with-hutch/Linea Oak Study Desk with Hutch - Front View.webp",
     "images": [
-      "assets/products/office-workstations/linea-oak-study-desk-with-hutch/Linea Oak Study Desk with Hutch - Front View.png"
+      "assets/products/office-workstations/linea-oak-study-desk-with-hutch/Linea Oak Study Desk with Hutch - Front View.webp"
     ],
     "colors": []
   },
@@ -8238,9 +8238,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A teak-finish study table with twin drawers, a low overhead organiser shelf, and an open lower compartment for bags or storage boxes. The curved apron gives comfortable knee clearance.",
-    "img": "assets/products/office-workstations/linea-teak-study-table-with-organiser/Linea Teak Study Table with Organiser - Front View.png",
+    "img": "assets/products/office-workstations/linea-teak-study-table-with-organiser/Linea Teak Study Table with Organiser - Front View.webp",
     "images": [
-      "assets/products/office-workstations/linea-teak-study-table-with-organiser/Linea Teak Study Table with Organiser - Front View.png"
+      "assets/products/office-workstations/linea-teak-study-table-with-organiser/Linea Teak Study Table with Organiser - Front View.webp"
     ],
     "colors": []
   },
@@ -8254,9 +8254,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A matte black study desk with an integrated upper hutch and a closed side storage column. The dark finish suits contemporary home offices and shared study corners.",
-    "img": "assets/products/office-workstations/linea-black-study-desk-with-hutch/Linea Black Study Desk with Hutch - Front View.png",
+    "img": "assets/products/office-workstations/linea-black-study-desk-with-hutch/Linea Black Study Desk with Hutch - Front View.webp",
     "images": [
-      "assets/products/office-workstations/linea-black-study-desk-with-hutch/Linea Black Study Desk with Hutch - Front View.png"
+      "assets/products/office-workstations/linea-black-study-desk-with-hutch/Linea Black Study Desk with Hutch - Front View.webp"
     ],
     "colors": []
   },
@@ -8270,9 +8270,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A tall three-bay display cabinet framed in fluted panelling, with a lit glass centre section and closed side compartments. Raised on a slim brass base for a lighter visual footprint.",
-    "img": "assets/products/wardrobes-storage/linea-fluted-glass-display-cabinet/Linea Fluted Glass Display Cabinet - Front View.png",
+    "img": "assets/products/wardrobes-storage/linea-fluted-glass-display-cabinet/Linea Fluted Glass Display Cabinet - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/linea-fluted-glass-display-cabinet/Linea Fluted Glass Display Cabinet - Front View.png"
+      "assets/products/wardrobes-storage/linea-fluted-glass-display-cabinet/Linea Fluted Glass Display Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -8286,9 +8286,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A cherry-finish study desk topped with an open bookshelf hutch and paired with a closed lower cabinet. Combines writing surface, display shelving and concealed storage in one unit.",
-    "img": "assets/products/office-workstations/linea-cherry-study-desk-with-bookshelf/Linea Cherry Study Desk with Bookshelf - Front View.png",
+    "img": "assets/products/office-workstations/linea-cherry-study-desk-with-bookshelf/Linea Cherry Study Desk with Bookshelf - Front View.webp",
     "images": [
-      "assets/products/office-workstations/linea-cherry-study-desk-with-bookshelf/Linea Cherry Study Desk with Bookshelf - Front View.png"
+      "assets/products/office-workstations/linea-cherry-study-desk-with-bookshelf/Linea Cherry Study Desk with Bookshelf - Front View.webp"
     ],
     "colors": []
   },
@@ -8302,9 +8302,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Minimalist Light Oak Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-minimalist-light-oak-dining-table/Minimalist Light Oak Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-minimalist-light-oak-dining-table/Minimalist Light Oak Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-minimalist-light-oak-dining-table/Minimalist Light Oak Dining Table.jpg"
+      "assets/products/center-tables/cat-minimalist-light-oak-dining-table/Minimalist Light Oak Dining Table.webp"
     ],
     "colors": []
   },
@@ -8318,9 +8318,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Dining Room Set With Marble Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-modern-dining-room-set-with-marble-table/Modern Dining Room Set with Marble Table.jpg",
+    "img": "assets/products/dining-tables/cat-modern-dining-room-set-with-marble-table/Modern Dining Room Set with Marble Table.webp",
     "images": [
-      "assets/products/dining-tables/cat-modern-dining-room-set-with-marble-table/Modern Dining Room Set with Marble Table.jpg"
+      "assets/products/dining-tables/cat-modern-dining-room-set-with-marble-table/Modern Dining Room Set with Marble Table.webp"
     ],
     "colors": []
   },
@@ -8334,9 +8334,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oval Wood Dining Table With Matching Bench combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-oval-wood-dining-table-with-matching-bench/Oval Wood Dining Table with Matching Bench.jpg",
+    "img": "assets/products/dining-tables/cat-oval-wood-dining-table-with-matching-bench/Oval Wood Dining Table with Matching Bench.webp",
     "images": [
-      "assets/products/dining-tables/cat-oval-wood-dining-table-with-matching-bench/Oval Wood Dining Table with Matching Bench.jpg"
+      "assets/products/dining-tables/cat-oval-wood-dining-table-with-matching-bench/Oval Wood Dining Table with Matching Bench.webp"
     ],
     "colors": []
   },
@@ -8350,9 +8350,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rectangular Dark Wood Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-rectangular-dark-wood-dining-table/Rectangular Dark Wood Dining Table.jpg",
+    "img": "assets/products/dining-tables/cat-rectangular-dark-wood-dining-table/Rectangular Dark Wood Dining Table.webp",
     "images": [
-      "assets/products/dining-tables/cat-rectangular-dark-wood-dining-table/Rectangular Dark Wood Dining Table.jpg"
+      "assets/products/dining-tables/cat-rectangular-dark-wood-dining-table/Rectangular Dark Wood Dining Table.webp"
     ],
     "colors": []
   },
@@ -8366,9 +8366,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Solid Wood Executive Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-scandinavian-solid-wood-executive-dining-table/Scandinavian Solid Wood Executive Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-scandinavian-solid-wood-executive-dining-table/Scandinavian Solid Wood Executive Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-scandinavian-solid-wood-executive-dining-table/Scandinavian Solid Wood Executive Dining Table.jpg"
+      "assets/products/center-tables/cat-scandinavian-solid-wood-executive-dining-table/Scandinavian Solid Wood Executive Dining Table.webp"
     ],
     "colors": []
   },
@@ -8382,9 +8382,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Table Base White Bracket Frame With Wooden Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/cafe-tables/scandinavian-table-base-white-bracket-frame-with-wooden-legs/Scandinavian Table Base White Bracket Frame with Wooden Legs.png",
+    "img": "assets/products/cafe-tables/scandinavian-table-base-white-bracket-frame-with-wooden-legs/Scandinavian Table Base White Bracket Frame with Wooden Legs.webp",
     "images": [
-      "assets/products/cafe-tables/scandinavian-table-base-white-bracket-frame-with-wooden-legs/Scandinavian Table Base White Bracket Frame with Wooden Legs.png"
+      "assets/products/cafe-tables/scandinavian-table-base-white-bracket-frame-with-wooden-legs/Scandinavian Table Base White Bracket Frame with Wooden Legs.webp"
     ],
     "colors": []
   },
@@ -8398,9 +8398,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian White Rectangular Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/dining-tables/cat-scandinavian-white-rectangular-dining-table/Scandinavian White Rectangular Dining Table.png",
+    "img": "assets/products/dining-tables/cat-scandinavian-white-rectangular-dining-table/Scandinavian White Rectangular Dining Table.webp",
     "images": [
-      "assets/products/dining-tables/cat-scandinavian-white-rectangular-dining-table/Scandinavian White Rectangular Dining Table.png"
+      "assets/products/dining-tables/cat-scandinavian-white-rectangular-dining-table/Scandinavian White Rectangular Dining Table.webp"
     ],
     "colors": []
   },
@@ -8414,9 +8414,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sculptural Teak Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-sculptural-teak-dining-table/Sculptural Teak Dining Table - Studio View.jpg",
+    "img": "assets/products/center-tables/cat-sculptural-teak-dining-table/Sculptural Teak Dining Table - Studio View.webp",
     "images": [
-      "assets/products/center-tables/cat-sculptural-teak-dining-table/Sculptural Teak Dining Table - Studio View.jpg"
+      "assets/products/center-tables/cat-sculptural-teak-dining-table/Sculptural Teak Dining Table - Studio View.webp"
     ],
     "colors": []
   },
@@ -8430,9 +8430,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sculptural Trestle Wooden Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-sculptural-trestle-wooden-dining-table/Sculptural Trestle Wooden Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-sculptural-trestle-wooden-dining-table/Sculptural Trestle Wooden Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-sculptural-trestle-wooden-dining-table/Sculptural Trestle Wooden Dining Table.jpg"
+      "assets/products/center-tables/cat-sculptural-trestle-wooden-dining-table/Sculptural Trestle Wooden Dining Table.webp"
     ],
     "colors": []
   },
@@ -8446,9 +8446,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tapered Leg Light Oak Dining Table B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-tapered-leg-light-oak-dining-table-b/Tapered Leg Light Oak Dining Table B.jpg",
+    "img": "assets/products/center-tables/cat-tapered-leg-light-oak-dining-table-b/Tapered Leg Light Oak Dining Table B.webp",
     "images": [
-      "assets/products/center-tables/cat-tapered-leg-light-oak-dining-table-b/Tapered Leg Light Oak Dining Table B.jpg"
+      "assets/products/center-tables/cat-tapered-leg-light-oak-dining-table-b/Tapered Leg Light Oak Dining Table B.webp"
     ],
     "colors": []
   },
@@ -8462,9 +8462,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tapered Leg Light Wood Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-tapered-leg-light-wood-dining-table/Tapered Leg Light Wood Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-tapered-leg-light-wood-dining-table/Tapered Leg Light Wood Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-tapered-leg-light-wood-dining-table/Tapered Leg Light Wood Dining Table.jpg"
+      "assets/products/center-tables/cat-tapered-leg-light-wood-dining-table/Tapered Leg Light Wood Dining Table.webp"
     ],
     "colors": []
   },
@@ -8478,9 +8478,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tapered Leg Walnut Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-tapered-leg-walnut-dining-table/Tapered Leg Walnut Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-tapered-leg-walnut-dining-table/Tapered Leg Walnut Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-tapered-leg-walnut-dining-table/Tapered Leg Walnut Dining Table.jpg"
+      "assets/products/center-tables/cat-tapered-leg-walnut-dining-table/Tapered Leg Walnut Dining Table.webp"
     ],
     "colors": []
   },
@@ -8494,9 +8494,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tapered Leg Walnut Dining Table C combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-tapered-leg-walnut-dining-table-c/Tapered Leg Walnut Dining Table C.jpg",
+    "img": "assets/products/center-tables/cat-tapered-leg-walnut-dining-table-c/Tapered Leg Walnut Dining Table C.webp",
     "images": [
-      "assets/products/center-tables/cat-tapered-leg-walnut-dining-table-c/Tapered Leg Walnut Dining Table C.jpg"
+      "assets/products/center-tables/cat-tapered-leg-walnut-dining-table-c/Tapered Leg Walnut Dining Table C.webp"
     ],
     "colors": []
   },
@@ -8510,9 +8510,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tapered Leg Wood Dining Table B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-tapered-leg-wood-dining-table-b/Tapered Leg Wood Dining Table B.jpg",
+    "img": "assets/products/center-tables/cat-tapered-leg-wood-dining-table-b/Tapered Leg Wood Dining Table B.webp",
     "images": [
-      "assets/products/center-tables/cat-tapered-leg-wood-dining-table-b/Tapered Leg Wood Dining Table B.jpg"
+      "assets/products/center-tables/cat-tapered-leg-wood-dining-table-b/Tapered Leg Wood Dining Table B.webp"
     ],
     "colors": []
   },
@@ -8526,9 +8526,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Outdoor Dining Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/center-tables/cat-teak-outdoor-dining-table/Teak Outdoor Dining Table.jpg",
+    "img": "assets/products/center-tables/cat-teak-outdoor-dining-table/Teak Outdoor Dining Table.webp",
     "images": [
-      "assets/products/center-tables/cat-teak-outdoor-dining-table/Teak Outdoor Dining Table.jpg"
+      "assets/products/center-tables/cat-teak-outdoor-dining-table/Teak Outdoor Dining Table.webp"
     ],
     "colors": []
   },
@@ -8540,13 +8540,13 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-055/LMW-055.png",
+    "img": "assets/products/dining-tables/lmw-055/LMW-055.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-052 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-055/LMW-055.png",
-      "assets/products/dining-tables/lmw-055/LMW-055_2.png",
-      "assets/products/dining-tables/lmw-055/LMW-055_3.png"
+      "assets/products/dining-tables/lmw-055/LMW-055.webp",
+      "assets/products/dining-tables/lmw-055/LMW-055_2.webp",
+      "assets/products/dining-tables/lmw-055/LMW-055_3.webp"
     ],
     "colors": [
       "Brown",
@@ -8561,11 +8561,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-056/LMW-056.png",
+    "img": "assets/products/dining-tables/lmw-056/LMW-056.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-053 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-056/LMW-056.png"
+      "assets/products/dining-tables/lmw-056/LMW-056.webp"
     ],
     "colors": [
       "Brown"
@@ -8579,11 +8579,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-057/LMW-057_2.png",
+    "img": "assets/products/dining-tables/lmw-057/LMW-057_2.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-054 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-057/LMW-057_2.png"
+      "assets/products/dining-tables/lmw-057/LMW-057_2.webp"
     ],
     "colors": [
       "Grey",
@@ -8598,11 +8598,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-058/LMW-058_2.png",
+    "img": "assets/products/dining-tables/lmw-058/LMW-058_2.webp",
     "badge": "Premium",
     "description": "Gather and dine in elegance with the LMW-055 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-058/LMW-058_2.png"
+      "assets/products/dining-tables/lmw-058/LMW-058_2.webp"
     ],
     "colors": [
       "Grey"
@@ -8616,11 +8616,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/dining-tables/lmw-059/LMW-059.png",
+    "img": "assets/products/dining-tables/lmw-059/LMW-059.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-056 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-059/LMW-059.png"
+      "assets/products/dining-tables/lmw-059/LMW-059.webp"
     ],
     "colors": [
       "Grey"
@@ -8634,11 +8634,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-060/LMW-060.png",
+    "img": "assets/products/dining-tables/lmw-060/LMW-060.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-057 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-060/LMW-060.png"
+      "assets/products/dining-tables/lmw-060/LMW-060.webp"
     ],
     "colors": [
       "Red"
@@ -8652,12 +8652,12 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/dining-tables/lmw-061/LMW-061.png",
+    "img": "assets/products/dining-tables/lmw-061/LMW-061.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-058 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-061/LMW-061.png",
-      "assets/products/dining-tables/lmw-061/LMW-061_2.png"
+      "assets/products/dining-tables/lmw-061/LMW-061.webp",
+      "assets/products/dining-tables/lmw-061/LMW-061_2.webp"
     ],
     "colors": [
       "Red"
@@ -8671,11 +8671,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/dining-tables/lmw-062/LMW-062.png",
+    "img": "assets/products/dining-tables/lmw-062/LMW-062.webp",
     "badge": "New",
     "description": "Gather and dine in elegance with the LMW-059 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-062/LMW-062.png"
+      "assets/products/dining-tables/lmw-062/LMW-062.webp"
     ],
     "colors": [
       "Brown"
@@ -8689,11 +8689,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-063/LMW-063.png",
+    "img": "assets/products/dining-tables/lmw-063/LMW-063.webp",
     "badge": "Premium",
     "description": "Gather and dine in elegance with the LMW-060 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-063/LMW-063.png"
+      "assets/products/dining-tables/lmw-063/LMW-063.webp"
     ],
     "colors": [
       "Red"
@@ -8707,11 +8707,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-064/LMW-064.png",
+    "img": "assets/products/dining-tables/lmw-064/LMW-064.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-061 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-064/LMW-064.png"
+      "assets/products/dining-tables/lmw-064/LMW-064.webp"
     ],
     "colors": [
       "Red"
@@ -8725,11 +8725,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/dining-tables/lmw-065/LMW-065_2.png",
+    "img": "assets/products/dining-tables/lmw-065/LMW-065_2.webp",
     "badge": "",
     "description": "Gather and dine in elegance with the LMW-062 dining set. Crafted from premium wood to ensure long-lasting durability, this set includes a beautifully finished table and matching chairs. Perfect for daily family meals and entertaining guests alike, it brings timeless charm to your dining space.",
     "images": [
-      "assets/products/dining-tables/lmw-065/LMW-065_2.png"
+      "assets/products/dining-tables/lmw-065/LMW-065_2.webp"
     ],
     "colors": [
       "White",
@@ -8746,11 +8746,11 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "ORBIS is a stylish round table featuring a smooth tabletop paired with a sleek central metal pedestal base, offering strong support and a clean, modern look.",
-    "img": "assets/products/dining-tables/orbis/Orbis_01.png",
+    "img": "assets/products/dining-tables/orbis/Orbis_01.webp",
     "images": [
-      "assets/products/dining-tables/orbis/Orbis_01.png",
-      "assets/products/dining-tables/orbis/Orbis_03.png",
-      "assets/products/dining-tables/orbis/Orbis_04.png"
+      "assets/products/dining-tables/orbis/Orbis_01.webp",
+      "assets/products/dining-tables/orbis/Orbis_03.webp",
+      "assets/products/dining-tables/orbis/Orbis_04.webp"
     ],
     "colors": [],
     "tags": [
@@ -8759,19 +8759,19 @@ const PRODUCTS = [
   },
   {
     "id": "rubco-dining-set-6-seater",
-    "name": "Rubco Dining Set – 6 Seater",
+    "name": "Rubco Dining Set â€“ 6 Seater",
     "category": "dining-tables",
     "type": "table",
     "material": "Rubberwood",
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Rubco Dining Set (6 Seater Rectangular Table with Antique Chair 6 Nos) Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_1.jpg",
+    "description": "Rubco Dining Set (6 Seater Rectangular Table with Antique Chair 6 Nos) Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_1.webp",
     "images": [
-      "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_1.jpg",
-      "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_2.jpg",
-      "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_3.jpg"
+      "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_1.webp",
+      "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_2.webp",
+      "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/rubco-dining-set-6-seater",
     "colors": [
@@ -8788,14 +8788,14 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40.webp",
     "images": [
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_1.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_2.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_3.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_4.jpg"
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_1.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_2.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_3.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/dining-table-round-with-empire-leg-40",
     "colors": [
@@ -8812,13 +8812,13 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48.webp",
     "images": [
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48_1.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48_2.jpg",
-      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48_3.jpg"
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48_1.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48_2.webp",
+      "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/dining-table-round-with-empire-leg-48",
     "colors": [
@@ -8835,14 +8835,14 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set.webp",
     "images": [
-      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set.jpg",
-      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_1.jpg",
-      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_2.jpg",
-      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_3.jpg",
-      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_4.jpg"
+      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set.webp",
+      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_1.webp",
+      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_2.webp",
+      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_3.webp",
+      "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/oval-empire-leg-dining-table-set",
     "colors": [
@@ -8860,9 +8860,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Camel Tan Theater Loveseat Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-camel-tan-theater-loveseat-recliner/camel_tan_theater_loveseat_recliner.png",
+    "img": "assets/products/home-theatre-seating/cat-camel-tan-theater-loveseat-recliner/camel_tan_theater_loveseat_recliner.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-camel-tan-theater-loveseat-recliner/camel_tan_theater_loveseat_recliner.png"
+      "assets/products/home-theatre-seating/cat-camel-tan-theater-loveseat-recliner/camel_tan_theater_loveseat_recliner.webp"
     ],
     "colors": []
   },
@@ -8876,9 +8876,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Leather 3 Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-charcoal-leather-3seat-theater-recliner/charcoal_leather_3seat_theater_recliner.png",
+    "img": "assets/products/home-theatre-seating/cat-charcoal-leather-3seat-theater-recliner/charcoal_leather_3seat_theater_recliner.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-charcoal-leather-3seat-theater-recliner/charcoal_leather_3seat_theater_recliner.png"
+      "assets/products/home-theatre-seating/cat-charcoal-leather-3seat-theater-recliner/charcoal_leather_3seat_theater_recliner.webp"
     ],
     "colors": []
   },
@@ -8892,9 +8892,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Espresso Leather 3 Seat Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-espresso-leather-3seat-theater-recliner/espresso_leather_3seat_theater_recliner.png",
+    "img": "assets/products/home-theatre-seating/cat-espresso-leather-3seat-theater-recliner/espresso_leather_3seat_theater_recliner.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-espresso-leather-3seat-theater-recliner/espresso_leather_3seat_theater_recliner.png"
+      "assets/products/home-theatre-seating/cat-espresso-leather-3seat-theater-recliner/espresso_leather_3seat_theater_recliner.webp"
     ],
     "colors": []
   },
@@ -8908,9 +8908,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray 3 Person Theater Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-light-gray-3person-theater-recliner/light_gray_3person_theater_recliner.png",
+    "img": "assets/products/home-theatre-seating/cat-light-gray-3person-theater-recliner/light_gray_3person_theater_recliner.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-light-gray-3person-theater-recliner/light_gray_3person_theater_recliner.png"
+      "assets/products/home-theatre-seating/cat-light-gray-3person-theater-recliner/light_gray_3person_theater_recliner.webp"
     ],
     "colors": []
   },
@@ -8924,9 +8924,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Royal Blue Theater Recliner Row combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/home-theatre-seating/cat-royal-blue-theater-recliner-row/royal_blue_theater_recliner_row.png",
+    "img": "assets/products/home-theatre-seating/cat-royal-blue-theater-recliner-row/royal_blue_theater_recliner_row.webp",
     "images": [
-      "assets/products/home-theatre-seating/cat-royal-blue-theater-recliner-row/royal_blue_theater_recliner_row.png"
+      "assets/products/home-theatre-seating/cat-royal-blue-theater-recliner-row/royal_blue_theater_recliner_row.webp"
     ],
     "colors": []
   },
@@ -8939,10 +8939,10 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 5,
     "badge": "Custom",
-    "description": "Build your mattress to fit exactly how you sleep. Choose your thickness: 6 inch, 8 inch, or 6 inch Hi. 6 inch Hi construction — 4\" Rebonded + 2\" 32D S Softy + 2\" 80D 7-Zone Natural Latex Foam, finished with a 250 GSM knitted quilt. Enquire to customise size, thickness, firmness and finish.",
-    "img": "assets/products/mattresses/customise-your-mattress/rubco_iris_mattress.jpg",
+    "description": "Build your mattress to fit exactly how you sleep. Choose your thickness: 6 inch, 8 inch, or 6 inch Hi. 6 inch Hi construction â€” 4\" Rebonded + 2\" 32D S Softy + 2\" 80D 7-Zone Natural Latex Foam, finished with a 250 GSM knitted quilt. Enquire to customise size, thickness, firmness and finish.",
+    "img": "assets/products/mattresses/customise-your-mattress/rubco_iris_mattress.webp",
     "images": [
-      "assets/products/mattresses/customise-your-mattress/rubco_iris_mattress.jpg"
+      "assets/products/mattresses/customise-your-mattress/rubco_iris_mattress.webp"
     ],
     "thicknessOptions": [
       "6 inch thickness",
@@ -8960,11 +8960,11 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Cover: Printed polyester woven ticking fabric is quilted with 3 nos of 18 density 7 mm peeled foam together with 18 gm/m² non woven fabric as backing cloth. The corner of the mattress round shaped. Quilted panels stitched on the top. Border/Stabilizer: Printed polyester woven ticking fabric is covered over the 8\"x8 mm 13 density peeled foam. Inner Core: Construction Details Top to Bottom, 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified), 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified). Packing: PVC film cover with 400 gauge and four corners of the mattress protected by the covering of corrugated 3 ply paper boards with centre band wrapping. Brand: Rubco Sleeping System. Thickness: 6 Inch. Bottom: 250GSM Printed polyester woven ticking fabric. Corner Label: Exclusive film label provided at the corner. Warranty: 3 years.",
-    "img": "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress.jpg",
+    "description": "Cover: Printed polyester woven ticking fabric is quilted with 3 nos of 18 density 7 mm peeled foam together with 18 gm/mÂ² non woven fabric as backing cloth. The corner of the mattress round shaped. Quilted panels stitched on the top. Border/Stabilizer: Printed polyester woven ticking fabric is covered over the 8\"x8 mm 13 density peeled foam. Inner Core: Construction Details Top to Bottom, 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified), 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified). Packing: PVC film cover with 400 gauge and four corners of the mattress protected by the covering of corrugated 3 ply paper boards with centre band wrapping. Brand: Rubco Sleeping System. Thickness: 6 Inch. Bottom: 250GSM Printed polyester woven ticking fabric. Corner Label: Exclusive film label provided at the corner. Warranty: 3 years.",
+    "img": "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress.webp",
     "images": [
-      "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress.jpg",
-      "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress_1.jpg"
+      "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress.webp",
+      "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress_1.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-iris-mattress",
     "colors": [
@@ -8982,12 +8982,12 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "Rubco 'Naturala 100' is a perfect blend of Natural Rubber Latex, Memory Foam, PU Foam, and High Density Rubberized Coir Block. Salient Benefits: Tencel Fabric quilted for elegant and rich feel, 100% Natural Pin Core Latex Foam for superior comfort, Super Soft PU Foam layer for added comfort, High Density Ortho Bond layer for stability and support, and High Density VFO technology Rubberized Coir Block as inner coir for maintaining the support and strength. Includes 10 years of warranty. Available in 6 to 10 inch thickness.",
-    "img": "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100.jpg",
+    "img": "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100.webp",
     "images": [
-      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100.jpg",
-      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100_1.jpg",
-      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100_2.jpg",
-      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100_3.jpg"
+      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100.webp",
+      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100_1.webp",
+      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100_2.webp",
+      "assets/products/mattresses/rubco-naturala-100/rubco_naturala_100_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-naturala-100",
     "colors": [
@@ -9005,12 +9005,12 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "Rubco 'Naturala 200' is a perfect blend of Natural Rubber Latex, Memory Foam, and High Density Rubberized Coir Block. Salient Benefits: High GSM Bamboo fabric for an excellent surface feeling and finish, 100% Pincore Natural Latex Foam for a high level of comfort, High Density Ortho Bond layer for stability and support, and High Density VFO technology Rubberized Coir Block to ensure uniform support and natural resilience. Includes 10 years of warranty. Available in 6 to 10 inch thickness.",
-    "img": "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200.jpg",
+    "img": "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200.webp",
     "images": [
-      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200.jpg",
-      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200_1.jpg",
-      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200_2.jpg",
-      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200_3.jpg"
+      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200.webp",
+      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200_1.webp",
+      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200_2.webp",
+      "assets/products/mattresses/rubco-naturala-200/rubco_naturala_200_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-naturala-200",
     "colors": [
@@ -9028,13 +9028,13 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "Rubco 'Naturala 400' is a product of 100% Natural Rubber Latex. Salient Benefits: High GSM cotton fabric for a better surface feel, 100% medium-soft pin-core Natural Latex Foam for extreme comfort, and 100% firm Natural Latex Foam for sufficient body support. Includes 10 years of warranty. Available in 6 to 10 inch thickness.",
-    "img": "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400.jpg",
+    "img": "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400.webp",
     "images": [
-      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400.jpg",
-      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_1.jpg",
-      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_2.jpg",
-      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_3.jpg",
-      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_4.jpg"
+      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400.webp",
+      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_1.webp",
+      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_2.webp",
+      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_3.webp",
+      "assets/products/mattresses/rubco-naturala-400/rubco_naturala_400_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-naturala-400",
     "colors": [
@@ -9052,12 +9052,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "Knitted fabric quilted with PU foam for comfort. High Density Ortho bond layer for superior body support. High Density Coir core for natural resilience and strength. Plain Knitted fabric bottom layer for aesthetics and finish. Includes 3 years of warranty. The sizes available vary from 72 x 30 inches to 84 x 72 inches with a thickness of 4 inches.",
-    "img": "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100.jpg",
+    "img": "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100.webp",
     "images": [
-      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100_1.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100_2.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100_3.jpg"
+      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100_1.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100_2.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-100/neo_spine_relief_100_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/neo-spine-relief-100",
     "colors": [
@@ -9075,11 +9075,11 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "Neo-Spine Relief High Density Mattress with high-quality rubberized coir combination and light density bonded foam is designed to give firm yet soft support across the length of the body in all sleeping postures. Aesthetically designed High GSM Knitted fabric quilted with PU foam for comfort and a quality upper layer. Super Soft PU foam layer for added comfort. High Density VFO technology rubberized coir block as inner coir for natural resilience and body weight support. High Density Ortho bond layer for extra stability and spine support. Knitted fabric with PU foam for outer layer finish and durability. Includes 3 years of warranty. The sizes available vary from 72 x 30 inches to 84 x 72 inches with a thickness of 5 inches.",
-    "img": "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200.jpg",
+    "img": "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200.webp",
     "images": [
-      "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200_1.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200_2.jpg"
+      "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200_1.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-200/neo_spine_relief_200_2.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/neo-spine-relief-200",
     "colors": [
@@ -9097,11 +9097,11 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "Neo-Spine Relief High Density Mattress with high-quality rubberized coir combination and light density bonded foam is designed to give firm yet soft support across the length of the body in all sleeping postures. Highly comfortable High GSM knitted fabric quilted with PU foam for a superior quality upper layer. Extra soft premium quality PU foam layer for added comfort. High Density VFO technology rubberized coir block as inner coir for natural resilience and body weight support. High Density Ortho bond layer for extra stability and spine support. Includes 5 years of warranty. The sizes available vary from 72 x 30 inches to 84 x 72 inches with a thickness of 6 or 8 inches.",
-    "img": "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300.jpg",
+    "img": "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300.webp",
     "images": [
-      "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300_1.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300_2.jpg"
+      "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300_1.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-300/neo_spine_relief_300_2.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/neo-spine-relief-300",
     "colors": [
@@ -9118,12 +9118,12 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.3,
     "badge": "",
-    "description": "Neo-Spine Relief High Density Mattress with high-quality rubberized coir combination and light density bonded foam is designed to give firm yet soft support across the length of the body in all sleeping postures. High GSM Knitted fabric covering for a comfortable and smoothing feel. Comfort Layer – Visco Elastic Memory foam provides maximum support and comfort. Super Soft PU foam for additional comfort. High Density Ortho bond core layer provides a high level of stability and support to the sleeping postures. VFO technology Rubberized Coir for natural resilience and strength.",
-    "img": "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400.jpg",
+    "description": "Neo-Spine Relief High Density Mattress with high-quality rubberized coir combination and light density bonded foam is designed to give firm yet soft support across the length of the body in all sleeping postures. High GSM Knitted fabric covering for a comfortable and smoothing feel. Comfort Layer â€“ Visco Elastic Memory foam provides maximum support and comfort. Super Soft PU foam for additional comfort. High Density Ortho bond core layer provides a high level of stability and support to the sleeping postures. VFO technology Rubberized Coir for natural resilience and strength.",
+    "img": "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400.webp",
     "images": [
-      "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400_1.jpg",
-      "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400_2.jpg"
+      "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400_1.webp",
+      "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400_2.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/neo-spine-relief-400",
     "colors": [
@@ -9140,11 +9140,11 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Cover: Exclusive 130 GSM maroon printed polyester-cotton satin weaving fabric is multi-needle quilted with 2 nos of 18 density 10 mm peeled foam together with 17 gm/m² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is stitched on top. Border/Stabilizer: 7\"x8 mm 13 density peeled foam covered with 130 GSM printed polyester-cotton satin weaving fabric. Thickness: 5 Inch. Inner Core: 28 Density 20 mm PU foam (Top), 4\" 80 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and four corners of the mattress protected by a corrugated 3-ply paper board covering with centre band wrapping. Warranty: 2 years.",
-    "img": "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress.jpg",
+    "description": "Cover: Exclusive 130 GSM maroon printed polyester-cotton satin weaving fabric is multi-needle quilted with 2 nos of 18 density 10 mm peeled foam together with 17 gm/mÂ² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is stitched on top. Border/Stabilizer: 7\"x8 mm 13 density peeled foam covered with 130 GSM printed polyester-cotton satin weaving fabric. Thickness: 5 Inch. Inner Core: 28 Density 20 mm PU foam (Top), 4\" 80 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and four corners of the mattress protected by a corrugated 3-ply paper board covering with centre band wrapping. Warranty: 2 years.",
+    "img": "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress.webp",
     "images": [
-      "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress.jpg",
-      "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress_1.jpg"
+      "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress.webp",
+      "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress_1.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-safal-mattress",
     "colors": [
@@ -9161,11 +9161,11 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Cover: Exclusive 100% 85 GSM printed polyester twill fabric or Chinese printed tricot fabric is multi-needle quilted with 1 no of 10 mm 13 density together with 17 gm/m² non-woven fabric. The corner of the mattress is round-shaped. Border/Stabilizer: 85 GSM printed polyester fabric or Chinese printed tricot fabric is covered over the 5 mm 13 density peeled foam. Thickness: 4 Inch. Inner Core: 65 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC cover with a gauge of 260 and with center band wrapping. Warranty: 1 year.",
-    "img": "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress.jpg",
+    "description": "Cover: Exclusive 100% 85 GSM printed polyester twill fabric or Chinese printed tricot fabric is multi-needle quilted with 1 no of 10 mm 13 density together with 17 gm/mÂ² non-woven fabric. The corner of the mattress is round-shaped. Border/Stabilizer: 85 GSM printed polyester fabric or Chinese printed tricot fabric is covered over the 5 mm 13 density peeled foam. Thickness: 4 Inch. Inner Core: 65 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC cover with a gauge of 260 and with center band wrapping. Warranty: 1 year.",
+    "img": "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress.webp",
     "images": [
-      "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress.jpg",
-      "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress_1.jpg"
+      "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress.webp",
+      "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress_1.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/mattress/rubco-sapphire-mattress",
     "colors": [
@@ -9181,15 +9181,15 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.8,
-    "img": "assets/products/office-chairs/ace/ACE.png",
+    "img": "assets/products/office-chairs/ace/ACE.webp",
     "badge": "",
     "description": "The ACE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/ace/ACE.png",
-      "assets/products/office-chairs/ace/ACE_2.png",
-      "assets/products/office-chairs/ace/ACE_3.png",
-      "assets/products/office-chairs/ace/ACE_4.png",
-      "assets/products/office-chairs/ace/ACE_5.png"
+      "assets/products/office-chairs/ace/ACE.webp",
+      "assets/products/office-chairs/ace/ACE_2.webp",
+      "assets/products/office-chairs/ace/ACE_3.webp",
+      "assets/products/office-chairs/ace/ACE_4.webp",
+      "assets/products/office-chairs/ace/ACE_5.webp"
     ],
     "colors": [
       "Grey"
@@ -9203,15 +9203,15 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.5,
-    "img": "assets/products/office-chairs/alex/ALEX.png",
+    "img": "assets/products/office-chairs/alex/ALEX.webp",
     "badge": "",
     "description": "The ALEX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/alex/ALEX.png",
-      "assets/products/office-chairs/alex/ALEX_2.png",
-      "assets/products/office-chairs/alex/ALEX_3.png",
-      "assets/products/office-chairs/alex/ALEX_4.png",
-      "assets/products/office-chairs/alex/ALEX_5.png"
+      "assets/products/office-chairs/alex/ALEX.webp",
+      "assets/products/office-chairs/alex/ALEX_2.webp",
+      "assets/products/office-chairs/alex/ALEX_3.webp",
+      "assets/products/office-chairs/alex/ALEX_4.webp",
+      "assets/products/office-chairs/alex/ALEX_5.webp"
     ],
     "colors": [
       "Grey"
@@ -9225,11 +9225,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.5,
-    "img": "assets/products/office-chairs/alto/ALTO.png",
+    "img": "assets/products/office-chairs/alto/ALTO.webp",
     "badge": "",
     "description": "The ALTO Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/alto/ALTO.png"
+      "assets/products/office-chairs/alto/ALTO.webp"
     ],
     "colors": [
       "Grey"
@@ -9243,13 +9243,13 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/amigo/AMIGO.png",
+    "img": "assets/products/office-chairs/amigo/AMIGO.webp",
     "badge": "",
     "description": "The AMIGO Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/amigo/AMIGO.png",
-      "assets/products/office-chairs/amigo/AMIGO_2.png",
-      "assets/products/office-chairs/amigo/AMIGO_3.png"
+      "assets/products/office-chairs/amigo/AMIGO.webp",
+      "assets/products/office-chairs/amigo/AMIGO_2.webp",
+      "assets/products/office-chairs/amigo/AMIGO_3.webp"
     ],
     "colors": [
       "Grey"
@@ -9263,14 +9263,14 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/amity/AMITY_2.png",
+    "img": "assets/products/office-chairs/amity/AMITY_2.webp",
     "badge": "",
     "description": "A perfect blend of comfort and looks, the AMITY Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Brown or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/amity/AMITY_2.png",
-      "assets/products/office-chairs/amity/AMITY.png",
-      "assets/products/office-chairs/amity/AMITY_3.png",
-      "assets/products/office-chairs/amity/AMITY_4.png"
+      "assets/products/office-chairs/amity/AMITY_2.webp",
+      "assets/products/office-chairs/amity/AMITY.webp",
+      "assets/products/office-chairs/amity/AMITY_3.webp",
+      "assets/products/office-chairs/amity/AMITY_4.webp"
     ],
     "colors": [
       "Brown",
@@ -9287,12 +9287,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Amity | AYK Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey or Brown, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---ayk/Amity _ AYK - 201.png",
+    "img": "assets/products/office-chairs/amity---ayk/Amity _ AYK - 201.webp",
     "images": [
-      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 201.png",
-      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 201_2.png",
-      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 301.png",
-      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 301_2.png"
+      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 201.webp",
+      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 201_2.webp",
+      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 301.webp",
+      "assets/products/office-chairs/amity---ayk/Amity _ AYK - 301_2.webp"
     ],
     "colors": [
       "Grey",
@@ -9309,14 +9309,14 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "The Amity | AYL Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, Brown or Yellow, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201.png",
+    "img": "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201.webp",
     "images": [
-      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201.png",
-      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201_2.png",
-      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201_3.png",
-      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201_4.png",
-      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 301.png",
-      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 301_2.png"
+      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201.webp",
+      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201_2.webp",
+      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201_3.webp",
+      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 201_4.webp",
+      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 301.webp",
+      "assets/products/office-chairs/amity---ayl/Amity _ AYL - 301_2.webp"
     ],
     "colors": [
       "Grey",
@@ -9334,12 +9334,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Creating an energized work environment, the Amity | AYM Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---aym/Amity _ AYM - 101.png",
+    "img": "assets/products/office-chairs/amity---aym/Amity _ AYM - 101.webp",
     "images": [
-      "assets/products/office-chairs/amity---aym/Amity _ AYM - 101.png",
-      "assets/products/office-chairs/amity---aym/Amity _ AYM - 101_2.png",
-      "assets/products/office-chairs/amity---aym/Amity _ AYM - 201.png",
-      "assets/products/office-chairs/amity---aym/Amity _ AYM - 301.png"
+      "assets/products/office-chairs/amity---aym/Amity _ AYM - 101.webp",
+      "assets/products/office-chairs/amity---aym/Amity _ AYM - 101_2.webp",
+      "assets/products/office-chairs/amity---aym/Amity _ AYM - 201.webp",
+      "assets/products/office-chairs/amity---aym/Amity _ AYM - 301.webp"
     ],
     "colors": [
       "Brown",
@@ -9356,12 +9356,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Amity | AYN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---ayn/Amity _ AYN - 101.png",
+    "img": "assets/products/office-chairs/amity---ayn/Amity _ AYN - 101.webp",
     "images": [
-      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 101.png",
-      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 101_2.png",
-      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 201.png",
-      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 201_2.png"
+      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 101.webp",
+      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 101_2.webp",
+      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 201.webp",
+      "assets/products/office-chairs/amity---ayn/Amity _ AYN - 201_2.webp"
     ],
     "colors": [
       "Grey"
@@ -9377,12 +9377,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Intuitively interpreting intrapersonal cues, the Amity | AYS Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red, Green, Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---ays/Amity _ AYS - 101.png",
+    "img": "assets/products/office-chairs/amity---ays/Amity _ AYS - 101.webp",
     "images": [
-      "assets/products/office-chairs/amity---ays/Amity _ AYS - 101.png",
-      "assets/products/office-chairs/amity---ays/Amity _ AYS - 201.png",
-      "assets/products/office-chairs/amity---ays/Amity _ AYS - 301.png",
-      "assets/products/office-chairs/amity---ays/Amity _ AYS - 301_2.png"
+      "assets/products/office-chairs/amity---ays/Amity _ AYS - 101.webp",
+      "assets/products/office-chairs/amity---ays/Amity _ AYS - 201.webp",
+      "assets/products/office-chairs/amity---ays/Amity _ AYS - 301.webp",
+      "assets/products/office-chairs/amity---ays/Amity _ AYS - 301_2.webp"
     ],
     "colors": [
       "Red",
@@ -9401,12 +9401,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "A conventional style of comfort, the Amity | AYT Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---ayt/Amity _ AYT - 201.png",
+    "img": "assets/products/office-chairs/amity---ayt/Amity _ AYT - 201.webp",
     "images": [
-      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 201.png",
-      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 301.png",
-      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 301_2.png",
-      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 301_3.png"
+      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 201.webp",
+      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 301.webp",
+      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 301_2.webp",
+      "assets/products/office-chairs/amity---ayt/Amity _ AYT - 301_3.webp"
     ],
     "colors": [
       "Brown",
@@ -9423,11 +9423,11 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Amity | AYY Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---ayy/Amity _ AYY - 101.png",
+    "img": "assets/products/office-chairs/amity---ayy/Amity _ AYY - 101.webp",
     "images": [
-      "assets/products/office-chairs/amity---ayy/Amity _ AYY - 101.png",
-      "assets/products/office-chairs/amity---ayy/Amity _ AYY - 201.png",
-      "assets/products/office-chairs/amity---ayy/Amity _ AYY - 201_2.png"
+      "assets/products/office-chairs/amity---ayy/Amity _ AYY - 101.webp",
+      "assets/products/office-chairs/amity---ayy/Amity _ AYY - 201.webp",
+      "assets/products/office-chairs/amity---ayy/Amity _ AYY - 201_2.webp"
     ],
     "colors": [
       "Grey",
@@ -9444,12 +9444,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Amity | SLN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---sln/Amity _ SLN - 101.png",
+    "img": "assets/products/office-chairs/amity---sln/Amity _ SLN - 101.webp",
     "images": [
-      "assets/products/office-chairs/amity---sln/Amity _ SLN - 101.png",
-      "assets/products/office-chairs/amity---sln/Amity _ SLN - 101_2.png",
-      "assets/products/office-chairs/amity---sln/Amity _ SLN - 201.png",
-      "assets/products/office-chairs/amity---sln/Amity _ SLN - 301.png"
+      "assets/products/office-chairs/amity---sln/Amity _ SLN - 101.webp",
+      "assets/products/office-chairs/amity---sln/Amity _ SLN - 101_2.webp",
+      "assets/products/office-chairs/amity---sln/Amity _ SLN - 201.webp",
+      "assets/products/office-chairs/amity---sln/Amity _ SLN - 301.webp"
     ],
     "colors": [
       "Grey"
@@ -9465,12 +9465,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Designed to unleash your True self, the Amity | SLS Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red, Blue or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/amity---sls/Amity _ SLS - 101.png",
+    "img": "assets/products/office-chairs/amity---sls/Amity _ SLS - 101.webp",
     "images": [
-      "assets/products/office-chairs/amity---sls/Amity _ SLS - 101.png",
-      "assets/products/office-chairs/amity---sls/Amity _ SLS - 201.png",
-      "assets/products/office-chairs/amity---sls/Amity _ SLS - 301.png",
-      "assets/products/office-chairs/amity---sls/Amity _ SLS - 301_2.png"
+      "assets/products/office-chairs/amity---sls/Amity _ SLS - 101.webp",
+      "assets/products/office-chairs/amity---sls/Amity _ SLS - 201.webp",
+      "assets/products/office-chairs/amity---sls/Amity _ SLS - 301.webp",
+      "assets/products/office-chairs/amity---sls/Amity _ SLS - 301_2.webp"
     ],
     "colors": [
       "Red",
@@ -9486,14 +9486,14 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/apex/APEX.png",
+    "img": "assets/products/office-chairs/apex/APEX.webp",
     "badge": "",
     "description": "The APEX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/apex/APEX.png",
-      "assets/products/office-chairs/apex/APEX_2.png",
-      "assets/products/office-chairs/apex/APEX_3.png",
-      "assets/products/office-chairs/apex/APEX_4.png"
+      "assets/products/office-chairs/apex/APEX.webp",
+      "assets/products/office-chairs/apex/APEX_2.webp",
+      "assets/products/office-chairs/apex/APEX_3.webp",
+      "assets/products/office-chairs/apex/APEX_4.webp"
     ],
     "colors": [
       "Grey"
@@ -9507,11 +9507,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/astral/ASTRAL.png",
+    "img": "assets/products/office-chairs/astral/ASTRAL.webp",
     "badge": "New",
     "description": "The ASTRAL Office Chair is engineered for premium ergonomic performance. Featuring gas lift, it dynamically adjusts to support your body. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/astral/ASTRAL.png"
+      "assets/products/office-chairs/astral/ASTRAL.webp"
     ],
     "colors": [
       "Grey"
@@ -9525,12 +9525,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/atari/ATARI.png",
+    "img": "assets/products/office-chairs/atari/ATARI.webp",
     "badge": "",
     "description": "The ATARI Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/atari/ATARI.png",
-      "assets/products/office-chairs/atari/ATARI_2.png"
+      "assets/products/office-chairs/atari/ATARI.webp",
+      "assets/products/office-chairs/atari/ATARI_2.webp"
     ],
     "colors": [
       "Brown"
@@ -9544,11 +9544,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.8,
-    "img": "assets/products/office-chairs/aura/AURA.png",
+    "img": "assets/products/office-chairs/aura/AURA.webp",
     "badge": "Premium",
     "description": "The AURA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/aura/AURA.png"
+      "assets/products/office-chairs/aura/AURA.webp"
     ],
     "colors": [
       "Grey"
@@ -9562,13 +9562,13 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/avis/AVIS.png",
+    "img": "assets/products/office-chairs/avis/AVIS.webp",
     "badge": "",
     "description": "The AVIS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/avis/AVIS.png",
-      "assets/products/office-chairs/avis/AVIS_2.png",
-      "assets/products/office-chairs/avis/AVIS_3.png"
+      "assets/products/office-chairs/avis/AVIS.webp",
+      "assets/products/office-chairs/avis/AVIS_2.webp",
+      "assets/products/office-chairs/avis/AVIS_3.webp"
     ],
     "colors": [
       "Grey"
@@ -9582,11 +9582,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/base/Base.png",
+    "img": "assets/products/office-chairs/base/Base.webp",
     "badge": "New",
     "description": "The Base Office Chair is engineered for premium ergonomic performance. Featuring armrest, it dynamically adjusts to support your body. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/base/Base.png"
+      "assets/products/office-chairs/base/Base.webp"
     ],
     "colors": [
       "Grey"
@@ -9600,11 +9600,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/blue/BLUE.png",
+    "img": "assets/products/office-chairs/blue/BLUE.webp",
     "badge": "",
     "description": "Offering comfort in every hue, the BLUE Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/blue/BLUE.png"
+      "assets/products/office-chairs/blue/BLUE.webp"
     ],
     "colors": [
       "Grey"
@@ -9618,11 +9618,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/boss/BOSS.png",
+    "img": "assets/products/office-chairs/boss/BOSS.webp",
     "badge": "",
     "description": "The BOSS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/boss/BOSS.png"
+      "assets/products/office-chairs/boss/BOSS.webp"
     ],
     "colors": [
       "Red"
@@ -9638,9 +9638,9 @@ const PRODUCTS = [
     "rating": 5,
     "badge": "New",
     "description": "Where comfort meets intelligent design. Premium ergonomic Office Chair from the LayerMax Signature collection.",
-    "img": "assets/products/office-chairs/cosmo/COSMO_3.png",
+    "img": "assets/products/office-chairs/cosmo/COSMO_3.webp",
     "images": [
-      "assets/products/office-chairs/cosmo/COSMO_3.png"
+      "assets/products/office-chairs/cosmo/COSMO_3.webp"
     ],
     "colors": [
       "White",
@@ -9655,11 +9655,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/drone/DRONE.png",
+    "img": "assets/products/office-chairs/drone/DRONE.webp",
     "badge": "New",
     "description": "The DRONE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/drone/DRONE.png"
+      "assets/products/office-chairs/drone/DRONE.webp"
     ],
     "colors": [
       "Grey"
@@ -9673,13 +9673,13 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/dune/DUNE.png",
+    "img": "assets/products/office-chairs/dune/DUNE.webp",
     "badge": "",
     "description": "The DUNE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/dune/DUNE.png",
-      "assets/products/office-chairs/dune/DUNE_2.png",
-      "assets/products/office-chairs/dune/DUNE_3.png"
+      "assets/products/office-chairs/dune/DUNE.webp",
+      "assets/products/office-chairs/dune/DUNE_2.webp",
+      "assets/products/office-chairs/dune/DUNE_3.webp"
     ],
     "colors": [
       "Grey"
@@ -9693,14 +9693,14 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/echo/ECHO.png",
+    "img": "assets/products/office-chairs/echo/ECHO.webp",
     "badge": "",
     "description": "The ECHO Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/echo/ECHO.png",
-      "assets/products/office-chairs/echo/ECHO_2.png",
-      "assets/products/office-chairs/echo/ECHO_3.png",
-      "assets/products/office-chairs/echo/ECHO_4.png"
+      "assets/products/office-chairs/echo/ECHO.webp",
+      "assets/products/office-chairs/echo/ECHO_2.webp",
+      "assets/products/office-chairs/echo/ECHO_3.webp",
+      "assets/products/office-chairs/echo/ECHO_4.webp"
     ],
     "colors": [
       "Grey"
@@ -9714,11 +9714,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/eclipse/ECLIPSE_2.png",
+    "img": "assets/products/office-chairs/eclipse/ECLIPSE_2.webp",
     "badge": "",
     "description": "Designed around you, the ECLIPSE Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in White or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/eclipse/ECLIPSE_2.png"
+      "assets/products/office-chairs/eclipse/ECLIPSE_2.webp"
     ],
     "colors": [
       "White",
@@ -9733,14 +9733,14 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/eddie/EDDIE.png",
+    "img": "assets/products/office-chairs/eddie/EDDIE.webp",
     "badge": "",
     "description": "The EDDIE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/eddie/EDDIE.png",
-      "assets/products/office-chairs/eddie/EDDIE_2.png",
-      "assets/products/office-chairs/eddie/EDDIE_3.png",
-      "assets/products/office-chairs/eddie/EDDIE_4.png"
+      "assets/products/office-chairs/eddie/EDDIE.webp",
+      "assets/products/office-chairs/eddie/EDDIE_2.webp",
+      "assets/products/office-chairs/eddie/EDDIE_3.webp",
+      "assets/products/office-chairs/eddie/EDDIE_4.webp"
     ],
     "colors": [
       "Brown",
@@ -9755,16 +9755,16 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/ella/ELLA.png",
+    "img": "assets/products/office-chairs/ella/ELLA.webp",
     "badge": "",
     "description": "The ELLA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/ella/ELLA.png",
-      "assets/products/office-chairs/ella/ELLA_2.png",
-      "assets/products/office-chairs/ella/ELLA_3.png",
-      "assets/products/office-chairs/ella/ELLA_4.png",
-      "assets/products/office-chairs/ella/ELLA_5.png",
-      "assets/products/office-chairs/ella/ELLA_6.png"
+      "assets/products/office-chairs/ella/ELLA.webp",
+      "assets/products/office-chairs/ella/ELLA_2.webp",
+      "assets/products/office-chairs/ella/ELLA_3.webp",
+      "assets/products/office-chairs/ella/ELLA_4.webp",
+      "assets/products/office-chairs/ella/ELLA_5.webp",
+      "assets/products/office-chairs/ella/ELLA_6.webp"
     ],
     "colors": [
       "Red",
@@ -9779,11 +9779,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/epic/EPIC.png",
+    "img": "assets/products/office-chairs/epic/EPIC.webp",
     "badge": "",
     "description": "The EPIC Office Chair is engineered for premium ergonomic performance. Featuring gas lift, it dynamically adjusts to support your body. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/epic/EPIC.png"
+      "assets/products/office-chairs/epic/EPIC.webp"
     ],
     "colors": [
       "Grey"
@@ -9799,9 +9799,9 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "Premium",
     "description": "Built Responsibly. Premium leather Office Chair with ergonomic support and sleek design.",
-    "img": "assets/products/office-chairs/flare/FLARE_2.png",
+    "img": "assets/products/office-chairs/flare/FLARE_2.webp",
     "images": [
-      "assets/products/office-chairs/flare/FLARE_2.png"
+      "assets/products/office-chairs/flare/FLARE_2.webp"
     ],
     "colors": [
       "Black",
@@ -9816,14 +9816,14 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/genesis/GENESIS.png",
+    "img": "assets/products/office-chairs/genesis/GENESIS.webp",
     "badge": "",
     "description": "The GENESIS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red, Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/genesis/GENESIS.png",
-      "assets/products/office-chairs/genesis/GENESIS_2.png",
-      "assets/products/office-chairs/genesis/GENESIS_3.png",
-      "assets/products/office-chairs/genesis/GENESIS_4.png"
+      "assets/products/office-chairs/genesis/GENESIS.webp",
+      "assets/products/office-chairs/genesis/GENESIS_2.webp",
+      "assets/products/office-chairs/genesis/GENESIS_3.webp",
+      "assets/products/office-chairs/genesis/GENESIS_4.webp"
     ],
     "colors": [
       "Red",
@@ -9839,12 +9839,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/grey/GREY.png",
+    "img": "assets/products/office-chairs/grey/GREY.webp",
     "badge": "",
     "description": "Offering comfort in every hue, the GREY Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/grey/GREY.png",
-      "assets/products/office-chairs/grey/GREY_2.png"
+      "assets/products/office-chairs/grey/GREY.webp",
+      "assets/products/office-chairs/grey/GREY_2.webp"
     ],
     "colors": [
       "Grey"
@@ -9860,10 +9860,10 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Designed to inspire you, the Hacer | HC - U Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hc---u/Hacer _ HC - U - 101.png",
+    "img": "assets/products/office-chairs/hacer---hc---u/Hacer _ HC - U - 101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hc---u/Hacer _ HC - U - 101.png",
-      "assets/products/office-chairs/hacer---hc---u/Hacer _ HC - U - 301.png"
+      "assets/products/office-chairs/hacer---hc---u/Hacer _ HC - U - 101.webp",
+      "assets/products/office-chairs/hacer---hc---u/Hacer _ HC - U - 301.webp"
     ],
     "colors": [
       "Grey"
@@ -9879,10 +9879,10 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Hacer | HC - V Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hc---v/Hacer _ HC - V - 101.png",
+    "img": "assets/products/office-chairs/hacer---hc---v/Hacer _ HC - V - 101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hc---v/Hacer _ HC - V - 101.png",
-      "assets/products/office-chairs/hacer---hc---v/Hacer _ HC - V - 301.png"
+      "assets/products/office-chairs/hacer---hc---v/Hacer _ HC - V - 101.webp",
+      "assets/products/office-chairs/hacer---hc---v/Hacer _ HC - V - 301.webp"
     ],
     "colors": [
       "Grey"
@@ -9898,10 +9898,10 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Designed to inspire you, the Hacer | HC - X Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hc---x/Hacer _ HC - X - 101.png",
+    "img": "assets/products/office-chairs/hacer---hc---x/Hacer _ HC - X - 101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hc---x/Hacer _ HC - X - 101.png",
-      "assets/products/office-chairs/hacer---hc---x/Hacer _ HC - X - 301.png"
+      "assets/products/office-chairs/hacer---hc---x/Hacer _ HC - X - 101.webp",
+      "assets/products/office-chairs/hacer---hc---x/Hacer _ HC - X - 301.webp"
     ],
     "colors": [
       "Grey"
@@ -9917,12 +9917,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Built to revitalize your work, the Hacer | HCA Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Brown, Grey or Red, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hca/Hacer _ HCA -101.png",
+    "img": "assets/products/office-chairs/hacer---hca/Hacer _ HCA -101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -101.png",
-      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -101_2.png",
-      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -301.png",
-      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -301_2.png"
+      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -101.webp",
+      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -101_2.webp",
+      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -301.webp",
+      "assets/products/office-chairs/hacer---hca/Hacer _ HCA -301_2.webp"
     ],
     "colors": [
       "Brown",
@@ -9940,12 +9940,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Hacer | HCM Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red or Brown, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 101.png",
+    "img": "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 101.png",
-      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 201.png",
-      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 201_2.png",
-      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 201_3.png"
+      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 101.webp",
+      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 201.webp",
+      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 201_2.webp",
+      "assets/products/office-chairs/hacer---hcm/Hacer _ HCM - 201_3.webp"
     ],
     "colors": [
       "Red",
@@ -9962,13 +9962,13 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Engineered to let you sit smart, the Hacer | HCR Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, Red or Brown, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101.png",
+    "img": "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101.png",
-      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101_2.png",
-      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101_3.png",
-      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -201.png",
-      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -201_2.png"
+      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101.webp",
+      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101_2.webp",
+      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -101_3.webp",
+      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -201.webp",
+      "assets/products/office-chairs/hacer---hcr/Hacer _ HCR -201_2.webp"
     ],
     "colors": [
       "Grey",
@@ -9986,13 +9986,13 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Bringing a world of difference to your mood, the Hacer | HCS Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101.png",
+    "img": "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101.png",
-      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101_2.png",
-      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101_3.png",
-      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -301.png",
-      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -301_2.png"
+      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101.webp",
+      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101_2.webp",
+      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -101_3.webp",
+      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -301.webp",
+      "assets/products/office-chairs/hacer---hcs/Hacer _ HCS -301_2.webp"
     ],
     "colors": [
       "Grey",
@@ -10009,12 +10009,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Featuring adaptive performance, the Hacer | HCZ Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 101.png",
+    "img": "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 101.webp",
     "images": [
-      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 101.png",
-      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 201.png",
-      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 201_2.png",
-      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 301.png"
+      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 101.webp",
+      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 201.webp",
+      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 201_2.webp",
+      "assets/products/office-chairs/hacer---hcz/Hacer _ HCZ - 301.webp"
     ],
     "colors": [
       "Grey"
@@ -10028,11 +10028,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/halo/HALO.png",
+    "img": "assets/products/office-chairs/halo/HALO.webp",
     "badge": "",
     "description": "The HALO Office Chair is engineered for premium ergonomic performance. Featuring adjustable seat height for perfect posture, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Grey or Blue, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/halo/HALO.png"
+      "assets/products/office-chairs/halo/HALO.webp"
     ],
     "colors": [
       "Grey",
@@ -10047,12 +10047,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.5,
-    "img": "assets/products/office-chairs/haven/HAVEN.png",
+    "img": "assets/products/office-chairs/haven/HAVEN.webp",
     "badge": "",
     "description": "The HAVEN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/haven/HAVEN.png",
-      "assets/products/office-chairs/haven/HAVEN_2.png"
+      "assets/products/office-chairs/haven/HAVEN.webp",
+      "assets/products/office-chairs/haven/HAVEN_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10066,15 +10066,15 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/hive/HIVE.png",
+    "img": "assets/products/office-chairs/hive/HIVE.webp",
     "badge": "",
     "description": "The HIVE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, Blue or Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/hive/HIVE.png",
-      "assets/products/office-chairs/hive/HIVE_2.png",
-      "assets/products/office-chairs/hive/HIVE_3.png",
-      "assets/products/office-chairs/hive/HIVE_4.png",
-      "assets/products/office-chairs/hive/HIVE_5.png"
+      "assets/products/office-chairs/hive/HIVE.webp",
+      "assets/products/office-chairs/hive/HIVE_2.webp",
+      "assets/products/office-chairs/hive/HIVE_3.webp",
+      "assets/products/office-chairs/hive/HIVE_4.webp",
+      "assets/products/office-chairs/hive/HIVE_5.webp"
     ],
     "colors": [
       "Grey",
@@ -10090,11 +10090,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/honor/HONOR.png",
+    "img": "assets/products/office-chairs/honor/HONOR.webp",
     "badge": "",
     "description": "The HONOR Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/honor/HONOR.png"
+      "assets/products/office-chairs/honor/HONOR.webp"
     ],
     "colors": [
       "Grey"
@@ -10108,12 +10108,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/hug/HUG.png",
+    "img": "assets/products/office-chairs/hug/HUG.webp",
     "badge": "",
     "description": "The HUG Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Blue or Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/hug/HUG.png",
-      "assets/products/office-chairs/hug/HUG_2.png"
+      "assets/products/office-chairs/hug/HUG.webp",
+      "assets/products/office-chairs/hug/HUG_2.webp"
     ],
     "colors": [
       "Blue",
@@ -10128,12 +10128,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/hulk/HULK.png",
+    "img": "assets/products/office-chairs/hulk/HULK.webp",
     "badge": "",
     "description": "The HULK Office Chair is engineered for premium ergonomic performance. Featuring gas lift, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/hulk/HULK.png",
-      "assets/products/office-chairs/hulk/HULK_2.png"
+      "assets/products/office-chairs/hulk/HULK.webp",
+      "assets/products/office-chairs/hulk/HULK_2.webp"
     ],
     "colors": [
       "Brown",
@@ -10148,12 +10148,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.8,
-    "img": "assets/products/office-chairs/ice/ICE.png",
+    "img": "assets/products/office-chairs/ice/ICE.webp",
     "badge": "",
     "description": "The ICE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey or Blue, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/ice/ICE.png",
-      "assets/products/office-chairs/ice/ICE_2.png"
+      "assets/products/office-chairs/ice/ICE.webp",
+      "assets/products/office-chairs/ice/ICE_2.webp"
     ],
     "colors": [
       "Grey",
@@ -10168,13 +10168,13 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/infinity/INFINITY.png",
+    "img": "assets/products/office-chairs/infinity/INFINITY.webp",
     "badge": "",
     "description": "The INFINITY Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/infinity/INFINITY.png",
-      "assets/products/office-chairs/infinity/INFINITY_2.png",
-      "assets/products/office-chairs/infinity/INFINITY_3.png"
+      "assets/products/office-chairs/infinity/INFINITY.webp",
+      "assets/products/office-chairs/infinity/INFINITY_2.webp",
+      "assets/products/office-chairs/infinity/INFINITY_3.webp"
     ],
     "colors": [
       "Grey"
@@ -10188,12 +10188,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.5,
-    "img": "assets/products/office-chairs/inox/INOX.png",
+    "img": "assets/products/office-chairs/inox/INOX.webp",
     "badge": "",
     "description": "The INOX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/inox/INOX.png",
-      "assets/products/office-chairs/inox/INOX_2.png"
+      "assets/products/office-chairs/inox/INOX.webp",
+      "assets/products/office-chairs/inox/INOX_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10207,11 +10207,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/jacob/JACOB.png",
+    "img": "assets/products/office-chairs/jacob/JACOB.webp",
     "badge": "Premium",
     "description": "The JACOB Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/jacob/JACOB.png"
+      "assets/products/office-chairs/jacob/JACOB.webp"
     ],
     "colors": [
       "Grey"
@@ -10225,11 +10225,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/jade/JADE.png",
+    "img": "assets/products/office-chairs/jade/JADE.webp",
     "badge": "New",
     "description": "The JADE Office Chair is engineered for premium ergonomic performance. Featuring gas lift, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/jade/JADE.png"
+      "assets/products/office-chairs/jade/JADE.webp"
     ],
     "colors": [
       "Grey"
@@ -10243,12 +10243,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/jazz/JAZZ.png",
+    "img": "assets/products/office-chairs/jazz/JAZZ.webp",
     "badge": "",
     "description": "The JAZZ Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/jazz/JAZZ.png",
-      "assets/products/office-chairs/jazz/JAZZ_2.png"
+      "assets/products/office-chairs/jazz/JAZZ.webp",
+      "assets/products/office-chairs/jazz/JAZZ_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10262,16 +10262,16 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/joe/JOE.png",
+    "img": "assets/products/office-chairs/joe/JOE.webp",
     "badge": "Premium",
     "description": "The JOE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, Blue, Red, White or Yellow, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/joe/JOE.png",
-      "assets/products/office-chairs/joe/JOE_2.png",
-      "assets/products/office-chairs/joe/JOE_3.png",
-      "assets/products/office-chairs/joe/JOE_4.png",
-      "assets/products/office-chairs/joe/JOE_5.png",
-      "assets/products/office-chairs/joe/JOE_6.png"
+      "assets/products/office-chairs/joe/JOE.webp",
+      "assets/products/office-chairs/joe/JOE_2.webp",
+      "assets/products/office-chairs/joe/JOE_3.webp",
+      "assets/products/office-chairs/joe/JOE_4.webp",
+      "assets/products/office-chairs/joe/JOE_5.webp",
+      "assets/products/office-chairs/joe/JOE_6.webp"
     ],
     "colors": [
       "Grey",
@@ -10289,14 +10289,14 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/kinetic/KINETIC.png",
+    "img": "assets/products/office-chairs/kinetic/KINETIC.webp",
     "badge": "",
     "description": "The KINETIC Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/kinetic/KINETIC.png",
-      "assets/products/office-chairs/kinetic/KINETIC_2.png",
-      "assets/products/office-chairs/kinetic/KINETIC_3.png",
-      "assets/products/office-chairs/kinetic/KINETIC_4.png"
+      "assets/products/office-chairs/kinetic/KINETIC.webp",
+      "assets/products/office-chairs/kinetic/KINETIC_2.webp",
+      "assets/products/office-chairs/kinetic/KINETIC_3.webp",
+      "assets/products/office-chairs/kinetic/KINETIC_4.webp"
     ],
     "colors": [
       "Grey"
@@ -10310,12 +10310,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/knox/KNOX.png",
+    "img": "assets/products/office-chairs/knox/KNOX.webp",
     "badge": "New",
     "description": "The KNOX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/knox/KNOX.png",
-      "assets/products/office-chairs/knox/KNOX_2.png"
+      "assets/products/office-chairs/knox/KNOX.webp",
+      "assets/products/office-chairs/knox/KNOX_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10329,12 +10329,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/lara/LARA.png",
+    "img": "assets/products/office-chairs/lara/LARA.webp",
     "badge": "",
     "description": "The LARA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red or Yellow, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/lara/LARA.png",
-      "assets/products/office-chairs/lara/LARA_2.png"
+      "assets/products/office-chairs/lara/LARA.webp",
+      "assets/products/office-chairs/lara/LARA_2.webp"
     ],
     "colors": [
       "Red",
@@ -10349,11 +10349,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/liberty/LIBERTY.png",
+    "img": "assets/products/office-chairs/liberty/LIBERTY.webp",
     "badge": "",
     "description": "The LIBERTY Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/liberty/LIBERTY.png"
+      "assets/products/office-chairs/liberty/LIBERTY.webp"
     ],
     "colors": [
       "Brown"
@@ -10367,12 +10367,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/luna/LUNA.png",
+    "img": "assets/products/office-chairs/luna/LUNA.webp",
     "badge": "",
     "description": "The LUNA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/luna/LUNA.png",
-      "assets/products/office-chairs/luna/LUNA_2.png"
+      "assets/products/office-chairs/luna/LUNA.webp",
+      "assets/products/office-chairs/luna/LUNA_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10386,11 +10386,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/mars/MARS.png",
+    "img": "assets/products/office-chairs/mars/MARS.webp",
     "badge": "",
     "description": "The MARS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/mars/MARS.png"
+      "assets/products/office-chairs/mars/MARS.webp"
     ],
     "colors": [
       "Red"
@@ -10404,15 +10404,15 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/matrix/MATRIX.png",
+    "img": "assets/products/office-chairs/matrix/MATRIX.webp",
     "badge": "",
     "description": "The MATRIX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, Green, Red or Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/matrix/MATRIX.png",
-      "assets/products/office-chairs/matrix/MATRIX_2.png",
-      "assets/products/office-chairs/matrix/MATRIX_3.png",
-      "assets/products/office-chairs/matrix/MATRIX_4.png",
-      "assets/products/office-chairs/matrix/MATRIX_5.png"
+      "assets/products/office-chairs/matrix/MATRIX.webp",
+      "assets/products/office-chairs/matrix/MATRIX_2.webp",
+      "assets/products/office-chairs/matrix/MATRIX_3.webp",
+      "assets/products/office-chairs/matrix/MATRIX_4.webp",
+      "assets/products/office-chairs/matrix/MATRIX_5.webp"
     ],
     "colors": [
       "Grey",
@@ -10429,11 +10429,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/meteor/METEOR.png",
+    "img": "assets/products/office-chairs/meteor/METEOR.webp",
     "badge": "",
     "description": "Add color to every conversation, the METEOR Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/meteor/METEOR.png"
+      "assets/products/office-chairs/meteor/METEOR.webp"
     ],
     "colors": [
       "Grey"
@@ -10447,11 +10447,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/mylo/MYLO.png",
+    "img": "assets/products/office-chairs/mylo/MYLO.webp",
     "badge": "",
     "description": "The MYLO Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/mylo/MYLO.png"
+      "assets/products/office-chairs/mylo/MYLO.webp"
     ],
     "colors": [
       "Red"
@@ -10465,14 +10465,14 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/neo/NEO.png",
+    "img": "assets/products/office-chairs/neo/NEO.webp",
     "badge": "Bestseller",
     "description": "The NEO Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/neo/NEO.png",
-      "assets/products/office-chairs/neo/NEO_2.png",
-      "assets/products/office-chairs/neo/NEO_3.png",
-      "assets/products/office-chairs/neo/NEO_4.png"
+      "assets/products/office-chairs/neo/NEO.webp",
+      "assets/products/office-chairs/neo/NEO_2.webp",
+      "assets/products/office-chairs/neo/NEO_3.webp",
+      "assets/products/office-chairs/neo/NEO_4.webp"
     ],
     "colors": [
       "Grey"
@@ -10486,11 +10486,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/nexus/NEXUS.png",
+    "img": "assets/products/office-chairs/nexus/NEXUS.webp",
     "badge": "",
     "description": "The NEXUS Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/nexus/NEXUS.png"
+      "assets/products/office-chairs/nexus/NEXUS.webp"
     ],
     "colors": [
       "Grey"
@@ -10504,11 +10504,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/ninza/NINZA.png",
+    "img": "assets/products/office-chairs/ninza/NINZA.webp",
     "badge": "",
     "description": "The NINZA Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/ninza/NINZA.png"
+      "assets/products/office-chairs/ninza/NINZA.webp"
     ],
     "colors": [
       "Red"
@@ -10522,11 +10522,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/nova/NOVA.png",
+    "img": "assets/products/office-chairs/nova/NOVA.webp",
     "badge": "Premium",
     "description": "The NOVA Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/nova/NOVA.png"
+      "assets/products/office-chairs/nova/NOVA.webp"
     ],
     "colors": [
       "Grey"
@@ -10540,14 +10540,14 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.8,
-    "img": "assets/products/office-chairs/oasis/OASIS.png",
+    "img": "assets/products/office-chairs/oasis/OASIS.webp",
     "badge": "",
     "description": "The OASIS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/oasis/OASIS.png",
-      "assets/products/office-chairs/oasis/OASIS_2.png",
-      "assets/products/office-chairs/oasis/OASIS_3.png",
-      "assets/products/office-chairs/oasis/OASIS_4.png"
+      "assets/products/office-chairs/oasis/OASIS.webp",
+      "assets/products/office-chairs/oasis/OASIS_2.webp",
+      "assets/products/office-chairs/oasis/OASIS_3.webp",
+      "assets/products/office-chairs/oasis/OASIS_4.webp"
     ],
     "colors": [
       "Grey"
@@ -10561,11 +10561,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/oliver/OLIVER.png",
+    "img": "assets/products/office-chairs/oliver/OLIVER.webp",
     "badge": "",
     "description": "The OLIVER Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/oliver/OLIVER.png"
+      "assets/products/office-chairs/oliver/OLIVER.webp"
     ],
     "colors": [
       "Brown"
@@ -10579,11 +10579,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/orion/ORION.png",
+    "img": "assets/products/office-chairs/orion/ORION.webp",
     "badge": "",
     "description": "The ORION Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/orion/ORION.png"
+      "assets/products/office-chairs/orion/ORION.webp"
     ],
     "colors": [
       "Grey"
@@ -10597,11 +10597,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/oscar/OSCAR.png",
+    "img": "assets/products/office-chairs/oscar/OSCAR.webp",
     "badge": "New",
     "description": "The OSCAR Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/oscar/OSCAR.png"
+      "assets/products/office-chairs/oscar/OSCAR.webp"
     ],
     "colors": [
       "Grey"
@@ -10615,11 +10615,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/otto/OTTO.png",
+    "img": "assets/products/office-chairs/otto/OTTO.webp",
     "badge": "New",
     "description": "The OTTO Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/otto/OTTO.png"
+      "assets/products/office-chairs/otto/OTTO.webp"
     ],
     "colors": [
       "Grey"
@@ -10633,16 +10633,16 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/polaris/POLARIS.png",
+    "img": "assets/products/office-chairs/polaris/POLARIS.webp",
     "badge": "",
     "description": "The POLARIS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Red, Brown, Grey or Blue, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/polaris/POLARIS.png",
-      "assets/products/office-chairs/polaris/POLARIS_2.png",
-      "assets/products/office-chairs/polaris/POLARIS_3.png",
-      "assets/products/office-chairs/polaris/POLARIS_4.png",
-      "assets/products/office-chairs/polaris/POLARIS_5.png",
-      "assets/products/office-chairs/polaris/POLARIS_6.png"
+      "assets/products/office-chairs/polaris/POLARIS.webp",
+      "assets/products/office-chairs/polaris/POLARIS_2.webp",
+      "assets/products/office-chairs/polaris/POLARIS_3.webp",
+      "assets/products/office-chairs/polaris/POLARIS_4.webp",
+      "assets/products/office-chairs/polaris/POLARIS_5.webp",
+      "assets/products/office-chairs/polaris/POLARIS_6.webp"
     ],
     "colors": [
       "Red",
@@ -10659,16 +10659,16 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/prime/PRIME.png",
+    "img": "assets/products/office-chairs/prime/PRIME.webp",
     "badge": "",
     "description": "The PRIME Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/prime/PRIME.png",
-      "assets/products/office-chairs/prime/PRIME_2.png",
-      "assets/products/office-chairs/prime/PRIME_3.png",
-      "assets/products/office-chairs/prime/PRIME_4.png",
-      "assets/products/office-chairs/prime/PRIME_5.png",
-      "assets/products/office-chairs/prime/PRIME_6.png"
+      "assets/products/office-chairs/prime/PRIME.webp",
+      "assets/products/office-chairs/prime/PRIME_2.webp",
+      "assets/products/office-chairs/prime/PRIME_3.webp",
+      "assets/products/office-chairs/prime/PRIME_4.webp",
+      "assets/products/office-chairs/prime/PRIME_5.webp",
+      "assets/products/office-chairs/prime/PRIME_6.webp"
     ],
     "colors": [
       "Grey",
@@ -10683,12 +10683,12 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/proxima/PROXIMA.png",
+    "img": "assets/products/office-chairs/proxima/PROXIMA.webp",
     "badge": "New",
     "description": "The PROXIMA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/proxima/PROXIMA.png",
-      "assets/products/office-chairs/proxima/PROXIMA_2.png"
+      "assets/products/office-chairs/proxima/PROXIMA.webp",
+      "assets/products/office-chairs/proxima/PROXIMA_2.webp"
     ],
     "colors": [
       "Grey",
@@ -10703,12 +10703,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/pulse/PULSE.png",
+    "img": "assets/products/office-chairs/pulse/PULSE.webp",
     "badge": "",
     "description": "The PULSE Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/pulse/PULSE.png",
-      "assets/products/office-chairs/pulse/PULSE_2.png"
+      "assets/products/office-chairs/pulse/PULSE.webp",
+      "assets/products/office-chairs/pulse/PULSE_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10722,11 +10722,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/quasar/QUASAR.png",
+    "img": "assets/products/office-chairs/quasar/QUASAR.webp",
     "badge": "",
     "description": "The QUASAR Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/quasar/QUASAR.png"
+      "assets/products/office-chairs/quasar/QUASAR.webp"
     ],
     "colors": [
       "Red"
@@ -10740,12 +10740,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/rafael/RAFAEL.png",
+    "img": "assets/products/office-chairs/rafael/RAFAEL.webp",
     "badge": "",
     "description": "The RAFAEL Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/rafael/RAFAEL.png",
-      "assets/products/office-chairs/rafael/RAFAEL_2.png"
+      "assets/products/office-chairs/rafael/RAFAEL.webp",
+      "assets/products/office-chairs/rafael/RAFAEL_2.webp"
     ],
     "colors": [
       "Grey",
@@ -10760,13 +10760,13 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/red/RED.png",
+    "img": "assets/products/office-chairs/red/RED.webp",
     "badge": "",
     "description": "Offering comfort in every hue, the RED Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/red/RED.png",
-      "assets/products/office-chairs/red/RED_2.png",
-      "assets/products/office-chairs/red/RED_3.png"
+      "assets/products/office-chairs/red/RED.webp",
+      "assets/products/office-chairs/red/RED_2.webp",
+      "assets/products/office-chairs/red/RED_3.webp"
     ],
     "colors": [
       "Grey"
@@ -10780,11 +10780,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/ritz/RITZ.png",
+    "img": "assets/products/office-chairs/ritz/RITZ.webp",
     "badge": "New",
     "description": "The RITZ Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/ritz/RITZ.png"
+      "assets/products/office-chairs/ritz/RITZ.webp"
     ],
     "colors": [
       "Grey"
@@ -10798,12 +10798,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/sirius/SIRIUS.png",
+    "img": "assets/products/office-chairs/sirius/SIRIUS.webp",
     "badge": "",
     "description": "Where comfort meets bold design, the SIRIUS Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red or Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/sirius/SIRIUS.png",
-      "assets/products/office-chairs/sirius/SIRIUS_2.png"
+      "assets/products/office-chairs/sirius/SIRIUS.webp",
+      "assets/products/office-chairs/sirius/SIRIUS_2.webp"
     ],
     "colors": [
       "Red",
@@ -10818,15 +10818,15 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/slink/SLINK.png",
+    "img": "assets/products/office-chairs/slink/SLINK.webp",
     "badge": "",
     "description": "The SLINK Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Blue or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/slink/SLINK.png",
-      "assets/products/office-chairs/slink/SLINK_2.png",
-      "assets/products/office-chairs/slink/SLINK_3.png",
-      "assets/products/office-chairs/slink/SLINK_4.png",
-      "assets/products/office-chairs/slink/SLINK_5.png"
+      "assets/products/office-chairs/slink/SLINK.webp",
+      "assets/products/office-chairs/slink/SLINK_2.webp",
+      "assets/products/office-chairs/slink/SLINK_3.webp",
+      "assets/products/office-chairs/slink/SLINK_4.webp",
+      "assets/products/office-chairs/slink/SLINK_5.webp"
     ],
     "colors": [
       "Blue",
@@ -10841,11 +10841,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/solaris/SOLARIS.png",
+    "img": "assets/products/office-chairs/solaris/SOLARIS.webp",
     "badge": "",
     "description": "The SOLARIS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/solaris/SOLARIS.png"
+      "assets/products/office-chairs/solaris/SOLARIS.webp"
     ],
     "colors": [
       "Grey"
@@ -10859,11 +10859,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/spectra/SPECTRA.png",
+    "img": "assets/products/office-chairs/spectra/SPECTRA.webp",
     "badge": "",
     "description": "The SPECTRA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/spectra/SPECTRA.png"
+      "assets/products/office-chairs/spectra/SPECTRA.webp"
     ],
     "colors": [
       "Grey"
@@ -10877,12 +10877,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/storm/STORM.png",
+    "img": "assets/products/office-chairs/storm/STORM.webp",
     "badge": "",
     "description": "The STORM Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/storm/STORM.png",
-      "assets/products/office-chairs/storm/STORM_2.png"
+      "assets/products/office-chairs/storm/STORM.webp",
+      "assets/products/office-chairs/storm/STORM_2.webp"
     ],
     "colors": [
       "Grey"
@@ -10896,12 +10896,12 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/summit/SUMMIT.png",
+    "img": "assets/products/office-chairs/summit/SUMMIT.webp",
     "badge": "",
     "description": "The SUMMIT Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Red or Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/summit/SUMMIT.png",
-      "assets/products/office-chairs/summit/SUMMIT_2.png"
+      "assets/products/office-chairs/summit/SUMMIT.webp",
+      "assets/products/office-chairs/summit/SUMMIT_2.webp"
     ],
     "colors": [
       "Red",
@@ -10916,14 +10916,14 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/swan/SWAN.png",
+    "img": "assets/products/office-chairs/swan/SWAN.webp",
     "badge": "New",
     "description": "The SWAN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/swan/SWAN.png",
-      "assets/products/office-chairs/swan/SWAN_2.png",
-      "assets/products/office-chairs/swan/SWAN_3.png",
-      "assets/products/office-chairs/swan/SWAN_4.png"
+      "assets/products/office-chairs/swan/SWAN.webp",
+      "assets/products/office-chairs/swan/SWAN_2.webp",
+      "assets/products/office-chairs/swan/SWAN_3.webp",
+      "assets/products/office-chairs/swan/SWAN_4.webp"
     ],
     "colors": [
       "Grey",
@@ -10938,17 +10938,17 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/tag/TAG.png",
+    "img": "assets/products/office-chairs/tag/TAG.webp",
     "badge": "New",
     "description": "The TAG Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey or Red, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/tag/TAG.png",
-      "assets/products/office-chairs/tag/TAG_2.png",
-      "assets/products/office-chairs/tag/TAG_3.png",
-      "assets/products/office-chairs/tag/TAG_4.png",
-      "assets/products/office-chairs/tag/TAG_5.png",
-      "assets/products/office-chairs/tag/TAG_6.png",
-      "assets/products/office-chairs/tag/TAG_7.png"
+      "assets/products/office-chairs/tag/TAG.webp",
+      "assets/products/office-chairs/tag/TAG_2.webp",
+      "assets/products/office-chairs/tag/TAG_3.webp",
+      "assets/products/office-chairs/tag/TAG_4.webp",
+      "assets/products/office-chairs/tag/TAG_5.webp",
+      "assets/products/office-chairs/tag/TAG_6.webp",
+      "assets/products/office-chairs/tag/TAG_7.webp"
     ],
     "colors": [
       "Grey",
@@ -10963,11 +10963,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/titan/TITAN.png",
+    "img": "assets/products/office-chairs/titan/TITAN.webp",
     "badge": "",
     "description": "The TITAN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/titan/TITAN.png"
+      "assets/products/office-chairs/titan/TITAN.webp"
     ],
     "colors": [
       "Grey"
@@ -10981,13 +10981,13 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/tom/TOM.png",
+    "img": "assets/products/office-chairs/tom/TOM.webp",
     "badge": "",
     "description": "The TOM Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/tom/TOM.png",
-      "assets/products/office-chairs/tom/TOM_2.png",
-      "assets/products/office-chairs/tom/TOM_3.png"
+      "assets/products/office-chairs/tom/TOM.webp",
+      "assets/products/office-chairs/tom/TOM_2.webp",
+      "assets/products/office-chairs/tom/TOM_3.webp"
     ],
     "colors": [
       "Grey"
@@ -11003,12 +11003,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Torq | TQN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/torq---tqn/Torq _ TQN - 101.png",
+    "img": "assets/products/office-chairs/torq---tqn/Torq _ TQN - 101.webp",
     "images": [
-      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 101.png",
-      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 201.png",
-      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 301.png",
-      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 301_2.png"
+      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 101.webp",
+      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 201.webp",
+      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 301.webp",
+      "assets/products/office-chairs/torq---tqn/Torq _ TQN - 301_2.webp"
     ],
     "colors": [
       "Brown",
@@ -11025,10 +11025,10 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "The Torq | TQS Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/torq---tqs/Torq _ TQS - 201.png",
+    "img": "assets/products/office-chairs/torq---tqs/Torq _ TQS - 201.webp",
     "images": [
-      "assets/products/office-chairs/torq---tqs/Torq _ TQS - 201.png",
-      "assets/products/office-chairs/torq---tqs/Torq _ TQS - 301.png"
+      "assets/products/office-chairs/torq---tqs/Torq _ TQS - 201.webp",
+      "assets/products/office-chairs/torq---tqs/Torq _ TQS - 301.webp"
     ],
     "colors": [
       "Brown",
@@ -11045,11 +11045,11 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Torq | TQX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/torq---tqx/Torq _ TQX - 201_2.png",
+    "img": "assets/products/office-chairs/torq---tqx/Torq _ TQX - 201_2.webp",
     "images": [
-      "assets/products/office-chairs/torq---tqx/Torq _ TQX - 201_2.png",
-      "assets/products/office-chairs/torq---tqx/Torq _ TQX - 201.png",
-      "assets/products/office-chairs/torq---tqx/Torq _ TQX - 301.png"
+      "assets/products/office-chairs/torq---tqx/Torq _ TQX - 201_2.webp",
+      "assets/products/office-chairs/torq---tqx/Torq _ TQX - 201.webp",
+      "assets/products/office-chairs/torq---tqx/Torq _ TQX - 301.webp"
     ],
     "colors": [
       "Brown",
@@ -11066,12 +11066,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Torq | TQY Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Green or Red, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/torq---tqy/Torq _ TQY - 101.png",
+    "img": "assets/products/office-chairs/torq---tqy/Torq _ TQY - 101.webp",
     "images": [
-      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 101.png",
-      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 201.png",
-      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 301.png",
-      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 301_2.png"
+      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 101.webp",
+      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 201.webp",
+      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 301.webp",
+      "assets/products/office-chairs/torq---tqy/Torq _ TQY - 301_2.webp"
     ],
     "colors": [
       "Green",
@@ -11088,12 +11088,12 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "Experience the power of peace, the Torq | TQZ Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 101.png",
+    "img": "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 101.webp",
     "images": [
-      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 101.png",
-      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 201.png",
-      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 301.png",
-      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 301_2.png"
+      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 101.webp",
+      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 201.webp",
+      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 301.webp",
+      "assets/products/office-chairs/torq---tqz/Torq _ TQZ - 301_2.webp"
     ],
     "colors": [
       "Grey"
@@ -11107,14 +11107,14 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/valor/VALOR.png",
+    "img": "assets/products/office-chairs/valor/VALOR.webp",
     "badge": "",
     "description": "The VALOR Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Yellow or Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/valor/VALOR.png",
-      "assets/products/office-chairs/valor/VALOR_2.png",
-      "assets/products/office-chairs/valor/VALOR_3.png",
-      "assets/products/office-chairs/valor/VALOR_4.png"
+      "assets/products/office-chairs/valor/VALOR.webp",
+      "assets/products/office-chairs/valor/VALOR_2.webp",
+      "assets/products/office-chairs/valor/VALOR_3.webp",
+      "assets/products/office-chairs/valor/VALOR_4.webp"
     ],
     "colors": [
       "Yellow",
@@ -11129,11 +11129,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/vega/VEGA.png",
+    "img": "assets/products/office-chairs/vega/VEGA.webp",
     "badge": "",
     "description": "The VEGA Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/vega/VEGA.png"
+      "assets/products/office-chairs/vega/VEGA.webp"
     ],
     "colors": [
       "Grey"
@@ -11147,11 +11147,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/vertex/VERTEX.png",
+    "img": "assets/products/office-chairs/vertex/VERTEX.webp",
     "badge": "Premium",
     "description": "The VERTEX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/vertex/VERTEX.png"
+      "assets/products/office-chairs/vertex/VERTEX.webp"
     ],
     "colors": [
       "Grey"
@@ -11165,11 +11165,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.4,
-    "img": "assets/products/office-chairs/virgo/VIRGO.png",
+    "img": "assets/products/office-chairs/virgo/VIRGO.webp",
     "badge": "",
     "description": "The VIRGO Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/virgo/VIRGO.png"
+      "assets/products/office-chairs/virgo/VIRGO.webp"
     ],
     "colors": [
       "Grey"
@@ -11183,11 +11183,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.6,
-    "img": "assets/products/office-chairs/vista/VISTA.png",
+    "img": "assets/products/office-chairs/vista/VISTA.webp",
     "badge": "",
     "description": "The VISTA Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/vista/VISTA.png"
+      "assets/products/office-chairs/vista/VISTA.webp"
     ],
     "colors": [
       "Grey"
@@ -11201,11 +11201,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/vortex/VORTEX.png",
+    "img": "assets/products/office-chairs/vortex/VORTEX.webp",
     "badge": "",
     "description": "The VORTEX Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/vortex/VORTEX.png"
+      "assets/products/office-chairs/vortex/VORTEX.webp"
     ],
     "colors": [
       "Grey"
@@ -11219,11 +11219,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 5,
-    "img": "assets/products/office-chairs/vyom/VYOM.png",
+    "img": "assets/products/office-chairs/vyom/VYOM.webp",
     "badge": "New",
     "description": "The VYOM Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/vyom/VYOM.png"
+      "assets/products/office-chairs/vyom/VYOM.webp"
     ],
     "colors": [
       "Grey"
@@ -11237,11 +11237,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/waves/WAVES.png",
+    "img": "assets/products/office-chairs/waves/WAVES.webp",
     "badge": "Premium",
     "description": "The WAVES Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/waves/WAVES.png"
+      "assets/products/office-chairs/waves/WAVES.webp"
     ],
     "colors": [
       "Grey"
@@ -11257,12 +11257,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Designed to keep you energized and alive throughout the day, the Willow | WLX Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey or Black, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/willow---wlx/Willow _ WLX -101.png",
+    "img": "assets/products/office-chairs/willow---wlx/Willow _ WLX -101.webp",
     "images": [
-      "assets/products/office-chairs/willow---wlx/Willow _ WLX -101.png",
-      "assets/products/office-chairs/willow---wlx/Willow _ WLX -201.png",
-      "assets/products/office-chairs/willow---wlx/Willow _ WLX -301.png",
-      "assets/products/office-chairs/willow---wlx/Willow _ WLX -301_2.png"
+      "assets/products/office-chairs/willow---wlx/Willow _ WLX -101.webp",
+      "assets/products/office-chairs/willow---wlx/Willow _ WLX -201.webp",
+      "assets/products/office-chairs/willow---wlx/Willow _ WLX -301.webp",
+      "assets/products/office-chairs/willow---wlx/Willow _ WLX -301_2.webp"
     ],
     "colors": [
       "Grey",
@@ -11279,12 +11279,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Reflecting a wise and spiritual aesthetic, the Willow | WLZ Office Chair provides the ultimate professional seating experience. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Green, Brown or Red, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/willow---wlz/Willow _ WLZ -101.png",
+    "img": "assets/products/office-chairs/willow---wlz/Willow _ WLZ -101.webp",
     "images": [
-      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -101.png",
-      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -201.png",
-      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -301.png",
-      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -301_2.png"
+      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -101.webp",
+      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -201.webp",
+      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -301.webp",
+      "assets/products/office-chairs/willow---wlz/Willow _ WLZ -301_2.webp"
     ],
     "colors": [
       "Green",
@@ -11300,11 +11300,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/wolf/WOLF.png",
+    "img": "assets/products/office-chairs/wolf/WOLF.webp",
     "badge": "Bestseller",
     "description": "The WOLF Office Chair is engineered for premium ergonomic performance. Featuring headrest, it dynamically adjusts to support your body. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/wolf/WOLF.png"
+      "assets/products/office-chairs/wolf/WOLF.webp"
     ],
     "colors": [
       "Grey"
@@ -11318,11 +11318,11 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.8,
-    "img": "assets/products/office-chairs/yak/YAK.png",
+    "img": "assets/products/office-chairs/yak/YAK.webp",
     "badge": "New",
     "description": "The YAK Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/yak/YAK.png"
+      "assets/products/office-chairs/yak/YAK.webp"
     ],
     "colors": [
       "Grey"
@@ -11336,13 +11336,13 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/yellow/YELLOW.png",
+    "img": "assets/products/office-chairs/yellow/YELLOW.webp",
     "badge": "Bestseller",
     "description": "The YELLOW Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/yellow/YELLOW.png",
-      "assets/products/office-chairs/yellow/YELLOW_2.png",
-      "assets/products/office-chairs/yellow/YELLOW_3.png"
+      "assets/products/office-chairs/yellow/YELLOW.webp",
+      "assets/products/office-chairs/yellow/YELLOW_2.webp",
+      "assets/products/office-chairs/yellow/YELLOW_3.webp"
     ],
     "colors": [
       "Grey"
@@ -11358,12 +11358,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Zeal | AB Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Brown, Yellow or Grey, it brings modern styling and exceptional durability to any workspace.",
-    "img": "assets/products/office-chairs/zeal---ab/Zeal _ AB - 100.png",
+    "img": "assets/products/office-chairs/zeal---ab/Zeal _ AB - 100.webp",
     "images": [
-      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 100.png",
-      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 400.png",
-      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 600.png",
-      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 600_2.png"
+      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 100.webp",
+      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 400.webp",
+      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 600.webp",
+      "assets/products/office-chairs/zeal---ab/Zeal _ AB - 600_2.webp"
     ],
     "colors": [
       "Brown",
@@ -11379,15 +11379,15 @@ const PRODUCTS = [
     "material": "Fabric",
     "designer": "LayerMax Signature",
     "rating": 4.8,
-    "img": "assets/products/office-chairs/zen/ZEN.png",
+    "img": "assets/products/office-chairs/zen/ZEN.webp",
     "badge": "",
     "description": "The ZEN Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality fabric and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/zen/ZEN.png",
-      "assets/products/office-chairs/zen/ZEN_2.png",
-      "assets/products/office-chairs/zen/ZEN_3.png",
-      "assets/products/office-chairs/zen/ZEN_4.png",
-      "assets/products/office-chairs/zen/ZEN_5.png"
+      "assets/products/office-chairs/zen/ZEN.webp",
+      "assets/products/office-chairs/zen/ZEN_2.webp",
+      "assets/products/office-chairs/zen/ZEN_3.webp",
+      "assets/products/office-chairs/zen/ZEN_4.webp",
+      "assets/products/office-chairs/zen/ZEN_5.webp"
     ],
     "colors": [
       "Grey"
@@ -11401,11 +11401,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.3,
-    "img": "assets/products/office-chairs/zenith/ZENITH.png",
+    "img": "assets/products/office-chairs/zenith/ZENITH.webp",
     "badge": "",
     "description": "The ZENITH Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/zenith/ZENITH.png"
+      "assets/products/office-chairs/zenith/ZENITH.webp"
     ],
     "colors": [
       "Grey"
@@ -11419,14 +11419,14 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.7,
-    "img": "assets/products/office-chairs/zephyr/ZEPHYR.png",
+    "img": "assets/products/office-chairs/zephyr/ZEPHYR.webp",
     "badge": "",
     "description": "The ZEPHYR Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey or Brown, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/zephyr/ZEPHYR.png",
-      "assets/products/office-chairs/zephyr/ZEPHYR_2.png",
-      "assets/products/office-chairs/zephyr/ZEPHYR_3.png",
-      "assets/products/office-chairs/zephyr/ZEPHYR_4.png"
+      "assets/products/office-chairs/zephyr/ZEPHYR.webp",
+      "assets/products/office-chairs/zephyr/ZEPHYR_2.webp",
+      "assets/products/office-chairs/zephyr/ZEPHYR_3.webp",
+      "assets/products/office-chairs/zephyr/ZEPHYR_4.webp"
     ],
     "colors": [
       "Grey",
@@ -11441,11 +11441,11 @@ const PRODUCTS = [
     "material": "Leather",
     "designer": "LayerMax Signature",
     "rating": 4.9,
-    "img": "assets/products/office-chairs/zylo/ZYLO.png",
+    "img": "assets/products/office-chairs/zylo/ZYLO.webp",
     "badge": "",
     "description": "The ZYLO Office Chair is engineered for premium ergonomic performance. Featuring customizable ergonomic controls and a contoured backrest, it is designed to promote healthy posture. Upholstered in high-quality leather and available in Grey, it brings modern styling and exceptional durability to any workspace.",
     "images": [
-      "assets/products/office-chairs/zylo/ZYLO.png"
+      "assets/products/office-chairs/zylo/ZYLO.webp"
     ],
     "colors": [
       "Grey"
@@ -11461,20 +11461,20 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A top seller, the Admiral Director Suite is widely appreciated for its design and functionality. It is crafted to be a comfortable and sophisticated workspace, with thoughtful attention to ergonomic hand movement on the tabletop. Admiral's ample storage capacity allows you to keep your essentials organized with ease.",
-    "img": "assets/products/office-workstations/admiral/Admiral_01.png",
+    "img": "assets/products/office-workstations/admiral/Admiral_01.webp",
     "images": [
-      "assets/products/office-workstations/admiral/Admiral_01.png",
-      "assets/products/office-workstations/admiral/Admiral_02.png",
-      "assets/products/office-workstations/admiral/Admiral_04.png",
-      "assets/products/office-workstations/admiral/Admiral_06.png",
-      "assets/products/office-workstations/admiral/Admiral_07.png",
-      "assets/products/office-workstations/admiral/Admiral_08.png",
-      "assets/products/office-workstations/admiral/Admiral_09.png",
-      "assets/products/office-workstations/admiral/Admiral_11.png",
-      "assets/products/office-workstations/admiral/Admiral_13.png",
-      "assets/products/office-workstations/admiral/Admiral_15.png",
-      "assets/products/office-workstations/admiral/Admiral_17.png",
-      "assets/products/office-workstations/admiral/Admiral_19.png"
+      "assets/products/office-workstations/admiral/Admiral_01.webp",
+      "assets/products/office-workstations/admiral/Admiral_02.webp",
+      "assets/products/office-workstations/admiral/Admiral_04.webp",
+      "assets/products/office-workstations/admiral/Admiral_06.webp",
+      "assets/products/office-workstations/admiral/Admiral_07.webp",
+      "assets/products/office-workstations/admiral/Admiral_08.webp",
+      "assets/products/office-workstations/admiral/Admiral_09.webp",
+      "assets/products/office-workstations/admiral/Admiral_11.webp",
+      "assets/products/office-workstations/admiral/Admiral_13.webp",
+      "assets/products/office-workstations/admiral/Admiral_15.webp",
+      "assets/products/office-workstations/admiral/Admiral_17.webp",
+      "assets/products/office-workstations/admiral/Admiral_19.webp"
     ],
     "colors": []
   },
@@ -11488,10 +11488,10 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": "AIRIS is a compact height-adjustable workstation designed for flexible and ergonomic use. It supports sit-stand functionality while maintaining a streamlined design suitable for smaller workspaces.",
-    "img": "assets/products/office-workstations/airis/Airis_01.png",
+    "img": "assets/products/office-workstations/airis/Airis_01.webp",
     "images": [
-      "assets/products/office-workstations/airis/Airis_01.png",
-      "assets/products/office-workstations/airis/Airis_02.png"
+      "assets/products/office-workstations/airis/Airis_01.webp",
+      "assets/products/office-workstations/airis/Airis_02.webp"
     ],
     "colors": []
   },
@@ -11505,12 +11505,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "Dual color hanging modesty board ALEIN is an L-shaped workstation designed for spacious and organized work environments. It features open cubbies and two drawers for convenient storage, supported by sturdy metal legs that enhance durability and modern functionality.",
-    "img": "assets/products/office-workstations/alein/Alein_01.png",
+    "img": "assets/products/office-workstations/alein/Alein_01.webp",
     "images": [
-      "assets/products/office-workstations/alein/Alein_01.png",
-      "assets/products/office-workstations/alein/Alein_02.png",
-      "assets/products/office-workstations/alein/Alein_03.png",
-      "assets/products/office-workstations/alein/Alein_04.png"
+      "assets/products/office-workstations/alein/Alein_01.webp",
+      "assets/products/office-workstations/alein/Alein_02.webp",
+      "assets/products/office-workstations/alein/Alein_03.webp",
+      "assets/products/office-workstations/alein/Alein_04.webp"
     ],
     "colors": []
   },
@@ -11524,12 +11524,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The ALTAIR Conference Table is engineered for premium boardroom environments, combining a distinctive diecast-inspired metal framework with advanced connectivity solutions. Featuring an integrated wireless pop-up box and a spacious tabletop, it supports efficient collaboration while projecting a strong executive presence.",
-    "img": "assets/products/office-workstations/altair/Altair_01.png",
+    "img": "assets/products/office-workstations/altair/Altair_01.webp",
     "images": [
-      "assets/products/office-workstations/altair/Altair_01.png",
-      "assets/products/office-workstations/altair/Altair_02.png",
-      "assets/products/office-workstations/altair/Altair_03.png",
-      "assets/products/office-workstations/altair/Altair_04.png"
+      "assets/products/office-workstations/altair/Altair_01.webp",
+      "assets/products/office-workstations/altair/Altair_02.webp",
+      "assets/products/office-workstations/altair/Altair_03.webp",
+      "assets/products/office-workstations/altair/Altair_04.webp"
     ],
     "colors": [],
     "tags": [
@@ -11546,9 +11546,9 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "ANGULO is a compact workstation designed for focused individual use. It features an angular leg structure with a sleek modern form ideal for smaller workspaces.",
-    "img": "assets/products/office-workstations/angulo/Angulo_01.png",
+    "img": "assets/products/office-workstations/angulo/Angulo_01.webp",
     "images": [
-      "assets/products/office-workstations/angulo/Angulo_01.png"
+      "assets/products/office-workstations/angulo/Angulo_01.webp"
     ],
     "colors": []
   },
@@ -11562,11 +11562,11 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "ARVELE is an L-shaped workstation designed for balanced storage and efficient workflows. It features open cubbies, one drawer, and a door cabinet for both quick access and concealed storage. The integrated modesty panel ensures a neat and professional workspace.",
-    "img": "assets/products/office-workstations/arvele/Arvele_01.png",
+    "img": "assets/products/office-workstations/arvele/Arvele_01.webp",
     "images": [
-      "assets/products/office-workstations/arvele/Arvele_01.png",
-      "assets/products/office-workstations/arvele/Arvele_02.png",
-      "assets/products/office-workstations/arvele/Arvele_03.png"
+      "assets/products/office-workstations/arvele/Arvele_01.webp",
+      "assets/products/office-workstations/arvele/Arvele_02.webp",
+      "assets/products/office-workstations/arvele/Arvele_03.webp"
     ],
     "colors": []
   },
@@ -11580,12 +11580,12 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "The ATRIA Table is designed to support productive discussions and seamless collaboration. Featuring a robust T-leg metal structure, a spacious work surface, and an integrated flip-up box for convenient connectivity, it delivers functionality, stability, and a clean professional appearance for modern meeting spaces.",
-    "img": "assets/products/office-workstations/atria/Atria_01.png",
+    "img": "assets/products/office-workstations/atria/Atria_01.webp",
     "images": [
-      "assets/products/office-workstations/atria/Atria_01.png",
-      "assets/products/office-workstations/atria/Atria_02.png",
-      "assets/products/office-workstations/atria/Atria_03.png",
-      "assets/products/office-workstations/atria/Atria_04.png"
+      "assets/products/office-workstations/atria/Atria_01.webp",
+      "assets/products/office-workstations/atria/Atria_02.webp",
+      "assets/products/office-workstations/atria/Atria_03.webp",
+      "assets/products/office-workstations/atria/Atria_04.webp"
     ],
     "colors": [],
     "tags": [
@@ -11602,19 +11602,19 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Admiral Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Close Up Detail.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Context View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Elevation View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - High Angle View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Perspective View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Profile View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Side View.png",
-      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Studio Showcase.png"
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Close Up Detail.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Context View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Corner Detail.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Elevation View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Front View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - High Angle View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Perspective View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Profile View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Side View.webp",
+      "assets/products/office-workstations/cat-admiral-executive-desk/Admiral Executive Desk - Studio Showcase.webp"
     ],
     "colors": []
   },
@@ -11628,9 +11628,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aerodynamic Walnut Executive Console combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-aerodynamic-walnut-executive-console/aerodynamic_walnut_executive_console.png",
+    "img": "assets/products/office-workstations/cat-aerodynamic-walnut-executive-console/aerodynamic_walnut_executive_console.webp",
     "images": [
-      "assets/products/office-workstations/cat-aerodynamic-walnut-executive-console/aerodynamic_walnut_executive_console.png"
+      "assets/products/office-workstations/cat-aerodynamic-walnut-executive-console/aerodynamic_walnut_executive_console.webp"
     ],
     "colors": []
   },
@@ -11644,12 +11644,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Alien Executive L Shaped Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Front Elevation View.png",
+    "img": "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Front Elevation View.webp",
     "images": [
-      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Front Elevation View.png",
-      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Front Perspective View.png",
-      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Side Credenza View.png",
-      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Studio Interior View.png"
+      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Front Elevation View.webp",
+      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Front Perspective View.webp",
+      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Side Credenza View.webp",
+      "assets/products/office-workstations/cat-alien-executive-l-shaped-desk/Alien Executive Desk - Studio Interior View.webp"
     ],
     "colors": []
   },
@@ -11663,12 +11663,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Altair Executive Conference Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Base Structure View.png",
+    "img": "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Base Structure View.webp",
     "images": [
-      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Base Structure View.png",
-      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Room Context View.png",
-      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Studio Overview.png",
-      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Surface Detail View.png"
+      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Base Structure View.webp",
+      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Room Context View.webp",
+      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Studio Overview.webp",
+      "assets/products/office-workstations/cat-altair-executive-conference-table/Altair Conference Table - Surface Detail View.webp"
     ],
     "colors": []
   },
@@ -11682,9 +11682,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Andromeda Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-andromeda-executive-desk/Andromeda Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-andromeda-executive-desk/Andromeda Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-andromeda-executive-desk/Andromeda Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-andromeda-executive-desk/Andromeda Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -11698,12 +11698,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Atria Modern Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Front View.png",
-      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Side View.png"
+      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Corner Detail.webp",
+      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Front View.webp",
+      "assets/products/office-workstations/cat-atria-modern-desk/Atria Modern Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -11717,9 +11717,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Modern Lshaped Desk Unit combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-beige-modern-lshaped-desk-unit/beige_modern_lshaped_desk_unit.png",
+    "img": "assets/products/office-workstations/cat-beige-modern-lshaped-desk-unit/beige_modern_lshaped_desk_unit.webp",
     "images": [
-      "assets/products/office-workstations/cat-beige-modern-lshaped-desk-unit/beige_modern_lshaped_desk_unit.png"
+      "assets/products/office-workstations/cat-beige-modern-lshaped-desk-unit/beige_modern_lshaped_desk_unit.webp"
     ],
     "colors": []
   },
@@ -11733,9 +11733,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Tan Floating Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-beige-tan-floating-executive-desk/beige_tan_floating_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-beige-tan-floating-executive-desk/beige_tan_floating_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-beige-tan-floating-executive-desk/beige_tan_floating_executive_desk.png"
+      "assets/products/office-workstations/cat-beige-tan-floating-executive-desk/beige_tan_floating_executive_desk.webp"
     ],
     "colors": []
   },
@@ -11749,11 +11749,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A two-person acoustic meeting pod with a curved shell, glass door, integrated bench seating and a fold-down work surface. Sound-insulated for private calls and focused work on an open office floor.",
-    "img": "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Angle Perspective.png",
+    "img": "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Angle Perspective.png",
-      "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Front View.png",
-      "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Side View.png"
+      "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Angle Perspective.webp",
+      "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Front View.webp",
+      "assets/products/acoustic-pods/cat-corvo-executive-desk/Corvo Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -11767,10 +11767,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A freestanding upholstered acoustic floor screen on slim steel feet, used to zone open-plan space and dampen noise between desks. Fabric-wrapped both sides for sound absorption.",
-    "img": "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Angle Perspective.png",
+    "img": "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Angle Perspective.png",
-      "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Front View.png"
+      "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Angle Perspective.webp",
+      "assets/products/acoustic-pods/cat-crest-modular-executive-desk/Crest Modular Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -11784,12 +11784,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A four-person mobile meeting pod with full-height glazing, twin bench seats and a central table, mounted on lockable castors. Ventilated and sound-insulated for enclosed discussions anywhere on the floor.",
-    "img": "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Angle Perspective.png",
+    "img": "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Angle Perspective.webp",
     "images": [
-      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Angle Perspective.png",
-      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Corner Detail.png",
-      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Front View.png",
-      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Side View.png"
+      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Angle Perspective.webp",
+      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Corner Detail.webp",
+      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Front View.webp",
+      "assets/products/acoustic-pods/cat-cubix-modular-workstation/Cubix Modular Workstation - Side View.webp"
     ],
     "colors": []
   },
@@ -11803,9 +11803,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Curved Wood Executive Desk Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-curved-wood-executive-desk-comboset/curved_wood_executive_desk_comboset.png",
+    "img": "assets/products/office-workstations/cat-curved-wood-executive-desk-comboset/curved_wood_executive_desk_comboset.webp",
     "images": [
-      "assets/products/office-workstations/cat-curved-wood-executive-desk-comboset/curved_wood_executive_desk_comboset.png"
+      "assets/products/office-workstations/cat-curved-wood-executive-desk-comboset/curved_wood_executive_desk_comboset.webp"
     ],
     "colors": []
   },
@@ -11818,12 +11818,12 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A two-person acoustic meeting pod with glazed doors, facing upholstered seats and a round café-height table. Provides a quiet, enclosed space for quick meetings and calls.",
-    "img": "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.png",
+    "description": "A two-person acoustic meeting pod with glazed doors, facing upholstered seats and a round cafÃ©-height table. Provides a quiet, enclosed space for quick meetings and calls.",
+    "img": "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.png",
-      "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Front View.png",
-      "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Side View.png"
+      "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.webp",
+      "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Front View.webp",
+      "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -11837,9 +11837,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Brown Study Desk Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-dark-brown-2drawer-study-desk-comboset/dark_brown_2drawer_study_desk_comboset.png",
+    "img": "assets/products/office-workstations/cat-dark-brown-2drawer-study-desk-comboset/dark_brown_2drawer_study_desk_comboset.webp",
     "images": [
-      "assets/products/office-workstations/cat-dark-brown-2drawer-study-desk-comboset/dark_brown_2drawer_study_desk_comboset.png"
+      "assets/products/office-workstations/cat-dark-brown-2drawer-study-desk-comboset/dark_brown_2drawer_study_desk_comboset.webp"
     ],
     "colors": []
   },
@@ -11853,9 +11853,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Executive Office Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-dark-walnut-executive-office-desk/dark_walnut_executive_office_desk.png",
+    "img": "assets/products/office-workstations/cat-dark-walnut-executive-office-desk/dark_walnut_executive_office_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-dark-walnut-executive-office-desk/dark_walnut_executive_office_desk.png"
+      "assets/products/office-workstations/cat-dark-walnut-executive-office-desk/dark_walnut_executive_office_desk.webp"
     ],
     "colors": []
   },
@@ -11869,9 +11869,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Executive Writing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-dark-walnut-executive-writing-desk/dark_walnut_executive_writing_desk.png",
+    "img": "assets/products/office-workstations/cat-dark-walnut-executive-writing-desk/dark_walnut_executive_writing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-dark-walnut-executive-writing-desk/dark_walnut_executive_writing_desk.png"
+      "assets/products/office-workstations/cat-dark-walnut-executive-writing-desk/dark_walnut_executive_writing_desk.webp"
     ],
     "colors": []
   },
@@ -11885,9 +11885,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Floating Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-dark-walnut-floating-executive-desk/dark_walnut_floating_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-dark-walnut-floating-executive-desk/dark_walnut_floating_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-dark-walnut-floating-executive-desk/dark_walnut_floating_executive_desk.png"
+      "assets/products/office-workstations/cat-dark-walnut-floating-executive-desk/dark_walnut_floating_executive_desk.webp"
     ],
     "colors": []
   },
@@ -11901,9 +11901,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Study Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-dark-walnut-study-desk/dark_walnut_study_desk.png",
+    "img": "assets/products/office-workstations/cat-dark-walnut-study-desk/dark_walnut_study_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-dark-walnut-study-desk/dark_walnut_study_desk.png"
+      "assets/products/office-workstations/cat-dark-walnut-study-desk/dark_walnut_study_desk.webp"
     ],
     "colors": []
   },
@@ -11917,12 +11917,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Elion Modern Desk Workstation combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Angle Perspective.png",
-      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Corner Detail.png",
-      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Front View.png",
-      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Side View.png"
+      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Corner Detail.webp",
+      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Front View.webp",
+      "assets/products/office-workstations/cat-elion-modern-desk-workstation/Elion Modern Desk Workstation - Side View.webp"
     ],
     "colors": []
   },
@@ -11936,12 +11936,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Elix Executive Office Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Side View.png"
+      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Corner Detail.webp",
+      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Front View.webp",
+      "assets/products/office-workstations/cat-elix-executive-office-desk-system/Elix Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -11955,12 +11955,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Erom Modern Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Side View.png"
+      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Corner Detail.webp",
+      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Front View.webp",
+      "assets/products/office-workstations/cat-erom-modern-executive-desk/Erom Modern Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -11974,9 +11974,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Executive Lshaped Wood Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-executive-lshaped-wood-desk/executive_lshaped_wood_desk.png",
+    "img": "assets/products/office-workstations/cat-executive-lshaped-wood-desk/executive_lshaped_wood_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-executive-lshaped-wood-desk/executive_lshaped_wood_desk.png"
+      "assets/products/office-workstations/cat-executive-lshaped-wood-desk/executive_lshaped_wood_desk.webp"
     ],
     "colors": []
   },
@@ -11990,9 +11990,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Forge Modular Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-forge-modular-executive-desk/Forge Modular Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-forge-modular-executive-desk/Forge Modular Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-forge-modular-executive-desk/Forge Modular Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-forge-modular-executive-desk/Forge Modular Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12006,9 +12006,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Futuristic Silver Reception Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-futuristic-silver-reception-desk/futuristic_silver_reception_desk.png",
+    "img": "assets/products/office-workstations/cat-futuristic-silver-reception-desk/futuristic_silver_reception_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-futuristic-silver-reception-desk/futuristic_silver_reception_desk.png"
+      "assets/products/office-workstations/cat-futuristic-silver-reception-desk/futuristic_silver_reception_desk.webp"
     ],
     "colors": []
   },
@@ -12022,9 +12022,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Futuristic White Gold Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-futuristic-white-gold-executive-desk/futuristic_white_gold_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-futuristic-white-gold-executive-desk/futuristic_white_gold_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-futuristic-white-gold-executive-desk/futuristic_white_gold_executive_desk.png"
+      "assets/products/office-workstations/cat-futuristic-white-gold-executive-desk/futuristic_white_gold_executive_desk.webp"
     ],
     "colors": []
   },
@@ -12038,9 +12038,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Gray White Compact Study Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-gray-white-compact-study-desk/gray_white_compact_study_desk.png",
+    "img": "assets/products/office-workstations/cat-gray-white-compact-study-desk/gray_white_compact_study_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-gray-white-compact-study-desk/gray_white_compact_study_desk.png"
+      "assets/products/office-workstations/cat-gray-white-compact-study-desk/gray_white_compact_study_desk.webp"
     ],
     "colors": []
   },
@@ -12054,9 +12054,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Helio Modern Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-helio-modern-executive-desk/Helio Modern Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-helio-modern-executive-desk/Helio Modern Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-helio-modern-executive-desk/Helio Modern Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-helio-modern-executive-desk/Helio Modern Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12070,10 +12070,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Kyro Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-kyro-executive-desk-system/Kyro Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-kyro-executive-desk-system/Kyro Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-kyro-executive-desk-system/Kyro Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-kyro-executive-desk-system/Kyro Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-kyro-executive-desk-system/Kyro Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-kyro-executive-desk-system/Kyro Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12087,9 +12087,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Minimalist Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-light-oak-minimalist-desk/light_oak_minimalist_desk.png",
+    "img": "assets/products/office-workstations/cat-light-oak-minimalist-desk/light_oak_minimalist_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-light-oak-minimalist-desk/light_oak_minimalist_desk.png"
+      "assets/products/office-workstations/cat-light-oak-minimalist-desk/light_oak_minimalist_desk.webp"
     ],
     "colors": []
   },
@@ -12103,11 +12103,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Lior Executive Desk System combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Angle Perspective.png",
-      "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Front View.png",
-      "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Side View.png"
+      "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Front View.webp",
+      "assets/products/office-workstations/cat-lior-executive-desk-system/Lior Executive Desk System - Side View.webp"
     ],
     "colors": []
   },
@@ -12121,10 +12121,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Liora Height Adjustable Standing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-liora-height-adjustable-standing-desk/Liora Standing Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-liora-height-adjustable-standing-desk/Liora Standing Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-liora-height-adjustable-standing-desk/Liora Standing Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-liora-height-adjustable-standing-desk/Liora Standing Desk - Front View.png"
+      "assets/products/office-workstations/cat-liora-height-adjustable-standing-desk/Liora Standing Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-liora-height-adjustable-standing-desk/Liora Standing Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12138,9 +12138,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Luvon Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-luvon-executive-desk/Luvon Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-luvon-executive-desk/Luvon Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-luvon-executive-desk/Luvon Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-luvon-executive-desk/Luvon Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12154,9 +12154,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mahogany Office Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.png",
+    "img": "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.png"
+      "assets/products/office-workstations/cat-mahogany-3drawer-office-desk/mahogany_3drawer_office_desk.webp"
     ],
     "colors": []
   },
@@ -12170,9 +12170,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Midcentury Walnut Writing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-midcentury-walnut-writing-desk/midcentury_walnut_writing_desk.png",
+    "img": "assets/products/office-workstations/cat-midcentury-walnut-writing-desk/midcentury_walnut_writing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-midcentury-walnut-writing-desk/midcentury_walnut_writing_desk.png"
+      "assets/products/office-workstations/cat-midcentury-walnut-writing-desk/midcentury_walnut_writing_desk.webp"
     ],
     "colors": []
   },
@@ -12186,9 +12186,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Minimalist Beige Slate Writing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-minimalist-beige-slate-writing-desk/minimalist_beige_slate_writing_desk.png",
+    "img": "assets/products/office-workstations/cat-minimalist-beige-slate-writing-desk/minimalist_beige_slate_writing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-minimalist-beige-slate-writing-desk/minimalist_beige_slate_writing_desk.png"
+      "assets/products/office-workstations/cat-minimalist-beige-slate-writing-desk/minimalist_beige_slate_writing_desk.webp"
     ],
     "colors": []
   },
@@ -12202,9 +12202,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Glass Top Desk With Wooden A Frame Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-modern-glass-top-desk-with-wooden-a-frame-legs/Modern Glass Top Desk with Wooden A-Frame Legs.jpg",
+    "img": "assets/products/office-workstations/cat-modern-glass-top-desk-with-wooden-a-frame-legs/Modern Glass Top Desk with Wooden A-Frame Legs.webp",
     "images": [
-      "assets/products/office-workstations/cat-modern-glass-top-desk-with-wooden-a-frame-legs/Modern Glass Top Desk with Wooden A-Frame Legs.jpg"
+      "assets/products/office-workstations/cat-modern-glass-top-desk-with-wooden-a-frame-legs/Modern Glass Top Desk with Wooden A-Frame Legs.webp"
     ],
     "colors": []
   },
@@ -12218,12 +12218,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modular 4 Person L Shaped Workstation Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Angle Perspective.png",
-      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Corner Detail.png",
-      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Front View.png",
-      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Side View.png"
+      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Corner Detail.webp",
+      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Front View.webp",
+      "assets/products/office-workstations/cat-modular-4-person-l-shaped-workstation-desk/Modular 4-Person Workstation - Side View.webp"
     ],
     "colors": []
   },
@@ -12237,12 +12237,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modular Conference Z Line Nova combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Angle Perspective.png",
-      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Corner Detail.png",
-      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Front View.png",
-      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Side View.png"
+      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Corner Detail.webp",
+      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Front View.webp",
+      "assets/products/office-workstations/cat-modular-conference-z-line-nova/Modular Conference Z-Line Nova - Side View.webp"
     ],
     "colors": []
   },
@@ -12256,10 +12256,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nexa 4 Person Modular Office Workstation combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-nexa-4-person-modular-office-workstation/Nexa 4-Person Workstation - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-nexa-4-person-modular-office-workstation/Nexa 4-Person Workstation - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-nexa-4-person-modular-office-workstation/Nexa 4-Person Workstation - Angle Perspective.png",
-      "assets/products/office-workstations/cat-nexa-4-person-modular-office-workstation/Nexa 4-Person Workstation - Front View.png"
+      "assets/products/office-workstations/cat-nexa-4-person-modular-office-workstation/Nexa 4-Person Workstation - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-nexa-4-person-modular-office-workstation/Nexa 4-Person Workstation - Front View.webp"
     ],
     "colors": []
   },
@@ -12273,9 +12273,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nexo Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-nexo-executive-desk/Nexo Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-nexo-executive-desk/Nexo Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-nexo-executive-desk/Nexo Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-nexo-executive-desk/Nexo Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12289,11 +12289,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nova Integra Magnus Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Front View.png",
-      "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Side View.png"
+      "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Front View.webp",
+      "assets/products/office-workstations/cat-nova-integra-magnus-desk/Nova Integra Magnus Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -12307,9 +12307,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak And Charcoal Lshaped Desk Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-oak-and-charcoal-lshaped-desk-comboset/oak_and_charcoal_lshaped_desk_comboset.png",
+    "img": "assets/products/office-workstations/cat-oak-and-charcoal-lshaped-desk-comboset/oak_and_charcoal_lshaped_desk_comboset.webp",
     "images": [
-      "assets/products/office-workstations/cat-oak-and-charcoal-lshaped-desk-comboset/oak_and_charcoal_lshaped_desk_comboset.png"
+      "assets/products/office-workstations/cat-oak-and-charcoal-lshaped-desk-comboset/oak_and_charcoal_lshaped_desk_comboset.webp"
     ],
     "colors": []
   },
@@ -12323,9 +12323,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Orlo Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-orlo-executive-desk/Orlo Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-orlo-executive-desk/Orlo Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-orlo-executive-desk/Orlo Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-orlo-executive-desk/Orlo Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12339,14 +12339,14 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Prestige L Shaped Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Angle Perspective.png",
-      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Front View.png",
-      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Context View.png",
-      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Corner Detail.png",
-      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Side View.png",
-      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Studio Showcase.png"
+      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Angle Perspective.webp",
+      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Front View.webp",
+      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Context View.webp",
+      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Corner Detail.webp",
+      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Side View.webp",
+      "assets/products/office-workstations/prestige-l-shaped-executive-desk/prestige-l-shaped-executive-desk - Studio Showcase.webp"
     ],
     "colors": []
   },
@@ -12360,10 +12360,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Primor Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-primor-executive-desk/Primor Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-primor-executive-desk/Primor Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-primor-executive-desk/Primor Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-primor-executive-desk/Primor Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-primor-executive-desk/Primor Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-primor-executive-desk/Primor Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12377,12 +12377,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Privon Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Side View.png"
+      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Corner Detail.webp",
+      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Front View.webp",
+      "assets/products/office-workstations/cat-privon-executive-desk/Privon Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -12396,12 +12396,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Privon X Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Corner Detail.png",
-      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Side View.png"
+      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Corner Detail.webp",
+      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Front View.webp",
+      "assets/products/office-workstations/cat-privon-x-executive-desk/Privon X Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -12415,9 +12415,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rova Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-rova-executive-desk/Rova Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-rova-executive-desk/Rova Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-rova-executive-desk/Rova Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-rova-executive-desk/Rova Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12431,9 +12431,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandi Oak White Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-scandi-oak-white-executive-desk/scandi_oak_white_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-scandi-oak-white-executive-desk/scandi_oak_white_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-scandi-oak-white-executive-desk/scandi_oak_white_executive_desk.png"
+      "assets/products/office-workstations/cat-scandi-oak-white-executive-desk/scandi_oak_white_executive_desk.webp"
     ],
     "colors": []
   },
@@ -12447,9 +12447,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandi Walnut White Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-scandi-walnut-white-executive-desk/scandi_walnut_white_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-scandi-walnut-white-executive-desk/scandi_walnut_white_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-scandi-walnut-white-executive-desk/scandi_walnut_white_executive_desk.png"
+      "assets/products/office-workstations/cat-scandi-walnut-white-executive-desk/scandi_walnut_white_executive_desk.webp"
     ],
     "colors": []
   },
@@ -12463,9 +12463,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sculptural Walnut Conference Table combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-sculptural-walnut-conference-table/Sculptural Walnut Conference Table.jpg",
+    "img": "assets/products/office-workstations/cat-sculptural-walnut-conference-table/Sculptural Walnut Conference Table.webp",
     "images": [
-      "assets/products/office-workstations/cat-sculptural-walnut-conference-table/Sculptural Walnut Conference Table.jpg"
+      "assets/products/office-workstations/cat-sculptural-walnut-conference-table/Sculptural Walnut Conference Table.webp"
     ],
     "colors": []
   },
@@ -12479,9 +12479,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate and Birch Hutch Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/slate-and-birch-hutch-desk/slate-and-birch-hutch-desk.png",
+    "img": "assets/products/office-workstations/slate-and-birch-hutch-desk/slate-and-birch-hutch-desk.webp",
     "images": [
-      "assets/products/office-workstations/slate-and-birch-hutch-desk/slate-and-birch-hutch-desk.png"
+      "assets/products/office-workstations/slate-and-birch-hutch-desk/slate-and-birch-hutch-desk.webp"
     ],
     "colors": []
   },
@@ -12495,9 +12495,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Birch Writing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-slate-birch-2drawer-writing-desk/slate_birch_2drawer_writing_desk.png",
+    "img": "assets/products/office-workstations/cat-slate-birch-2drawer-writing-desk/slate_birch_2drawer_writing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-slate-birch-2drawer-writing-desk/slate_birch_2drawer_writing_desk.png"
+      "assets/products/office-workstations/cat-slate-birch-2drawer-writing-desk/slate_birch_2drawer_writing_desk.webp"
     ],
     "colors": []
   },
@@ -12511,9 +12511,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Gray Executive Desk With Return combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-slate-gray-executive-desk-with-return/slate_gray_executive_desk_with_return.png",
+    "img": "assets/products/office-workstations/cat-slate-gray-executive-desk-with-return/slate_gray_executive_desk_with_return.webp",
     "images": [
-      "assets/products/office-workstations/cat-slate-gray-executive-desk-with-return/slate_gray_executive_desk_with_return.png"
+      "assets/products/office-workstations/cat-slate-gray-executive-desk-with-return/slate_gray_executive_desk_with_return.webp"
     ],
     "colors": []
   },
@@ -12527,9 +12527,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Gray Modern Writing Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-slate-gray-modern-writing-desk/slate_gray_modern_writing_desk.png",
+    "img": "assets/products/office-workstations/cat-slate-gray-modern-writing-desk/slate_gray_modern_writing_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-slate-gray-modern-writing-desk/slate_gray_modern_writing_desk.png"
+      "assets/products/office-workstations/cat-slate-gray-modern-writing-desk/slate_gray_modern_writing_desk.webp"
     ],
     "colors": []
   },
@@ -12543,9 +12543,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sovio Minimalist Grey Executive Reception Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-sovio-minimalist-grey-executive-reception-desk/Sovio Minimalist Grey Executive Reception Desk.png",
+    "img": "assets/products/office-workstations/cat-sovio-minimalist-grey-executive-reception-desk/Sovio Minimalist Grey Executive Reception Desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-sovio-minimalist-grey-executive-reception-desk/Sovio Minimalist Grey Executive Reception Desk.png"
+      "assets/products/office-workstations/cat-sovio-minimalist-grey-executive-reception-desk/Sovio Minimalist Grey Executive Reception Desk.webp"
     ],
     "colors": []
   },
@@ -12559,9 +12559,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sovio Walnut Executive Desk With 3 Drawer Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/sovio-walnut-executive-desk-with-3-drawer-pedestal/sovio-walnut-executive-desk-with-3-drawer-pedestal.png",
+    "img": "assets/products/office-workstations/sovio-walnut-executive-desk-with-3-drawer-pedestal/sovio-walnut-executive-desk-with-3-drawer-pedestal.webp",
     "images": [
-      "assets/products/office-workstations/sovio-walnut-executive-desk-with-3-drawer-pedestal/sovio-walnut-executive-desk-with-3-drawer-pedestal.png"
+      "assets/products/office-workstations/sovio-walnut-executive-desk-with-3-drawer-pedestal/sovio-walnut-executive-desk-with-3-drawer-pedestal.webp"
     ],
     "colors": []
   },
@@ -12575,9 +12575,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sovio Walnut Executive Desk With Left Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/sovio-walnut-executive-desk-with-left-cabinet/sovio-walnut-executive-desk-with-left-cabinet.png",
+    "img": "assets/products/office-workstations/sovio-walnut-executive-desk-with-left-cabinet/sovio-walnut-executive-desk-with-left-cabinet.webp",
     "images": [
-      "assets/products/office-workstations/sovio-walnut-executive-desk-with-left-cabinet/sovio-walnut-executive-desk-with-left-cabinet.png"
+      "assets/products/office-workstations/sovio-walnut-executive-desk-with-left-cabinet/sovio-walnut-executive-desk-with-left-cabinet.webp"
     ],
     "colors": []
   },
@@ -12591,9 +12591,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Twotone Oak Chocolate Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-twotone-oak-chocolate-executive-desk/twotone_oak_chocolate_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-twotone-oak-chocolate-executive-desk/twotone_oak_chocolate_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-twotone-oak-chocolate-executive-desk/twotone_oak_chocolate_executive_desk.png"
+      "assets/products/office-workstations/cat-twotone-oak-chocolate-executive-desk/twotone_oak_chocolate_executive_desk.webp"
     ],
     "colors": []
   },
@@ -12607,9 +12607,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Twotone Oak Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-twotone-oak-executive-desk/twotone_oak_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-twotone-oak-executive-desk/twotone_oak_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-twotone-oak-executive-desk/twotone_oak_executive_desk.png"
+      "assets/products/office-workstations/cat-twotone-oak-executive-desk/twotone_oak_executive_desk.webp"
     ],
     "colors": []
   },
@@ -12623,9 +12623,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Unox Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-unox-executive-desk/Unox Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-unox-executive-desk/Unox Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-unox-executive-desk/Unox Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-unox-executive-desk/Unox Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12639,11 +12639,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Vectron X Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Front View.png",
-      "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Side View.png"
+      "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Front View.webp",
+      "assets/products/office-workstations/cat-vectron-x-executive-desk/Vectron X Executive Desk - Side View.webp"
     ],
     "colors": []
   },
@@ -12657,9 +12657,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Vemior Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-vemior-executive-desk/Vemior Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-vemior-executive-desk/Vemior Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-vemior-executive-desk/Vemior Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-vemior-executive-desk/Vemior Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12673,9 +12673,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Versa Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-versa-executive-desk/Versa Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-versa-executive-desk/Versa Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-versa-executive-desk/Versa Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-versa-executive-desk/Versa Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12689,9 +12689,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Vetra Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-vetra-executive-desk/Vetra Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-vetra-executive-desk/Vetra Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-vetra-executive-desk/Vetra Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-vetra-executive-desk/Vetra Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12705,10 +12705,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Viora Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-viora-executive-desk/Viora Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-viora-executive-desk/Viora Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-viora-executive-desk/Viora Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-viora-executive-desk/Viora Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-viora-executive-desk/Viora Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-viora-executive-desk/Viora Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12722,9 +12722,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut And Charcoal Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-walnut-and-charcoal-2drawer-desk/walnut_and_charcoal_2drawer_desk.png",
+    "img": "assets/products/office-workstations/cat-walnut-and-charcoal-2drawer-desk/walnut_and_charcoal_2drawer_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-walnut-and-charcoal-2drawer-desk/walnut_and_charcoal_2drawer_desk.png"
+      "assets/products/office-workstations/cat-walnut-and-charcoal-2drawer-desk/walnut_and_charcoal_2drawer_desk.webp"
     ],
     "colors": []
   },
@@ -12738,9 +12738,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Conference Table With Cable Ports combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-walnut-conference-table-with-cable-ports/walnut_conference_table_with_cable_ports.png",
+    "img": "assets/products/office-workstations/cat-walnut-conference-table-with-cable-ports/walnut_conference_table_with_cable_ports.webp",
     "images": [
-      "assets/products/office-workstations/cat-walnut-conference-table-with-cable-ports/walnut_conference_table_with_cable_ports.png"
+      "assets/products/office-workstations/cat-walnut-conference-table-with-cable-ports/walnut_conference_table_with_cable_ports.webp"
     ],
     "colors": []
   },
@@ -12754,9 +12754,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Executive Desk With Drawers combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-walnut-executive-desk-with-drawers/walnut_executive_desk_with_drawers.png",
+    "img": "assets/products/office-workstations/cat-walnut-executive-desk-with-drawers/walnut_executive_desk_with_drawers.webp",
     "images": [
-      "assets/products/office-workstations/cat-walnut-executive-desk-with-drawers/walnut_executive_desk_with_drawers.png"
+      "assets/products/office-workstations/cat-walnut-executive-desk-with-drawers/walnut_executive_desk_with_drawers.webp"
     ],
     "colors": []
   },
@@ -12770,9 +12770,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The White Walnut Lshaped Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-white-walnut-lshaped-executive-desk/white_walnut_lshaped_executive_desk.png",
+    "img": "assets/products/office-workstations/cat-white-walnut-lshaped-executive-desk/white_walnut_lshaped_executive_desk.webp",
     "images": [
-      "assets/products/office-workstations/cat-white-walnut-lshaped-executive-desk/white_walnut_lshaped_executive_desk.png"
+      "assets/products/office-workstations/cat-white-walnut-lshaped-executive-desk/white_walnut_lshaped_executive_desk.webp"
     ],
     "colors": []
   },
@@ -12786,10 +12786,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Woodland Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-woodland-executive-desk/Woodland Executive Desk - Angle Perspective.png",
+    "img": "assets/products/office-workstations/cat-woodland-executive-desk/Woodland Executive Desk - Angle Perspective.webp",
     "images": [
-      "assets/products/office-workstations/cat-woodland-executive-desk/Woodland Executive Desk - Angle Perspective.png",
-      "assets/products/office-workstations/cat-woodland-executive-desk/Woodland Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-woodland-executive-desk/Woodland Executive Desk - Angle Perspective.webp",
+      "assets/products/office-workstations/cat-woodland-executive-desk/Woodland Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12803,9 +12803,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Xylo Executive Desk combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/cat-xylo-executive-desk/Xylo Executive Desk - Front View.png",
+    "img": "assets/products/office-workstations/cat-xylo-executive-desk/Xylo Executive Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/cat-xylo-executive-desk/Xylo Executive Desk - Front View.png"
+      "assets/products/office-workstations/cat-xylo-executive-desk/Xylo Executive Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -12819,20 +12819,20 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "CENDRO is designed for clean, distraction-free work environments. With no integrated storage, it emphasizes simplicity and openness, making it ideal for compact or flexible setups. The modesty panel provides a refined, modern look while maintaining essential functionality.",
-    "img": "assets/products/office-workstations/cendro/Cendro_01.png",
+    "img": "assets/products/office-workstations/cendro/Cendro_01.webp",
     "images": [
-      "assets/products/office-workstations/cendro/Cendro_01.png",
-      "assets/products/office-workstations/cendro/Cendro_02.png",
-      "assets/products/office-workstations/cendro/Cendro_03.png",
-      "assets/products/office-workstations/cendro/Cendro_04.png",
-      "assets/products/office-workstations/cendro/Cendro_05.png",
-      "assets/products/office-workstations/cendro/Cendro_06.png"
+      "assets/products/office-workstations/cendro/Cendro_01.webp",
+      "assets/products/office-workstations/cendro/Cendro_02.webp",
+      "assets/products/office-workstations/cendro/Cendro_03.webp",
+      "assets/products/office-workstations/cendro/Cendro_04.webp",
+      "assets/products/office-workstations/cendro/Cendro_05.webp",
+      "assets/products/office-workstations/cendro/Cendro_06.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-executive-l-shaped-desk-walnut",
-    "name": "Chief Executive L-Shaped Desk — Walnut",
+    "name": "Chief Executive L-Shaped Desk â€” Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Walnut Laminate",
@@ -12840,15 +12840,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "An L-shaped executive desk in warm walnut, pairing a full-depth worktop with a side return, integrated open storage and a three-drawer mobile pedestal. Built for cabin offices that need work surface and filing in one footprint.",
-    "img": "assets/products/office-workstations/chief-executive-l-shaped-desk-walnut/Chief Executive L-Shaped Desk - Walnut - Front View.png",
+    "img": "assets/products/office-workstations/chief-executive-l-shaped-desk-walnut/Chief Executive L-Shaped Desk - Walnut - Front View.webp",
     "images": [
-      "assets/products/office-workstations/chief-executive-l-shaped-desk-walnut/Chief Executive L-Shaped Desk - Walnut - Front View.png"
+      "assets/products/office-workstations/chief-executive-l-shaped-desk-walnut/Chief Executive L-Shaped Desk - Walnut - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-executive-desk-with-return-dark-walnut",
-    "name": "Chief Executive Desk with Return — Dark Walnut",
+    "name": "Chief Executive Desk with Return â€” Dark Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Dark Walnut Laminate",
@@ -12856,15 +12856,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A dark walnut executive desk with a full modesty panel and a side return that doubles as a discussion surface. The wrapped panel construction gives the desk a solid, monolithic presence.",
-    "img": "assets/products/office-workstations/chief-executive-desk-with-return-dark-walnut/Chief Executive Desk with Return - Dark Walnut - Front View.png",
+    "img": "assets/products/office-workstations/chief-executive-desk-with-return-dark-walnut/Chief Executive Desk with Return - Dark Walnut - Front View.webp",
     "images": [
-      "assets/products/office-workstations/chief-executive-desk-with-return-dark-walnut/Chief Executive Desk with Return - Dark Walnut - Front View.png"
+      "assets/products/office-workstations/chief-executive-desk-with-return-dark-walnut/Chief Executive Desk with Return - Dark Walnut - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-l-shaped-desk-metal-legs-light-ash",
-    "name": "Chief L-Shaped Desk with Metal Legs — Light Ash",
+    "name": "Chief L-Shaped Desk with Metal Legs â€” Light Ash",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Light Ash Laminate with Steel Legs",
@@ -12872,15 +12872,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A light ash L-shaped desk on slim powder-coated steel legs, supplied with a two-door storage unit and a matching three-drawer mobile pedestal. Suits open-plan managerial workspaces.",
-    "img": "assets/products/office-workstations/chief-l-shaped-desk-metal-legs-light-ash/Chief L-Shaped Desk with Metal Legs - Light Ash - Front View.png",
+    "img": "assets/products/office-workstations/chief-l-shaped-desk-metal-legs-light-ash/Chief L-Shaped Desk with Metal Legs - Light Ash - Front View.webp",
     "images": [
-      "assets/products/office-workstations/chief-l-shaped-desk-metal-legs-light-ash/Chief L-Shaped Desk with Metal Legs - Light Ash - Front View.png"
+      "assets/products/office-workstations/chief-l-shaped-desk-metal-legs-light-ash/Chief L-Shaped Desk with Metal Legs - Light Ash - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-l-shaped-workstation-sliding-credenza-light-ash",
-    "name": "Chief L-Shaped Workstation with Sliding Credenza — Light Ash",
+    "name": "Chief L-Shaped Workstation with Sliding Credenza â€” Light Ash",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Light Ash Laminate with Steel Legs",
@@ -12888,15 +12888,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A light ash workstation combining an L-shaped top on steel legs with a low sliding-door credenza and integrated drawer bank. Keeps files at desk height without blocking sightlines.",
-    "img": "assets/products/office-workstations/chief-l-shaped-workstation-sliding-credenza-light-ash/Chief L-Shaped Workstation with Sliding Credenza - Light Ash - Front View.png",
+    "img": "assets/products/office-workstations/chief-l-shaped-workstation-sliding-credenza-light-ash/Chief L-Shaped Workstation with Sliding Credenza - Light Ash - Front View.webp",
     "images": [
-      "assets/products/office-workstations/chief-l-shaped-workstation-sliding-credenza-light-ash/Chief L-Shaped Workstation with Sliding Credenza - Light Ash - Front View.png"
+      "assets/products/office-workstations/chief-l-shaped-workstation-sliding-credenza-light-ash/Chief L-Shaped Workstation with Sliding Credenza - Light Ash - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-three-door-storage-credenza-oak",
-    "name": "Chief Three-Door Storage Credenza — Oak",
+    "name": "Chief Three-Door Storage Credenza â€” Oak",
     "category": "wardrobes-storage",
     "type": "credenza",
     "material": "Engineered Wood / Oak Laminate with Fluted Panel",
@@ -12904,15 +12904,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A three-door office credenza in oak with a fluted upper band and brushed brass pull handles. Provides full-width closed storage along a cabin wall or behind an executive desk.",
-    "img": "assets/products/wardrobes-storage/chief-three-door-storage-credenza-oak/Chief Three-Door Storage Credenza - Oak - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-three-door-storage-credenza-oak/Chief Three-Door Storage Credenza - Oak - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-three-door-storage-credenza-oak/Chief Three-Door Storage Credenza - Oak - Front View.png"
+      "assets/products/wardrobes-storage/chief-three-door-storage-credenza-oak/Chief Three-Door Storage Credenza - Oak - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-credenza-with-drawer-unit-oak",
-    "name": "Chief Credenza with Drawer Unit — Oak",
+    "name": "Chief Credenza with Drawer Unit â€” Oak",
     "category": "wardrobes-storage",
     "type": "credenza",
     "material": "Engineered Wood / Oak Laminate with Fluted Panel",
@@ -12920,15 +12920,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "An oak credenza combining two hinged door bays with a central two-drawer stack, finished with a fluted band and brass handles. Lockable for document storage.",
-    "img": "assets/products/wardrobes-storage/chief-credenza-with-drawer-unit-oak/Chief Credenza with Drawer Unit - Oak - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-credenza-with-drawer-unit-oak/Chief Credenza with Drawer Unit - Oak - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-credenza-with-drawer-unit-oak/Chief Credenza with Drawer Unit - Oak - Front View.png"
+      "assets/products/wardrobes-storage/chief-credenza-with-drawer-unit-oak/Chief Credenza with Drawer Unit - Oak - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-tall-glass-door-bookcase-oak",
-    "name": "Chief Tall Glass-Door Bookcase — Oak",
+    "name": "Chief Tall Glass-Door Bookcase â€” Oak",
     "category": "wardrobes-storage",
     "type": "bookcase",
     "material": "Engineered Wood / Oak Laminate with Glass Doors",
@@ -12936,15 +12936,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A full-height bookcase with glazed upper doors over closed fluted-panel lower storage. Displays files and awards while keeping stationery out of sight.",
-    "img": "assets/products/wardrobes-storage/chief-tall-glass-door-bookcase-oak/Chief Tall Glass-Door Bookcase - Oak - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-tall-glass-door-bookcase-oak/Chief Tall Glass-Door Bookcase - Oak - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-tall-glass-door-bookcase-oak/Chief Tall Glass-Door Bookcase - Oak - Front View.png"
+      "assets/products/wardrobes-storage/chief-tall-glass-door-bookcase-oak/Chief Tall Glass-Door Bookcase - Oak - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-three-drawer-mobile-pedestal-oak",
-    "name": "Chief Three-Drawer Mobile Pedestal — Oak",
+    "name": "Chief Three-Drawer Mobile Pedestal â€” Oak",
     "category": "wardrobes-storage",
     "type": "pedestal",
     "material": "Engineered Wood / Oak Laminate with Fluted Panel",
@@ -12952,16 +12952,16 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A compact three-drawer mobile pedestal in oak, with a fluted top drawer and brass pulls. Rolls under any Chief desk and doubles as a bedside-height side surface.",
-    "img": "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - Front View.png",
-      "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - View 2.png"
+      "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - Front View.webp",
+      "assets/products/wardrobes-storage/chief-three-drawer-mobile-pedestal-oak/Chief Three-Drawer Mobile Pedestal - Oak - View 2.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-sideboard-with-drawer-bank-beige-gloss",
-    "name": "Chief Sideboard with Drawer Bank — Beige Gloss",
+    "name": "Chief Sideboard with Drawer Bank â€” Beige Gloss",
     "category": "wardrobes-storage",
     "type": "sideboard",
     "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
@@ -12969,15 +12969,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A high-gloss beige sideboard with a central three-drawer bank flanked by hinged door bays, set on a walnut plinth and top. Adds closed storage without visual weight.",
-    "img": "assets/products/wardrobes-storage/chief-sideboard-with-drawer-bank-beige-gloss/Chief Sideboard with Drawer Bank - Beige Gloss - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-sideboard-with-drawer-bank-beige-gloss/Chief Sideboard with Drawer Bank - Beige Gloss - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-sideboard-with-drawer-bank-beige-gloss/Chief Sideboard with Drawer Bank - Beige Gloss - Front View.png"
+      "assets/products/wardrobes-storage/chief-sideboard-with-drawer-bank-beige-gloss/Chief Sideboard with Drawer Bank - Beige Gloss - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-two-door-low-cabinet-beige-gloss",
-    "name": "Chief Two-Door Low Cabinet — Beige Gloss",
+    "name": "Chief Two-Door Low Cabinet â€” Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
@@ -12985,15 +12985,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A desk-height two-door cabinet in high-gloss beige with a walnut top. Sits alongside an executive desk as a printer stand or accessible file store.",
-    "img": "assets/products/wardrobes-storage/chief-two-door-low-cabinet-beige-gloss/Chief Two-Door Low Cabinet - Beige Gloss - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-two-door-low-cabinet-beige-gloss/Chief Two-Door Low Cabinet - Beige Gloss - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-two-door-low-cabinet-beige-gloss/Chief Two-Door Low Cabinet - Beige Gloss - Front View.png"
+      "assets/products/wardrobes-storage/chief-two-door-low-cabinet-beige-gloss/Chief Two-Door Low Cabinet - Beige Gloss - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-mid-height-two-door-cabinet-beige-gloss",
-    "name": "Chief Mid-Height Two-Door Cabinet — Beige Gloss",
+    "name": "Chief Mid-Height Two-Door Cabinet â€” Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
@@ -13001,15 +13001,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A mid-height two-door cabinet in high-gloss beige, tall enough for four filing levels while staying below eye line in an open cabin.",
-    "img": "assets/products/wardrobes-storage/chief-mid-height-two-door-cabinet-beige-gloss/Chief Mid-Height Two-Door Cabinet - Beige Gloss - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-mid-height-two-door-cabinet-beige-gloss/Chief Mid-Height Two-Door Cabinet - Beige Gloss - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-mid-height-two-door-cabinet-beige-gloss/Chief Mid-Height Two-Door Cabinet - Beige Gloss - Front View.png"
+      "assets/products/wardrobes-storage/chief-mid-height-two-door-cabinet-beige-gloss/Chief Mid-Height Two-Door Cabinet - Beige Gloss - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-tall-cabinet-with-display-band-beige-gloss",
-    "name": "Chief Tall Cabinet with Display Band — Beige Gloss",
+    "name": "Chief Tall Cabinet with Display Band â€” Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Glass Band",
@@ -13017,15 +13017,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A full-height storage cabinet in high-gloss beige, broken by a glazed display band at mid level. Closed storage above and below keeps the display shelf as the focal point.",
-    "img": "assets/products/wardrobes-storage/chief-tall-cabinet-with-display-band-beige-gloss/Chief Tall Cabinet with Display Band - Beige Gloss - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-tall-cabinet-with-display-band-beige-gloss/Chief Tall Cabinet with Display Band - Beige Gloss - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-tall-cabinet-with-display-band-beige-gloss/Chief Tall Cabinet with Display Band - Beige Gloss - Front View.png"
+      "assets/products/wardrobes-storage/chief-tall-cabinet-with-display-band-beige-gloss/Chief Tall Cabinet with Display Band - Beige Gloss - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "chief-three-door-display-cabinet-beige-gloss",
-    "name": "Chief Three-Door Display Cabinet — Beige Gloss",
+    "name": "Chief Three-Door Display Cabinet â€” Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Glass Band",
@@ -13033,9 +13033,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "A wide three-bay cabinet in high-gloss beige with an open glazed display band across the centre. Suits reception areas and cabin walls needing both display and bulk storage.",
-    "img": "assets/products/wardrobes-storage/chief-three-door-display-cabinet-beige-gloss/Chief Three-Door Display Cabinet - Beige Gloss - Front View.png",
+    "img": "assets/products/wardrobes-storage/chief-three-door-display-cabinet-beige-gloss/Chief Three-Door Display Cabinet - Beige Gloss - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/chief-three-door-display-cabinet-beige-gloss/Chief Three-Door Display Cabinet - Beige Gloss - Front View.png"
+      "assets/products/wardrobes-storage/chief-three-door-display-cabinet-beige-gloss/Chief Three-Door Display Cabinet - Beige Gloss - Front View.webp"
     ],
     "colors": []
   },
@@ -13049,12 +13049,12 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "ELION is a compact office table crafted for structured daily use. Featuring a dual-tone wood and black finish, it combines visual simplicity with functional storage through three smooth drawers. The integrated modesty panel adds privacy while maintaining a clean and professional workspace aesthetic.",
-    "img": "assets/products/office-workstations/elion/Elion_01.png",
+    "img": "assets/products/office-workstations/elion/Elion_01.webp",
     "images": [
-      "assets/products/office-workstations/elion/Elion_01.png",
-      "assets/products/office-workstations/elion/Elion_02.png",
-      "assets/products/office-workstations/elion/Elion_03.png",
-      "assets/products/office-workstations/elion/Elion_04.png"
+      "assets/products/office-workstations/elion/Elion_01.webp",
+      "assets/products/office-workstations/elion/Elion_02.webp",
+      "assets/products/office-workstations/elion/Elion_03.webp",
+      "assets/products/office-workstations/elion/Elion_04.webp"
     ],
     "colors": []
   },
@@ -13068,12 +13068,12 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "ELIX is an L-shaped executive desk designed for spacious and organized work environments. It features a large work surface with an attached side storage unit that includes two drawers and two cabinet doors, offering both organized and concealed storage while maintaining a clean and functional workspace.",
-    "img": "assets/products/office-workstations/elix/Elix_01.png",
+    "img": "assets/products/office-workstations/elix/Elix_01.webp",
     "images": [
-      "assets/products/office-workstations/elix/Elix_01.png",
-      "assets/products/office-workstations/elix/Elix_02.png",
-      "assets/products/office-workstations/elix/Elix_03.png",
-      "assets/products/office-workstations/elix/Elix_04.png"
+      "assets/products/office-workstations/elix/Elix_01.webp",
+      "assets/products/office-workstations/elix/Elix_02.webp",
+      "assets/products/office-workstations/elix/Elix_03.webp",
+      "assets/products/office-workstations/elix/Elix_04.webp"
     ],
     "colors": []
   },
@@ -13087,12 +13087,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "EROM is a functional office table designed for organized work and everyday use. It features two drawers for convenient storage and an integrated modesty panel that enhances privacy while maintaining a clean and professional workspace.",
-    "img": "assets/products/office-workstations/erom/Erom_01.png",
+    "img": "assets/products/office-workstations/erom/Erom_01.webp",
     "images": [
-      "assets/products/office-workstations/erom/Erom_01.png",
-      "assets/products/office-workstations/erom/Erom_02.png",
-      "assets/products/office-workstations/erom/Erom_03.png",
-      "assets/products/office-workstations/erom/Erom_04.png"
+      "assets/products/office-workstations/erom/Erom_01.webp",
+      "assets/products/office-workstations/erom/Erom_02.webp",
+      "assets/products/office-workstations/erom/Erom_03.webp",
+      "assets/products/office-workstations/erom/Erom_04.webp"
     ],
     "colors": []
   },
@@ -13106,11 +13106,11 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "Single motor / Stage 2 EVON is a height-adjustable workstation designed for ergonomic and flexible work environments. It supports smooth transitions between sitting and standing positions, enhancing comfort and productivity throughout the day.",
-    "img": "assets/products/office-workstations/evon/Evon_01.png",
+    "img": "assets/products/office-workstations/evon/Evon_01.webp",
     "images": [
-      "assets/products/office-workstations/evon/Evon_01.png",
-      "assets/products/office-workstations/evon/Evon_02.png",
-      "assets/products/office-workstations/evon/Evon_03.png"
+      "assets/products/office-workstations/evon/Evon_01.webp",
+      "assets/products/office-workstations/evon/Evon_02.webp",
+      "assets/products/office-workstations/evon/Evon_03.webp"
     ],
     "colors": []
   },
@@ -13124,12 +13124,12 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": "HELIO is a thoughtfully designed manager table that integrates both open and closed storage elements. With front-facing cubbies for quick access and a rear storage unit featuring a drawer and cabinet, it ensures efficient organization. The dual-tone finish and modesty panel enhance both functionality and professional appeal.",
-    "img": "assets/products/office-workstations/helio/Helio_01.png",
+    "img": "assets/products/office-workstations/helio/Helio_01.webp",
     "images": [
-      "assets/products/office-workstations/helio/Helio_01.png",
-      "assets/products/office-workstations/helio/Helio_02.png",
-      "assets/products/office-workstations/helio/Helio_03.png",
-      "assets/products/office-workstations/helio/Helio_04.png"
+      "assets/products/office-workstations/helio/Helio_01.webp",
+      "assets/products/office-workstations/helio/Helio_02.webp",
+      "assets/products/office-workstations/helio/Helio_03.webp",
+      "assets/products/office-workstations/helio/Helio_04.webp"
     ],
     "colors": []
   },
@@ -13143,14 +13143,14 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": ": Carcass 16mm thick pre-laminated particle board in Everest White with color option only for top Multi-purpose Table : 25mm thick particle board with 18 mm modesty & 300 x 400 x 275 height. 2 drawer unit with PVC handles and one lock in Everest White.",
-    "img": "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_01.png",
+    "img": "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_01.webp",
     "images": [
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_01.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_03.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_05.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_07.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_09.png",
-      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_11.png"
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_01.webp",
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_03.webp",
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_05.webp",
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_07.webp",
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_09.webp",
+      "assets/products/office-workstations/l_type_workstation/L_Type_Workstation_11.webp"
     ],
     "colors": []
   },
@@ -13164,13 +13164,13 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "LIOR is an L-shaped workstation designed for organized and efficient workflows. It features two drawers, open cubby storage, and a side unit with one drawer and one door cabinet, offering both accessible and concealed storage in a structured workspace.",
-    "img": "assets/products/office-workstations/lior/Lior_01.png",
+    "img": "assets/products/office-workstations/lior/Lior_01.webp",
     "images": [
-      "assets/products/office-workstations/lior/Lior_01.png",
-      "assets/products/office-workstations/lior/Lior_02.png",
-      "assets/products/office-workstations/lior/Lior_03.png",
-      "assets/products/office-workstations/lior/Lior_04.png",
-      "assets/products/office-workstations/lior/Lior_05.png"
+      "assets/products/office-workstations/lior/Lior_01.webp",
+      "assets/products/office-workstations/lior/Lior_02.webp",
+      "assets/products/office-workstations/lior/Lior_03.webp",
+      "assets/products/office-workstations/lior/Lior_04.webp",
+      "assets/products/office-workstations/lior/Lior_05.webp"
     ],
     "colors": []
   },
@@ -13184,13 +13184,13 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "LIORA is a height-adjustable workstation designed for enhanced comfort and adaptability. Its wider structure and smooth height adjustment make it ideal for efficient sit-stand working.",
-    "img": "assets/products/office-workstations/liora/Liora_01.png",
+    "img": "assets/products/office-workstations/liora/Liora_01.webp",
     "images": [
-      "assets/products/office-workstations/liora/Liora_01.png",
-      "assets/products/office-workstations/liora/Liora_02.png",
-      "assets/products/office-workstations/liora/Liora_03.png",
-      "assets/products/office-workstations/liora/Liora_04.png",
-      "assets/products/office-workstations/liora/Liora_05.png"
+      "assets/products/office-workstations/liora/Liora_01.webp",
+      "assets/products/office-workstations/liora/Liora_02.webp",
+      "assets/products/office-workstations/liora/Liora_03.webp",
+      "assets/products/office-workstations/liora/Liora_04.webp",
+      "assets/products/office-workstations/liora/Liora_05.webp"
     ],
     "colors": []
   },
@@ -13204,12 +13204,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "LUVON combines essential storage with a clean, modern design in a compact form. Featuring an open cubby, a drawer, and a door cabinet, it allows both quick access and concealed organization. The integrated modesty panel ensures a practical and well-balanced workspace.",
-    "img": "assets/products/office-workstations/luvon/Luvon_01.png",
+    "img": "assets/products/office-workstations/luvon/Luvon_01.webp",
     "images": [
-      "assets/products/office-workstations/luvon/Luvon_01.png",
-      "assets/products/office-workstations/luvon/Luvon_02.png",
-      "assets/products/office-workstations/luvon/Luvon_03.png",
-      "assets/products/office-workstations/luvon/Luvon_04.png"
+      "assets/products/office-workstations/luvon/Luvon_01.webp",
+      "assets/products/office-workstations/luvon/Luvon_02.webp",
+      "assets/products/office-workstations/luvon/Luvon_03.webp",
+      "assets/products/office-workstations/luvon/Luvon_04.webp"
     ],
     "colors": []
   },
@@ -13223,9 +13223,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "LYNK is a dual workstation system designed to maximize space efficiency in shared office environments. It allows two users to work simultaneously while maintaining a clean and organized layout.",
-    "img": "assets/products/office-workstations/lynk/Lynk_02.png",
+    "img": "assets/products/office-workstations/lynk/Lynk_02.webp",
     "images": [
-      "assets/products/office-workstations/lynk/Lynk_02.png"
+      "assets/products/office-workstations/lynk/Lynk_02.webp"
     ],
     "colors": []
   },
@@ -13239,9 +13239,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A two-tone desk in walnut and light ash, fitted with a three-drawer pedestal and a two-door side cabinet at return height. The contrast fronts lift a compact cabin setup.",
-    "img": "assets/products/office-workstations/merit-desk-with-pedestal-and-side-cabinet/Merit Desk with Pedestal and Side Cabinet - Front View.png",
+    "img": "assets/products/office-workstations/merit-desk-with-pedestal-and-side-cabinet/Merit Desk with Pedestal and Side Cabinet - Front View.webp",
     "images": [
-      "assets/products/office-workstations/merit-desk-with-pedestal-and-side-cabinet/Merit Desk with Pedestal and Side Cabinet - Front View.png"
+      "assets/products/office-workstations/merit-desk-with-pedestal-and-side-cabinet/Merit Desk with Pedestal and Side Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -13255,9 +13255,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "An L-shaped managerial desk with a low credenza return and a matching mobile pedestal, finished in walnut with light ash fronts.",
-    "img": "assets/products/office-workstations/merit-l-shaped-desk-with-credenza/Merit L-Shaped Desk with Credenza - Front View.png",
+    "img": "assets/products/office-workstations/merit-l-shaped-desk-with-credenza/Merit L-Shaped Desk with Credenza - Front View.webp",
     "images": [
-      "assets/products/office-workstations/merit-l-shaped-desk-with-credenza/Merit L-Shaped Desk with Credenza - Front View.png"
+      "assets/products/office-workstations/merit-l-shaped-desk-with-credenza/Merit L-Shaped Desk with Credenza - Front View.webp"
     ],
     "colors": []
   },
@@ -13271,9 +13271,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A computer table with a raised rear hutch, pull-out keyboard tray, open CPU bay and a three-drawer pedestal. Sized for reception and back-office terminals.",
-    "img": "assets/products/office-workstations/merit-computer-table-with-hutch/Merit Computer Table with Hutch - Front View.png",
+    "img": "assets/products/office-workstations/merit-computer-table-with-hutch/Merit Computer Table with Hutch - Front View.webp",
     "images": [
-      "assets/products/office-workstations/merit-computer-table-with-hutch/Merit Computer Table with Hutch - Front View.png"
+      "assets/products/office-workstations/merit-computer-table-with-hutch/Merit Computer Table with Hutch - Front View.webp"
     ],
     "colors": []
   },
@@ -13287,9 +13287,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A straight-top writing desk in walnut with a contrasting light ash modesty panel and a grommet for cable pass-through.",
-    "img": "assets/products/office-workstations/merit-straight-writing-desk/Merit Straight Writing Desk - Front View.png",
+    "img": "assets/products/office-workstations/merit-straight-writing-desk/Merit Straight Writing Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/merit-straight-writing-desk/Merit Straight Writing Desk - Front View.png"
+      "assets/products/office-workstations/merit-straight-writing-desk/Merit Straight Writing Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -13303,9 +13303,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A desk-height two-door cabinet with light ash fronts and a walnut carcass. Doubles as a printer stand beside a Merit desk.",
-    "img": "assets/products/wardrobes-storage/merit-two-door-low-cabinet/Merit Two-Door Low Cabinet - Front View.png",
+    "img": "assets/products/wardrobes-storage/merit-two-door-low-cabinet/Merit Two-Door Low Cabinet - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/merit-two-door-low-cabinet/Merit Two-Door Low Cabinet - Front View.png"
+      "assets/products/wardrobes-storage/merit-two-door-low-cabinet/Merit Two-Door Low Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -13319,9 +13319,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A mid-height two-door cabinet in the Merit two-tone finish, giving extra filing levels without closing off the room.",
-    "img": "assets/products/wardrobes-storage/merit-mid-height-two-door-cabinet/Merit Mid-Height Two-Door Cabinet - Front View.png",
+    "img": "assets/products/wardrobes-storage/merit-mid-height-two-door-cabinet/Merit Mid-Height Two-Door Cabinet - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/merit-mid-height-two-door-cabinet/Merit Mid-Height Two-Door Cabinet - Front View.png"
+      "assets/products/wardrobes-storage/merit-mid-height-two-door-cabinet/Merit Mid-Height Two-Door Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -13335,9 +13335,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A wide sideboard pairing two door bays with a central three-drawer stack, finished in light ash over a walnut top and plinth.",
-    "img": "assets/products/wardrobes-storage/merit-sideboard-with-drawer-bank/Merit Sideboard with Drawer Bank - Front View.png",
+    "img": "assets/products/wardrobes-storage/merit-sideboard-with-drawer-bank/Merit Sideboard with Drawer Bank - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/merit-sideboard-with-drawer-bank/Merit Sideboard with Drawer Bank - Front View.png"
+      "assets/products/wardrobes-storage/merit-sideboard-with-drawer-bank/Merit Sideboard with Drawer Bank - Front View.webp"
     ],
     "colors": []
   },
@@ -13350,13 +13350,13 @@ const PRODUCTS = [
     "designer": "Buro Design",
     "rating": 4.8,
     "badge": "",
-    "description": "• Top :- 54mm thick dual color edge in batten structure with melamine finish. • Modesty :- 18mm thick in melamine finish • Gable panel :- 54mm thick dual color edge with melamine finish • Access Flap :- Aluminum anodized 393(L) X 150(D) • Cable Tray :- 0.8 mm thick CRCA powder coated. • Legs :- 50mm x 50mm x1.6 mm thick MS powder coated • Middle Electrical leg :- Provided in 3000 mm & above sizes • Cable Tray :- 0.8 mm thick CRCA powder coated • Top :- 25mm thick PLPB with melamine finish. • Cross Members :- 40mmx40mm x1.2mm thick MS powder coated • Access flap :- Aluminum anodized 324mm • Vertebrae :- Provided in 1200 to 1800 mm sizes.",
-    "img": "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_01.png",
+    "description": "â€¢ Top :- 54mm thick dual color edge in batten structure with melamine finish. â€¢ Modesty :- 18mm thick in melamine finish â€¢ Gable panel :- 54mm thick dual color edge with melamine finish â€¢ Access Flap :- Aluminum anodized 393(L) X 150(D) â€¢ Cable Tray :- 0.8 mm thick CRCA powder coated. â€¢ Legs :- 50mm x 50mm x1.6 mm thick MS powder coated â€¢ Middle Electrical leg :- Provided in 3000 mm & above sizes â€¢ Cable Tray :- 0.8 mm thick CRCA powder coated â€¢ Top :- 25mm thick PLPB with melamine finish. â€¢ Cross Members :- 40mmx40mm x1.2mm thick MS powder coated â€¢ Access flap :- Aluminum anodized 324mm â€¢ Vertebrae :- Provided in 1200 to 1800 mm sizes.",
+    "img": "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_01.webp",
     "images": [
-      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_01.png",
-      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_02.png",
-      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_03.png",
-      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_04.png"
+      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_01.webp",
+      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_02.webp",
+      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_03.webp",
+      "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_04.webp"
     ],
     "colors": [],
     "tags": [
@@ -13373,9 +13373,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Padded Mobile File Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-charcoal-padded-mobile-file-pedestal/charcoal_padded_mobile_file_pedestal.png",
+    "img": "assets/products/wardrobes-storage/cat-charcoal-padded-mobile-file-pedestal/charcoal_padded_mobile_file_pedestal.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-charcoal-padded-mobile-file-pedestal/charcoal_padded_mobile_file_pedestal.png"
+      "assets/products/wardrobes-storage/cat-charcoal-padded-mobile-file-pedestal/charcoal_padded_mobile_file_pedestal.webp"
     ],
     "colors": []
   },
@@ -13389,9 +13389,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Espresso And Oak Mobile Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-espresso-and-oak-mobile-3drawer-pedestal/espresso_and_oak_mobile_3drawer_pedestal.png",
+    "img": "assets/products/wardrobes-storage/cat-espresso-and-oak-mobile-3drawer-pedestal/espresso_and_oak_mobile_3drawer_pedestal.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-espresso-and-oak-mobile-3drawer-pedestal/espresso_and_oak_mobile_3drawer_pedestal.png"
+      "assets/products/wardrobes-storage/cat-espresso-and-oak-mobile-3drawer-pedestal/espresso_and_oak_mobile_3drawer_pedestal.webp"
     ],
     "colors": []
   },
@@ -13405,9 +13405,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Greige Metal File Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-greige-metal-file-pedestal/greige_metal_file_pedestal.png",
+    "img": "assets/products/wardrobes-storage/cat-greige-metal-file-pedestal/greige_metal_file_pedestal.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-greige-metal-file-pedestal/greige_metal_file_pedestal.png"
+      "assets/products/wardrobes-storage/cat-greige-metal-file-pedestal/greige_metal_file_pedestal.webp"
     ],
     "colors": []
   },
@@ -13421,9 +13421,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Gray File Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-slate-gray-3drawer-file-pedestal/slate_gray_3drawer_file_pedestal.png",
+    "img": "assets/products/wardrobes-storage/cat-slate-gray-3drawer-file-pedestal/slate_gray_3drawer_file_pedestal.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-slate-gray-3drawer-file-pedestal/slate_gray_3drawer_file_pedestal.png"
+      "assets/products/wardrobes-storage/cat-slate-gray-3drawer-file-pedestal/slate_gray_3drawer_file_pedestal.webp"
     ],
     "colors": []
   },
@@ -13437,12 +13437,12 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "NEXA PRO is a premium workstation designed for modern offices requiring durability and refined aesthetics. It features a T-leg frame with aluminium diecast leg support for enhanced strength and style.",
-    "img": "assets/products/office-workstations/nexa_pro/Nexa_Pro_01.png",
+    "img": "assets/products/office-workstations/nexa_pro/Nexa_Pro_01.webp",
     "images": [
-      "assets/products/office-workstations/nexa_pro/Nexa_Pro_01.png",
-      "assets/products/office-workstations/nexa_pro/Nexa_Pro_02.png",
-      "assets/products/office-workstations/nexa_pro/Nexa_Pro_03.png",
-      "assets/products/office-workstations/nexa_pro/Nexa_Pro_04.png"
+      "assets/products/office-workstations/nexa_pro/Nexa_Pro_01.webp",
+      "assets/products/office-workstations/nexa_pro/Nexa_Pro_02.webp",
+      "assets/products/office-workstations/nexa_pro/Nexa_Pro_03.webp",
+      "assets/products/office-workstations/nexa_pro/Nexa_Pro_04.webp"
     ],
     "colors": []
   },
@@ -13456,9 +13456,9 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "NEXGRID is a modern 4-seater workstation designed for collaborative office environments. It features a back-to-back layout with sturdy metal framing, privacy panels, integrated storage, and a clean professional appearance for productive team spaces.",
-    "img": "assets/products/office-workstations/nexgrid/Nexgrid_01.png",
+    "img": "assets/products/office-workstations/nexgrid/Nexgrid_01.webp",
     "images": [
-      "assets/products/office-workstations/nexgrid/Nexgrid_01.png"
+      "assets/products/office-workstations/nexgrid/Nexgrid_01.webp"
     ],
     "colors": []
   },
@@ -13472,9 +13472,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A large L-shaped executive desk in wenge with a zebrano accent band, combining a side credenza return and a drawer pedestal. Cable routing is built into the worktop.",
-    "img": "assets/products/office-workstations/nova-executive-l-shaped-desk/Nova Executive L-Shaped Desk - Front View.png",
+    "img": "assets/products/office-workstations/nova-executive-l-shaped-desk/Nova Executive L-Shaped Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/nova-executive-l-shaped-desk/Nova Executive L-Shaped Desk - Front View.png"
+      "assets/products/office-workstations/nova-executive-l-shaped-desk/Nova Executive L-Shaped Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -13488,9 +13488,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A mid-size L-shaped desk in wenge, supplied with a fixed three-drawer pedestal and a lockable two-door side cabinet at return height.",
-    "img": "assets/products/office-workstations/nova-l-shaped-desk-with-side-cabinet/Nova L-Shaped Desk with Side Cabinet - Front View.png",
+    "img": "assets/products/office-workstations/nova-l-shaped-desk-with-side-cabinet/Nova L-Shaped Desk with Side Cabinet - Front View.webp",
     "images": [
-      "assets/products/office-workstations/nova-l-shaped-desk-with-side-cabinet/Nova L-Shaped Desk with Side Cabinet - Front View.png"
+      "assets/products/office-workstations/nova-l-shaped-desk-with-side-cabinet/Nova L-Shaped Desk with Side Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -13504,9 +13504,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "An L-shaped desk configured with pedestals under both the main top and the return, giving maximum drawer capacity in a single-user cabin.",
-    "img": "assets/products/office-workstations/nova-l-shaped-desk-with-twin-pedestals/Nova L-Shaped Desk with Twin Pedestals - Front View.png",
+    "img": "assets/products/office-workstations/nova-l-shaped-desk-with-twin-pedestals/Nova L-Shaped Desk with Twin Pedestals - Front View.webp",
     "images": [
-      "assets/products/office-workstations/nova-l-shaped-desk-with-twin-pedestals/Nova L-Shaped Desk with Twin Pedestals - Front View.png"
+      "assets/products/office-workstations/nova-l-shaped-desk-with-twin-pedestals/Nova L-Shaped Desk with Twin Pedestals - Front View.webp"
     ],
     "colors": []
   },
@@ -13520,9 +13520,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A clean straight-top writing desk in wenge with a full modesty panel and levelling glides. Pairs with any Nova mobile pedestal.",
-    "img": "assets/products/office-workstations/nova-straight-writing-desk/Nova Straight Writing Desk - Front View.png",
+    "img": "assets/products/office-workstations/nova-straight-writing-desk/Nova Straight Writing Desk - Front View.webp",
     "images": [
-      "assets/products/office-workstations/nova-straight-writing-desk/Nova Straight Writing Desk - Front View.png"
+      "assets/products/office-workstations/nova-straight-writing-desk/Nova Straight Writing Desk - Front View.webp"
     ],
     "colors": []
   },
@@ -13536,9 +13536,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A computer table with a raised rear hutch, sliding keyboard tray, CPU bay and a three-drawer stack. Designed for cashier counters and back-office terminals.",
-    "img": "assets/products/office-workstations/nova-computer-table-with-hutch/Nova Computer Table with Hutch - Front View.png",
+    "img": "assets/products/office-workstations/nova-computer-table-with-hutch/Nova Computer Table with Hutch - Front View.webp",
     "images": [
-      "assets/products/office-workstations/nova-computer-table-with-hutch/Nova Computer Table with Hutch - Front View.png"
+      "assets/products/office-workstations/nova-computer-table-with-hutch/Nova Computer Table with Hutch - Front View.webp"
     ],
     "colors": []
   },
@@ -13552,9 +13552,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A low credenza in wenge with two lockable door bays and a three-drawer bank. Sits behind an executive desk at return height.",
-    "img": "assets/products/wardrobes-storage/nova-credenza-with-drawer-bank/Nova Credenza with Drawer Bank - Front View.png",
+    "img": "assets/products/wardrobes-storage/nova-credenza-with-drawer-bank/Nova Credenza with Drawer Bank - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/nova-credenza-with-drawer-bank/Nova Credenza with Drawer Bank - Front View.png"
+      "assets/products/wardrobes-storage/nova-credenza-with-drawer-bank/Nova Credenza with Drawer Bank - Front View.webp"
     ],
     "colors": []
   },
@@ -13568,9 +13568,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A desk-height two-door storage cabinet in wenge, detailed with a zebrano accent band across the door tops and a chrome pull.",
-    "img": "assets/products/wardrobes-storage/nova-two-door-cabinet-accent-band/Nova Two-Door Cabinet with Accent Band - Front View.png",
+    "img": "assets/products/wardrobes-storage/nova-two-door-cabinet-accent-band/Nova Two-Door Cabinet with Accent Band - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/nova-two-door-cabinet-accent-band/Nova Two-Door Cabinet with Accent Band - Front View.png"
+      "assets/products/wardrobes-storage/nova-two-door-cabinet-accent-band/Nova Two-Door Cabinet with Accent Band - Front View.webp"
     ],
     "colors": []
   },
@@ -13584,9 +13584,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A plain-front two-door cabinet in wenge with a central lock and chrome handles. Fits under a return or stands alone as a printer base.",
-    "img": "assets/products/wardrobes-storage/nova-two-door-lockable-cabinet/Nova Two-Door Lockable Cabinet - Front View.png",
+    "img": "assets/products/wardrobes-storage/nova-two-door-lockable-cabinet/Nova Two-Door Lockable Cabinet - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/nova-two-door-lockable-cabinet/Nova Two-Door Lockable Cabinet - Front View.png"
+      "assets/products/wardrobes-storage/nova-two-door-lockable-cabinet/Nova Two-Door Lockable Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -13600,9 +13600,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A mid-height lockable cabinet in wenge, giving three internal filing levels while staying below partition height.",
-    "img": "assets/products/wardrobes-storage/nova-mid-height-two-door-cabinet/Nova Mid-Height Two-Door Cabinet - Front View.png",
+    "img": "assets/products/wardrobes-storage/nova-mid-height-two-door-cabinet/Nova Mid-Height Two-Door Cabinet - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/nova-mid-height-two-door-cabinet/Nova Mid-Height Two-Door Cabinet - Front View.png"
+      "assets/products/wardrobes-storage/nova-mid-height-two-door-cabinet/Nova Mid-Height Two-Door Cabinet - Front View.webp"
     ],
     "colors": []
   },
@@ -13616,9 +13616,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A full-height bookcase in wenge with glazed upper doors over solid lower doors. Adjustable shelves take box files and reference volumes.",
-    "img": "assets/products/wardrobes-storage/nova-tall-glass-door-bookcase/Nova Tall Glass-Door Bookcase - Front View.png",
+    "img": "assets/products/wardrobes-storage/nova-tall-glass-door-bookcase/Nova Tall Glass-Door Bookcase - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/nova-tall-glass-door-bookcase/Nova Tall Glass-Door Bookcase - Front View.png"
+      "assets/products/wardrobes-storage/nova-tall-glass-door-bookcase/Nova Tall Glass-Door Bookcase - Front View.webp"
     ],
     "colors": []
   },
@@ -13632,9 +13632,9 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "A three-drawer mobile pedestal in wenge with a central lock and castors. Rolls under any Nova desk top.",
-    "img": "assets/products/wardrobes-storage/nova-three-drawer-mobile-pedestal/Nova Three-Drawer Mobile Pedestal - Front View.png",
+    "img": "assets/products/wardrobes-storage/nova-three-drawer-mobile-pedestal/Nova Three-Drawer Mobile Pedestal - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/nova-three-drawer-mobile-pedestal/Nova Three-Drawer Mobile Pedestal - Front View.png"
+      "assets/products/wardrobes-storage/nova-three-drawer-mobile-pedestal/Nova Three-Drawer Mobile Pedestal - Front View.webp"
     ],
     "colors": []
   },
@@ -13647,16 +13647,16 @@ const PRODUCTS = [
     "designer": "Buro Design",
     "rating": 4.9,
     "badge": "",
-    "description": "• Designer levelers • Modesty Panel: 18mm melamine edge banded • Side Panels : 18mm Melamine edge banded • Top: Silver profile wrapped trim to give waterfall edge to table top • Designer Aluminum profile on modesty panels • 30mm Melamine edge banded top",
-    "img": "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_01.png",
+    "description": "â€¢ Designer levelers â€¢ Modesty Panel: 18mm melamine edge banded â€¢ Side Panels : 18mm Melamine edge banded â€¢ Top: Silver profile wrapped trim to give waterfall edge to table top â€¢ Designer Aluminum profile on modesty panels â€¢ 30mm Melamine edge banded top",
+    "img": "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_01.webp",
     "images": [
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_01.png",
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_02.png",
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_03.png",
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_04.png",
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_05.png",
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_06.png",
-      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_07.png"
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_01.webp",
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_02.webp",
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_03.webp",
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_04.webp",
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_05.webp",
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_06.webp",
+      "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_07.webp"
     ],
     "colors": [
       "Vermount"
@@ -13672,11 +13672,11 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "NUVIA is a height-adjustable workstation built for modern, dynamic workspaces. It enables effortless switching between sitting and standing positions, promoting better posture and efficiency.",
-    "img": "assets/products/office-workstations/nuvia/Nuvia_01.png",
+    "img": "assets/products/office-workstations/nuvia/Nuvia_01.webp",
     "images": [
-      "assets/products/office-workstations/nuvia/Nuvia_01.png",
-      "assets/products/office-workstations/nuvia/Nuvia_02.png",
-      "assets/products/office-workstations/nuvia/Nuvia_03.png"
+      "assets/products/office-workstations/nuvia/Nuvia_01.webp",
+      "assets/products/office-workstations/nuvia/Nuvia_02.webp",
+      "assets/products/office-workstations/nuvia/Nuvia_03.webp"
     ],
     "colors": []
   },
@@ -13690,11 +13690,11 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "OMNIO is a practical multi-user workstation designed for efficient workspace planning. Its straight leg structure ensures a clean appearance with dependable everyday functionality.",
-    "img": "assets/products/office-workstations/omnio/Omnio_01.png",
+    "img": "assets/products/office-workstations/omnio/Omnio_01.webp",
     "images": [
-      "assets/products/office-workstations/omnio/Omnio_01.png",
-      "assets/products/office-workstations/omnio/Omnio_02.png",
-      "assets/products/office-workstations/omnio/Omnio_03.png"
+      "assets/products/office-workstations/omnio/Omnio_01.webp",
+      "assets/products/office-workstations/omnio/Omnio_02.webp",
+      "assets/products/office-workstations/omnio/Omnio_03.webp"
     ],
     "colors": []
   },
@@ -13708,11 +13708,11 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "OREXA is designed for organized work with a clean and minimal structure. Equipped with two smooth drawers, it ensures easy storage of everyday essentials. The integrated modesty panel adds privacy while maintaining a modern and professional workspace.",
-    "img": "assets/products/office-workstations/orexa/Orexa_01.png",
+    "img": "assets/products/office-workstations/orexa/Orexa_01.webp",
     "images": [
-      "assets/products/office-workstations/orexa/Orexa_01.png",
-      "assets/products/office-workstations/orexa/Orexa_02.png",
-      "assets/products/office-workstations/orexa/Orexa_03.png"
+      "assets/products/office-workstations/orexa/Orexa_01.webp",
+      "assets/products/office-workstations/orexa/Orexa_02.webp",
+      "assets/products/office-workstations/orexa/Orexa_03.webp"
     ],
     "colors": []
   },
@@ -13726,12 +13726,12 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": "ORLO is designed for leaders who prefer clarity in both design and decision-making. With its sleek dual-tone finish and geometric structure, this desk offers a perfect balance of minimalism and strength. The integrated side storage enhances usability without compromising aesthetics.",
-    "img": "assets/products/office-workstations/orlo/Orlo_01.png",
+    "img": "assets/products/office-workstations/orlo/Orlo_01.webp",
     "images": [
-      "assets/products/office-workstations/orlo/Orlo_01.png",
-      "assets/products/office-workstations/orlo/Orlo_03.png",
-      "assets/products/office-workstations/orlo/Orlo_04.png",
-      "assets/products/office-workstations/orlo/Orlo_05.png"
+      "assets/products/office-workstations/orlo/Orlo_01.webp",
+      "assets/products/office-workstations/orlo/Orlo_03.webp",
+      "assets/products/office-workstations/orlo/Orlo_04.webp",
+      "assets/products/office-workstations/orlo/Orlo_05.webp"
     ],
     "colors": []
   },
@@ -13744,24 +13744,24 @@ const PRODUCTS = [
     "designer": "Buro Design",
     "rating": 4.5,
     "badge": "",
-    "description": "Talk about making your presence felt! Prestige is a strong, masculine design that comes in a smart colour blend to match your cabin room décor. It is ideal for those who want a top-quality, modern, office experience.",
-    "img": "assets/products/office-workstations/prestige/Prestige_01.png",
+    "description": "Talk about making your presence felt! Prestige is a strong, masculine design that comes in a smart colour blend to match your cabin room dÃ©cor. It is ideal for those who want a top-quality, modern, office experience.",
+    "img": "assets/products/office-workstations/prestige/Prestige_01.webp",
     "images": [
-      "assets/products/office-workstations/prestige/Prestige_01.png",
-      "assets/products/office-workstations/prestige/Prestige_03.png",
-      "assets/products/office-workstations/prestige/Prestige_04.png",
-      "assets/products/office-workstations/prestige/Prestige_05.png",
-      "assets/products/office-workstations/prestige/Prestige_07.png",
-      "assets/products/office-workstations/prestige/Prestige_09.png",
-      "assets/products/office-workstations/prestige/Prestige_10.png",
-      "assets/products/office-workstations/prestige/Prestige_12.png",
-      "assets/products/office-workstations/prestige/Prestige_13.png",
-      "assets/products/office-workstations/prestige/Prestige_14.png",
-      "assets/products/office-workstations/prestige/Prestige_16.png",
-      "assets/products/office-workstations/prestige/Prestige_18.png",
-      "assets/products/office-workstations/prestige/Prestige_20.png",
-      "assets/products/office-workstations/prestige/Prestige_22.png",
-      "assets/products/office-workstations/prestige/Prestige_23.png"
+      "assets/products/office-workstations/prestige/Prestige_01.webp",
+      "assets/products/office-workstations/prestige/Prestige_03.webp",
+      "assets/products/office-workstations/prestige/Prestige_04.webp",
+      "assets/products/office-workstations/prestige/Prestige_05.webp",
+      "assets/products/office-workstations/prestige/Prestige_07.webp",
+      "assets/products/office-workstations/prestige/Prestige_09.webp",
+      "assets/products/office-workstations/prestige/Prestige_10.webp",
+      "assets/products/office-workstations/prestige/Prestige_12.webp",
+      "assets/products/office-workstations/prestige/Prestige_13.webp",
+      "assets/products/office-workstations/prestige/Prestige_14.webp",
+      "assets/products/office-workstations/prestige/Prestige_16.webp",
+      "assets/products/office-workstations/prestige/Prestige_18.webp",
+      "assets/products/office-workstations/prestige/Prestige_20.webp",
+      "assets/products/office-workstations/prestige/Prestige_22.webp",
+      "assets/products/office-workstations/prestige/Prestige_23.webp"
     ],
     "colors": []
   },
@@ -13775,13 +13775,13 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "PRIMOR is a functional office table designed for everyday efficiency. Featuring one drawer and a door cabinet, it offers both accessible and concealed storage. The integrated modesty panel helps maintain a neat and professional workspace.",
-    "img": "assets/products/office-workstations/primor/Primor_01.png",
+    "img": "assets/products/office-workstations/primor/Primor_01.webp",
     "images": [
-      "assets/products/office-workstations/primor/Primor_01.png",
-      "assets/products/office-workstations/primor/Primor_02.png",
-      "assets/products/office-workstations/primor/Primor_03.png",
-      "assets/products/office-workstations/primor/Primor_04.png",
-      "assets/products/office-workstations/primor/Primor_05.png"
+      "assets/products/office-workstations/primor/Primor_01.webp",
+      "assets/products/office-workstations/primor/Primor_02.webp",
+      "assets/products/office-workstations/primor/Primor_03.webp",
+      "assets/products/office-workstations/primor/Primor_04.webp",
+      "assets/products/office-workstations/primor/Primor_05.webp"
     ],
     "colors": []
   },
@@ -13795,14 +13795,14 @@ const PRODUCTS = [
     "rating": 4.7,
     "badge": "",
     "description": "PRIVON is a premium panel-based workstation designed for privacy, collaboration, and productivity. It features integrated pinup and marker board panels with a refined modern appearance, ideal for structured team environments.",
-    "img": "assets/products/office-workstations/privon/Privon_01.png",
+    "img": "assets/products/office-workstations/privon/Privon_01.webp",
     "images": [
-      "assets/products/office-workstations/privon/Privon_01.png",
-      "assets/products/office-workstations/privon/Privon_02.png",
-      "assets/products/office-workstations/privon/Privon_03.png",
-      "assets/products/office-workstations/privon/Privon_04.png",
-      "assets/products/office-workstations/privon/Privon_05.png",
-      "assets/products/office-workstations/privon/Privon_06.png"
+      "assets/products/office-workstations/privon/Privon_01.webp",
+      "assets/products/office-workstations/privon/Privon_02.webp",
+      "assets/products/office-workstations/privon/Privon_03.webp",
+      "assets/products/office-workstations/privon/Privon_04.webp",
+      "assets/products/office-workstations/privon/Privon_05.webp",
+      "assets/products/office-workstations/privon/Privon_06.webp"
     ],
     "colors": []
   },
@@ -13816,14 +13816,14 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "PRIVON X is an extended L-shaped panel workstation created for spacious collaborative environments. It offers the same premium privacy and productivity features as PRIVON, with an expanded corner layout for enhanced workspace efficiency.",
-    "img": "assets/products/office-workstations/privon_x/Privon_X_01.png",
+    "img": "assets/products/office-workstations/privon_x/Privon_X_01.webp",
     "images": [
-      "assets/products/office-workstations/privon_x/Privon_X_01.png",
-      "assets/products/office-workstations/privon_x/Privon_X_02.png",
-      "assets/products/office-workstations/privon_x/Privon_X_03.png",
-      "assets/products/office-workstations/privon_x/Privon_X_04.png",
-      "assets/products/office-workstations/privon_x/Privon_X_05.png",
-      "assets/products/office-workstations/privon_x/Privon_X_06.png"
+      "assets/products/office-workstations/privon_x/Privon_X_01.webp",
+      "assets/products/office-workstations/privon_x/Privon_X_02.webp",
+      "assets/products/office-workstations/privon_x/Privon_X_03.webp",
+      "assets/products/office-workstations/privon_x/Privon_X_04.webp",
+      "assets/products/office-workstations/privon_x/Privon_X_05.webp",
+      "assets/products/office-workstations/privon_x/Privon_X_06.webp"
     ],
     "colors": []
   },
@@ -13837,19 +13837,19 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "The Repute office table features a rich walnut finish and a PU- painted glass tabletop with an Aero-foiled edge. Its sleek glass work surface is complemented by a solid gable-end panel with thick curved edges. A dual-tone modesty panel and fluted detailing enhance the overall elegance, while the free-standing side storage unit offers ample space for organized storage.",
-    "img": "assets/products/office-workstations/repute/Repute_01.png",
+    "img": "assets/products/office-workstations/repute/Repute_01.webp",
     "images": [
-      "assets/products/office-workstations/repute/Repute_01.png",
-      "assets/products/office-workstations/repute/Repute_03.png",
-      "assets/products/office-workstations/repute/Repute_05.png",
-      "assets/products/office-workstations/repute/Repute_06.png",
-      "assets/products/office-workstations/repute/Repute_07.png",
-      "assets/products/office-workstations/repute/Repute_08.png",
-      "assets/products/office-workstations/repute/Repute_09.png",
-      "assets/products/office-workstations/repute/Repute_10.png",
-      "assets/products/office-workstations/repute/Repute_12.png",
-      "assets/products/office-workstations/repute/Repute_13.png",
-      "assets/products/office-workstations/repute/Repute_14.png"
+      "assets/products/office-workstations/repute/Repute_01.webp",
+      "assets/products/office-workstations/repute/Repute_03.webp",
+      "assets/products/office-workstations/repute/Repute_05.webp",
+      "assets/products/office-workstations/repute/Repute_06.webp",
+      "assets/products/office-workstations/repute/Repute_07.webp",
+      "assets/products/office-workstations/repute/Repute_08.webp",
+      "assets/products/office-workstations/repute/Repute_09.webp",
+      "assets/products/office-workstations/repute/Repute_10.webp",
+      "assets/products/office-workstations/repute/Repute_12.webp",
+      "assets/products/office-workstations/repute/Repute_13.webp",
+      "assets/products/office-workstations/repute/Repute_14.webp"
     ],
     "colors": [
       "Lyon Walnut"
@@ -13864,15 +13864,15 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial.webp",
     "images": [
-      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial.jpg",
-      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_1.jpg",
-      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_2.jpg",
-      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_3.jpg",
-      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_4.jpg",
-      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_5.jpg"
+      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial.webp",
+      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_1.webp",
+      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_2.webp",
+      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_3.webp",
+      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_4.webp",
+      "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial_5.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/computer-table-colonial",
     "colors": [
@@ -13889,14 +13889,14 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table.webp",
     "images": [
-      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table.jpg",
-      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_1.jpg",
-      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_2.jpg",
-      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_3.jpg",
-      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_4.jpg"
+      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table.webp",
+      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_1.webp",
+      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_2.webp",
+      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_3.webp",
+      "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/semi-executive-table",
     "colors": [
@@ -13914,15 +13914,15 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "SOVIO is a modern office table designed for efficient storage and a professional workspace. It features three smooth drawers for organized storage, along with an integrated modesty panel that adds privacy while maintaining a clean and structured look.",
-    "img": "assets/products/office-workstations/sovio/Sovio_01.png",
+    "img": "assets/products/office-workstations/sovio/Sovio_01.webp",
     "images": [
-      "assets/products/office-workstations/sovio/Sovio_01.png",
-      "assets/products/office-workstations/sovio/Sovio_02.png",
-      "assets/products/office-workstations/sovio/Sovio_03.png",
-      "assets/products/office-workstations/sovio/Sovio_04.png",
-      "assets/products/office-workstations/sovio/Sovio_05.png",
-      "assets/products/office-workstations/sovio/Sovio_06.png",
-      "assets/products/office-workstations/sovio/Sovio_07.png"
+      "assets/products/office-workstations/sovio/Sovio_01.webp",
+      "assets/products/office-workstations/sovio/Sovio_02.webp",
+      "assets/products/office-workstations/sovio/Sovio_03.webp",
+      "assets/products/office-workstations/sovio/Sovio_04.webp",
+      "assets/products/office-workstations/sovio/Sovio_05.webp",
+      "assets/products/office-workstations/sovio/Sovio_06.webp",
+      "assets/products/office-workstations/sovio/Sovio_07.webp"
     ],
     "colors": []
   },
@@ -13936,15 +13936,15 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "The complete Supreme cabin set: executive desk with fluted front, matching low credenzas, and a pair of full-height reeded-glass bookcases. Specified together for director and MD cabins.",
-    "img": "assets/products/office-workstations/supreme-executive-office-suite/Supreme Executive Office Suite - Front View.png",
+    "img": "assets/products/office-workstations/supreme-executive-office-suite/Supreme Executive Office Suite - Front View.webp",
     "images": [
-      "assets/products/office-workstations/supreme-executive-office-suite/Supreme Executive Office Suite - Front View.png"
+      "assets/products/office-workstations/supreme-executive-office-suite/Supreme Executive Office Suite - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "supreme-executive-desk-walnut",
-    "name": "Supreme Executive Desk — Walnut",
+    "name": "Supreme Executive Desk â€” Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Dark Walnut Laminate with Fluted Panel",
@@ -13952,16 +13952,16 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "A dark walnut executive desk with a fluted modesty panel, an inset leather writing pad and flanking storage returns. A concealed desktop port keeps charging cables tidy.",
-    "img": "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - Front View.png",
+    "img": "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - Front View.webp",
     "images": [
-      "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - Front View.png",
-      "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - View 2.png"
+      "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - Front View.webp",
+      "assets/products/office-workstations/supreme-executive-desk-walnut/Supreme Executive Desk - Walnut - View 2.webp"
     ],
     "colors": []
   },
   {
     "id": "supreme-l-shaped-executive-desk-two-tone",
-    "name": "Supreme L-Shaped Executive Desk — Two-Tone",
+    "name": "Supreme L-Shaped Executive Desk â€” Two-Tone",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Walnut Top with Light Grey Base",
@@ -13969,16 +13969,16 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "A two-tone L-shaped executive desk pairing a dark walnut top with a light grey base and fluted end panel. Includes a drawer return and an inset leather writing surface.",
-    "img": "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - Front View.png",
+    "img": "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - Front View.webp",
     "images": [
-      "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - Front View.png",
-      "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - View 2.png"
+      "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - Front View.webp",
+      "assets/products/office-workstations/supreme-l-shaped-executive-desk-two-tone/Supreme L-Shaped Executive Desk - Two-Tone - View 2.webp"
     ],
     "colors": []
   },
   {
     "id": "supreme-executive-desk-with-storage-wenge-grey",
-    "name": "Supreme Executive Desk with Storage — Wenge & Grey",
+    "name": "Supreme Executive Desk with Storage â€” Wenge & Grey",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Wenge and Grey Laminate",
@@ -13986,15 +13986,15 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "An executive desk in wenge and grey with a three-drawer pedestal on one side and a hinged door cabinet on the other, giving mixed filing and bulk storage under one top.",
-    "img": "assets/products/office-workstations/supreme-executive-desk-with-storage-wenge-grey/Supreme Executive Desk with Storage - Wenge & Grey - Front View.png",
+    "img": "assets/products/office-workstations/supreme-executive-desk-with-storage-wenge-grey/Supreme Executive Desk with Storage - Wenge & Grey - Front View.webp",
     "images": [
-      "assets/products/office-workstations/supreme-executive-desk-with-storage-wenge-grey/Supreme Executive Desk with Storage - Wenge & Grey - Front View.png"
+      "assets/products/office-workstations/supreme-executive-desk-with-storage-wenge-grey/Supreme Executive Desk with Storage - Wenge & Grey - Front View.webp"
     ],
     "colors": []
   },
   {
     "id": "supreme-l-shaped-desk-with-credenza-grey-walnut",
-    "name": "Supreme L-Shaped Desk with Credenza — Grey & Walnut",
+    "name": "Supreme L-Shaped Desk with Credenza â€” Grey & Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Light Grey and Walnut Laminate",
@@ -14002,9 +14002,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "A light grey L-shaped desk with a walnut top and a matching low credenza return carrying three drawers and a door bay.",
-    "img": "assets/products/office-workstations/supreme-l-shaped-desk-with-credenza-grey-walnut/Supreme L-Shaped Desk with Credenza - Grey & Walnut - Front View.png",
+    "img": "assets/products/office-workstations/supreme-l-shaped-desk-with-credenza-grey-walnut/Supreme L-Shaped Desk with Credenza - Grey & Walnut - Front View.webp",
     "images": [
-      "assets/products/office-workstations/supreme-l-shaped-desk-with-credenza-grey-walnut/Supreme L-Shaped Desk with Credenza - Grey & Walnut - Front View.png"
+      "assets/products/office-workstations/supreme-l-shaped-desk-with-credenza-grey-walnut/Supreme L-Shaped Desk with Credenza - Grey & Walnut - Front View.webp"
     ],
     "colors": []
   },
@@ -14018,9 +14018,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "A full-height bookcase fronted with reeded glass doors over a fluted-panel storage base, finished with slim brass handles. Files stay visible but softened behind the ribbed glazing.",
-    "img": "assets/products/wardrobes-storage/supreme-tall-reeded-glass-bookcase/Supreme Tall Reeded-Glass Bookcase - Front View.png",
+    "img": "assets/products/wardrobes-storage/supreme-tall-reeded-glass-bookcase/Supreme Tall Reeded-Glass Bookcase - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/supreme-tall-reeded-glass-bookcase/Supreme Tall Reeded-Glass Bookcase - Front View.png"
+      "assets/products/wardrobes-storage/supreme-tall-reeded-glass-bookcase/Supreme Tall Reeded-Glass Bookcase - Front View.webp"
     ],
     "colors": []
   },
@@ -14034,9 +14034,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "A three-door low credenza in dark walnut with a fluted band across the door tops and brass pulls. Runs the length of a cabin wall at desk height.",
-    "img": "assets/products/wardrobes-storage/supreme-three-door-credenza/Supreme Three-Door Credenza - Front View.png",
+    "img": "assets/products/wardrobes-storage/supreme-three-door-credenza/Supreme Three-Door Credenza - Front View.webp",
     "images": [
-      "assets/products/wardrobes-storage/supreme-three-door-credenza/Supreme Three-Door Credenza - Front View.png"
+      "assets/products/wardrobes-storage/supreme-three-door-credenza/Supreme Three-Door Credenza - Front View.webp"
     ],
     "colors": []
   },
@@ -14050,9 +14050,9 @@ const PRODUCTS = [
     "rating": 4.1,
     "badge": "",
     "description": "TERON is a clean and functional workstation designed for modern team environments. It features a sturdy T-leg structure that provides stability, space efficiency, and a professional appearance.",
-    "img": "assets/products/office-workstations/teron/Teron_01.png",
+    "img": "assets/products/office-workstations/teron/Teron_01.webp",
     "images": [
-      "assets/products/office-workstations/teron/Teron_01.png"
+      "assets/products/office-workstations/teron/Teron_01.webp"
     ],
     "colors": []
   },
@@ -14066,13 +14066,13 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "Elevate your leadership space with a desk that commands attention and delivers performance. Featuring a luxurious two-tone palette of high- gloss beige and rich walnut grain, this director's desk blends modern elegance with powerful presence. Fluted curved panel detailing, a premium leather work surface, and a thoughtfully organized layout reflect authority and refined taste. Designed with built-in cable access and seamless storage, this is where every decision begins-at the True centre of command.",
-    "img": "assets/products/office-workstations/titus/Titus_01.png",
+    "img": "assets/products/office-workstations/titus/Titus_01.webp",
     "images": [
-      "assets/products/office-workstations/titus/Titus_01.png",
-      "assets/products/office-workstations/titus/Titus_02.png",
-      "assets/products/office-workstations/titus/Titus_03.png",
-      "assets/products/office-workstations/titus/Titus_04.png",
-      "assets/products/office-workstations/titus/Titus_05.png"
+      "assets/products/office-workstations/titus/Titus_01.webp",
+      "assets/products/office-workstations/titus/Titus_02.webp",
+      "assets/products/office-workstations/titus/Titus_03.webp",
+      "assets/products/office-workstations/titus/Titus_04.webp",
+      "assets/products/office-workstations/titus/Titus_05.webp"
     ],
     "colors": [
       "HG Cashmere & Dark Brown Eucalyptus"
@@ -14088,14 +14088,14 @@ const PRODUCTS = [
     "rating": 4.1,
     "badge": "",
     "description": "TYRO is a modern L-shaped workstation designed for functionality and clean workspace organization. It features open cubbies and two drawers for efficient storage, supported by sturdy metal legs for durability and a professional setup.",
-    "img": "assets/products/office-workstations/tyro/Tyro_01.png",
+    "img": "assets/products/office-workstations/tyro/Tyro_01.webp",
     "images": [
-      "assets/products/office-workstations/tyro/Tyro_01.png",
-      "assets/products/office-workstations/tyro/Tyro_02.png",
-      "assets/products/office-workstations/tyro/Tyro_03.png",
-      "assets/products/office-workstations/tyro/Tyro_04.png",
-      "assets/products/office-workstations/tyro/Tyro_05.png",
-      "assets/products/office-workstations/tyro/Tyro_06.png"
+      "assets/products/office-workstations/tyro/Tyro_01.webp",
+      "assets/products/office-workstations/tyro/Tyro_02.webp",
+      "assets/products/office-workstations/tyro/Tyro_03.webp",
+      "assets/products/office-workstations/tyro/Tyro_04.webp",
+      "assets/products/office-workstations/tyro/Tyro_05.webp",
+      "assets/products/office-workstations/tyro/Tyro_06.webp"
     ],
     "colors": []
   },
@@ -14109,10 +14109,10 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": "VECTRON is a contemporary panel-based workstation designed with angular leg styling for modern office spaces. It combines clean aesthetics with practical privacy and collaborative functionality.",
-    "img": "assets/products/office-workstations/vectron/Vectron_02.png",
+    "img": "assets/products/office-workstations/vectron/Vectron_02.webp",
     "images": [
-      "assets/products/office-workstations/vectron/Vectron_02.png",
-      "assets/products/office-workstations/vectron/Vectron_03.png"
+      "assets/products/office-workstations/vectron/Vectron_02.webp",
+      "assets/products/office-workstations/vectron/Vectron_03.webp"
     ],
     "colors": []
   },
@@ -14126,13 +14126,13 @@ const PRODUCTS = [
     "rating": 5,
     "badge": "",
     "description": "VECTRON X is an extended L-shaped workstation designed with angular legs and a spacious modern layout. It delivers clean structure, privacy, and productivity for dynamic office environments.",
-    "img": "assets/products/office-workstations/vectron_x/Vectron_X_01.png",
+    "img": "assets/products/office-workstations/vectron_x/Vectron_X_01.webp",
     "images": [
-      "assets/products/office-workstations/vectron_x/Vectron_X_01.png",
-      "assets/products/office-workstations/vectron_x/Vectron_X_02.png",
-      "assets/products/office-workstations/vectron_x/Vectron_X_03.png",
-      "assets/products/office-workstations/vectron_x/Vectron_X_04.png",
-      "assets/products/office-workstations/vectron_x/Vectron_X_05.png"
+      "assets/products/office-workstations/vectron_x/Vectron_X_01.webp",
+      "assets/products/office-workstations/vectron_x/Vectron_X_02.webp",
+      "assets/products/office-workstations/vectron_x/Vectron_X_03.webp",
+      "assets/products/office-workstations/vectron_x/Vectron_X_04.webp",
+      "assets/products/office-workstations/vectron_x/Vectron_X_05.webp"
     ],
     "colors": []
   },
@@ -14146,12 +14146,12 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": "VEMIOR is designed for efficient organization with a combination of open and closed storage. Featuring two open cubbies for quick access and a drawer for secure storage, it supports a clean and functional workflow. The overall design ensures practicality while maintaining a modern workspace aesthetic.",
-    "img": "assets/products/office-workstations/vemior/Vemior_01.png",
+    "img": "assets/products/office-workstations/vemior/Vemior_01.webp",
     "images": [
-      "assets/products/office-workstations/vemior/Vemior_01.png",
-      "assets/products/office-workstations/vemior/Vemior_02.png",
-      "assets/products/office-workstations/vemior/Vemior_03.png",
-      "assets/products/office-workstations/vemior/Vemior_04.png"
+      "assets/products/office-workstations/vemior/Vemior_01.webp",
+      "assets/products/office-workstations/vemior/Vemior_02.webp",
+      "assets/products/office-workstations/vemior/Vemior_03.webp",
+      "assets/products/office-workstations/vemior/Vemior_04.webp"
     ],
     "colors": []
   },
@@ -14165,13 +14165,13 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "VIORA is designed for organized workflows with a clean and structured presence. Equipped with three smooth drawers, it provides efficient storage for everyday essentials. The integrated modesty panel enhances privacy while maintaining a professional workspace.",
-    "img": "assets/products/office-workstations/viora/Viora_01.png",
+    "img": "assets/products/office-workstations/viora/Viora_01.webp",
     "images": [
-      "assets/products/office-workstations/viora/Viora_01.png",
-      "assets/products/office-workstations/viora/Viora_02.png",
-      "assets/products/office-workstations/viora/Viora_03.png",
-      "assets/products/office-workstations/viora/Viora_04.png",
-      "assets/products/office-workstations/viora/Viora_05.png"
+      "assets/products/office-workstations/viora/Viora_01.webp",
+      "assets/products/office-workstations/viora/Viora_02.webp",
+      "assets/products/office-workstations/viora/Viora_03.webp",
+      "assets/products/office-workstations/viora/Viora_04.webp",
+      "assets/products/office-workstations/viora/Viora_05.webp"
     ],
     "colors": []
   },
@@ -14185,9 +14185,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aether Single Seater Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-aether-single-seater-recliner-armchair/Aether Single Seater Recliner Armchair.png",
+    "img": "assets/products/recliners/cat-aether-single-seater-recliner-armchair/Aether Single Seater Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-aether-single-seater-recliner-armchair/Aether Single Seater Recliner Armchair.png"
+      "assets/products/recliners/cat-aether-single-seater-recliner-armchair/Aether Single Seater Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14201,9 +14201,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Altair Single Seater Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-altair-single-seater-recliner-armchair/Altair Single Seater Recliner Armchair.png",
+    "img": "assets/products/recliners/cat-altair-single-seater-recliner-armchair/Altair Single Seater Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-altair-single-seater-recliner-armchair/Altair Single Seater Recliner Armchair.png"
+      "assets/products/recliners/cat-altair-single-seater-recliner-armchair/Altair Single Seater Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14217,9 +14217,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Altair Three Seater Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-altair-three-seater-recliner-sofa/Altair Three Seater Recliner Sofa.png",
+    "img": "assets/products/recliners/cat-altair-three-seater-recliner-sofa/Altair Three Seater Recliner Sofa.webp",
     "images": [
-      "assets/products/recliners/cat-altair-three-seater-recliner-sofa/Altair Three Seater Recliner Sofa.png"
+      "assets/products/recliners/cat-altair-three-seater-recliner-sofa/Altair Three Seater Recliner Sofa.webp"
     ],
     "colors": []
   },
@@ -14233,9 +14233,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Altair Two Seater Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-altair-two-seater-recliner-sofa/Altair Two Seater Recliner Sofa.png",
+    "img": "assets/products/recliners/cat-altair-two-seater-recliner-sofa/Altair Two Seater Recliner Sofa.webp",
     "images": [
-      "assets/products/recliners/cat-altair-two-seater-recliner-sofa/Altair Two Seater Recliner Sofa.png"
+      "assets/products/recliners/cat-altair-two-seater-recliner-sofa/Altair Two Seater Recliner Sofa.webp"
     ],
     "colors": []
   },
@@ -14249,9 +14249,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Recliner And Marble Table Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-beige-recliner-and-marble-table-set/beige_recliner_and_marble_table_set.png",
+    "img": "assets/products/recliners/cat-beige-recliner-and-marble-table-set/beige_recliner_and_marble_table_set.webp",
     "images": [
-      "assets/products/recliners/cat-beige-recliner-and-marble-table-set/beige_recliner_and_marble_table_set.png"
+      "assets/products/recliners/cat-beige-recliner-and-marble-table-set/beige_recliner_and_marble_table_set.webp"
     ],
     "colors": []
   },
@@ -14265,9 +14265,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bright Red Leather Power Motion Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-bright-red-leather-power-motion-recliner-armchair/Bright Red Leather Power Motion Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-bright-red-leather-power-motion-recliner-armchair/Bright Red Leather Power Motion Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-bright-red-leather-power-motion-recliner-armchair/Bright Red Leather Power Motion Recliner Armchair.jpg"
+      "assets/products/recliners/cat-bright-red-leather-power-motion-recliner-armchair/Bright Red Leather Power Motion Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14281,9 +14281,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brown Leather Plush Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-brown-leather-plush-power-recliner-armchair/Brown Leather Plush Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-brown-leather-plush-power-recliner-armchair/Brown Leather Plush Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-brown-leather-plush-power-recliner-armchair/Brown Leather Plush Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-brown-leather-plush-power-recliner-armchair/Brown Leather Plush Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14297,9 +14297,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Burgundy Leather Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-burgundy-leather-power-recliner-armchair/Burgundy Leather Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-burgundy-leather-power-recliner-armchair/Burgundy Leather Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-burgundy-leather-power-recliner-armchair/Burgundy Leather Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-burgundy-leather-power-recliner-armchair/Burgundy Leather Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14313,9 +14313,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Caramel Tan Power Lift Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-caramel-tan-power-lift-recliner/caramel_tan_power_lift_recliner.png",
+    "img": "assets/products/recliners/cat-caramel-tan-power-lift-recliner/caramel_tan_power_lift_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-caramel-tan-power-lift-recliner/caramel_tan_power_lift_recliner.png"
+      "assets/products/recliners/cat-caramel-tan-power-lift-recliner/caramel_tan_power_lift_recliner.webp"
     ],
     "colors": []
   },
@@ -14329,9 +14329,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Fabric Double Recliner Pair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-charcoal-fabric-double-recliner-pair/charcoal_fabric_double_recliner_pair.png",
+    "img": "assets/products/recliners/cat-charcoal-fabric-double-recliner-pair/charcoal_fabric_double_recliner_pair.webp",
     "images": [
-      "assets/products/recliners/cat-charcoal-fabric-double-recliner-pair/charcoal_fabric_double_recliner_pair.png"
+      "assets/products/recliners/cat-charcoal-fabric-double-recliner-pair/charcoal_fabric_double_recliner_pair.webp"
     ],
     "colors": []
   },
@@ -14345,9 +14345,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Grey Fabric Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-charcoal-grey-fabric-power-recliner-armchair/Charcoal Grey Fabric Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-charcoal-grey-fabric-power-recliner-armchair/Charcoal Grey Fabric Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-charcoal-grey-fabric-power-recliner-armchair/Charcoal Grey Fabric Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-charcoal-grey-fabric-power-recliner-armchair/Charcoal Grey Fabric Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14361,9 +14361,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Plush Double Recliner Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-charcoal-plush-double-recliner-set/charcoal_plush_double_recliner_set.png",
+    "img": "assets/products/recliners/cat-charcoal-plush-double-recliner-set/charcoal_plush_double_recliner_set.webp",
     "images": [
-      "assets/products/recliners/cat-charcoal-plush-double-recliner-set/charcoal_plush_double_recliner_set.png"
+      "assets/products/recliners/cat-charcoal-plush-double-recliner-set/charcoal_plush_double_recliner_set.webp"
     ],
     "colors": []
   },
@@ -14377,9 +14377,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Chestnut Brown Power Reclining Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-chestnut-brown-power-reclining-sofa/chestnut_brown_power_reclining_sofa.png",
+    "img": "assets/products/sofas/cat-chestnut-brown-power-reclining-sofa/chestnut_brown_power_reclining_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-chestnut-brown-power-reclining-sofa/chestnut_brown_power_reclining_sofa.png"
+      "assets/products/sofas/cat-chestnut-brown-power-reclining-sofa/chestnut_brown_power_reclining_sofa.webp"
     ],
     "colors": []
   },
@@ -14393,9 +14393,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Chestnut Leather Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-chestnut-leather-power-recliner/chestnut_leather_power_recliner.png",
+    "img": "assets/products/recliners/cat-chestnut-leather-power-recliner/chestnut_leather_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-chestnut-leather-power-recliner/chestnut_leather_power_recliner.png"
+      "assets/products/recliners/cat-chestnut-leather-power-recliner/chestnut_leather_power_recliner.webp"
     ],
     "colors": []
   },
@@ -14409,9 +14409,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Chestnut Leather Whitepiping Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-chestnut-leather-whitepiping-recliner/chestnut_leather_whitepiping_recliner.png",
+    "img": "assets/products/recliners/cat-chestnut-leather-whitepiping-recliner/chestnut_leather_whitepiping_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-chestnut-leather-whitepiping-recliner/chestnut_leather_whitepiping_recliner.png"
+      "assets/products/recliners/cat-chestnut-leather-whitepiping-recliner/chestnut_leather_whitepiping_recliner.webp"
     ],
     "colors": []
   },
@@ -14425,9 +14425,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Full Recliner Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cognac-leather-full-recliner-suite/cognac_leather_full_recliner_suite.png",
+    "img": "assets/products/recliners/cat-cognac-leather-full-recliner-suite/cognac_leather_full_recliner_suite.webp",
     "images": [
-      "assets/products/recliners/cat-cognac-leather-full-recliner-suite/cognac_leather_full_recliner_suite.png"
+      "assets/products/recliners/cat-cognac-leather-full-recliner-suite/cognac_leather_full_recliner_suite.webp"
     ],
     "colors": []
   },
@@ -14441,9 +14441,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Power Lift Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cognac-leather-power-lift-chair/cognac_leather_power_lift_chair.png",
+    "img": "assets/products/recliners/cat-cognac-leather-power-lift-chair/cognac_leather_power_lift_chair.webp",
     "images": [
-      "assets/products/recliners/cat-cognac-leather-power-lift-chair/cognac_leather_power_lift_chair.png"
+      "assets/products/recliners/cat-cognac-leather-power-lift-chair/cognac_leather_power_lift_chair.webp"
     ],
     "colors": []
   },
@@ -14457,9 +14457,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cognac-leather-power-recliner-armchair/Cognac Leather Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-cognac-leather-power-recliner-armchair/Cognac Leather Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-cognac-leather-power-recliner-armchair/Cognac Leather Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-cognac-leather-power-recliner-armchair/Cognac Leather Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14473,9 +14473,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Recliner Armchair B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cognac-leather-recliner-armchair-b/Cognac Leather Recliner Armchair B.jpg",
+    "img": "assets/products/recliners/cat-cognac-leather-recliner-armchair-b/Cognac Leather Recliner Armchair B.webp",
     "images": [
-      "assets/products/recliners/cat-cognac-leather-recliner-armchair-b/Cognac Leather Recliner Armchair B.jpg"
+      "assets/products/recliners/cat-cognac-leather-recliner-armchair-b/Cognac Leather Recliner Armchair B.webp"
     ],
     "colors": []
   },
@@ -14489,9 +14489,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Recliner Armchair C combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cognac-leather-recliner-armchair-c/Cognac Leather Recliner Armchair C.jpg",
+    "img": "assets/products/recliners/cat-cognac-leather-recliner-armchair-c/Cognac Leather Recliner Armchair C.webp",
     "images": [
-      "assets/products/recliners/cat-cognac-leather-recliner-armchair-c/Cognac Leather Recliner Armchair C.jpg"
+      "assets/products/recliners/cat-cognac-leather-recliner-armchair-c/Cognac Leather Recliner Armchair C.webp"
     ],
     "colors": []
   },
@@ -14505,9 +14505,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Wovendetail Leather Recliner Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cognac-wovendetail-leather-recliner-set/cognac_wovendetail_leather_recliner_set.png",
+    "img": "assets/products/recliners/cat-cognac-wovendetail-leather-recliner-set/cognac_wovendetail_leather_recliner_set.webp",
     "images": [
-      "assets/products/recliners/cat-cognac-wovendetail-leather-recliner-set/cognac_wovendetail_leather_recliner_set.png"
+      "assets/products/recliners/cat-cognac-wovendetail-leather-recliner-set/cognac_wovendetail_leather_recliner_set.webp"
     ],
     "colors": []
   },
@@ -14521,9 +14521,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Console Reclining Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-leather-console-reclining-suite/cream_leather_console_reclining_suite.png",
+    "img": "assets/products/recliners/cat-cream-leather-console-reclining-suite/cream_leather_console_reclining_suite.webp",
     "images": [
-      "assets/products/recliners/cat-cream-leather-console-reclining-suite/cream_leather_console_reclining_suite.png"
+      "assets/products/recliners/cat-cream-leather-console-reclining-suite/cream_leather_console_reclining_suite.webp"
     ],
     "colors": []
   },
@@ -14537,9 +14537,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Plush Double Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-leather-plush-double-recliner/cream_leather_plush_double_recliner.png",
+    "img": "assets/products/recliners/cat-cream-leather-plush-double-recliner/cream_leather_plush_double_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-cream-leather-plush-double-recliner/cream_leather_plush_double_recliner.png"
+      "assets/products/recliners/cat-cream-leather-plush-double-recliner/cream_leather_plush_double_recliner.webp"
     ],
     "colors": []
   },
@@ -14553,9 +14553,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Plush Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-leather-plush-power-recliner/cream_leather_plush_power_recliner.png",
+    "img": "assets/products/recliners/cat-cream-leather-plush-power-recliner/cream_leather_plush_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-cream-leather-plush-power-recliner/cream_leather_plush_power_recliner.png"
+      "assets/products/recliners/cat-cream-leather-plush-power-recliner/cream_leather_plush_power_recliner.webp"
     ],
     "colors": []
   },
@@ -14569,9 +14569,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Power Recliner Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-leather-power-recliner-loveseat/cream_leather_power_recliner_loveseat.png",
+    "img": "assets/products/recliners/cat-cream-leather-power-recliner-loveseat/cream_leather_power_recliner_loveseat.webp",
     "images": [
-      "assets/products/recliners/cat-cream-leather-power-recliner-loveseat/cream_leather_power_recliner_loveseat.png"
+      "assets/products/recliners/cat-cream-leather-power-recliner-loveseat/cream_leather_power_recliner_loveseat.webp"
     ],
     "colors": []
   },
@@ -14585,9 +14585,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Power Recliner Pair Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-leather-power-recliner-pair-comboset/cream_leather_power_recliner_pair_comboset.png",
+    "img": "assets/products/recliners/cat-cream-leather-power-recliner-pair-comboset/cream_leather_power_recliner_pair_comboset.webp",
     "images": [
-      "assets/products/recliners/cat-cream-leather-power-recliner-pair-comboset/cream_leather_power_recliner_pair_comboset.png"
+      "assets/products/recliners/cat-cream-leather-power-recliner-pair-comboset/cream_leather_power_recliner_pair_comboset.webp"
     ],
     "colors": []
   },
@@ -14601,9 +14601,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Power Reclining Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-leather-power-reclining-suite/cream_leather_power_reclining_suite.png",
+    "img": "assets/products/recliners/cat-cream-leather-power-reclining-suite/cream_leather_power_reclining_suite.webp",
     "images": [
-      "assets/products/recliners/cat-cream-leather-power-reclining-suite/cream_leather_power_reclining_suite.png"
+      "assets/products/recliners/cat-cream-leather-power-reclining-suite/cream_leather_power_reclining_suite.webp"
     ],
     "colors": []
   },
@@ -14617,9 +14617,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Modular Reclining Living Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-modular-reclining-living-set/cream_modular_reclining_living_set.png",
+    "img": "assets/products/recliners/cat-cream-modular-reclining-living-set/cream_modular_reclining_living_set.webp",
     "images": [
-      "assets/products/recliners/cat-cream-modular-reclining-living-set/cream_modular_reclining_living_set.png"
+      "assets/products/recliners/cat-cream-modular-reclining-living-set/cream_modular_reclining_living_set.webp"
     ],
     "colors": []
   },
@@ -14633,9 +14633,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Tan Leather Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-cream-tan-leather-power-recliner/cream_tan_leather_power_recliner.png",
+    "img": "assets/products/recliners/cat-cream-tan-leather-power-recliner/cream_tan_leather_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-cream-tan-leather-power-recliner/cream_tan_leather_power_recliner.png"
+      "assets/products/recliners/cat-cream-tan-leather-power-recliner/cream_tan_leather_power_recliner.webp"
     ],
     "colors": []
   },
@@ -14649,9 +14649,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Brown Leather Double Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-dark-brown-leather-double-recliner/dark_brown_leather_double_recliner.png",
+    "img": "assets/products/recliners/cat-dark-brown-leather-double-recliner/dark_brown_leather_double_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-dark-brown-leather-double-recliner/dark_brown_leather_double_recliner.png"
+      "assets/products/recliners/cat-dark-brown-leather-double-recliner/dark_brown_leather_double_recliner.webp"
     ],
     "colors": []
   },
@@ -14665,9 +14665,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Charcoal Grey Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-dark-charcoal-grey-recliner-armchair/Dark Charcoal Grey Recliner Armchair - Front View.jpg",
+    "img": "assets/products/recliners/cat-dark-charcoal-grey-recliner-armchair/Dark Charcoal Grey Recliner Armchair - Front View.webp",
     "images": [
-      "assets/products/recliners/cat-dark-charcoal-grey-recliner-armchair/Dark Charcoal Grey Recliner Armchair - Front View.jpg"
+      "assets/products/recliners/cat-dark-charcoal-grey-recliner-armchair/Dark Charcoal Grey Recliner Armchair - Front View.webp"
     ],
     "colors": []
   },
@@ -14681,9 +14681,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Charcoal Leather Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-dark-charcoal-leather-recliner-armchair/Dark Charcoal Leather Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-dark-charcoal-leather-recliner-armchair/Dark Charcoal Leather Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-dark-charcoal-leather-recliner-armchair/Dark Charcoal Leather Recliner Armchair.jpg"
+      "assets/products/recliners/cat-dark-charcoal-leather-recliner-armchair/Dark Charcoal Leather Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14697,9 +14697,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Charcoal Plush Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-dark-charcoal-plush-recliner-sofa/dark_charcoal_plush_recliner_sofa.png",
+    "img": "assets/products/recliners/cat-dark-charcoal-plush-recliner-sofa/dark_charcoal_plush_recliner_sofa.webp",
     "images": [
-      "assets/products/recliners/cat-dark-charcoal-plush-recliner-sofa/dark_charcoal_plush_recliner_sofa.png"
+      "assets/products/recliners/cat-dark-charcoal-plush-recliner-sofa/dark_charcoal_plush_recliner_sofa.webp"
     ],
     "colors": []
   },
@@ -14713,9 +14713,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Gray Plush Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-dark-gray-plush-power-recliner/dark_gray_plush_power_recliner.png",
+    "img": "assets/products/recliners/cat-dark-gray-plush-power-recliner/dark_gray_plush_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-dark-gray-plush-power-recliner/dark_gray_plush_power_recliner.png"
+      "assets/products/recliners/cat-dark-gray-plush-power-recliner/dark_gray_plush_power_recliner.webp"
     ],
     "colors": []
   },
@@ -14729,9 +14729,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Deep Brown Leather Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-deep-brown-leather-power-recliner-armchair/Deep Brown Leather Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-deep-brown-leather-power-recliner-armchair/Deep Brown Leather Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-deep-brown-leather-power-recliner-armchair/Deep Brown Leather Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-deep-brown-leather-power-recliner-armchair/Deep Brown Leather Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14745,9 +14745,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Deep Burgundy Leather Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-deep-burgundy-leather-recliner-armchair/Deep Burgundy Leather Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-deep-burgundy-leather-recliner-armchair/Deep Burgundy Leather Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-deep-burgundy-leather-recliner-armchair/Deep Burgundy Leather Recliner Armchair.jpg"
+      "assets/products/recliners/cat-deep-burgundy-leather-recliner-armchair/Deep Burgundy Leather Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14761,9 +14761,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dove Gray Leather Double Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-dove-gray-leather-double-recliner/dove_gray_leather_double_recliner.png",
+    "img": "assets/products/recliners/cat-dove-gray-leather-double-recliner/dove_gray_leather_double_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-dove-gray-leather-double-recliner/dove_gray_leather_double_recliner.png"
+      "assets/products/recliners/cat-dove-gray-leather-double-recliner/dove_gray_leather_double_recliner.webp"
     ],
     "colors": []
   },
@@ -14777,9 +14777,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Eros Microfiber Full Recliner Sofa Three Seater combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-eros-microfiber-full-recliner-sofa-three-seater/Eros Microfiber Full Recliner Sofa - Three Seater.png",
+    "img": "assets/products/recliners/cat-eros-microfiber-full-recliner-sofa-three-seater/Eros Microfiber Full Recliner Sofa - Three Seater.webp",
     "images": [
-      "assets/products/recliners/cat-eros-microfiber-full-recliner-sofa-three-seater/Eros Microfiber Full Recliner Sofa - Three Seater.png"
+      "assets/products/recliners/cat-eros-microfiber-full-recliner-sofa-three-seater/Eros Microfiber Full Recliner Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -14793,9 +14793,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Eros Microfiber Loveseat Recliner Two Seater combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-eros-microfiber-loveseat-recliner-two-seater/Eros Microfiber Loveseat Recliner - Two Seater.png",
+    "img": "assets/products/recliners/cat-eros-microfiber-loveseat-recliner-two-seater/Eros Microfiber Loveseat Recliner - Two Seater.webp",
     "images": [
-      "assets/products/recliners/cat-eros-microfiber-loveseat-recliner-two-seater/Eros Microfiber Loveseat Recliner - Two Seater.png"
+      "assets/products/recliners/cat-eros-microfiber-loveseat-recliner-two-seater/Eros Microfiber Loveseat Recliner - Two Seater.webp"
     ],
     "colors": []
   },
@@ -14809,9 +14809,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Eros Microfiber Recliner Armchair Single Seater combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-eros-microfiber-recliner-armchair-single-seater/Eros Microfiber Recliner Armchair - Single Seater.png",
+    "img": "assets/products/recliners/cat-eros-microfiber-recliner-armchair-single-seater/Eros Microfiber Recliner Armchair - Single Seater.webp",
     "images": [
-      "assets/products/recliners/cat-eros-microfiber-recliner-armchair-single-seater/Eros Microfiber Recliner Armchair - Single Seater.png"
+      "assets/products/recliners/cat-eros-microfiber-recliner-armchair-single-seater/Eros Microfiber Recliner Armchair - Single Seater.webp"
     ],
     "colors": []
   },
@@ -14825,9 +14825,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Espresso Leather Padded Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-espresso-leather-padded-power-recliner/espresso_leather_padded_power_recliner.png",
+    "img": "assets/products/recliners/cat-espresso-leather-padded-power-recliner/espresso_leather_padded_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-espresso-leather-padded-power-recliner/espresso_leather_padded_power_recliner.png"
+      "assets/products/recliners/cat-espresso-leather-padded-power-recliner/espresso_leather_padded_power_recliner.webp"
     ],
     "colors": []
   },
@@ -14841,9 +14841,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Espresso Piped Recliner Pair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-espresso-piped-recliner-pair/espresso_piped_recliner_pair.png",
+    "img": "assets/products/recliners/cat-espresso-piped-recliner-pair/espresso_piped_recliner_pair.webp",
     "images": [
-      "assets/products/recliners/cat-espresso-piped-recliner-pair/espresso_piped_recliner_pair.png"
+      "assets/products/recliners/cat-espresso-piped-recliner-pair/espresso_piped_recliner_pair.webp"
     ],
     "colors": []
   },
@@ -14857,9 +14857,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Motion Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-grey-fabric-motion-power-recliner-armchair/Grey Fabric Motion Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-grey-fabric-motion-power-recliner-armchair/Grey Fabric Motion Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-grey-fabric-motion-power-recliner-armchair/Grey Fabric Motion Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-grey-fabric-motion-power-recliner-armchair/Grey Fabric Motion Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -14873,9 +14873,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Power Recliner Armchair C combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-grey-fabric-power-recliner-armchair-c/Grey Fabric Power Recliner Armchair C.jpg",
+    "img": "assets/products/recliners/cat-grey-fabric-power-recliner-armchair-c/Grey Fabric Power Recliner Armchair C.webp",
     "images": [
-      "assets/products/recliners/cat-grey-fabric-power-recliner-armchair-c/Grey Fabric Power Recliner Armchair C.jpg"
+      "assets/products/recliners/cat-grey-fabric-power-recliner-armchair-c/Grey Fabric Power Recliner Armchair C.webp"
     ],
     "colors": []
   },
@@ -14889,9 +14889,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Leather Power Motion Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-grey-leather-power-motion-recliner-sofa/Grey Leather Power Motion Recliner Sofa.jpg",
+    "img": "assets/products/recliners/cat-grey-leather-power-motion-recliner-sofa/Grey Leather Power Motion Recliner Sofa.webp",
     "images": [
-      "assets/products/recliners/cat-grey-leather-power-motion-recliner-sofa/Grey Leather Power Motion Recliner Sofa.jpg"
+      "assets/products/recliners/cat-grey-leather-power-motion-recliner-sofa/Grey Leather Power Motion Recliner Sofa.webp"
     ],
     "colors": []
   },
@@ -14905,9 +14905,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Beige Leather Motion Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-light-beige-leather-motion-recliner-sofa/Light Beige Leather Motion Recliner Sofa.jpg",
+    "img": "assets/products/recliners/cat-light-beige-leather-motion-recliner-sofa/Light Beige Leather Motion Recliner Sofa.webp",
     "images": [
-      "assets/products/recliners/cat-light-beige-leather-motion-recliner-sofa/Light Beige Leather Motion Recliner Sofa.jpg"
+      "assets/products/recliners/cat-light-beige-leather-motion-recliner-sofa/Light Beige Leather Motion Recliner Sofa.webp"
     ],
     "colors": []
   },
@@ -14921,9 +14921,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Blue And Grey Fabric Recliner Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-light-blue-and-grey-fabric-recliner-chair/Light Blue and Grey Fabric Recliner Chair.jpg",
+    "img": "assets/products/recliners/cat-light-blue-and-grey-fabric-recliner-chair/Light Blue and Grey Fabric Recliner Chair.webp",
     "images": [
-      "assets/products/recliners/cat-light-blue-and-grey-fabric-recliner-chair/Light Blue and Grey Fabric Recliner Chair.jpg"
+      "assets/products/recliners/cat-light-blue-and-grey-fabric-recliner-chair/Light Blue and Grey Fabric Recliner Chair.webp"
     ],
     "colors": []
   },
@@ -14937,9 +14937,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray Leather Double Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-light-gray-leather-double-recliner/light_gray_leather_double_recliner.png",
+    "img": "assets/products/recliners/cat-light-gray-leather-double-recliner/light_gray_leather_double_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-light-gray-leather-double-recliner/light_gray_leather_double_recliner.png"
+      "assets/products/recliners/cat-light-gray-leather-double-recliner/light_gray_leather_double_recliner.webp"
     ],
     "colors": []
   },
@@ -14953,9 +14953,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Grey Fabric Power Recliner Armchair B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-light-grey-fabric-power-recliner-armchair-b/Light Grey Fabric Power Recliner Armchair B.jpg",
+    "img": "assets/products/recliners/cat-light-grey-fabric-power-recliner-armchair-b/Light Grey Fabric Power Recliner Armchair B.webp",
     "images": [
-      "assets/products/recliners/cat-light-grey-fabric-power-recliner-armchair-b/Light Grey Fabric Power Recliner Armchair B.jpg"
+      "assets/products/recliners/cat-light-grey-fabric-power-recliner-armchair-b/Light Grey Fabric Power Recliner Armchair B.webp"
     ],
     "colors": []
   },
@@ -14969,9 +14969,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Grey Leather Motion Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-light-grey-leather-motion-recliner-sofa/Light Grey Leather Motion Recliner Sofa.jpg",
+    "img": "assets/products/recliners/cat-light-grey-leather-motion-recliner-sofa/Light Grey Leather Motion Recliner Sofa.webp",
     "images": [
-      "assets/products/recliners/cat-light-grey-leather-motion-recliner-sofa/Light Grey Leather Motion Recliner Sofa.jpg"
+      "assets/products/recliners/cat-light-grey-leather-motion-recliner-sofa/Light Grey Leather Motion Recliner Sofa.webp"
     ],
     "colors": []
   },
@@ -14985,9 +14985,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mahogany Red Leather Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-mahogany-red-leather-power-recliner/mahogany_red_leather_power_recliner.png",
+    "img": "assets/products/recliners/cat-mahogany-red-leather-power-recliner/mahogany_red_leather_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-mahogany-red-leather-power-recliner/mahogany_red_leather_power_recliner.png"
+      "assets/products/recliners/cat-mahogany-red-leather-power-recliner/mahogany_red_leather_power_recliner.webp"
     ],
     "colors": []
   },
@@ -15001,9 +15001,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mocha Plush Power Recliner Couch combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-mocha-plush-power-recliner-couch/mocha_plush_power_recliner_couch.png",
+    "img": "assets/products/recliners/cat-mocha-plush-power-recliner-couch/mocha_plush_power_recliner_couch.webp",
     "images": [
-      "assets/products/recliners/cat-mocha-plush-power-recliner-couch/mocha_plush_power_recliner_couch.png"
+      "assets/products/recliners/cat-mocha-plush-power-recliner-couch/mocha_plush_power_recliner_couch.webp"
     ],
     "colors": []
   },
@@ -15017,9 +15017,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mustard Yellow 3 Seater Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-mustard-yellow-3seater-recliner-sofa/mustard_yellow_3seater_recliner_sofa.png",
+    "img": "assets/products/recliners/cat-mustard-yellow-3seater-recliner-sofa/mustard_yellow_3seater_recliner_sofa.webp",
     "images": [
-      "assets/products/recliners/cat-mustard-yellow-3seater-recliner-sofa/mustard_yellow_3seater_recliner_sofa.png"
+      "assets/products/recliners/cat-mustard-yellow-3seater-recliner-sofa/mustard_yellow_3seater_recliner_sofa.webp"
     ],
     "colors": []
   },
@@ -15033,9 +15033,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mustard Yellow Power Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-mustard-yellow-power-recliner-sofa/mustard_yellow_power_recliner_sofa.png",
+    "img": "assets/products/recliners/cat-mustard-yellow-power-recliner-sofa/mustard_yellow_power_recliner_sofa.webp",
     "images": [
-      "assets/products/recliners/cat-mustard-yellow-power-recliner-sofa/mustard_yellow_power_recliner_sofa.png"
+      "assets/products/recliners/cat-mustard-yellow-power-recliner-sofa/mustard_yellow_power_recliner_sofa.webp"
     ],
     "colors": []
   },
@@ -15049,9 +15049,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Navy Blue Leather Power Motion Recliner Armchair B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-navy-blue-leather-power-motion-recliner-armchair-b/Navy Blue Leather Power Motion Recliner Armchair B.jpg",
+    "img": "assets/products/recliners/cat-navy-blue-leather-power-motion-recliner-armchair-b/Navy Blue Leather Power Motion Recliner Armchair B.webp",
     "images": [
-      "assets/products/recliners/cat-navy-blue-leather-power-motion-recliner-armchair-b/Navy Blue Leather Power Motion Recliner Armchair B.jpg"
+      "assets/products/recliners/cat-navy-blue-leather-power-motion-recliner-armchair-b/Navy Blue Leather Power Motion Recliner Armchair B.webp"
     ],
     "colors": []
   },
@@ -15065,9 +15065,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Navy Blue Leather Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-navy-blue-leather-recliner-armchair/Navy Blue Leather Recliner Armchair - Studio View.jpg",
+    "img": "assets/products/recliners/cat-navy-blue-leather-recliner-armchair/Navy Blue Leather Recliner Armchair - Studio View.webp",
     "images": [
-      "assets/products/recliners/cat-navy-blue-leather-recliner-armchair/Navy Blue Leather Recliner Armchair - Studio View.jpg"
+      "assets/products/recliners/cat-navy-blue-leather-recliner-armchair/Navy Blue Leather Recliner Armchair - Studio View.webp"
     ],
     "colors": []
   },
@@ -15081,9 +15081,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Olive Brown Leather Power Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-olive-brown-leather-power-recliner-armchair/Olive Brown Leather Power Recliner Armchair.jpg",
+    "img": "assets/products/recliners/cat-olive-brown-leather-power-recliner-armchair/Olive Brown Leather Power Recliner Armchair.webp",
     "images": [
-      "assets/products/recliners/cat-olive-brown-leather-power-recliner-armchair/Olive Brown Leather Power Recliner Armchair.jpg"
+      "assets/products/recliners/cat-olive-brown-leather-power-recliner-armchair/Olive Brown Leather Power Recliner Armchair.webp"
     ],
     "colors": []
   },
@@ -15097,9 +15097,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rich Brown Leather Swivel Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-rich-brown-leather-swivel-recliner/rich_brown_leather_swivel_recliner.png",
+    "img": "assets/products/recliners/cat-rich-brown-leather-swivel-recliner/rich_brown_leather_swivel_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-rich-brown-leather-swivel-recliner/rich_brown_leather_swivel_recliner.png"
+      "assets/products/recliners/cat-rich-brown-leather-swivel-recliner/rich_brown_leather_swivel_recliner.webp"
     ],
     "colors": []
   },
@@ -15113,9 +15113,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rust Velvet Piped Recliner Chair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-rust-velvet-piped-recliner-chair/rust_velvet_piped_recliner_chair.png",
+    "img": "assets/products/recliners/cat-rust-velvet-piped-recliner-chair/rust_velvet_piped_recliner_chair.webp",
     "images": [
-      "assets/products/recliners/cat-rust-velvet-piped-recliner-chair/rust_velvet_piped_recliner_chair.png"
+      "assets/products/recliners/cat-rust-velvet-piped-recliner-chair/rust_velvet_piped_recliner_chair.webp"
     ],
     "colors": []
   },
@@ -15129,9 +15129,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Saddle Brown Power Reclining Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-saddle-brown-power-reclining-sofa/saddle_brown_power_reclining_sofa.png",
+    "img": "assets/products/sofas/cat-saddle-brown-power-reclining-sofa/saddle_brown_power_reclining_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-saddle-brown-power-reclining-sofa/saddle_brown_power_reclining_sofa.png"
+      "assets/products/sofas/cat-saddle-brown-power-reclining-sofa/saddle_brown_power_reclining_sofa.webp"
     ],
     "colors": []
   },
@@ -15145,9 +15145,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sage Green Leather Power Motion Recliner Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-loveseat/Sage Green Leather Power Motion Recliner Loveseat.jpg",
+    "img": "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-loveseat/Sage Green Leather Power Motion Recliner Loveseat.webp",
     "images": [
-      "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-loveseat/Sage Green Leather Power Motion Recliner Loveseat.jpg"
+      "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-loveseat/Sage Green Leather Power Motion Recliner Loveseat.webp"
     ],
     "colors": []
   },
@@ -15161,9 +15161,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sage Green Leather Power Motion Recliner Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-sofa-b/Sage Green Leather Power Motion Recliner Sofa B.jpg",
+    "img": "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-sofa-b/Sage Green Leather Power Motion Recliner Sofa B.webp",
     "images": [
-      "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-sofa-b/Sage Green Leather Power Motion Recliner Sofa B.jpg"
+      "assets/products/recliners/cat-sage-green-leather-power-motion-recliner-sofa-b/Sage Green Leather Power Motion Recliner Sofa B.webp"
     ],
     "colors": []
   },
@@ -15177,9 +15177,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Blue Microfiber Plush Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-slate-blue-microfiber-plush-recliner/slate_blue_microfiber_plush_recliner.png",
+    "img": "assets/products/recliners/cat-slate-blue-microfiber-plush-recliner/slate_blue_microfiber_plush_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-slate-blue-microfiber-plush-recliner/slate_blue_microfiber_plush_recliner.png"
+      "assets/products/recliners/cat-slate-blue-microfiber-plush-recliner/slate_blue_microfiber_plush_recliner.webp"
     ],
     "colors": []
   },
@@ -15193,9 +15193,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Blue Microfiber Recliner Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-slate-blue-microfiber-recliner-loveseat/slate_blue_microfiber_recliner_loveseat.png",
+    "img": "assets/products/recliners/cat-slate-blue-microfiber-recliner-loveseat/slate_blue_microfiber_recliner_loveseat.webp",
     "images": [
-      "assets/products/recliners/cat-slate-blue-microfiber-recliner-loveseat/slate_blue_microfiber_recliner_loveseat.png"
+      "assets/products/recliners/cat-slate-blue-microfiber-recliner-loveseat/slate_blue_microfiber_recliner_loveseat.webp"
     ],
     "colors": []
   },
@@ -15209,9 +15209,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Blue Reclining Living Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-slate-blue-reclining-living-suite/slate_blue_reclining_living_suite.png",
+    "img": "assets/products/recliners/cat-slate-blue-reclining-living-suite/slate_blue_reclining_living_suite.webp",
     "images": [
-      "assets/products/recliners/cat-slate-blue-reclining-living-suite/slate_blue_reclining_living_suite.png"
+      "assets/products/recliners/cat-slate-blue-reclining-living-suite/slate_blue_reclining_living_suite.webp"
     ],
     "colors": []
   },
@@ -15225,9 +15225,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Gray Microfiber Recliner Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-slate-gray-microfiber-recliner-loveseat/slate_gray_microfiber_recliner_loveseat.png",
+    "img": "assets/products/recliners/cat-slate-gray-microfiber-recliner-loveseat/slate_gray_microfiber_recliner_loveseat.webp",
     "images": [
-      "assets/products/recliners/cat-slate-gray-microfiber-recliner-loveseat/slate_gray_microfiber_recliner_loveseat.png"
+      "assets/products/recliners/cat-slate-gray-microfiber-recliner-loveseat/slate_gray_microfiber_recliner_loveseat.webp"
     ],
     "colors": []
   },
@@ -15241,9 +15241,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Leather Recliner Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-tan-leather-3piece-recliner-suite/tan_leather_3piece_recliner_suite.png",
+    "img": "assets/products/recliners/cat-tan-leather-3piece-recliner-suite/tan_leather_3piece_recliner_suite.webp",
     "images": [
-      "assets/products/recliners/cat-tan-leather-3piece-recliner-suite/tan_leather_3piece_recliner_suite.png"
+      "assets/products/recliners/cat-tan-leather-3piece-recliner-suite/tan_leather_3piece_recliner_suite.webp"
     ],
     "colors": []
   },
@@ -15257,9 +15257,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Leather Power Recliner Modular Sofa With Console combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-tan-leather-power-recliner-modular-sofa-with-console/Tan Leather Power Recliner Modular Sofa with Console.jpg",
+    "img": "assets/products/recliners/cat-tan-leather-power-recliner-modular-sofa-with-console/Tan Leather Power Recliner Modular Sofa with Console.webp",
     "images": [
-      "assets/products/recliners/cat-tan-leather-power-recliner-modular-sofa-with-console/Tan Leather Power Recliner Modular Sofa with Console.jpg"
+      "assets/products/recliners/cat-tan-leather-power-recliner-modular-sofa-with-console/Tan Leather Power Recliner Modular Sofa with Console.webp"
     ],
     "colors": []
   },
@@ -15273,9 +15273,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Plush Leather Recliner Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-tan-plush-leather-recliner-sofa/tan_plush_leather_recliner_sofa.png",
+    "img": "assets/products/recliners/cat-tan-plush-leather-recliner-sofa/tan_plush_leather_recliner_sofa.webp",
     "images": [
-      "assets/products/recliners/cat-tan-plush-leather-recliner-sofa/tan_plush_leather_recliner_sofa.png"
+      "assets/products/recliners/cat-tan-plush-leather-recliner-sofa/tan_plush_leather_recliner_sofa.webp"
     ],
     "colors": []
   },
@@ -15289,9 +15289,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Corduroy Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-taupe-corduroy-power-recliner/taupe_corduroy_power_recliner.png",
+    "img": "assets/products/recliners/cat-taupe-corduroy-power-recliner/taupe_corduroy_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-taupe-corduroy-power-recliner/taupe_corduroy_power_recliner.png"
+      "assets/products/recliners/cat-taupe-corduroy-power-recliner/taupe_corduroy_power_recliner.webp"
     ],
     "colors": []
   },
@@ -15305,9 +15305,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Leather Power Reclining Pair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-taupe-leather-power-reclining-pair/taupe_leather_power_reclining_pair.png",
+    "img": "assets/products/recliners/cat-taupe-leather-power-reclining-pair/taupe_leather_power_reclining_pair.webp",
     "images": [
-      "assets/products/recliners/cat-taupe-leather-power-reclining-pair/taupe_leather_power_reclining_pair.png"
+      "assets/products/recliners/cat-taupe-leather-power-reclining-pair/taupe_leather_power_reclining_pair.webp"
     ],
     "colors": []
   },
@@ -15321,9 +15321,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Microfiber Power Recliner Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-taupe-microfiber-power-recliner-comboset/taupe_microfiber_power_recliner_comboset.png",
+    "img": "assets/products/recliners/cat-taupe-microfiber-power-recliner-comboset/taupe_microfiber_power_recliner_comboset.webp",
     "images": [
-      "assets/products/recliners/cat-taupe-microfiber-power-recliner-comboset/taupe_microfiber_power_recliner_comboset.png"
+      "assets/products/recliners/cat-taupe-microfiber-power-recliner-comboset/taupe_microfiber_power_recliner_comboset.webp"
     ],
     "colors": []
   },
@@ -15337,9 +15337,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Terracotta Velvet Double Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-terracotta-velvet-double-recliner/terracotta_velvet_double_recliner.png",
+    "img": "assets/products/recliners/cat-terracotta-velvet-double-recliner/terracotta_velvet_double_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-terracotta-velvet-double-recliner/terracotta_velvet_double_recliner.png"
+      "assets/products/recliners/cat-terracotta-velvet-double-recliner/terracotta_velvet_double_recliner.webp"
     ],
     "colors": []
   },
@@ -15353,9 +15353,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Twotone Blue Gray Power Recliner combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-twotone-blue-gray-power-recliner/twotone_blue_gray_power_recliner.png",
+    "img": "assets/products/recliners/cat-twotone-blue-gray-power-recliner/twotone_blue_gray_power_recliner.webp",
     "images": [
-      "assets/products/recliners/cat-twotone-blue-gray-power-recliner/twotone_blue_gray_power_recliner.png"
+      "assets/products/recliners/cat-twotone-blue-gray-power-recliner/twotone_blue_gray_power_recliner.webp"
     ],
     "colors": []
   },
@@ -15369,9 +15369,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The White Leather Power Recliner Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-white-leather-power-recliner-loveseat/White Leather Power Recliner Loveseat.jpg",
+    "img": "assets/products/recliners/cat-white-leather-power-recliner-loveseat/White Leather Power Recliner Loveseat.webp",
     "images": [
-      "assets/products/recliners/cat-white-leather-power-recliner-loveseat/White Leather Power Recliner Loveseat.jpg"
+      "assets/products/recliners/cat-white-leather-power-recliner-loveseat/White Leather Power Recliner Loveseat.webp"
     ],
     "colors": []
   },
@@ -15385,9 +15385,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The White Leather Recliner Armchair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/recliners/cat-white-leather-recliner-armchair/White Leather Recliner Armchair - Extended View.jpg",
+    "img": "assets/products/recliners/cat-white-leather-recliner-armchair/White Leather Recliner Armchair - Extended View.webp",
     "images": [
-      "assets/products/recliners/cat-white-leather-recliner-armchair/White Leather Recliner Armchair - Extended View.jpg"
+      "assets/products/recliners/cat-white-leather-recliner-armchair/White Leather Recliner Armchair - Extended View.webp"
     ],
     "colors": []
   },
@@ -15401,9 +15401,9 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "The Bedroom Suite Gamma combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.png"
+      "assets/products/sleeping-beds/bedroom_set_01/Bedroom_Set_01_01.webp"
     ],
     "colors": []
   },
@@ -15417,9 +15417,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "The Bedroom Suite Delta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.png"
+      "assets/products/sleeping-beds/bedroom_set_02/Bedroom_Set_02_01.webp"
     ],
     "colors": []
   },
@@ -15433,9 +15433,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bedroom Suite Epsilon combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.png"
+      "assets/products/sleeping-beds/bedroom_set_03/Bedroom_Set_03_01.webp"
     ],
     "colors": []
   },
@@ -15449,9 +15449,9 @@ const PRODUCTS = [
     "rating": 4.1,
     "badge": "",
     "description": "The Bedroom Suite Zeta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.png"
+      "assets/products/sleeping-beds/bedroom_set_04/Bedroom_Set_04_01.webp"
     ],
     "colors": []
   },
@@ -15465,9 +15465,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "The Bedroom Suite Eta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.png"
+      "assets/products/sleeping-beds/bedroom_set_05/Bedroom_Set_05_01.webp"
     ],
     "colors": []
   },
@@ -15481,9 +15481,9 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "The Bedroom Suite Theta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.png"
+      "assets/products/sleeping-beds/bedroom_set_06/Bedroom_Set_06_01.webp"
     ],
     "colors": []
   },
@@ -15497,9 +15497,9 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "The Bedroom Suite Iota combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.png"
+      "assets/products/sleeping-beds/bedroom_set_07/Bedroom_Set_07_01.webp"
     ],
     "colors": []
   },
@@ -15513,9 +15513,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bedroom Suite Kappa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.png"
+      "assets/products/sleeping-beds/bedroom_set_08/Bedroom_Set_08_01.webp"
     ],
     "colors": []
   },
@@ -15529,9 +15529,9 @@ const PRODUCTS = [
     "rating": 4.5,
     "badge": "",
     "description": "The Bedroom Suite Lambda combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.png"
+      "assets/products/sleeping-beds/bedroom_set_09/Bedroom_Set_09_01.webp"
     ],
     "colors": []
   },
@@ -15545,9 +15545,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "The Bedroom Suite Mu combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png",
+    "img": "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.webp",
     "images": [
-      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.png"
+      "assets/products/sleeping-beds/bedroom_set_10/Bedroom_Set_10_01.webp"
     ],
     "colors": []
   },
@@ -15561,9 +15561,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Angled Wood Frame Daybed Couch combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.jpg",
+    "img": "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.jpg"
+      "assets/products/sleeping-beds/cat-angled-wood-frame-daybed-couch/Angled Wood Frame Daybed Couch - View 1.webp"
     ],
     "colors": []
   },
@@ -15577,9 +15577,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bedroom Suite Beta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.png",
+    "img": "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.png"
+      "assets/products/sleeping-beds/cat-bedroom-suite-beta/Bedroom Suite Beta - Angle Perspective.webp"
     ],
     "colors": []
   },
@@ -15593,9 +15593,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Boucle Lowprofile Platform Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-beige-boucle-lowprofile-platform-bed/beige_boucle_lowprofile_platform_bed.png",
+    "img": "assets/products/sleeping-beds/cat-beige-boucle-lowprofile-platform-bed/beige_boucle_lowprofile_platform_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-beige-boucle-lowprofile-platform-bed/beige_boucle_lowprofile_platform_bed.png"
+      "assets/products/sleeping-beds/cat-beige-boucle-lowprofile-platform-bed/beige_boucle_lowprofile_platform_bed.webp"
     ],
     "colors": []
   },
@@ -15609,9 +15609,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Channel Tufted Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-charcoal-channel-tufted-bed/charcoal_channel_tufted_bed.png",
+    "img": "assets/products/sleeping-beds/cat-charcoal-channel-tufted-bed/charcoal_channel_tufted_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-charcoal-channel-tufted-bed/charcoal_channel_tufted_bed.png"
+      "assets/products/sleeping-beds/cat-charcoal-channel-tufted-bed/charcoal_channel_tufted_bed.webp"
     ],
     "colors": []
   },
@@ -15625,9 +15625,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Velvet Tufted Platform Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-charcoal-velvet-tufted-platform-bed/charcoal_velvet_tufted_platform_bed.png",
+    "img": "assets/products/sleeping-beds/cat-charcoal-velvet-tufted-platform-bed/charcoal_velvet_tufted_platform_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-charcoal-velvet-tufted-platform-bed/charcoal_velvet_tufted_platform_bed.png"
+      "assets/products/sleeping-beds/cat-charcoal-velvet-tufted-platform-bed/charcoal_velvet_tufted_platform_bed.webp"
     ],
     "colors": []
   },
@@ -15641,9 +15641,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Contemporary Ash Wood Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-contemporary-ash-wood-bed/Contemporary Ash Wood Bed - Angle Perspective.jpg",
+    "img": "assets/products/sleeping-beds/cat-contemporary-ash-wood-bed/Contemporary Ash Wood Bed - Angle Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-contemporary-ash-wood-bed/Contemporary Ash Wood Bed - Angle Perspective.jpg"
+      "assets/products/sleeping-beds/cat-contemporary-ash-wood-bed/Contemporary Ash Wood Bed - Angle Perspective.webp"
     ],
     "colors": []
   },
@@ -15657,9 +15657,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Linen Lowprofile Platform Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-cream-linen-lowprofile-platform-bed/cream_linen_lowprofile_platform_bed.png",
+    "img": "assets/products/sleeping-beds/cat-cream-linen-lowprofile-platform-bed/cream_linen_lowprofile_platform_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-cream-linen-lowprofile-platform-bed/cream_linen_lowprofile_platform_bed.png"
+      "assets/products/sleeping-beds/cat-cream-linen-lowprofile-platform-bed/cream_linen_lowprofile_platform_bed.webp"
     ],
     "colors": []
   },
@@ -15673,9 +15673,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Upholstered Bed With Rose Blanket combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-cream-upholstered-bed-with-rose-blanket/cream_upholstered_bed_with_rose_blanket.png",
+    "img": "assets/products/sleeping-beds/cat-cream-upholstered-bed-with-rose-blanket/cream_upholstered_bed_with_rose_blanket.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-cream-upholstered-bed-with-rose-blanket/cream_upholstered_bed_with_rose_blanket.png"
+      "assets/products/sleeping-beds/cat-cream-upholstered-bed-with-rose-blanket/cream_upholstered_bed_with_rose_blanket.webp"
     ],
     "colors": []
   },
@@ -15689,9 +15689,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Espresso Single Bed With Arched Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-dark-espresso-single-bed-with-arched-headboard/Dark Espresso Single Bed with Arched Headboard.png",
+    "img": "assets/products/sleeping-beds/cat-dark-espresso-single-bed-with-arched-headboard/Dark Espresso Single Bed with Arched Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-dark-espresso-single-bed-with-arched-headboard/Dark Espresso Single Bed with Arched Headboard.png"
+      "assets/products/sleeping-beds/cat-dark-espresso-single-bed-with-arched-headboard/Dark Espresso Single Bed with Arched Headboard.webp"
     ],
     "colors": []
   },
@@ -15705,9 +15705,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Gray Modern Platform Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-dark-gray-modern-platform-bed/dark_gray_modern_platform_bed.png",
+    "img": "assets/products/sleeping-beds/cat-dark-gray-modern-platform-bed/dark_gray_modern_platform_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-dark-gray-modern-platform-bed/dark_gray_modern_platform_bed.png"
+      "assets/products/sleeping-beds/cat-dark-gray-modern-platform-bed/dark_gray_modern_platform_bed.webp"
     ],
     "colors": []
   },
@@ -15721,9 +15721,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Gray Wingheadboard Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-dark-gray-wingheadboard-bed/dark_gray_wingheadboard_bed.png",
+    "img": "assets/products/sleeping-beds/cat-dark-gray-wingheadboard-bed/dark_gray_wingheadboard_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-dark-gray-wingheadboard-bed/dark_gray_wingheadboard_bed.png"
+      "assets/products/sleeping-beds/cat-dark-gray-wingheadboard-bed/dark_gray_wingheadboard_bed.webp"
     ],
     "colors": []
   },
@@ -15737,9 +15737,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dusty Rose Velvet Tufted Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-dusty-rose-velvet-tufted-bed/dusty_rose_velvet_tufted_bed.png",
+    "img": "assets/products/sleeping-beds/cat-dusty-rose-velvet-tufted-bed/dusty_rose_velvet_tufted_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-dusty-rose-velvet-tufted-bed/dusty_rose_velvet_tufted_bed.png"
+      "assets/products/sleeping-beds/cat-dusty-rose-velvet-tufted-bed/dusty_rose_velvet_tufted_bed.webp"
     ],
     "colors": []
   },
@@ -15753,9 +15753,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Elthira Leather Upholstered Bed Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.png",
+    "img": "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.png"
+      "assets/products/sleeping-beds/cat-elthira-leather-upholstered-bed-frame/Elthira Leather Bed Frame - Angle Perspective.webp"
     ],
     "colors": []
   },
@@ -15769,9 +15769,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Emerald Velvet Tufted Bed Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-emerald-velvet-tufted-bed-frame/emerald_velvet_tufted_bed_frame.png",
+    "img": "assets/products/sleeping-beds/cat-emerald-velvet-tufted-bed-frame/emerald_velvet_tufted_bed_frame.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-emerald-velvet-tufted-bed-frame/emerald_velvet_tufted_bed_frame.png"
+      "assets/products/sleeping-beds/cat-emerald-velvet-tufted-bed-frame/emerald_velvet_tufted_bed_frame.webp"
     ],
     "colors": []
   },
@@ -15785,9 +15785,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Eternia Modern Ash Bedroom Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.png",
+    "img": "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.png"
+      "assets/products/sleeping-beds/cat-eternia-modern-ash-bedroom-set/Eternia Modern Ash Bedroom Set - Angle Perspective.webp"
     ],
     "colors": []
   },
@@ -15801,9 +15801,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Hospitality Bedroom Study Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.png",
+    "img": "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.png"
+      "assets/products/sleeping-beds/cat-hospitality-bedroom-study-suite/Hospitality Suite - Angle Perspective.webp"
     ],
     "colors": []
   },
@@ -15817,9 +15817,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Single Bed And Nightstand combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-light-oak-single-bed-and-nightstand/light_oak_single_bed_and_nightstand.png",
+    "img": "assets/products/sleeping-beds/cat-light-oak-single-bed-and-nightstand/light_oak_single_bed_and_nightstand.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-light-oak-single-bed-and-nightstand/light_oak_single_bed_and_nightstand.png"
+      "assets/products/sleeping-beds/cat-light-oak-single-bed-and-nightstand/light_oak_single_bed_and_nightstand.webp"
     ],
     "colors": []
   },
@@ -15833,41 +15833,41 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Low Profile Wooden Platform Bed Kappa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-low-profile-wooden-platform-bed-kappa/Low Profile Wooden Platform Bed Kappa.jpg",
+    "img": "assets/products/sleeping-beds/cat-low-profile-wooden-platform-bed-kappa/Low Profile Wooden Platform Bed Kappa.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-low-profile-wooden-platform-bed-kappa/Low Profile Wooden Platform Bed Kappa.jpg"
+      "assets/products/sleeping-beds/cat-low-profile-wooden-platform-bed-kappa/Low Profile Wooden Platform Bed Kappa.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-bed-frame-lambda",
-    "name": "Minimalist Wood Bed Frame Lambda",
+    "name": "Minimalist Wood Bed Frame",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Bed Frame Lambda combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-frame-lambda/Minimalist Wood Bed Frame Lambda.jpg",
+    "description": "The Minimalist Wood Bed Frame combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-frame-lambda/Minimalist Wood Bed Frame Lambda.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-bed-frame-lambda/Minimalist Wood Bed Frame Lambda.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-bed-frame-lambda/Minimalist Wood Bed Frame Lambda.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-bed-theta",
-    "name": "Minimalist Wood Bed Theta",
+    "name": "Minimalist Wood Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Bed Theta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-theta/Minimalist Wood Bed Theta.jpg",
+    "description": "The Minimalist Wood Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-theta/Minimalist Wood Bed Theta.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-bed-theta/Minimalist Wood Bed Theta.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-bed-theta/Minimalist Wood Bed Theta.webp"
     ],
     "colors": []
   },
@@ -15881,15 +15881,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Minimalist Wood Bed With Cane Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-cane-headboard/Minimalist Wood Bed with Cane Headboard.jpg",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-cane-headboard/Minimalist Wood Bed with Cane Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-cane-headboard/Minimalist Wood Bed with Cane Headboard.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-cane-headboard/Minimalist Wood Bed with Cane Headboard.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-bed-with-headboard-shelf",
-    "name": "Minimalist Wood Bed With Headboard Shelf",
+    "name": "Minimalist Wood Bed With Headboard",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
@@ -15897,297 +15897,237 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Minimalist Wood Bed With Headboard Shelf combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-headboard-shelf/Minimalist Wood Bed with Headboard Shelf.jpg",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-headboard-shelf/Minimalist Wood Bed with Headboard Shelf.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-headboard-shelf/Minimalist Wood Bed with Headboard Shelf.jpg"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-minimalist-wood-daybed-platform-bed-chi",
-    "name": "Minimalist Wood Daybed Platform Bed Chi",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Chi combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-chi/Minimalist Wood Daybed Platform Bed Chi.jpg",
-    "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-chi/Minimalist Wood Daybed Platform Bed Chi.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-bed-with-headboard-shelf/Minimalist Wood Bed with Headboard Shelf.webp",
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-chi/Minimalist Wood Daybed Platform Bed Chi.webp",
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-phi/Minimalist Wood Daybed Platform Bed Phi.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-mu",
-    "name": "Minimalist Wood Daybed Platform Bed Mu",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Mu combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-mu/Minimalist Wood Daybed Platform Bed Mu.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-mu/Minimalist Wood Daybed Platform Bed Mu.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-mu/Minimalist Wood Daybed Platform Bed Mu.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-mu/Minimalist Wood Daybed Platform Bed Mu.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-nu",
-    "name": "Minimalist Wood Daybed Platform Bed Nu",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Nu combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-nu/Minimalist Wood Daybed Platform Bed Nu.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-nu/Minimalist Wood Daybed Platform Bed Nu.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-nu/Minimalist Wood Daybed Platform Bed Nu.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-nu/Minimalist Wood Daybed Platform Bed Nu.webp",
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-sigma/Minimalist Wood Daybed Platform Bed Sigma.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-omicron",
-    "name": "Minimalist Wood Daybed Platform Bed Omicron",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Omicron combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-omicron/Minimalist Wood Daybed Platform Bed Omicron.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-omicron/Minimalist Wood Daybed Platform Bed Omicron.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-omicron/Minimalist Wood Daybed Platform Bed Omicron.jpg"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-minimalist-wood-daybed-platform-bed-phi",
-    "name": "Minimalist Wood Daybed Platform Bed Phi",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Phi combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-phi/Minimalist Wood Daybed Platform Bed Phi.jpg",
-    "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-phi/Minimalist Wood Daybed Platform Bed Phi.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-omicron/Minimalist Wood Daybed Platform Bed Omicron.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-pi",
-    "name": "Minimalist Wood Daybed Platform Bed Pi",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Pi combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-pi/Minimalist Wood Daybed Platform Bed Pi.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-pi/Minimalist Wood Daybed Platform Bed Pi.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-pi/Minimalist Wood Daybed Platform Bed Pi.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-pi/Minimalist Wood Daybed Platform Bed Pi.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-rho",
-    "name": "Minimalist Wood Daybed Platform Bed Rho",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Rho combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-rho/Minimalist Wood Daybed Platform Bed Rho.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-rho/Minimalist Wood Daybed Platform Bed Rho.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-rho/Minimalist Wood Daybed Platform Bed Rho.jpg"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-minimalist-wood-daybed-platform-bed-sigma",
-    "name": "Minimalist Wood Daybed Platform Bed Sigma",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Sigma combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-sigma/Minimalist Wood Daybed Platform Bed Sigma.jpg",
-    "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-sigma/Minimalist Wood Daybed Platform Bed Sigma.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-rho/Minimalist Wood Daybed Platform Bed Rho.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-tau",
-    "name": "Minimalist Wood Daybed Platform Bed Tau",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Tau combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-tau/Minimalist Wood Daybed Platform Bed Tau.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-tau/Minimalist Wood Daybed Platform Bed Tau.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-tau/Minimalist Wood Daybed Platform Bed Tau.jpg"
-    ],
-    "colors": []
-  },
-  {
-    "id": "cat-minimalist-wood-daybed-platform-bed-upsilon",
-    "name": "Minimalist Wood Daybed Platform Bed Upsilon",
-    "category": "sleeping-beds",
-    "type": "furniture",
-    "material": "Premium Upholstery / Solid Wood",
-    "designer": "LayerMax Signature",
-    "rating": 4.8,
-    "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Upsilon combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-upsilon/Minimalist Wood Daybed Platform Bed Upsilon.jpg",
-    "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-upsilon/Minimalist Wood Daybed Platform Bed Upsilon.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-tau/Minimalist Wood Daybed Platform Bed Tau.webp",
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-upsilon/Minimalist Wood Daybed Platform Bed Upsilon.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-daybed-platform-bed-xi",
-    "name": "Minimalist Wood Daybed Platform Bed Xi",
+    "name": "Minimalist Wood Daybed Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Daybed Platform Bed Xi combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-xi/Minimalist Wood Daybed Platform Bed Xi.jpg",
+    "description": "The Minimalist Wood Daybed Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-xi/Minimalist Wood Daybed Platform Bed Xi.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-xi/Minimalist Wood Daybed Platform Bed Xi.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-daybed-platform-bed-xi/Minimalist Wood Daybed Platform Bed Xi.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-alpha",
-    "name": "Minimalist Wood Platform Bed Alpha",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Alpha combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-alpha/Minimalist Wood Platform Bed Alpha - Low View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-alpha/Minimalist Wood Platform Bed Alpha - Low View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-alpha/Minimalist Wood Platform Bed Alpha - Low View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-alpha/Minimalist Wood Platform Bed Alpha - Low View.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-beta",
-    "name": "Minimalist Wood Platform Bed Beta",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Beta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-beta/Minimalist Wood Platform Bed Beta - High Perspective View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-beta/Minimalist Wood Platform Bed Beta - High Perspective View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-beta/Minimalist Wood Platform Bed Beta - High Perspective View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-beta/Minimalist Wood Platform Bed Beta - High Perspective View.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-delta",
-    "name": "Minimalist Wood Platform Bed Delta",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Delta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-delta/Minimalist Wood Platform Bed Delta - Studio View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-delta/Minimalist Wood Platform Bed Delta - Studio View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-delta/Minimalist Wood Platform Bed Delta - Studio View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-delta/Minimalist Wood Platform Bed Delta - Studio View.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-epsilon",
-    "name": "Minimalist Wood Platform Bed Epsilon",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Epsilon combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-epsilon/Minimalist Wood Platform Bed Epsilon - Studio View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-epsilon/Minimalist Wood Platform Bed Epsilon - Studio View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-epsilon/Minimalist Wood Platform Bed Epsilon - Studio View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-epsilon/Minimalist Wood Platform Bed Epsilon - Studio View.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-eta",
-    "name": "Minimalist Wood Platform Bed Eta",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Eta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-eta/Minimalist Wood Platform Bed Eta - Distance View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-eta/Minimalist Wood Platform Bed Eta - Distance View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-eta/Minimalist Wood Platform Bed Eta - Distance View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-eta/Minimalist Wood Platform Bed Eta - Distance View.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-gamma",
-    "name": "Minimalist Wood Platform Bed Gamma",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Gamma combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-gamma/Minimalist Wood Platform Bed Gamma - Distance View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-gamma/Minimalist Wood Platform Bed Gamma - Distance View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-gamma/Minimalist Wood Platform Bed Gamma - Distance View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-gamma/Minimalist Wood Platform Bed Gamma - Distance View.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-platform-bed-zeta",
-    "name": "Minimalist Wood Platform Bed Zeta",
+    "name": "Minimalist Wood Platform Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Platform Bed Zeta combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-zeta/Minimalist Wood Platform Bed Zeta - Side View.jpg",
+    "description": "The Minimalist Wood Platform Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-zeta/Minimalist Wood Platform Bed Zeta - Side View.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-zeta/Minimalist Wood Platform Bed Zeta - Side View.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-platform-bed-zeta/Minimalist Wood Platform Bed Zeta - Side View.webp"
     ],
     "colors": []
   },
@@ -16201,9 +16141,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Ash Bed With Upholstered Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-modern-ash-bed-with-upholstered-headboard/Modern Ash Bed with Upholstered Headboard.jpg",
+    "img": "assets/products/sleeping-beds/cat-modern-ash-bed-with-upholstered-headboard/Modern Ash Bed with Upholstered Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-modern-ash-bed-with-upholstered-headboard/Modern Ash Bed with Upholstered Headboard.jpg"
+      "assets/products/sleeping-beds/cat-modern-ash-bed-with-upholstered-headboard/Modern Ash Bed with Upholstered Headboard.webp"
     ],
     "colors": []
   },
@@ -16217,9 +16157,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Walnut Bed Frame With Grey Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-modern-walnut-bed-frame-with-grey-headboard/Modern Walnut Bed Frame with Grey Headboard.jpg",
+    "img": "assets/products/sleeping-beds/cat-modern-walnut-bed-frame-with-grey-headboard/Modern Walnut Bed Frame with Grey Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-modern-walnut-bed-frame-with-grey-headboard/Modern Walnut Bed Frame with Grey Headboard.jpg"
+      "assets/products/sleeping-beds/cat-modern-walnut-bed-frame-with-grey-headboard/Modern Walnut Bed Frame with Grey Headboard.webp"
     ],
     "colors": []
   },
@@ -16233,9 +16173,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Navy Blue Tufted Platform Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-navy-blue-tufted-platform-bed/navy_blue_tufted_platform_bed.png",
+    "img": "assets/products/sleeping-beds/cat-navy-blue-tufted-platform-bed/navy_blue_tufted_platform_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-navy-blue-tufted-platform-bed/navy_blue_tufted_platform_bed.png"
+      "assets/products/sleeping-beds/cat-navy-blue-tufted-platform-bed/navy_blue_tufted_platform_bed.webp"
     ],
     "colors": []
   },
@@ -16249,9 +16189,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nestor Oak Wood Bedroom Suite Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-nestor-oak-wood-bedroom-suite-set/Nestor Bedroom Suite Set.png",
+    "img": "assets/products/sleeping-beds/cat-nestor-oak-wood-bedroom-suite-set/Nestor Bedroom Suite Set.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-nestor-oak-wood-bedroom-suite-set/Nestor Bedroom Suite Set.png"
+      "assets/products/sleeping-beds/cat-nestor-oak-wood-bedroom-suite-set/Nestor Bedroom Suite Set.webp"
     ],
     "colors": []
   },
@@ -16265,9 +16205,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Bed Frame With Upholstered Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-oak-bed-frame-with-upholstered-headboard/oak_bed_frame_with_upholstered_headboard.png",
+    "img": "assets/products/sleeping-beds/cat-oak-bed-frame-with-upholstered-headboard/oak_bed_frame_with_upholstered_headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-oak-bed-frame-with-upholstered-headboard/oak_bed_frame_with_upholstered_headboard.png"
+      "assets/products/sleeping-beds/cat-oak-bed-frame-with-upholstered-headboard/oak_bed_frame_with_upholstered_headboard.webp"
     ],
     "colors": []
   },
@@ -16281,9 +16221,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Hydraulic Storage Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-oak-hydraulic-storage-bed/oak_hydraulic_storage_bed.png",
+    "img": "assets/products/sleeping-beds/cat-oak-hydraulic-storage-bed/oak_hydraulic_storage_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-oak-hydraulic-storage-bed/oak_hydraulic_storage_bed.png"
+      "assets/products/sleeping-beds/cat-oak-hydraulic-storage-bed/oak_hydraulic_storage_bed.webp"
     ],
     "colors": []
   },
@@ -16297,9 +16237,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Wood Bed With Dark Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-oak-wood-bed-with-dark-headboard/oak_wood_bed_with_dark_headboard.png",
+    "img": "assets/products/sleeping-beds/cat-oak-wood-bed-with-dark-headboard/oak_wood_bed_with_dark_headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-oak-wood-bed-with-dark-headboard/oak_wood_bed_with_dark_headboard.png"
+      "assets/products/sleeping-beds/cat-oak-wood-bed-with-dark-headboard/oak_wood_bed_with_dark_headboard.webp"
     ],
     "colors": []
   },
@@ -16313,9 +16253,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Wood Single Bed With Grey Panel Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-oak-wood-single-bed-with-grey-panel-headboard/Oak Wood Single Bed with Grey Panel Headboard.png",
+    "img": "assets/products/sleeping-beds/cat-oak-wood-single-bed-with-grey-panel-headboard/Oak Wood Single Bed with Grey Panel Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-oak-wood-single-bed-with-grey-panel-headboard/Oak Wood Single Bed with Grey Panel Headboard.png"
+      "assets/products/sleeping-beds/cat-oak-wood-single-bed-with-grey-panel-headboard/Oak Wood Single Bed with Grey Panel Headboard.webp"
     ],
     "colors": []
   },
@@ -16329,9 +16269,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Pine Wood Single Bed And Desk Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-pine-wood-single-bed-and-desk-set/pine_wood_single_bed_and_desk_set.png",
+    "img": "assets/products/sleeping-beds/cat-pine-wood-single-bed-and-desk-set/pine_wood_single_bed_and_desk_set.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-pine-wood-single-bed-and-desk-set/pine_wood_single_bed_and_desk_set.png"
+      "assets/products/sleeping-beds/cat-pine-wood-single-bed-and-desk-set/pine_wood_single_bed_and_desk_set.webp"
     ],
     "colors": []
   },
@@ -16345,9 +16285,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Rose Pink Upholstered Bed Frame combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-rose-pink-upholstered-bed-frame/rose_pink_upholstered_bed_frame.png",
+    "img": "assets/products/sleeping-beds/cat-rose-pink-upholstered-bed-frame/rose_pink_upholstered_bed_frame.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-rose-pink-upholstered-bed-frame/rose_pink_upholstered_bed_frame.png"
+      "assets/products/sleeping-beds/cat-rose-pink-upholstered-bed-frame/rose_pink_upholstered_bed_frame.webp"
     ],
     "colors": []
   },
@@ -16361,9 +16301,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Spindle Wood Frame Daybed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.jpg",
+    "img": "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.jpg"
+      "assets/products/sleeping-beds/cat-spindle-wood-frame-daybed/Spindle Wood Frame Daybed - Perspective.webp"
     ],
     "colors": []
   },
@@ -16377,9 +16317,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tufted Beige Platform Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-tufted-beige-platform-bed/tufted_beige_platform_bed.png",
+    "img": "assets/products/sleeping-beds/cat-tufted-beige-platform-bed/tufted_beige_platform_bed.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-tufted-beige-platform-bed/tufted_beige_platform_bed.png"
+      "assets/products/sleeping-beds/cat-tufted-beige-platform-bed/tufted_beige_platform_bed.webp"
     ],
     "colors": []
   },
@@ -16393,9 +16333,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Single Bed Frame Alpha combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.jpg",
+    "img": "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.jpg"
+      "assets/products/sleeping-beds/cat-walnut-single-bed-frame-alpha/Walnut Single Bed Frame Alpha - Distance.webp"
     ],
     "colors": []
   },
@@ -16409,9 +16349,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Single Bed With Straight Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-walnut-single-bed-with-straight-headboard/Walnut Single Bed with Straight Headboard.png",
+    "img": "assets/products/sleeping-beds/cat-walnut-single-bed-with-straight-headboard/Walnut Single Bed with Straight Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-walnut-single-bed-with-straight-headboard/Walnut Single Bed with Straight Headboard.png"
+      "assets/products/sleeping-beds/cat-walnut-single-bed-with-straight-headboard/Walnut Single Bed with Straight Headboard.webp"
     ],
     "colors": []
   },
@@ -16425,9 +16365,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Storage Bed With Bookshelf Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-walnut-storage-bed-with-bookshelf-headboard/walnut_storage_bed_with_bookshelf_headboard.png",
+    "img": "assets/products/sleeping-beds/cat-walnut-storage-bed-with-bookshelf-headboard/walnut_storage_bed_with_bookshelf_headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-walnut-storage-bed-with-bookshelf-headboard/walnut_storage_bed_with_bookshelf_headboard.png"
+      "assets/products/sleeping-beds/cat-walnut-storage-bed-with-bookshelf-headboard/walnut_storage_bed_with_bookshelf_headboard.webp"
     ],
     "colors": []
   },
@@ -16441,9 +16381,9 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "The Eternia Bedroom Set blends modern elegance with everyday functionality. Its cushioned headboard, graceful contours, and soothing Modern Ash tones bring a sense of warmth and sophistication, making it a perfect fit for stylish and serene living spaces.",
-    "img": "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.png",
+    "img": "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.webp",
     "images": [
-      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.png"
+      "assets/products/sleeping-beds/eternia_modern_ash/Eternia_Modern_Ash_01.webp"
     ],
     "colors": [
       "Modern Ash"
@@ -16459,9 +16399,9 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "1. King Bed with Cusion",
-    "img": "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.png",
+    "img": "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.webp",
     "images": [
-      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.png"
+      "assets/products/sleeping-beds/hospitality_suite_type_02/Hospitality_Suite_Type_02_01.webp"
     ],
     "colors": []
   },
@@ -16473,11 +16413,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.5,
-    "img": "assets/products/sleeping-beds/lmw-066/LMW-066.png",
+    "img": "assets/products/sleeping-beds/lmw-066/LMW-066.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-063 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-066/LMW-066.png"
+      "assets/products/sleeping-beds/lmw-066/LMW-066.webp"
     ],
     "colors": [
       "Red"
@@ -16491,11 +16431,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-067/LMW-067.png",
+    "img": "assets/products/sleeping-beds/lmw-067/LMW-067.webp",
     "badge": "Bestseller",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-064 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-067/LMW-067.png"
+      "assets/products/sleeping-beds/lmw-067/LMW-067.webp"
     ],
     "colors": [
       "Red"
@@ -16509,11 +16449,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-068/LMW-068.png",
+    "img": "assets/products/sleeping-beds/lmw-068/LMW-068.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-065 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-068/LMW-068.png"
+      "assets/products/sleeping-beds/lmw-068/LMW-068.webp"
     ],
     "colors": [
       "Red"
@@ -16527,11 +16467,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-069/LMW-069.png",
+    "img": "assets/products/sleeping-beds/lmw-069/LMW-069.webp",
     "badge": "New",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-066 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-069/LMW-069.png"
+      "assets/products/sleeping-beds/lmw-069/LMW-069.webp"
     ],
     "colors": [
       "Brown"
@@ -16545,11 +16485,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/sleeping-beds/lmw-070/LMW-070.png",
+    "img": "assets/products/sleeping-beds/lmw-070/LMW-070.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-067 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-070/LMW-070.png"
+      "assets/products/sleeping-beds/lmw-070/LMW-070.webp"
     ],
     "colors": [
       "Brown"
@@ -16563,11 +16503,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-071/LMW-071.png",
+    "img": "assets/products/sleeping-beds/lmw-071/LMW-071.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-068 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-071/LMW-071.png"
+      "assets/products/sleeping-beds/lmw-071/LMW-071.webp"
     ],
     "colors": [
       "Brown"
@@ -16581,11 +16521,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/sleeping-beds/lmw-072/LMW-072.png",
+    "img": "assets/products/sleeping-beds/lmw-072/LMW-072.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-069 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-072/LMW-072.png"
+      "assets/products/sleeping-beds/lmw-072/LMW-072.webp"
     ],
     "colors": [
       "Red"
@@ -16599,11 +16539,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/sleeping-beds/lmw-073/LMW-073.png",
+    "img": "assets/products/sleeping-beds/lmw-073/LMW-073.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-070 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-073/LMW-073.png"
+      "assets/products/sleeping-beds/lmw-073/LMW-073.webp"
     ],
     "colors": [
       "Grey",
@@ -16618,11 +16558,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/sleeping-beds/lmw-074/LMW-074.png",
+    "img": "assets/products/sleeping-beds/lmw-074/LMW-074.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-071 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-074/LMW-074.png"
+      "assets/products/sleeping-beds/lmw-074/LMW-074.webp"
     ],
     "colors": [
       "Brown"
@@ -16636,11 +16576,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/sleeping-beds/lmw-075/LMW-075.png",
+    "img": "assets/products/sleeping-beds/lmw-075/LMW-075.webp",
     "badge": "",
     "description": "Transform your bedroom into a peaceful sanctuary with the LMW-072 bed. Built with a solid wood frame for superior stability, it features a beautifully styled headboard and clean modern lines. A refined centerpiece designed to provide a supportive foundation for a restful and comfortable night's sleep.",
     "images": [
-      "assets/products/sleeping-beds/lmw-075/LMW-075.png"
+      "assets/products/sleeping-beds/lmw-075/LMW-075.webp"
     ],
     "colors": [
       "Red"
@@ -16656,9 +16596,9 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "Hostel furniture with integrated study tables is designed to maximize utility in compact living spaces. Engineered for durability and comfort, it supports students' academic needs while offering organized storage and efficient layout-perfect for focused study and everyday use. Smart Living for Smarter Learning",
-    "img": "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png",
+    "img": "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.webp",
     "images": [
-      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.png"
+      "assets/products/sleeping-beds/nestor_bed/Nestor_Bed_01.webp"
     ],
     "colors": []
   },
@@ -16672,9 +16612,9 @@ const PRODUCTS = [
     "rating": 4.2,
     "badge": "",
     "description": "Natural Wenge and Rigato Walnut",
-    "img": "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.png",
+    "img": "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.webp",
     "images": [
-      "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.png"
+      "assets/products/sleeping-beds/noble_campus_bed/Noble_Campus_Bed_01.webp"
     ],
     "colors": []
   },
@@ -16687,10 +16627,10 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.webp",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.jpg"
+      "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-captain",
     "colors": [
@@ -16707,10 +16647,10 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.5,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.webp",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.jpg"
+      "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-colonial",
     "colors": [
@@ -16727,10 +16667,10 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.5,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.webp",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.jpg"
+      "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-correll",
     "colors": [
@@ -16747,10 +16687,10 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.5,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.webp",
     "images": [
-      "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.jpg"
+      "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/cot-emrald",
     "colors": [
@@ -16767,10 +16707,10 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.webp",
     "images": [
-      "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.jpg"
+      "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/diamond-cot",
     "colors": [
@@ -16787,10 +16727,10 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.webp",
     "images": [
-      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.jpg"
+      "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/diwan-cot-one-side",
     "colors": [
@@ -16808,9 +16748,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Single Bed & Study Set is a complete oak-finish bedroom suite for students and single rooms, pairing a storage single bed with a hutch study desk, a two-door wardrobe and a drawer bedside unit. Clean engineered-wood construction with grey accents ties the pieces together for a coordinated, space-efficient setup.",
-    "img": "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png",
+    "img": "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.webp",
     "images": [
-      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.png"
+      "assets/products/sleeping-beds/single_bed_study_set/Single_Bed_Study_Set_01.webp"
     ],
     "colors": []
   },
@@ -16824,9 +16764,9 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "The Woodland bedroom set brings a warm natural-oak look to the room, combining a cushioned-headboard storage bed with a fluted-panel wardrobe, a dresser with mirror and a matching bedside unit. Built in durable engineered wood, the coordinated suite balances soft upholstery with ribbed timber detailing for a modern, cohesive bedroom.",
-    "img": "assets/products/sleeping-beds/woodland/Woodland_01.png",
+    "img": "assets/products/sleeping-beds/woodland/Woodland_01.webp",
     "images": [
-      "assets/products/sleeping-beds/woodland/Woodland_01.png"
+      "assets/products/sleeping-beds/woodland/Woodland_01.webp"
     ],
     "colors": []
   },
@@ -16840,9 +16780,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aether Three Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-aether-three-seater-sofa/Aether Three Seater Sofa.png",
+    "img": "assets/products/sofas/cat-aether-three-seater-sofa/Aether Three Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-aether-three-seater-sofa/Aether Three Seater Sofa.png"
+      "assets/products/sofas/cat-aether-three-seater-sofa/Aether Three Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -16856,9 +16796,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aether Two Seater Loveseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-aether-two-seater-loveseat-sofa/Aether Two Seater Loveseat Sofa.png",
+    "img": "assets/products/sofas/cat-aether-two-seater-loveseat-sofa/Aether Two Seater Loveseat Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-aether-two-seater-loveseat-sofa/Aether Two Seater Loveseat Sofa.png"
+      "assets/products/sofas/cat-aether-two-seater-loveseat-sofa/Aether Two Seater Loveseat Sofa.webp"
     ],
     "colors": []
   },
@@ -16872,9 +16812,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Alaska Loveseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-alaska-loveseat-sofa/Alaska Loveseat Sofa - Two Seater.png",
+    "img": "assets/products/sofas/cat-alaska-loveseat-sofa/Alaska Loveseat Sofa - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-alaska-loveseat-sofa/Alaska Loveseat Sofa - Two Seater.png"
+      "assets/products/sofas/cat-alaska-loveseat-sofa/Alaska Loveseat Sofa - Two Seater.webp"
     ],
     "colors": []
   },
@@ -16888,9 +16828,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Arcus Boucle Loveseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-arcus-boucle-loveseat-sofa/Arcus Boucle Loveseat Sofa - Two Seater.png",
+    "img": "assets/products/sofas/cat-arcus-boucle-loveseat-sofa/Arcus Boucle Loveseat Sofa - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-arcus-boucle-loveseat-sofa/Arcus Boucle Loveseat Sofa - Two Seater.png"
+      "assets/products/sofas/cat-arcus-boucle-loveseat-sofa/Arcus Boucle Loveseat Sofa - Two Seater.webp"
     ],
     "colors": []
   },
@@ -16904,9 +16844,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aspen Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-aspen-full-sofa/Aspen Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-aspen-full-sofa/Aspen Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-aspen-full-sofa/Aspen Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-aspen-full-sofa/Aspen Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -16920,9 +16860,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Aspen Loveseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-aspen-loveseat-sofa/Aspen Loveseat Sofa - Two Seater.png",
+    "img": "assets/products/sofas/cat-aspen-loveseat-sofa/Aspen Loveseat Sofa - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-aspen-loveseat-sofa/Aspen Loveseat Sofa - Two Seater.png"
+      "assets/products/sofas/cat-aspen-loveseat-sofa/Aspen Loveseat Sofa - Two Seater.webp"
     ],
     "colors": []
   },
@@ -16936,9 +16876,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bamboo Leather Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-bamboo-leather-full-sofa/Bamboo Leather Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-bamboo-leather-full-sofa/Bamboo Leather Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-bamboo-leather-full-sofa/Bamboo Leather Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-bamboo-leather-full-sofa/Bamboo Leather Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -16952,9 +16892,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Bamboo Leather Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-bamboo-leather-loveseat/Bamboo Leather Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-bamboo-leather-loveseat/Bamboo Leather Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-bamboo-leather-loveseat/Bamboo Leather Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-bamboo-leather-loveseat/Bamboo Leather Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -16967,10 +16907,10 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A counter-height bar stool with a moulded white polypropylene shell, its curved back pierced in a lattice weave, seated on four tapered antique-brass steel legs with a square footrest. Wipe-clean and stackable-friendly for cafés, bars and kitchen islands.",
-    "img": "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.png",
+    "description": "A counter-height bar stool with a moulded white polypropylene shell, its curved back pierced in a lattice weave, seated on four tapered antique-brass steel legs with a square footrest. Wipe-clean and stackable-friendly for cafÃ©s, bars and kitchen islands.",
+    "img": "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.webp",
     "images": [
-      "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.png"
+      "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.webp"
     ],
     "colors": []
   },
@@ -16984,9 +16924,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Chenille Plush Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-beige-chenille-plush-sofa/beige_chenille_plush_sofa.png",
+    "img": "assets/products/sofas/cat-beige-chenille-plush-sofa/beige_chenille_plush_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-beige-chenille-plush-sofa/beige_chenille_plush_sofa.png"
+      "assets/products/sofas/cat-beige-chenille-plush-sofa/beige_chenille_plush_sofa.webp"
     ],
     "colors": []
   },
@@ -17000,9 +16940,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Chevronpillow Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-beige-chevronpillow-loveseat/beige_chevronpillow_loveseat.png",
+    "img": "assets/products/sofas/cat-beige-chevronpillow-loveseat/beige_chevronpillow_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-beige-chevronpillow-loveseat/beige_chevronpillow_loveseat.png"
+      "assets/products/sofas/cat-beige-chevronpillow-loveseat/beige_chevronpillow_loveseat.webp"
     ],
     "colors": []
   },
@@ -17016,9 +16956,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Living Room Sofa Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-beige-living-room-sofa-set/beige_living_room_sofa_set.png",
+    "img": "assets/products/sofas/cat-beige-living-room-sofa-set/beige_living_room_sofa_set.webp",
     "images": [
-      "assets/products/sofas/cat-beige-living-room-sofa-set/beige_living_room_sofa_set.png"
+      "assets/products/sofas/cat-beige-living-room-sofa-set/beige_living_room_sofa_set.webp"
     ],
     "colors": []
   },
@@ -17032,9 +16972,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Modern Living Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-beige-modern-3piece-living-suite/beige_modern_3piece_living_suite.png",
+    "img": "assets/products/sofas/cat-beige-modern-3piece-living-suite/beige_modern_3piece_living_suite.webp",
     "images": [
-      "assets/products/sofas/cat-beige-modern-3piece-living-suite/beige_modern_3piece_living_suite.png"
+      "assets/products/sofas/cat-beige-modern-3piece-living-suite/beige_modern_3piece_living_suite.webp"
     ],
     "colors": []
   },
@@ -17048,9 +16988,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Modern Living Room Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-beige-modern-living-room-suite/beige_modern_living_room_suite.png",
+    "img": "assets/products/sofas/cat-beige-modern-living-room-suite/beige_modern_living_room_suite.webp",
     "images": [
-      "assets/products/sofas/cat-beige-modern-living-room-suite/beige_modern_living_room_suite.png"
+      "assets/products/sofas/cat-beige-modern-living-room-suite/beige_modern_living_room_suite.webp"
     ],
     "colors": []
   },
@@ -17064,9 +17004,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Plush Classic Living Room Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-beige-plush-classic-living-room-suite/beige_plush_classic_living_room_suite.png",
+    "img": "assets/products/sofas/cat-beige-plush-classic-living-room-suite/beige_plush_classic_living_room_suite.webp",
     "images": [
-      "assets/products/sofas/cat-beige-plush-classic-living-room-suite/beige_plush_classic_living_room_suite.png"
+      "assets/products/sofas/cat-beige-plush-classic-living-room-suite/beige_plush_classic_living_room_suite.webp"
     ],
     "colors": []
   },
@@ -17080,9 +17020,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Breeze Linen Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-breeze-linen-full-sofa/Breeze Linen Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-breeze-linen-full-sofa/Breeze Linen Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-breeze-linen-full-sofa/Breeze Linen Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-breeze-linen-full-sofa/Breeze Linen Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17096,9 +17036,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Breeze Linen Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-breeze-linen-loveseat/Breeze Linen Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-breeze-linen-loveseat/Breeze Linen Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-breeze-linen-loveseat/Breeze Linen Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-breeze-linen-loveseat/Breeze Linen Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -17112,9 +17052,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brown Fabric Living Room Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-brown-fabric-living-room-suite/brown_fabric_living_room_suite.png",
+    "img": "assets/products/sofas/cat-brown-fabric-living-room-suite/brown_fabric_living_room_suite.webp",
     "images": [
-      "assets/products/sofas/cat-brown-fabric-living-room-suite/brown_fabric_living_room_suite.png"
+      "assets/products/sofas/cat-brown-fabric-living-room-suite/brown_fabric_living_room_suite.webp"
     ],
     "colors": []
   },
@@ -17128,9 +17068,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brume Sage Green Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-brume-sage-green-full-sofa/Brume Sage Green Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-brume-sage-green-full-sofa/Brume Sage Green Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-brume-sage-green-full-sofa/Brume Sage Green Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-brume-sage-green-full-sofa/Brume Sage Green Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17144,9 +17084,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brume Sage Green Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-brume-sage-green-loveseat/Brume Sage Green Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-brume-sage-green-loveseat/Brume Sage Green Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-brume-sage-green-loveseat/Brume Sage Green Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-brume-sage-green-loveseat/Brume Sage Green Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -17160,9 +17100,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Calypso Dusty Pink Velvet Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-calypso-dusty-pink-velvet-loveseat/Calypso Dusty Pink Velvet Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-calypso-dusty-pink-velvet-loveseat/Calypso Dusty Pink Velvet Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-calypso-dusty-pink-velvet-loveseat/Calypso Dusty Pink Velvet Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-calypso-dusty-pink-velvet-loveseat/Calypso Dusty Pink Velvet Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -17176,9 +17116,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Calypso Velvet Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-calypso-velvet-full-sofa/Calypso Velvet Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-calypso-velvet-full-sofa/Calypso Velvet Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-calypso-velvet-full-sofa/Calypso Velvet Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-calypso-velvet-full-sofa/Calypso Velvet Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17192,9 +17132,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Scandi Slim Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-charcoal-scandi-slim-sofa/charcoal_scandi_slim_sofa.png",
+    "img": "assets/products/sofas/cat-charcoal-scandi-slim-sofa/charcoal_scandi_slim_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-charcoal-scandi-slim-sofa/charcoal_scandi_slim_sofa.png"
+      "assets/products/sofas/cat-charcoal-scandi-slim-sofa/charcoal_scandi_slim_sofa.webp"
     ],
     "colors": []
   },
@@ -17208,9 +17148,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Woven Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-charcoal-woven-loveseat/charcoal_woven_loveseat.png",
+    "img": "assets/products/sofas/cat-charcoal-woven-loveseat/charcoal_woven_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-charcoal-woven-loveseat/charcoal_woven_loveseat.png"
+      "assets/products/sofas/cat-charcoal-woven-loveseat/charcoal_woven_loveseat.webp"
     ],
     "colors": []
   },
@@ -17224,9 +17164,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cirrus Textured Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cirrus-textured-full-sofa/Cirrus Textured Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-cirrus-textured-full-sofa/Cirrus Textured Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-cirrus-textured-full-sofa/Cirrus Textured Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-cirrus-textured-full-sofa/Cirrus Textured Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17240,9 +17180,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Sofa Pair combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cognac-leather-sofa-pair/cognac_leather_sofa_pair.png",
+    "img": "assets/products/sofas/cat-cognac-leather-sofa-pair/cognac_leather_sofa_pair.webp",
     "images": [
-      "assets/products/sofas/cat-cognac-leather-sofa-pair/cognac_leather_sofa_pair.png"
+      "assets/products/sofas/cat-cognac-leather-sofa-pair/cognac_leather_sofa_pair.webp"
     ],
     "colors": []
   },
@@ -17256,9 +17196,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cognac Leather Tufted 4 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cognac-leather-tufted-4-seater-sofa/Cognac Leather Tufted 4-Seater Sofa.jpg",
+    "img": "assets/products/sofas/cat-cognac-leather-tufted-4-seater-sofa/Cognac Leather Tufted 4-Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cognac-leather-tufted-4-seater-sofa/Cognac Leather Tufted 4-Seater Sofa.jpg"
+      "assets/products/sofas/cat-cognac-leather-tufted-4-seater-sofa/Cognac Leather Tufted 4-Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -17272,9 +17212,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Copper Velvet Piped 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-copper-velvet-piped-3seater-sofa/copper_velvet_piped_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-copper-velvet-piped-3seater-sofa/copper_velvet_piped_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-copper-velvet-piped-3seater-sofa/copper_velvet_piped_3seater_sofa.png"
+      "assets/products/sofas/cat-copper-velvet-piped-3seater-sofa/copper_velvet_piped_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -17288,9 +17228,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Corsica Cream Velvet Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-corsica-cream-velvet-full-sofa/Corsica Cream Velvet Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-corsica-cream-velvet-full-sofa/Corsica Cream Velvet Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-corsica-cream-velvet-full-sofa/Corsica Cream Velvet Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-corsica-cream-velvet-full-sofa/Corsica Cream Velvet Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17304,9 +17244,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Corsica Cream Velvet Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-corsica-cream-velvet-loveseat/Corsica Cream Velvet Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-corsica-cream-velvet-loveseat/Corsica Cream Velvet Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-corsica-cream-velvet-loveseat/Corsica Cream Velvet Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-corsica-cream-velvet-loveseat/Corsica Cream Velvet Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -17320,9 +17260,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Beige Leather Loveseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-beige-leather-loveseat-sofa/Cream Beige Leather Loveseat Sofa.jpg",
+    "img": "assets/products/sofas/cat-cream-beige-leather-loveseat-sofa/Cream Beige Leather Loveseat Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-beige-leather-loveseat-sofa/Cream Beige Leather Loveseat Sofa.jpg"
+      "assets/products/sofas/cat-cream-beige-leather-loveseat-sofa/Cream Beige Leather Loveseat Sofa.webp"
     ],
     "colors": []
   },
@@ -17336,9 +17276,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Boucle Plush 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-boucle-plush-3seater-sofa/cream_boucle_plush_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-cream-boucle-plush-3seater-sofa/cream_boucle_plush_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-boucle-plush-3seater-sofa/cream_boucle_plush_3seater_sofa.png"
+      "assets/products/sofas/cat-cream-boucle-plush-3seater-sofa/cream_boucle_plush_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -17352,9 +17292,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Buttontufted 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-buttontufted-3seater-sofa/cream_buttontufted_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-cream-buttontufted-3seater-sofa/cream_buttontufted_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-buttontufted-3seater-sofa/cream_buttontufted_3seater_sofa.png"
+      "assets/products/sofas/cat-cream-buttontufted-3seater-sofa/cream_buttontufted_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -17368,9 +17308,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Full Living Room Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-full-living-room-suite/cream_full_living_room_suite.png",
+    "img": "assets/products/sofas/cat-cream-full-living-room-suite/cream_full_living_room_suite.webp",
     "images": [
-      "assets/products/sofas/cat-cream-full-living-room-suite/cream_full_living_room_suite.png"
+      "assets/products/sofas/cat-cream-full-living-room-suite/cream_full_living_room_suite.webp"
     ],
     "colors": []
   },
@@ -17384,9 +17324,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Leather Sofa With Red Accent Pillows combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-leather-sofa-with-red-accent-pillows/Cream Leather Sofa with Red Accent Pillows.jpg",
+    "img": "assets/products/sofas/cat-cream-leather-sofa-with-red-accent-pillows/Cream Leather Sofa with Red Accent Pillows.webp",
     "images": [
-      "assets/products/sofas/cat-cream-leather-sofa-with-red-accent-pillows/Cream Leather Sofa with Red Accent Pillows.jpg"
+      "assets/products/sofas/cat-cream-leather-sofa-with-red-accent-pillows/Cream Leather Sofa with Red Accent Pillows.webp"
     ],
     "colors": []
   },
@@ -17400,9 +17340,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Linen Chevronpillow Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-linen-chevronpillow-loveseat/cream_linen_chevronpillow_loveseat.png",
+    "img": "assets/products/sofas/cat-cream-linen-chevronpillow-loveseat/cream_linen_chevronpillow_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-cream-linen-chevronpillow-loveseat/cream_linen_chevronpillow_loveseat.png"
+      "assets/products/sofas/cat-cream-linen-chevronpillow-loveseat/cream_linen_chevronpillow_loveseat.webp"
     ],
     "colors": []
   },
@@ -17416,9 +17356,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Linen Tuxedo Sofa With Gold Legs combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-linen-tuxedo-sofa-with-gold-legs/cream_linen_tuxedo_sofa_with_gold_legs.png",
+    "img": "assets/products/sofas/cat-cream-linen-tuxedo-sofa-with-gold-legs/cream_linen_tuxedo_sofa_with_gold_legs.webp",
     "images": [
-      "assets/products/sofas/cat-cream-linen-tuxedo-sofa-with-gold-legs/cream_linen_tuxedo_sofa_with_gold_legs.png"
+      "assets/products/sofas/cat-cream-linen-tuxedo-sofa-with-gold-legs/cream_linen_tuxedo_sofa_with_gold_legs.webp"
     ],
     "colors": []
   },
@@ -17432,9 +17372,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Linen Velvetcushion Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-linen-velvetcushion-loveseat/cream_linen_velvetcushion_loveseat.png",
+    "img": "assets/products/sofas/cat-cream-linen-velvetcushion-loveseat/cream_linen_velvetcushion_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-cream-linen-velvetcushion-loveseat/cream_linen_velvetcushion_loveseat.png"
+      "assets/products/sofas/cat-cream-linen-velvetcushion-loveseat/cream_linen_velvetcushion_loveseat.webp"
     ],
     "colors": []
   },
@@ -17448,9 +17388,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Plush Deepseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-plush-deepseat-sofa/cream_plush_deepseat_sofa.png",
+    "img": "assets/products/sofas/cat-cream-plush-deepseat-sofa/cream_plush_deepseat_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-plush-deepseat-sofa/cream_plush_deepseat_sofa.png"
+      "assets/products/sofas/cat-cream-plush-deepseat-sofa/cream_plush_deepseat_sofa.webp"
     ],
     "colors": []
   },
@@ -17464,9 +17404,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Textured 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-textured-3seater-sofa/cream_textured_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-cream-textured-3seater-sofa/cream_textured_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-textured-3seater-sofa/cream_textured_3seater_sofa.png"
+      "assets/products/sofas/cat-cream-textured-3seater-sofa/cream_textured_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -17480,9 +17420,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Textured Modular Armless Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-textured-modular-armless-sofa/cream_textured_modular_armless_sofa.png",
+    "img": "assets/products/sofas/cat-cream-textured-modular-armless-sofa/cream_textured_modular_armless_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-textured-modular-armless-sofa/cream_textured_modular_armless_sofa.png"
+      "assets/products/sofas/cat-cream-textured-modular-armless-sofa/cream_textured_modular_armless_sofa.webp"
     ],
     "colors": []
   },
@@ -17496,9 +17436,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Velvet Flared Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-velvet-flared-loveseat/cream_velvet_flared_loveseat.png",
+    "img": "assets/products/sofas/cat-cream-velvet-flared-loveseat/cream_velvet_flared_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-cream-velvet-flared-loveseat/cream_velvet_flared_loveseat.png"
+      "assets/products/sofas/cat-cream-velvet-flared-loveseat/cream_velvet_flared_loveseat.webp"
     ],
     "colors": []
   },
@@ -17512,9 +17452,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Velvety Plush Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-velvety-plush-sofa/cream_velvety_plush_sofa.png",
+    "img": "assets/products/sofas/cat-cream-velvety-plush-sofa/cream_velvety_plush_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-cream-velvety-plush-sofa/cream_velvety_plush_sofa.png"
+      "assets/products/sofas/cat-cream-velvety-plush-sofa/cream_velvety_plush_sofa.webp"
     ],
     "colors": []
   },
@@ -17528,9 +17468,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Blue Fabric Sofa With Wooden Base combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-blue-fabric-sofa-with-wooden-base/Dark Blue Fabric Sofa with Wooden Base.jpg",
+    "img": "assets/products/sofas/cat-dark-blue-fabric-sofa-with-wooden-base/Dark Blue Fabric Sofa with Wooden Base.webp",
     "images": [
-      "assets/products/sofas/cat-dark-blue-fabric-sofa-with-wooden-base/Dark Blue Fabric Sofa with Wooden Base.jpg"
+      "assets/products/sofas/cat-dark-blue-fabric-sofa-with-wooden-base/Dark Blue Fabric Sofa with Wooden Base.webp"
     ],
     "colors": []
   },
@@ -17544,9 +17484,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Charcoal Grey Fabric Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-charcoal-grey-fabric-sofa/Dark Charcoal Grey Fabric Sofa.jpg",
+    "img": "assets/products/sofas/cat-dark-charcoal-grey-fabric-sofa/Dark Charcoal Grey Fabric Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-dark-charcoal-grey-fabric-sofa/Dark Charcoal Grey Fabric Sofa.jpg"
+      "assets/products/sofas/cat-dark-charcoal-grey-fabric-sofa/Dark Charcoal Grey Fabric Sofa.webp"
     ],
     "colors": []
   },
@@ -17560,9 +17500,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Chocolate Brown Fabric 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-chocolate-brown-fabric-3-seater-sofa/Dark Chocolate Brown Fabric 3-Seater Sofa.jpg",
+    "img": "assets/products/sofas/cat-dark-chocolate-brown-fabric-3-seater-sofa/Dark Chocolate Brown Fabric 3-Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-dark-chocolate-brown-fabric-3-seater-sofa/Dark Chocolate Brown Fabric 3-Seater Sofa.jpg"
+      "assets/products/sofas/cat-dark-chocolate-brown-fabric-3-seater-sofa/Dark Chocolate Brown Fabric 3-Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -17576,9 +17516,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Grey Fabric Modular Sofa Collection combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-grey-fabric-modular-sofa-collection/Dark Grey Fabric Modular Sofa Collection.jpg",
+    "img": "assets/products/sofas/cat-dark-grey-fabric-modular-sofa-collection/Dark Grey Fabric Modular Sofa Collection.webp",
     "images": [
-      "assets/products/sofas/cat-dark-grey-fabric-modular-sofa-collection/Dark Grey Fabric Modular Sofa Collection.jpg"
+      "assets/products/sofas/cat-dark-grey-fabric-modular-sofa-collection/Dark Grey Fabric Modular Sofa Collection.webp"
     ],
     "colors": []
   },
@@ -17592,9 +17532,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Grey Leather Sofa With Copper Accents combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-grey-leather-sofa-with-copper-accents/Dark Grey Leather Sofa with Copper Accents.jpg",
+    "img": "assets/products/sofas/cat-dark-grey-leather-sofa-with-copper-accents/Dark Grey Leather Sofa with Copper Accents.webp",
     "images": [
-      "assets/products/sofas/cat-dark-grey-leather-sofa-with-copper-accents/Dark Grey Leather Sofa with Copper Accents.jpg"
+      "assets/products/sofas/cat-dark-grey-leather-sofa-with-copper-accents/Dark Grey Leather Sofa with Copper Accents.webp"
     ],
     "colors": []
   },
@@ -17608,9 +17548,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Teal Velvet Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-teal-velvet-sofa/Dark Teal Velvet Sofa.jpg",
+    "img": "assets/products/sofas/cat-dark-teal-velvet-sofa/Dark Teal Velvet Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-dark-teal-velvet-sofa/Dark Teal Velvet Sofa.jpg"
+      "assets/products/sofas/cat-dark-teal-velvet-sofa/Dark Teal Velvet Sofa.webp"
     ],
     "colors": []
   },
@@ -17624,9 +17564,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Wood Frame Loveseat With Grey Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-dark-wood-frame-loveseat-with-grey-cushions/Dark Wood Frame Loveseat with Grey Cushions.jpg",
+    "img": "assets/products/wooden-couches/cat-dark-wood-frame-loveseat-with-grey-cushions/Dark Wood Frame Loveseat with Grey Cushions.webp",
     "images": [
-      "assets/products/wooden-couches/cat-dark-wood-frame-loveseat-with-grey-cushions/Dark Wood Frame Loveseat with Grey Cushions.jpg"
+      "assets/products/wooden-couches/cat-dark-wood-frame-loveseat-with-grey-cushions/Dark Wood Frame Loveseat with Grey Cushions.webp"
     ],
     "colors": []
   },
@@ -17640,9 +17580,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Wood Frame Sofa With Cream Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-dark-wood-frame-sofa-with-cream-cushions/Dark Wood Frame Sofa with Cream Cushions.jpg",
+    "img": "assets/products/wooden-couches/cat-dark-wood-frame-sofa-with-cream-cushions/Dark Wood Frame Sofa with Cream Cushions.webp",
     "images": [
-      "assets/products/wooden-couches/cat-dark-wood-frame-sofa-with-cream-cushions/Dark Wood Frame Sofa with Cream Cushions.jpg"
+      "assets/products/wooden-couches/cat-dark-wood-frame-sofa-with-cream-cushions/Dark Wood Frame Sofa with Cream Cushions.webp"
     ],
     "colors": []
   },
@@ -17656,9 +17596,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Deep Purple Velvet Curved Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-deep-purple-velvet-curved-sofa/Deep Purple Velvet Curved Sofa.jpg",
+    "img": "assets/products/sofas/cat-deep-purple-velvet-curved-sofa/Deep Purple Velvet Curved Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-deep-purple-velvet-curved-sofa/Deep Purple Velvet Curved Sofa.jpg"
+      "assets/products/sofas/cat-deep-purple-velvet-curved-sofa/Deep Purple Velvet Curved Sofa.webp"
     ],
     "colors": []
   },
@@ -17672,9 +17612,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Drift Textured Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-drift-textured-full-sofa/Drift Textured Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-drift-textured-full-sofa/Drift Textured Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-drift-textured-full-sofa/Drift Textured Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-drift-textured-full-sofa/Drift Textured Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17688,9 +17628,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Drift Textured Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-drift-textured-loveseat/Drift Textured Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-drift-textured-loveseat/Drift Textured Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-drift-textured-loveseat/Drift Textured Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-drift-textured-loveseat/Drift Textured Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -17704,9 +17644,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Duckegg Blue Soft Fabric Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-duckegg-blue-soft-fabric-sofa/duckegg_blue_soft_fabric_sofa.png",
+    "img": "assets/products/sofas/cat-duckegg-blue-soft-fabric-sofa/duckegg_blue_soft_fabric_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-duckegg-blue-soft-fabric-sofa/duckegg_blue_soft_fabric_sofa.png"
+      "assets/products/sofas/cat-duckegg-blue-soft-fabric-sofa/duckegg_blue_soft_fabric_sofa.webp"
     ],
     "colors": []
   },
@@ -17720,9 +17660,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dusk Boucle Full Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dusk-boucle-full-sofa/Dusk Boucle Full Sofa - Three Seater.png",
+    "img": "assets/products/sofas/cat-dusk-boucle-full-sofa/Dusk Boucle Full Sofa - Three Seater.webp",
     "images": [
-      "assets/products/sofas/cat-dusk-boucle-full-sofa/Dusk Boucle Full Sofa - Three Seater.png"
+      "assets/products/sofas/cat-dusk-boucle-full-sofa/Dusk Boucle Full Sofa - Three Seater.webp"
     ],
     "colors": []
   },
@@ -17736,9 +17676,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dusk Boucle Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dusk-boucle-loveseat/Dusk Boucle Loveseat - Two Seater.png",
+    "img": "assets/products/sofas/cat-dusk-boucle-loveseat/Dusk Boucle Loveseat - Two Seater.webp",
     "images": [
-      "assets/products/sofas/cat-dusk-boucle-loveseat/Dusk Boucle Loveseat - Two Seater.png"
+      "assets/products/sofas/cat-dusk-boucle-loveseat/Dusk Boucle Loveseat - Two Seater.webp"
     ],
     "colors": []
   },
@@ -17752,11 +17692,11 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Echo Modern Velvet Living Room Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Angle Perspective.png",
+    "img": "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Angle Perspective.webp",
     "images": [
-      "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Angle Perspective.png",
-      "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Front View.png",
-      "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Side View.png"
+      "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Angle Perspective.webp",
+      "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Front View.webp",
+      "assets/products/sofas/cat-echo-modern-velvet-living-room-suite/Echo Living Room Suite - Side View.webp"
     ],
     "colors": []
   },
@@ -17770,10 +17710,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Ember Boucle Low Profile Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-ember-boucle-low-profile-sofa/Ember Boucle Sofa - Angle Perspective.png",
+    "img": "assets/products/sofas/cat-ember-boucle-low-profile-sofa/Ember Boucle Sofa - Angle Perspective.webp",
     "images": [
-      "assets/products/sofas/cat-ember-boucle-low-profile-sofa/Ember Boucle Sofa - Angle Perspective.png",
-      "assets/products/sofas/cat-ember-boucle-low-profile-sofa/Ember Boucle Sofa - Front View.png"
+      "assets/products/sofas/cat-ember-boucle-low-profile-sofa/Ember Boucle Sofa - Angle Perspective.webp",
+      "assets/products/sofas/cat-ember-boucle-low-profile-sofa/Ember Boucle Sofa - Front View.webp"
     ],
     "colors": []
   },
@@ -17787,15 +17727,15 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Estillo Executive Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Angle Perspective.png",
+    "img": "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Angle Perspective.webp",
     "images": [
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Angle Perspective.png",
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Context View.png",
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Corner Detail.png",
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Front View.png",
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - High Angle View.png",
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Side View.png",
-      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Studio Showcase.png"
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Angle Perspective.webp",
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Context View.webp",
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Corner Detail.webp",
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Front View.webp",
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - High Angle View.webp",
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Side View.webp",
+      "assets/products/sofas/cat-estillo-executive-suite/Estillo Executive Suite - Studio Showcase.webp"
     ],
     "colors": []
   },
@@ -17809,9 +17749,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Golden Yellow Fabric Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-golden-yellow-fabric-loveseat/golden_yellow_fabric_loveseat.png",
+    "img": "assets/products/sofas/cat-golden-yellow-fabric-loveseat/golden_yellow_fabric_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-golden-yellow-fabric-loveseat/golden_yellow_fabric_loveseat.png"
+      "assets/products/sofas/cat-golden-yellow-fabric-loveseat/golden_yellow_fabric_loveseat.webp"
     ],
     "colors": []
   },
@@ -17825,9 +17765,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Fabric Loveseat Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-grey-fabric-loveseat-sofa/Grey Fabric Loveseat Sofa - Front View.jpg",
+    "img": "assets/products/sofas/cat-grey-fabric-loveseat-sofa/Grey Fabric Loveseat Sofa - Front View.webp",
     "images": [
-      "assets/products/sofas/cat-grey-fabric-loveseat-sofa/Grey Fabric Loveseat Sofa - Front View.jpg"
+      "assets/products/sofas/cat-grey-fabric-loveseat-sofa/Grey Fabric Loveseat Sofa - Front View.webp"
     ],
     "colors": []
   },
@@ -17841,9 +17781,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Grey Leather Sofa Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-grey-leather-sofa-set/Grey Leather Sofa Set.jpg",
+    "img": "assets/products/sofas/cat-grey-leather-sofa-set/Grey Leather Sofa Set.webp",
     "images": [
-      "assets/products/sofas/cat-grey-leather-sofa-set/Grey Leather Sofa Set.jpg"
+      "assets/products/sofas/cat-grey-leather-sofa-set/Grey Leather Sofa Set.webp"
     ],
     "colors": []
   },
@@ -17857,9 +17797,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Heather Gray Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-heather-gray-loveseat/heather_gray_loveseat.png",
+    "img": "assets/products/sofas/cat-heather-gray-loveseat/heather_gray_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-heather-gray-loveseat/heather_gray_loveseat.png"
+      "assets/products/sofas/cat-heather-gray-loveseat/heather_gray_loveseat.webp"
     ],
     "colors": []
   },
@@ -17873,9 +17813,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Heather Gray Straightline Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-heather-gray-straightline-sofa/heather_gray_straightline_sofa.png",
+    "img": "assets/products/sofas/cat-heather-gray-straightline-sofa/heather_gray_straightline_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-heather-gray-straightline-sofa/heather_gray_straightline_sofa.png"
+      "assets/products/sofas/cat-heather-gray-straightline-sofa/heather_gray_straightline_sofa.webp"
     ],
     "colors": []
   },
@@ -17889,9 +17829,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Honey Yellow Tropicalpillow Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-honey-yellow-tropicalpillow-sofa/honey_yellow_tropicalpillow_sofa.png",
+    "img": "assets/products/sofas/cat-honey-yellow-tropicalpillow-sofa/honey_yellow_tropicalpillow_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-honey-yellow-tropicalpillow-sofa/honey_yellow_tropicalpillow_sofa.png"
+      "assets/products/sofas/cat-honey-yellow-tropicalpillow-sofa/honey_yellow_tropicalpillow_sofa.webp"
     ],
     "colors": []
   },
@@ -17905,9 +17845,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Ice Blue Soft Fabric Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-ice-blue-soft-fabric-loveseat/ice_blue_soft_fabric_loveseat.png",
+    "img": "assets/products/sofas/cat-ice-blue-soft-fabric-loveseat/ice_blue_soft_fabric_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-ice-blue-soft-fabric-loveseat/ice_blue_soft_fabric_loveseat.png"
+      "assets/products/sofas/cat-ice-blue-soft-fabric-loveseat/ice_blue_soft_fabric_loveseat.webp"
     ],
     "colors": []
   },
@@ -17921,9 +17861,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Japandi Teak Frame 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-japandi-teak-frame-3seater-sofa/japandi_teak_frame_3seater_sofa.png",
+    "img": "assets/products/wooden-couches/cat-japandi-teak-frame-3seater-sofa/japandi_teak_frame_3seater_sofa.webp",
     "images": [
-      "assets/products/wooden-couches/cat-japandi-teak-frame-3seater-sofa/japandi_teak_frame_3seater_sofa.png"
+      "assets/products/wooden-couches/cat-japandi-teak-frame-3seater-sofa/japandi_teak_frame_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -17937,9 +17877,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Beige Paisleypillow Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-light-beige-paisleypillow-loveseat/light_beige_paisleypillow_loveseat.png",
+    "img": "assets/products/sofas/cat-light-beige-paisleypillow-loveseat/light_beige_paisleypillow_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-light-beige-paisleypillow-loveseat/light_beige_paisleypillow_loveseat.png"
+      "assets/products/sofas/cat-light-beige-paisleypillow-loveseat/light_beige_paisleypillow_loveseat.webp"
     ],
     "colors": []
   },
@@ -17953,9 +17893,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray Chenille Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-light-gray-chenille-loveseat/light_gray_chenille_loveseat.png",
+    "img": "assets/products/sofas/cat-light-gray-chenille-loveseat/light_gray_chenille_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-light-gray-chenille-loveseat/light_gray_chenille_loveseat.png"
+      "assets/products/sofas/cat-light-gray-chenille-loveseat/light_gray_chenille_loveseat.webp"
     ],
     "colors": []
   },
@@ -17969,9 +17909,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray Modern 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-light-gray-modern-3seater-sofa/light_gray_modern_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-light-gray-modern-3seater-sofa/light_gray_modern_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-light-gray-modern-3seater-sofa/light_gray_modern_3seater_sofa.png"
+      "assets/products/sofas/cat-light-gray-modern-3seater-sofa/light_gray_modern_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -17985,9 +17925,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Gray Modern Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-light-gray-modern-loveseat/light_gray_modern_loveseat.png",
+    "img": "assets/products/sofas/cat-light-gray-modern-loveseat/light_gray_modern_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-light-gray-modern-loveseat/light_gray_modern_loveseat.png"
+      "assets/products/sofas/cat-light-gray-modern-loveseat/light_gray_modern_loveseat.webp"
     ],
     "colors": []
   },
@@ -18001,9 +17941,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Wood Frame Sofa With Grey Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-light-wood-frame-sofa-with-grey-cushions/Light Wood Frame Sofa with Grey Cushions.jpg",
+    "img": "assets/products/wooden-couches/cat-light-wood-frame-sofa-with-grey-cushions/Light Wood Frame Sofa with Grey Cushions.webp",
     "images": [
-      "assets/products/wooden-couches/cat-light-wood-frame-sofa-with-grey-cushions/Light Wood Frame Sofa with Grey Cushions.jpg"
+      "assets/products/wooden-couches/cat-light-wood-frame-sofa-with-grey-cushions/Light Wood Frame Sofa with Grey Cushions.webp"
     ],
     "colors": []
   },
@@ -18017,9 +17957,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Navy Velvet Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-mid-century-navy-velvet-sofa/Mid Century Navy Velvet Sofa.jpg",
+    "img": "assets/products/sofas/cat-mid-century-navy-velvet-sofa/Mid Century Navy Velvet Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-mid-century-navy-velvet-sofa/Mid Century Navy Velvet Sofa.jpg"
+      "assets/products/sofas/cat-mid-century-navy-velvet-sofa/Mid Century Navy Velvet Sofa.webp"
     ],
     "colors": []
   },
@@ -18033,9 +17973,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Living Room Suite Furniture Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-furniture-set/Mid-Century Teak Living Room Suite Furniture Set.jpg",
+    "img": "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-furniture-set/Mid-Century Teak Living Room Suite Furniture Set.webp",
     "images": [
-      "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-furniture-set/Mid-Century Teak Living Room Suite Furniture Set.jpg"
+      "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-furniture-set/Mid-Century Teak Living Room Suite Furniture Set.webp"
     ],
     "colors": []
   },
@@ -18049,9 +17989,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Living Room Suite With Tan Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-with-tan-cushions/Mid-Century Teak Living Room Suite with Tan Cushions.jpg",
+    "img": "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-with-tan-cushions/Mid-Century Teak Living Room Suite with Tan Cushions.webp",
     "images": [
-      "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-with-tan-cushions/Mid-Century Teak Living Room Suite with Tan Cushions.jpg"
+      "assets/products/wooden-couches/cat-mid-century-teak-living-room-suite-with-tan-cushions/Mid-Century Teak Living Room Suite with Tan Cushions.webp"
     ],
     "colors": []
   },
@@ -18065,9 +18005,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Sofa Collection With Blue Upholstery combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-mid-century-teak-sofa-collection-with-blue-upholstery/Mid-Century Teak Sofa Collection with Blue Upholstery.jpg",
+    "img": "assets/products/wooden-couches/cat-mid-century-teak-sofa-collection-with-blue-upholstery/Mid-Century Teak Sofa Collection with Blue Upholstery.webp",
     "images": [
-      "assets/products/wooden-couches/cat-mid-century-teak-sofa-collection-with-blue-upholstery/Mid-Century Teak Sofa Collection with Blue Upholstery.jpg"
+      "assets/products/wooden-couches/cat-mid-century-teak-sofa-collection-with-blue-upholstery/Mid-Century Teak Sofa Collection with Blue Upholstery.webp"
     ],
     "colors": []
   },
@@ -18081,9 +18021,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mid Century Teak Sofa With Olive Green Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-mid-century-teak-sofa-with-olive-green-cushions/Mid-Century Teak Sofa with Olive Green Cushions.jpg",
+    "img": "assets/products/wooden-couches/cat-mid-century-teak-sofa-with-olive-green-cushions/Mid-Century Teak Sofa with Olive Green Cushions.webp",
     "images": [
-      "assets/products/wooden-couches/cat-mid-century-teak-sofa-with-olive-green-cushions/Mid-Century Teak Sofa with Olive Green Cushions.jpg"
+      "assets/products/wooden-couches/cat-mid-century-teak-sofa-with-olive-green-cushions/Mid-Century Teak Sofa with Olive Green Cushions.webp"
     ],
     "colors": []
   },
@@ -18097,9 +18037,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Midgray Fabric Full Living Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-midgray-fabric-full-living-suite/midgray_fabric_full_living_suite.png",
+    "img": "assets/products/sofas/cat-midgray-fabric-full-living-suite/midgray_fabric_full_living_suite.webp",
     "images": [
-      "assets/products/sofas/cat-midgray-fabric-full-living-suite/midgray_fabric_full_living_suite.png"
+      "assets/products/sofas/cat-midgray-fabric-full-living-suite/midgray_fabric_full_living_suite.webp"
     ],
     "colors": []
   },
@@ -18113,9 +18053,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Midgray Woven Fabric 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-midgray-woven-fabric-3seater-sofa/midgray_woven_fabric_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-midgray-woven-fabric-3seater-sofa/midgray_woven_fabric_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-midgray-woven-fabric-3seater-sofa/midgray_woven_fabric_3seater_sofa.png"
+      "assets/products/sofas/cat-midgray-woven-fabric-3seater-sofa/midgray_woven_fabric_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -18129,9 +18069,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Midgray Woven Fabric Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-midgray-woven-fabric-sofa/midgray_woven_fabric_sofa.png",
+    "img": "assets/products/sofas/cat-midgray-woven-fabric-sofa/midgray_woven_fabric_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-midgray-woven-fabric-sofa/midgray_woven_fabric_sofa.png"
+      "assets/products/sofas/cat-midgray-woven-fabric-sofa/midgray_woven_fabric_sofa.webp"
     ],
     "colors": []
   },
@@ -18145,9 +18085,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Grey Leather Sofa With Blue Pillows combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-modern-grey-leather-sofa-with-blue-pillows/Modern Grey Leather Sofa with Blue Pillows.jpg",
+    "img": "assets/products/sofas/cat-modern-grey-leather-sofa-with-blue-pillows/Modern Grey Leather Sofa with Blue Pillows.webp",
     "images": [
-      "assets/products/sofas/cat-modern-grey-leather-sofa-with-blue-pillows/Modern Grey Leather Sofa with Blue Pillows.jpg"
+      "assets/products/sofas/cat-modern-grey-leather-sofa-with-blue-pillows/Modern Grey Leather Sofa with Blue Pillows.webp"
     ],
     "colors": []
   },
@@ -18161,9 +18101,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern White Fabric Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-modern-white-fabric-sofa/Modern White Fabric Sofa - Front View.jpg",
+    "img": "assets/products/sofas/cat-modern-white-fabric-sofa/Modern White Fabric Sofa - Front View.webp",
     "images": [
-      "assets/products/sofas/cat-modern-white-fabric-sofa/Modern White Fabric Sofa - Front View.jpg"
+      "assets/products/sofas/cat-modern-white-fabric-sofa/Modern White Fabric Sofa - Front View.webp"
     ],
     "colors": []
   },
@@ -18177,9 +18117,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modular Mauve Sofa Suite With Screen Panels combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-modular-mauve-sofa-suite-with-screen-panels/Modular Mauve Sofa Suite with Screen Panels.jpg",
+    "img": "assets/products/sofas/cat-modular-mauve-sofa-suite-with-screen-panels/Modular Mauve Sofa Suite with Screen Panels.webp",
     "images": [
-      "assets/products/sofas/cat-modular-mauve-sofa-suite-with-screen-panels/Modular Mauve Sofa Suite with Screen Panels.jpg"
+      "assets/products/sofas/cat-modular-mauve-sofa-suite-with-screen-panels/Modular Mauve Sofa Suite with Screen Panels.webp"
     ],
     "colors": []
   },
@@ -18193,9 +18133,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Navy Blue Leather Lounge Suite combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-navy-blue-leather-lounge-suite/navy_blue_leather_lounge_suite.png",
+    "img": "assets/products/sofas/cat-navy-blue-leather-lounge-suite/navy_blue_leather_lounge_suite.webp",
     "images": [
-      "assets/products/sofas/cat-navy-blue-leather-lounge-suite/navy_blue_leather_lounge_suite.png"
+      "assets/products/sofas/cat-navy-blue-leather-lounge-suite/navy_blue_leather_lounge_suite.webp"
     ],
     "colors": []
   },
@@ -18209,9 +18149,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oatmeal Gray Twotone Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-oatmeal-gray-twotone-sofa/oatmeal_gray_twotone_sofa.png",
+    "img": "assets/products/sofas/cat-oatmeal-gray-twotone-sofa/oatmeal_gray_twotone_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-oatmeal-gray-twotone-sofa/oatmeal_gray_twotone_sofa.png"
+      "assets/products/sofas/cat-oatmeal-gray-twotone-sofa/oatmeal_gray_twotone_sofa.webp"
     ],
     "colors": []
   },
@@ -18225,9 +18165,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oatmeal Linen 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-oatmeal-linen-3seater-sofa/oatmeal_linen_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-oatmeal-linen-3seater-sofa/oatmeal_linen_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-oatmeal-linen-3seater-sofa/oatmeal_linen_3seater_sofa.png"
+      "assets/products/sofas/cat-oatmeal-linen-3seater-sofa/oatmeal_linen_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -18241,9 +18181,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oatmeal Textured Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-oatmeal-textured-loveseat/oatmeal_textured_loveseat.png",
+    "img": "assets/products/sofas/cat-oatmeal-textured-loveseat/oatmeal_textured_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-oatmeal-textured-loveseat/oatmeal_textured_loveseat.png"
+      "assets/products/sofas/cat-oatmeal-textured-loveseat/oatmeal_textured_loveseat.webp"
     ],
     "colors": []
   },
@@ -18257,9 +18197,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Ocean Blue Velvet Modern Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-ocean-blue-velvet-modern-sofa/ocean_blue_velvet_modern_sofa.png",
+    "img": "assets/products/sofas/cat-ocean-blue-velvet-modern-sofa/ocean_blue_velvet_modern_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-ocean-blue-velvet-modern-sofa/ocean_blue_velvet_modern_sofa.png"
+      "assets/products/sofas/cat-ocean-blue-velvet-modern-sofa/ocean_blue_velvet_modern_sofa.webp"
     ],
     "colors": []
   },
@@ -18273,9 +18213,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Offwhite Plush 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-offwhite-plush-3seater-sofa/offwhite_plush_3seater_sofa.png",
+    "img": "assets/products/sofas/cat-offwhite-plush-3seater-sofa/offwhite_plush_3seater_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-offwhite-plush-3seater-sofa/offwhite_plush_3seater_sofa.png"
+      "assets/products/sofas/cat-offwhite-plush-3seater-sofa/offwhite_plush_3seater_sofa.webp"
     ],
     "colors": []
   },
@@ -18289,9 +18229,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Offwhite Plush Deep Modular Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-offwhite-plush-deep-modular-sofa/offwhite_plush_deep_modular_sofa.png",
+    "img": "assets/products/sofas/cat-offwhite-plush-deep-modular-sofa/offwhite_plush_deep_modular_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-offwhite-plush-deep-modular-sofa/offwhite_plush_deep_modular_sofa.png"
+      "assets/products/sofas/cat-offwhite-plush-deep-modular-sofa/offwhite_plush_deep_modular_sofa.webp"
     ],
     "colors": []
   },
@@ -18305,9 +18245,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Olive Green Fabric 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-olive-green-fabric-3-seater-sofa/Olive Green Fabric 3-Seater Sofa.jpg",
+    "img": "assets/products/sofas/cat-olive-green-fabric-3-seater-sofa/Olive Green Fabric 3-Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-olive-green-fabric-3-seater-sofa/Olive Green Fabric 3-Seater Sofa.jpg"
+      "assets/products/sofas/cat-olive-green-fabric-3-seater-sofa/Olive Green Fabric 3-Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -18321,9 +18261,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Olive Green Modern Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-olive-green-modern-sofa/olive_green_modern_sofa.png",
+    "img": "assets/products/sofas/cat-olive-green-modern-sofa/olive_green_modern_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-olive-green-modern-sofa/olive_green_modern_sofa.png"
+      "assets/products/sofas/cat-olive-green-modern-sofa/olive_green_modern_sofa.webp"
     ],
     "colors": []
   },
@@ -18337,9 +18277,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Orange Velvet Square Arm Tub Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-orange-velvet-square-arm-tub-sofa/Orange Velvet Square Arm Tub Sofa.jpg",
+    "img": "assets/products/sofas/cat-orange-velvet-square-arm-tub-sofa/Orange Velvet Square Arm Tub Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-orange-velvet-square-arm-tub-sofa/Orange Velvet Square Arm Tub Sofa.jpg"
+      "assets/products/sofas/cat-orange-velvet-square-arm-tub-sofa/Orange Velvet Square Arm Tub Sofa.webp"
     ],
     "colors": []
   },
@@ -18353,9 +18293,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Organic Pebble Modular Lounge Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-organic-pebble-modular-lounge-sofa/organic_pebble_modular_lounge_sofa.png",
+    "img": "assets/products/sofas/cat-organic-pebble-modular-lounge-sofa/organic_pebble_modular_lounge_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-organic-pebble-modular-lounge-sofa/organic_pebble_modular_lounge_sofa.png"
+      "assets/products/sofas/cat-organic-pebble-modular-lounge-sofa/organic_pebble_modular_lounge_sofa.webp"
     ],
     "colors": []
   },
@@ -18369,9 +18309,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sage Green Fabric Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-sage-green-fabric-loveseat/sage_green_fabric_loveseat.png",
+    "img": "assets/products/sofas/cat-sage-green-fabric-loveseat/sage_green_fabric_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-sage-green-fabric-loveseat/sage_green_fabric_loveseat.png"
+      "assets/products/sofas/cat-sage-green-fabric-loveseat/sage_green_fabric_loveseat.webp"
     ],
     "colors": []
   },
@@ -18385,9 +18325,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sage Olive Fabric Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-sage-olive-fabric-loveseat/sage_olive_fabric_loveseat.png",
+    "img": "assets/products/sofas/cat-sage-olive-fabric-loveseat/sage_olive_fabric_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-sage-olive-fabric-loveseat/sage_olive_fabric_loveseat.png"
+      "assets/products/sofas/cat-sage-olive-fabric-loveseat/sage_olive_fabric_loveseat.webp"
     ],
     "colors": []
   },
@@ -18401,9 +18341,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandi Twotone Beige Brown Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-scandi-twotone-beige-brown-sofa/scandi_twotone_beige_brown_sofa.png",
+    "img": "assets/products/sofas/cat-scandi-twotone-beige-brown-sofa/scandi_twotone_beige_brown_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-scandi-twotone-beige-brown-sofa/scandi_twotone_beige_brown_sofa.png"
+      "assets/products/sofas/cat-scandi-twotone-beige-brown-sofa/scandi_twotone_beige_brown_sofa.webp"
     ],
     "colors": []
   },
@@ -18417,9 +18357,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Sculptural Wood Frame Sofa With Tan Upholstery combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-sculptural-wood-frame-sofa-with-tan-upholstery/Sculptural Wood Frame Sofa with Tan Upholstery.jpg",
+    "img": "assets/products/wooden-couches/cat-sculptural-wood-frame-sofa-with-tan-upholstery/Sculptural Wood Frame Sofa with Tan Upholstery.webp",
     "images": [
-      "assets/products/wooden-couches/cat-sculptural-wood-frame-sofa-with-tan-upholstery/Sculptural Wood Frame Sofa with Tan Upholstery.jpg"
+      "assets/products/wooden-couches/cat-sculptural-wood-frame-sofa-with-tan-upholstery/Sculptural Wood Frame Sofa with Tan Upholstery.webp"
     ],
     "colors": []
   },
@@ -18433,9 +18373,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Soft Gray Velvet Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-soft-gray-velvet-sofa/soft_gray_velvet_sofa.png",
+    "img": "assets/products/sofas/cat-soft-gray-velvet-sofa/soft_gray_velvet_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-soft-gray-velvet-sofa/soft_gray_velvet_sofa.png"
+      "assets/products/sofas/cat-soft-gray-velvet-sofa/soft_gray_velvet_sofa.webp"
     ],
     "colors": []
   },
@@ -18449,9 +18389,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Soft Oatmeal Stripedpillow Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-soft-oatmeal-stripedpillow-sofa/soft_oatmeal_stripedpillow_sofa.png",
+    "img": "assets/products/sofas/cat-soft-oatmeal-stripedpillow-sofa/soft_oatmeal_stripedpillow_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-soft-oatmeal-stripedpillow-sofa/soft_oatmeal_stripedpillow_sofa.png"
+      "assets/products/sofas/cat-soft-oatmeal-stripedpillow-sofa/soft_oatmeal_stripedpillow_sofa.webp"
     ],
     "colors": []
   },
@@ -18465,9 +18405,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Brown Fabric 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tan-brown-fabric-3-seater-sofa/Tan Brown Fabric 3-Seater Sofa.jpg",
+    "img": "assets/products/sofas/cat-tan-brown-fabric-3-seater-sofa/Tan Brown Fabric 3-Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-tan-brown-fabric-3-seater-sofa/Tan Brown Fabric 3-Seater Sofa.jpg"
+      "assets/products/sofas/cat-tan-brown-fabric-3-seater-sofa/Tan Brown Fabric 3-Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -18481,9 +18421,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Brown Leather 2 Seater Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tan-brown-leather-2-seater-sofa-b/Tan Brown Leather 2-Seater Sofa B.jpg",
+    "img": "assets/products/sofas/cat-tan-brown-leather-2-seater-sofa-b/Tan Brown Leather 2-Seater Sofa B.webp",
     "images": [
-      "assets/products/sofas/cat-tan-brown-leather-2-seater-sofa-b/Tan Brown Leather 2-Seater Sofa B.jpg"
+      "assets/products/sofas/cat-tan-brown-leather-2-seater-sofa-b/Tan Brown Leather 2-Seater Sofa B.webp"
     ],
     "colors": []
   },
@@ -18497,9 +18437,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Brown Leather 3 Seater Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tan-brown-leather-3-seater-sofa-b/Tan Brown Leather 3-Seater Sofa B.jpg",
+    "img": "assets/products/sofas/cat-tan-brown-leather-3-seater-sofa-b/Tan Brown Leather 3-Seater Sofa B.webp",
     "images": [
-      "assets/products/sofas/cat-tan-brown-leather-3-seater-sofa-b/Tan Brown Leather 3-Seater Sofa B.jpg"
+      "assets/products/sofas/cat-tan-brown-leather-3-seater-sofa-b/Tan Brown Leather 3-Seater Sofa B.webp"
     ],
     "colors": []
   },
@@ -18513,9 +18453,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tan Leather 3 Seater Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tan-leather-3-seater-sofa/Tan Leather 3-Seater Sofa.jpg",
+    "img": "assets/products/sofas/cat-tan-leather-3-seater-sofa/Tan Leather 3-Seater Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-tan-leather-3-seater-sofa/Tan Leather 3-Seater Sofa.jpg"
+      "assets/products/sofas/cat-tan-leather-3-seater-sofa/Tan Leather 3-Seater Sofa.webp"
     ],
     "colors": []
   },
@@ -18529,9 +18469,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Corduroy Modern Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-taupe-corduroy-modern-loveseat/taupe_corduroy_modern_loveseat.png",
+    "img": "assets/products/sofas/cat-taupe-corduroy-modern-loveseat/taupe_corduroy_modern_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-taupe-corduroy-modern-loveseat/taupe_corduroy_modern_loveseat.png"
+      "assets/products/sofas/cat-taupe-corduroy-modern-loveseat/taupe_corduroy_modern_loveseat.webp"
     ],
     "colors": []
   },
@@ -18545,9 +18485,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Tweed Curved Barrel Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-taupe-tweed-curved-barrel-sofa/taupe_tweed_curved_barrel_sofa.png",
+    "img": "assets/products/sofas/cat-taupe-tweed-curved-barrel-sofa/taupe_tweed_curved_barrel_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-taupe-tweed-curved-barrel-sofa/taupe_tweed_curved_barrel_sofa.png"
+      "assets/products/sofas/cat-taupe-tweed-curved-barrel-sofa/taupe_tweed_curved_barrel_sofa.webp"
     ],
     "colors": []
   },
@@ -18561,9 +18501,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Teak Frame Loveseat With Green Leather Cushions combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wooden-couches/cat-teak-frame-loveseat-with-green-leather-cushions/Teak Frame Loveseat with Green Leather Cushions.jpg",
+    "img": "assets/products/wooden-couches/cat-teak-frame-loveseat-with-green-leather-cushions/Teak Frame Loveseat with Green Leather Cushions.webp",
     "images": [
-      "assets/products/wooden-couches/cat-teak-frame-loveseat-with-green-leather-cushions/Teak Frame Loveseat with Green Leather Cushions.jpg"
+      "assets/products/wooden-couches/cat-teak-frame-loveseat-with-green-leather-cushions/Teak Frame Loveseat with Green Leather Cushions.webp"
     ],
     "colors": []
   },
@@ -18577,9 +18517,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Traditional Cream Nailhead Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-traditional-cream-nailhead-sofa/traditional_cream_nailhead_sofa.png",
+    "img": "assets/products/sofas/cat-traditional-cream-nailhead-sofa/traditional_cream_nailhead_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-traditional-cream-nailhead-sofa/traditional_cream_nailhead_sofa.png"
+      "assets/products/sofas/cat-traditional-cream-nailhead-sofa/traditional_cream_nailhead_sofa.webp"
     ],
     "colors": []
   },
@@ -18593,9 +18533,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tufted Beige Fabric Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tufted-beige-fabric-sofa/Tufted Beige Fabric Sofa.jpg",
+    "img": "assets/products/sofas/cat-tufted-beige-fabric-sofa/Tufted Beige Fabric Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-tufted-beige-fabric-sofa/Tufted Beige Fabric Sofa.jpg"
+      "assets/products/sofas/cat-tufted-beige-fabric-sofa/Tufted Beige Fabric Sofa.webp"
     ],
     "colors": []
   },
@@ -18609,9 +18549,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Tufted Grey Velvet Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-tufted-grey-velvet-sofa/Tufted Grey Velvet Sofa.jpg",
+    "img": "assets/products/sofas/cat-tufted-grey-velvet-sofa/Tufted Grey Velvet Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-tufted-grey-velvet-sofa/Tufted Grey Velvet Sofa.jpg"
+      "assets/products/sofas/cat-tufted-grey-velvet-sofa/Tufted Grey Velvet Sofa.webp"
     ],
     "colors": []
   },
@@ -18625,9 +18565,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Twotone Cream And Brown Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-twotone-cream-and-brown-sofa/twotone_cream_and_brown_sofa.png",
+    "img": "assets/products/sofas/cat-twotone-cream-and-brown-sofa/twotone_cream_and_brown_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-twotone-cream-and-brown-sofa/twotone_cream_and_brown_sofa.png"
+      "assets/products/sofas/cat-twotone-cream-and-brown-sofa/twotone_cream_and_brown_sofa.webp"
     ],
     "colors": []
   },
@@ -18641,9 +18581,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Warm Cream Textured Cushion Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-warm-cream-textured-cushion-sofa/warm_cream_textured_cushion_sofa.png",
+    "img": "assets/products/sofas/cat-warm-cream-textured-cushion-sofa/warm_cream_textured_cushion_sofa.webp",
     "images": [
-      "assets/products/sofas/cat-warm-cream-textured-cushion-sofa/warm_cream_textured_cushion_sofa.png"
+      "assets/products/sofas/cat-warm-cream-textured-cushion-sofa/warm_cream_textured_cushion_sofa.webp"
     ],
     "colors": []
   },
@@ -18657,9 +18597,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Warm Gray Plush Couch combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-warm-gray-plush-couch/warm_gray_plush_couch.png",
+    "img": "assets/products/sofas/cat-warm-gray-plush-couch/warm_gray_plush_couch.webp",
     "images": [
-      "assets/products/sofas/cat-warm-gray-plush-couch/warm_gray_plush_couch.png"
+      "assets/products/sofas/cat-warm-gray-plush-couch/warm_gray_plush_couch.webp"
     ],
     "colors": []
   },
@@ -18673,9 +18613,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The White Fabric 3 Seater Sofa B combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-white-fabric-3-seater-sofa-b/White Fabric 3-Seater Sofa B.jpg",
+    "img": "assets/products/sofas/cat-white-fabric-3-seater-sofa-b/White Fabric 3-Seater Sofa B.webp",
     "images": [
-      "assets/products/sofas/cat-white-fabric-3-seater-sofa-b/White Fabric 3-Seater Sofa B.jpg"
+      "assets/products/sofas/cat-white-fabric-3-seater-sofa-b/White Fabric 3-Seater Sofa B.webp"
     ],
     "colors": []
   },
@@ -18689,9 +18629,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Mahogany Locking Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-mahogany-3drawer-locking-pedestal/mahogany_3drawer_locking_pedestal.png",
+    "img": "assets/products/wardrobes-storage/cat-mahogany-3drawer-locking-pedestal/mahogany_3drawer_locking_pedestal.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-mahogany-3drawer-locking-pedestal/mahogany_3drawer_locking_pedestal.png"
+      "assets/products/wardrobes-storage/cat-mahogany-3drawer-locking-pedestal/mahogany_3drawer_locking_pedestal.webp"
     ],
     "colors": []
   },
@@ -18705,9 +18645,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Locking Pedestal combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-taupe-3drawer-locking-pedestal/taupe_3drawer_locking_pedestal.png",
+    "img": "assets/products/wardrobes-storage/cat-taupe-3drawer-locking-pedestal/taupe_3drawer_locking_pedestal.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-taupe-3drawer-locking-pedestal/taupe_3drawer_locking_pedestal.png"
+      "assets/products/wardrobes-storage/cat-taupe-3drawer-locking-pedestal/taupe_3drawer_locking_pedestal.webp"
     ],
     "colors": []
   },
@@ -18721,9 +18661,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Terracotta Compact Mobile Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-terracotta-compact-mobile-cabinet/terracotta_compact_mobile_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-terracotta-compact-mobile-cabinet/terracotta_compact_mobile_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-terracotta-compact-mobile-cabinet/terracotta_compact_mobile_cabinet.png"
+      "assets/products/wardrobes-storage/cat-terracotta-compact-mobile-cabinet/terracotta_compact_mobile_cabinet.webp"
     ],
     "colors": []
   },
@@ -18737,9 +18677,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beech Wood Pedestal Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-beech-wood-3drawer-pedestal-cabinet/beech_wood_3drawer_pedestal_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-beech-wood-3drawer-pedestal-cabinet/beech_wood_3drawer_pedestal_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-beech-wood-3drawer-pedestal-cabinet/beech_wood_3drawer_pedestal_cabinet.png"
+      "assets/products/wardrobes-storage/cat-beech-wood-3drawer-pedestal-cabinet/beech_wood_3drawer_pedestal_cabinet.webp"
     ],
     "colors": []
   },
@@ -18753,9 +18693,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Metallic Locking File Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-beige-metallic-locking-file-cabinet/beige_metallic_locking_file_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-beige-metallic-locking-file-cabinet/beige_metallic_locking_file_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-beige-metallic-locking-file-cabinet/beige_metallic_locking_file_cabinet.png"
+      "assets/products/wardrobes-storage/cat-beige-metallic-locking-file-cabinet/beige_metallic_locking_file_cabinet.webp"
     ],
     "colors": []
   },
@@ -18769,9 +18709,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Beige Mobile Pedestal File Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-beige-mobile-pedestal-file-cabinet/beige_mobile_pedestal_file_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-beige-mobile-pedestal-file-cabinet/beige_mobile_pedestal_file_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-beige-mobile-pedestal-file-cabinet/beige_mobile_pedestal_file_cabinet.png"
+      "assets/products/wardrobes-storage/cat-beige-mobile-pedestal-file-cabinet/beige_mobile_pedestal_file_cabinet.webp"
     ],
     "colors": []
   },
@@ -18785,9 +18725,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Blue Tufted Chesterfield Leather Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-blue-tufted-chesterfield-leather-sofa/Blue Tufted Chesterfield Leather Sofa.jpg",
+    "img": "assets/products/sofas/cat-blue-tufted-chesterfield-leather-sofa/Blue Tufted Chesterfield Leather Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-blue-tufted-chesterfield-leather-sofa/Blue Tufted Chesterfield Leather Sofa.jpg"
+      "assets/products/sofas/cat-blue-tufted-chesterfield-leather-sofa/Blue Tufted Chesterfield Leather Sofa.webp"
     ],
     "colors": []
   },
@@ -18801,9 +18741,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Brown Tufted Chesterfield Leather Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-brown-tufted-chesterfield-leather-sofa/Brown Tufted Chesterfield Leather Sofa.jpg",
+    "img": "assets/products/sofas/cat-brown-tufted-chesterfield-leather-sofa/Brown Tufted Chesterfield Leather Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-brown-tufted-chesterfield-leather-sofa/Brown Tufted Chesterfield Leather Sofa.jpg"
+      "assets/products/sofas/cat-brown-tufted-chesterfield-leather-sofa/Brown Tufted Chesterfield Leather Sofa.webp"
     ],
     "colors": []
   },
@@ -18817,9 +18757,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Grey Tufted Leather Chesterfield Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-charcoal-grey-tufted-leather-chesterfield-sofa/Charcoal Grey Tufted Leather Chesterfield Sofa.jpg",
+    "img": "assets/products/sofas/cat-charcoal-grey-tufted-leather-chesterfield-sofa/Charcoal Grey Tufted Leather Chesterfield Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-charcoal-grey-tufted-leather-chesterfield-sofa/Charcoal Grey Tufted Leather Chesterfield Sofa.jpg"
+      "assets/products/sofas/cat-charcoal-grey-tufted-leather-chesterfield-sofa/Charcoal Grey Tufted Leather Chesterfield Sofa.webp"
     ],
     "colors": []
   },
@@ -18833,9 +18773,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Mobile Pedestal Cabinet Comboset combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-charcoal-mobile-pedestal-cabinet-comboset/charcoal_mobile_pedestal_cabinet_comboset.png",
+    "img": "assets/products/wardrobes-storage/cat-charcoal-mobile-pedestal-cabinet-comboset/charcoal_mobile_pedestal_cabinet_comboset.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-charcoal-mobile-pedestal-cabinet-comboset/charcoal_mobile_pedestal_cabinet_comboset.png"
+      "assets/products/wardrobes-storage/cat-charcoal-mobile-pedestal-cabinet-comboset/charcoal_mobile_pedestal_cabinet_comboset.webp"
     ],
     "colors": []
   },
@@ -18849,9 +18789,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Charcoal Tall Bookshelf Tower combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-charcoal-tall-bookshelf-tower/charcoal_tall_bookshelf_tower.png",
+    "img": "assets/products/wardrobes-storage/cat-charcoal-tall-bookshelf-tower/charcoal_tall_bookshelf_tower.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-charcoal-tall-bookshelf-tower/charcoal_tall_bookshelf_tower.png"
+      "assets/products/wardrobes-storage/cat-charcoal-tall-bookshelf-tower/charcoal_tall_bookshelf_tower.webp"
     ],
     "colors": []
   },
@@ -18865,9 +18805,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Cream Tufted Chesterfield Loveseat combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-cream-tufted-chesterfield-loveseat/cream_tufted_chesterfield_loveseat.png",
+    "img": "assets/products/sofas/cat-cream-tufted-chesterfield-loveseat/cream_tufted_chesterfield_loveseat.webp",
     "images": [
-      "assets/products/sofas/cat-cream-tufted-chesterfield-loveseat/cream_tufted_chesterfield_loveseat.png"
+      "assets/products/sofas/cat-cream-tufted-chesterfield-loveseat/cream_tufted_chesterfield_loveseat.webp"
     ],
     "colors": []
   },
@@ -18881,9 +18821,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Brown Tufted Leather Chesterfield Sofa combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sofas/cat-dark-brown-tufted-leather-chesterfield-sofa/Dark Brown Tufted Leather Chesterfield Sofa.jpg",
+    "img": "assets/products/sofas/cat-dark-brown-tufted-leather-chesterfield-sofa/Dark Brown Tufted Leather Chesterfield Sofa.webp",
     "images": [
-      "assets/products/sofas/cat-dark-brown-tufted-leather-chesterfield-sofa/Dark Brown Tufted Leather Chesterfield Sofa.jpg"
+      "assets/products/sofas/cat-dark-brown-tufted-leather-chesterfield-sofa/Dark Brown Tufted Leather Chesterfield Sofa.webp"
     ],
     "colors": []
   },
@@ -18897,9 +18837,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Oak Rustic Tall Wardrobe combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-dark-oak-rustic-tall-wardrobe/dark_oak_rustic_tall_wardrobe.png",
+    "img": "assets/products/wardrobes-storage/cat-dark-oak-rustic-tall-wardrobe/dark_oak_rustic_tall_wardrobe.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-dark-oak-rustic-tall-wardrobe/dark_oak_rustic_tall_wardrobe.png"
+      "assets/products/wardrobes-storage/cat-dark-oak-rustic-tall-wardrobe/dark_oak_rustic_tall_wardrobe.webp"
     ],
     "colors": []
   },
@@ -18913,9 +18853,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Mobile File Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-dark-walnut-mobile-3drawer-file-cabinet/dark_walnut_mobile_3drawer_file_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-dark-walnut-mobile-3drawer-file-cabinet/dark_walnut_mobile_3drawer_file_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-dark-walnut-mobile-3drawer-file-cabinet/dark_walnut_mobile_3drawer_file_cabinet.png"
+      "assets/products/wardrobes-storage/cat-dark-walnut-mobile-3drawer-file-cabinet/dark_walnut_mobile_3drawer_file_cabinet.webp"
     ],
     "colors": []
   },
@@ -18929,12 +18869,12 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Edge Mobile Pedestal Filing Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Angle Perspective.png",
+    "img": "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Angle Perspective.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Corner Detail.png",
-      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Front View.png",
-      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Side View.png"
+      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Angle Perspective.webp",
+      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Corner Detail.webp",
+      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Front View.webp",
+      "assets/products/wardrobes-storage/cat-edge-mobile-pedestal-filing-cabinet/Edge Mobile Filing Cabinet - Side View.webp"
     ],
     "colors": []
   },
@@ -18948,9 +18888,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Fluted Glass Illuminated Wardrobe combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-fluted-glass-illuminated-wardrobe/fluted_glass_illuminated_wardrobe.png",
+    "img": "assets/products/wardrobes-storage/cat-fluted-glass-illuminated-wardrobe/fluted_glass_illuminated_wardrobe.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-fluted-glass-illuminated-wardrobe/fluted_glass_illuminated_wardrobe.png"
+      "assets/products/wardrobes-storage/cat-fluted-glass-illuminated-wardrobe/fluted_glass_illuminated_wardrobe.webp"
     ],
     "colors": []
   },
@@ -18964,9 +18904,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Industrial Gray Low Storage Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-industrial-gray-low-storage-cabinet/industrial_gray_low_storage_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-industrial-gray-low-storage-cabinet/industrial_gray_low_storage_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-industrial-gray-low-storage-cabinet/industrial_gray_low_storage_cabinet.png"
+      "assets/products/wardrobes-storage/cat-industrial-gray-low-storage-cabinet/industrial_gray_low_storage_cabinet.webp"
     ],
     "colors": []
   },
@@ -18980,9 +18920,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Light Oak Vanity Tower With Mirror combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-light-oak-vanity-tower-with-mirror/light_oak_vanity_tower_with_mirror.png",
+    "img": "assets/products/wardrobes-storage/cat-light-oak-vanity-tower-with-mirror/light_oak_vanity_tower_with_mirror.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-light-oak-vanity-tower-with-mirror/light_oak_vanity_tower_with_mirror.png"
+      "assets/products/wardrobes-storage/cat-light-oak-vanity-tower-with-mirror/light_oak_vanity_tower_with_mirror.webp"
     ],
     "colors": []
   },
@@ -18996,13 +18936,13 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Max Fluted Panel Wardrobe Vanity Unit combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Angle Perspective.png",
+    "img": "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Angle Perspective.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Angle Perspective.png",
-      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Corner Detail.png",
-      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Front View.png",
-      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Side View.png",
-      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Studio Showcase.png"
+      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Angle Perspective.webp",
+      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Corner Detail.webp",
+      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Front View.webp",
+      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Side View.webp",
+      "assets/products/wardrobes-storage/cat-max-fluted-panel-wardrobe-vanity-unit/Max Fluted Wardrobe - Studio Showcase.webp"
     ],
     "colors": []
   },
@@ -19016,9 +18956,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Modern Sliding Mirror Wardrobe combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-modern-sliding-mirror-wardrobe/modern_sliding_mirror_wardrobe.png",
+    "img": "assets/products/wardrobes-storage/cat-modern-sliding-mirror-wardrobe/modern_sliding_mirror_wardrobe.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-modern-sliding-mirror-wardrobe/modern_sliding_mirror_wardrobe.png"
+      "assets/products/wardrobes-storage/cat-modern-sliding-mirror-wardrobe/modern_sliding_mirror_wardrobe.webp"
     ],
     "colors": []
   },
@@ -19032,9 +18972,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Nordic Oak Nightstand combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-nordic-oak-3drawer-nightstand/nordic_oak_3drawer_nightstand.png",
+    "img": "assets/products/wardrobes-storage/cat-nordic-oak-3drawer-nightstand/nordic_oak_3drawer_nightstand.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-nordic-oak-3drawer-nightstand/nordic_oak_3drawer_nightstand.png"
+      "assets/products/wardrobes-storage/cat-nordic-oak-3drawer-nightstand/nordic_oak_3drawer_nightstand.webp"
     ],
     "colors": []
   },
@@ -19048,9 +18988,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Locking Nightstand combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-oak-3drawer-locking-nightstand/oak_3drawer_locking_nightstand.png",
+    "img": "assets/products/wardrobes-storage/cat-oak-3drawer-locking-nightstand/oak_3drawer_locking_nightstand.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-oak-3drawer-locking-nightstand/oak_3drawer_locking_nightstand.png"
+      "assets/products/wardrobes-storage/cat-oak-3drawer-locking-nightstand/oak_3drawer_locking_nightstand.webp"
     ],
     "colors": []
   },
@@ -19064,9 +19004,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Entryway Wardrobe And Shoe Bench combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-oak-entryway-wardrobe-and-shoe-bench/oak_entryway_wardrobe_and_shoe_bench.png",
+    "img": "assets/products/wardrobes-storage/cat-oak-entryway-wardrobe-and-shoe-bench/oak_entryway_wardrobe_and_shoe_bench.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-oak-entryway-wardrobe-and-shoe-bench/oak_entryway_wardrobe_and_shoe_bench.png"
+      "assets/products/wardrobes-storage/cat-oak-entryway-wardrobe-and-shoe-bench/oak_entryway_wardrobe_and_shoe_bench.webp"
     ],
     "colors": []
   },
@@ -19080,9 +19020,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Oak Fulllength Mirror Dressing Tower combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-oak-fulllength-mirror-dressing-tower/oak_fulllength_mirror_dressing_tower.png",
+    "img": "assets/products/wardrobes-storage/cat-oak-fulllength-mirror-dressing-tower/oak_fulllength_mirror_dressing_tower.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-oak-fulllength-mirror-dressing-tower/oak_fulllength_mirror_dressing_tower.png"
+      "assets/products/wardrobes-storage/cat-oak-fulllength-mirror-dressing-tower/oak_fulllength_mirror_dressing_tower.webp"
     ],
     "colors": []
   },
@@ -19096,9 +19036,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Offwhite Modern Wardrobe combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-offwhite-4door-modern-wardrobe/offwhite_4door_modern_wardrobe.png",
+    "img": "assets/products/wardrobes-storage/cat-offwhite-4door-modern-wardrobe/offwhite_4door_modern_wardrobe.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-offwhite-4door-modern-wardrobe/offwhite_4door_modern_wardrobe.png"
+      "assets/products/wardrobes-storage/cat-offwhite-4door-modern-wardrobe/offwhite_4door_modern_wardrobe.webp"
     ],
     "colors": []
   },
@@ -19112,9 +19052,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Offwhite Scandi Wardrobe combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.png",
+    "img": "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.png"
+      "assets/products/wardrobes-storage/cat-offwhite-scandi-3door-wardrobe/offwhite_scandi_3door_wardrobe.webp"
     ],
     "colors": []
   },
@@ -19128,9 +19068,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Scandinavian Wood Desk and Credenza Set combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/office-workstations/scandinavian-wood-desk-and-credenza-set/scandinavian-wood-desk-and-credenza-set.jpg",
+    "img": "assets/products/office-workstations/scandinavian-wood-desk-and-credenza-set/scandinavian-wood-desk-and-credenza-set.webp",
     "images": [
-      "assets/products/office-workstations/scandinavian-wood-desk-and-credenza-set/scandinavian-wood-desk-and-credenza-set.jpg"
+      "assets/products/office-workstations/scandinavian-wood-desk-and-credenza-set/scandinavian-wood-desk-and-credenza-set.webp"
     ],
     "colors": []
   },
@@ -19144,9 +19084,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Gray Low File Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-slate-gray-low-file-cabinet/slate_gray_low_file_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-slate-gray-low-file-cabinet/slate_gray_low_file_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-slate-gray-low-file-cabinet/slate_gray_low_file_cabinet.png"
+      "assets/products/wardrobes-storage/cat-slate-gray-low-file-cabinet/slate_gray_low_file_cabinet.webp"
     ],
     "colors": []
   },
@@ -19160,9 +19100,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Slate Gray Mobile File Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-slate-gray-mobile-file-cabinet/slate_gray_mobile_file_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-slate-gray-mobile-file-cabinet/slate_gray_mobile_file_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-slate-gray-mobile-file-cabinet/slate_gray_mobile_file_cabinet.png"
+      "assets/products/wardrobes-storage/cat-slate-gray-mobile-file-cabinet/slate_gray_mobile_file_cabinet.webp"
     ],
     "colors": []
   },
@@ -19176,9 +19116,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Taupe Locking File Cabinet combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-taupe-locking-2drawer-file-cabinet/taupe_locking_2drawer_file_cabinet.png",
+    "img": "assets/products/wardrobes-storage/cat-taupe-locking-2drawer-file-cabinet/taupe_locking_2drawer_file_cabinet.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-taupe-locking-2drawer-file-cabinet/taupe_locking_2drawer_file_cabinet.png"
+      "assets/products/wardrobes-storage/cat-taupe-locking-2drawer-file-cabinet/taupe_locking_2drawer_file_cabinet.webp"
     ],
     "colors": []
   },
@@ -19192,9 +19132,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Tall Wardrobe combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-walnut-2door-tall-wardrobe/walnut_2door_tall_wardrobe.png",
+    "img": "assets/products/wardrobes-storage/cat-walnut-2door-tall-wardrobe/walnut_2door_tall_wardrobe.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-walnut-2door-tall-wardrobe/walnut_2door_tall_wardrobe.png"
+      "assets/products/wardrobes-storage/cat-walnut-2door-tall-wardrobe/walnut_2door_tall_wardrobe.webp"
     ],
     "colors": []
   },
@@ -19208,9 +19148,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Walnut Fluted Tambour Sideboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/wardrobes-storage/cat-walnut-fluted-tambour-sideboard/walnut_fluted_tambour_sideboard.png",
+    "img": "assets/products/wardrobes-storage/cat-walnut-fluted-tambour-sideboard/walnut_fluted_tambour_sideboard.webp",
     "images": [
-      "assets/products/wardrobes-storage/cat-walnut-fluted-tambour-sideboard/walnut_fluted_tambour_sideboard.png"
+      "assets/products/wardrobes-storage/cat-walnut-fluted-tambour-sideboard/walnut_fluted_tambour_sideboard.webp"
     ],
     "colors": []
   },
@@ -19224,12 +19164,12 @@ const PRODUCTS = [
     "rating": 4.1,
     "badge": "",
     "description": "EDGE is a modern mobile storage unit crafted from durable particle board, designed to suit contemporary workspaces. It features three spacious drawers for efficient organization, while smooth-rolling castor wheels ensure easy mobility and flexibility wherever needed.",
-    "img": "assets/products/wardrobes-storage/edge/Edge_01.png",
+    "img": "assets/products/wardrobes-storage/edge/Edge_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/edge/Edge_01.png",
-      "assets/products/wardrobes-storage/edge/Edge_02.png",
-      "assets/products/wardrobes-storage/edge/Edge_03.png",
-      "assets/products/wardrobes-storage/edge/Edge_04.png"
+      "assets/products/wardrobes-storage/edge/Edge_01.webp",
+      "assets/products/wardrobes-storage/edge/Edge_02.webp",
+      "assets/products/wardrobes-storage/edge/Edge_03.webp",
+      "assets/products/wardrobes-storage/edge/Edge_04.webp"
     ],
     "colors": []
   },
@@ -19243,10 +19183,10 @@ const PRODUCTS = [
     "rating": 4.4,
     "badge": "",
     "description": "ELIO is a contemporary storage unit designed for both display and concealed storage. It features a combination of doors and open shelving, elevated on angled legs, creating a clean and functional piece for modern workspaces. Door Storage with Open Shelving",
-    "img": "assets/products/wardrobes-storage/elio/Elio_01.png",
+    "img": "assets/products/wardrobes-storage/elio/Elio_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/elio/Elio_01.png",
-      "assets/products/wardrobes-storage/elio/Elio_02.png"
+      "assets/products/wardrobes-storage/elio/Elio_01.webp",
+      "assets/products/wardrobes-storage/elio/Elio_02.webp"
     ],
     "colors": []
   },
@@ -19260,12 +19200,12 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "FORGE is a compact mobile storage unit crafted from durable particle board, designed for modern workspaces. It features two spacious drawers for streamlined organization, while smooth castor wheels ensure effortless mobility and everyday convenience.",
-    "img": "assets/products/wardrobes-storage/forge/Forge_01.png",
+    "img": "assets/products/wardrobes-storage/forge/Forge_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/forge/Forge_01.png",
-      "assets/products/wardrobes-storage/forge/Forge_02.png",
-      "assets/products/wardrobes-storage/forge/Forge_03.png",
-      "assets/products/wardrobes-storage/forge/Forge_04.png"
+      "assets/products/wardrobes-storage/forge/Forge_01.webp",
+      "assets/products/wardrobes-storage/forge/Forge_02.webp",
+      "assets/products/wardrobes-storage/forge/Forge_03.webp",
+      "assets/products/wardrobes-storage/forge/Forge_04.webp"
     ],
     "colors": []
   },
@@ -19279,12 +19219,12 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "NEXO is a sleek under-table storage unit designed to maximize workspace efficiency. It features two drawers for organized storage while maintaining a clean and space-saving setup.",
-    "img": "assets/products/wardrobes-storage/nexo/Nexo_01.png",
+    "img": "assets/products/wardrobes-storage/nexo/Nexo_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/nexo/Nexo_01.png",
-      "assets/products/wardrobes-storage/nexo/Nexo_02.png",
-      "assets/products/wardrobes-storage/nexo/Nexo_03.png",
-      "assets/products/wardrobes-storage/nexo/Nexo_04.png"
+      "assets/products/wardrobes-storage/nexo/Nexo_01.webp",
+      "assets/products/wardrobes-storage/nexo/Nexo_02.webp",
+      "assets/products/wardrobes-storage/nexo/Nexo_03.webp",
+      "assets/products/wardrobes-storage/nexo/Nexo_04.webp"
     ],
     "colors": []
   },
@@ -19298,11 +19238,11 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "ORIA is a modern storage unit designed to combine functionality with a clean visual appeal. It features a three-door cabinet with a sleek horizontal accent and an integrated top planter, offering practical storage along with a subtle design element.",
-    "img": "assets/products/wardrobes-storage/oria/Oria_01.png",
+    "img": "assets/products/wardrobes-storage/oria/Oria_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/oria/Oria_01.png",
-      "assets/products/wardrobes-storage/oria/Oria_02.png",
-      "assets/products/wardrobes-storage/oria/Oria_03.png"
+      "assets/products/wardrobes-storage/oria/Oria_01.webp",
+      "assets/products/wardrobes-storage/oria/Oria_02.webp",
+      "assets/products/wardrobes-storage/oria/Oria_03.webp"
     ],
     "colors": []
   },
@@ -19316,10 +19256,10 @@ const PRODUCTS = [
     "rating": 4.6,
     "badge": "",
     "description": "ORIN is a modern storage cabinet designed for organized and structured spaces. It features a combination of concealed compartments and lower drawers, supported by slim angled legs that enhance its contemporary appearance. Door Storage with Drawer Unit Concealed and Open Storage Combination",
-    "img": "assets/products/wardrobes-storage/orin/Orin_01.png",
+    "img": "assets/products/wardrobes-storage/orin/Orin_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/orin/Orin_01.png",
-      "assets/products/wardrobes-storage/orin/Orin_02.png"
+      "assets/products/wardrobes-storage/orin/Orin_01.webp",
+      "assets/products/wardrobes-storage/orin/Orin_02.webp"
     ],
     "colors": []
   },
@@ -19333,12 +19273,12 @@ const PRODUCTS = [
     "rating": 4.9,
     "badge": "",
     "description": "ROVA is a compact and durable mobile pedestal designed for efficient office storage. It features three drawers for organized filing of documents and supplies, along with smooth castor wheels for easy mobility in professional workspaces. Mobile Unit with Castor Wheels",
-    "img": "assets/products/wardrobes-storage/rova/Rova_01.png",
+    "img": "assets/products/wardrobes-storage/rova/Rova_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/rova/Rova_01.png",
-      "assets/products/wardrobes-storage/rova/Rova_02.png",
-      "assets/products/wardrobes-storage/rova/Rova_03.png",
-      "assets/products/wardrobes-storage/rova/Rova_04.png"
+      "assets/products/wardrobes-storage/rova/Rova_01.webp",
+      "assets/products/wardrobes-storage/rova/Rova_02.webp",
+      "assets/products/wardrobes-storage/rova/Rova_03.webp",
+      "assets/products/wardrobes-storage/rova/Rova_04.webp"
     ],
     "colors": []
   },
@@ -19351,11 +19291,11 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple.webp",
     "images": [
-      "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple.jpg",
-      "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple_1.jpg"
+      "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple.webp",
+      "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple_1.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/book-shelf-simple",
     "colors": [
@@ -19372,12 +19312,12 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.3,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests.webp",
     "images": [
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests.jpg",
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests_1.jpg",
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests_2.jpg"
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests.webp",
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests_1.webp",
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests_2.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/chest-of-drawers-3-chests",
     "colors": [
@@ -19394,13 +19334,13 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests.webp",
     "images": [
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests.jpg",
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests_1.jpg",
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests_2.jpg",
-      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests_3.jpg"
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests.webp",
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests_1.webp",
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests_2.webp",
+      "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/chest-of-drawers-5-chests",
     "colors": [
@@ -19417,14 +19357,14 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand.webp",
     "images": [
-      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand.jpg",
-      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_1.jpg",
-      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_2.jpg",
-      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_3.jpg",
-      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_4.jpg"
+      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand.webp",
+      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_1.webp",
+      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_2.webp",
+      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_3.webp",
+      "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/pooja-stand",
     "colors": [
@@ -19441,13 +19381,13 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small.webp",
     "images": [
-      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small.jpg",
-      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small_1.jpg",
-      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small_2.jpg",
-      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small_3.jpg"
+      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small.webp",
+      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small_1.webp",
+      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small_2.webp",
+      "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/shelf-small",
     "colors": [
@@ -19465,12 +19405,12 @@ const PRODUCTS = [
     "rating": 5,
     "badge": "",
     "description": "UNOX is a compact under-table storage unit designed for efficient everyday use. It features a single drawer for convenient access while keeping workspaces clean and organized.",
-    "img": "assets/products/wardrobes-storage/unox/Unox_01.png",
+    "img": "assets/products/wardrobes-storage/unox/Unox_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/unox/Unox_01.png",
-      "assets/products/wardrobes-storage/unox/Unox_02.png",
-      "assets/products/wardrobes-storage/unox/Unox_03.png",
-      "assets/products/wardrobes-storage/unox/Unox_04.png"
+      "assets/products/wardrobes-storage/unox/Unox_01.webp",
+      "assets/products/wardrobes-storage/unox/Unox_02.webp",
+      "assets/products/wardrobes-storage/unox/Unox_03.webp",
+      "assets/products/wardrobes-storage/unox/Unox_04.webp"
     ],
     "colors": []
   },
@@ -19484,12 +19424,12 @@ const PRODUCTS = [
     "rating": 4.3,
     "badge": "",
     "description": "VERSA is a versatile mobile storage unit designed for modern workspaces. It features three spacious drawers with a cushioned top that doubles as seating, while castor wheels allow easy movement.",
-    "img": "assets/products/wardrobes-storage/versa/Versa_01.png",
+    "img": "assets/products/wardrobes-storage/versa/Versa_01.webp",
     "images": [
-      "assets/products/wardrobes-storage/versa/Versa_01.png",
-      "assets/products/wardrobes-storage/versa/Versa_02.png",
-      "assets/products/wardrobes-storage/versa/Versa_03.png",
-      "assets/products/wardrobes-storage/versa/Versa_04.png"
+      "assets/products/wardrobes-storage/versa/Versa_01.webp",
+      "assets/products/wardrobes-storage/versa/Versa_02.webp",
+      "assets/products/wardrobes-storage/versa/Versa_03.webp",
+      "assets/products/wardrobes-storage/versa/Versa_04.webp"
     ],
     "colors": []
   },
@@ -19501,11 +19441,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/wooden-couches/lmw-023/LMW-023.png",
+    "img": "assets/products/wooden-couches/lmw-023/LMW-023.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-020 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-023/LMW-023.png"
+      "assets/products/wooden-couches/lmw-023/LMW-023.webp"
     ],
     "colors": [
       "Red"
@@ -19519,11 +19459,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-024/LMW-024.png",
+    "img": "assets/products/wooden-couches/lmw-024/LMW-024.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-021 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-024/LMW-024.png"
+      "assets/products/wooden-couches/lmw-024/LMW-024.webp"
     ],
     "colors": [
       "Red"
@@ -19537,11 +19477,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-025/LMW-025.png",
+    "img": "assets/products/wooden-couches/lmw-025/LMW-025.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-022 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-025/LMW-025.png"
+      "assets/products/wooden-couches/lmw-025/LMW-025.webp"
     ],
     "colors": [
       "Brown"
@@ -19555,11 +19495,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-026/LMW-026.png",
+    "img": "assets/products/wooden-couches/lmw-026/LMW-026.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-023 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-026/LMW-026.png"
+      "assets/products/wooden-couches/lmw-026/LMW-026.webp"
     ],
     "colors": [
       "Red"
@@ -19573,11 +19513,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.5,
-    "img": "assets/products/wooden-couches/lmw-027/LMW-027.png",
+    "img": "assets/products/wooden-couches/lmw-027/LMW-027.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-024 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-027/LMW-027.png"
+      "assets/products/wooden-couches/lmw-027/LMW-027.webp"
     ],
     "colors": [
       "Brown"
@@ -19591,11 +19531,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-028/LMW-028.png",
+    "img": "assets/products/wooden-couches/lmw-028/LMW-028.webp",
     "badge": "New",
     "description": "Indulge in luxury with the LMW-025 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-028/LMW-028.png"
+      "assets/products/wooden-couches/lmw-028/LMW-028.webp"
     ],
     "colors": [
       "Red"
@@ -19609,11 +19549,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-029/LMW-029.png",
+    "img": "assets/products/wooden-couches/lmw-029/LMW-029.webp",
     "badge": "Bestseller",
     "description": "Indulge in luxury with the LMW-026 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-029/LMW-029.png"
+      "assets/products/wooden-couches/lmw-029/LMW-029.webp"
     ],
     "colors": [
       "Red"
@@ -19627,11 +19567,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.9,
-    "img": "assets/products/wooden-couches/lmw-030/LMW-030.png",
+    "img": "assets/products/wooden-couches/lmw-030/LMW-030.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-027 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-030/LMW-030.png"
+      "assets/products/wooden-couches/lmw-030/LMW-030.webp"
     ],
     "colors": [
       "Red"
@@ -19645,11 +19585,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-031/LMW-031.png",
+    "img": "assets/products/wooden-couches/lmw-031/LMW-031.webp",
     "badge": "Premium",
     "description": "Indulge in luxury with the LMW-028 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-031/LMW-031.png"
+      "assets/products/wooden-couches/lmw-031/LMW-031.webp"
     ],
     "colors": [
       "Red"
@@ -19663,11 +19603,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-032/LMW-032.png",
+    "img": "assets/products/wooden-couches/lmw-032/LMW-032.webp",
     "badge": "New",
     "description": "Indulge in luxury with the LMW-029 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-032/LMW-032.png"
+      "assets/products/wooden-couches/lmw-032/LMW-032.webp"
     ],
     "colors": [
       "Red"
@@ -19681,11 +19621,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.7,
-    "img": "assets/products/wooden-couches/lmw-033/LMW-033.png",
+    "img": "assets/products/wooden-couches/lmw-033/LMW-033.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-030 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Brown finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-033/LMW-033.png"
+      "assets/products/wooden-couches/lmw-033/LMW-033.webp"
     ],
     "colors": [
       "Brown"
@@ -19699,11 +19639,11 @@ const PRODUCTS = [
     "material": "Wood",
     "designer": "LayerMax Artistry",
     "rating": 4.3,
-    "img": "assets/products/wooden-couches/lmw-034/LMW-034.png",
+    "img": "assets/products/wooden-couches/lmw-034/LMW-034.webp",
     "badge": "",
     "description": "Indulge in luxury with the LMW-031 wooden couch. Designed for premium comfort and relaxed seating, it features a sturdy wood frame. Its spacious contoured seat and elegant Red finish make it the perfect statement addition to your living area, executive office, or lobby.",
     "images": [
-      "assets/products/wooden-couches/lmw-034/LMW-034.png"
+      "assets/products/wooden-couches/lmw-034/LMW-034.webp"
     ],
     "colors": [
       "Red"
@@ -19718,14 +19658,14 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1.webp",
     "images": [
-      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1.jpg",
-      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_1.jpg",
-      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_2.jpg",
-      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_3.jpg",
-      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_4.jpg"
+      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1.webp",
+      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_1.webp",
+      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_2.webp",
+      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_3.webp",
+      "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1_4.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/rubco-antiq-sofa",
     "colors": [
@@ -19742,15 +19682,15 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1.webp",
     "images": [
-      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1.jpg",
-      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_1.jpg",
-      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_2.jpg",
-      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_3.jpg",
-      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_4.jpg",
-      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_5.jpg"
+      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1.webp",
+      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_1.webp",
+      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_2.webp",
+      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_3.webp",
+      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_4.webp",
+      "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1_5.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/rubco-perl-sofa",
     "colors": [
@@ -19767,12 +19707,12 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.3,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
-    "img": "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_1.jpg",
+    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "img": "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_1.webp",
     "images": [
-      "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_1.jpg",
-      "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_2.jpg",
-      "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_3.jpg"
+      "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_1.webp",
+      "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_2.webp",
+      "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_3.webp"
     ],
     "listingUrl": "https://rubcobangalore.com/furniture/reeper-sofa",
     "colors": [
@@ -19790,25 +19730,25 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Minimalist Wood Slatted Bed combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.jpg",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed/Minimalist Wood Slatted Bed - Angle Perspective.webp"
     ],
     "colors": []
   },
   {
     "id": "cat-minimalist-wood-slatted-bed-psi",
-    "name": "Minimalist Wood Slatted Bed Psi",
+    "name": "Minimalist Wood Slatted Bed",
     "category": "sleeping-beds",
     "type": "furniture",
     "material": "Premium Upholstery / Solid Wood",
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "The Minimalist Wood Slatted Bed Psi combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed-psi/Minimalist Wood Slatted Bed Psi.jpg",
+    "description": "The Minimalist Wood Slatted Bed combines modern design, exceptional comfort, and lasting durability.",
+    "img": "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed-psi/Minimalist Wood Slatted Bed Psi.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed-psi/Minimalist Wood Slatted Bed Psi.jpg"
+      "assets/products/sleeping-beds/cat-minimalist-wood-slatted-bed-psi/Minimalist Wood Slatted Bed Psi.webp"
     ],
     "colors": []
   },
@@ -19822,9 +19762,9 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Dark Walnut Single Bed With Black Headboard combines modern design, exceptional comfort, and lasting durability.",
-    "img": "assets/products/sleeping-beds/cat-dark-walnut-single-bed-with-black-headboard/Dark Walnut Single Bed with Black Headboard.png",
+    "img": "assets/products/sleeping-beds/cat-dark-walnut-single-bed-with-black-headboard/Dark Walnut Single Bed with Black Headboard.webp",
     "images": [
-      "assets/products/sleeping-beds/cat-dark-walnut-single-bed-with-black-headboard/Dark Walnut Single Bed with Black Headboard.png"
+      "assets/products/sleeping-beds/cat-dark-walnut-single-bed-with-black-headboard/Dark Walnut Single Bed with Black Headboard.webp"
     ],
     "colors": []
   },
@@ -19838,10 +19778,10 @@ const PRODUCTS = [
     "rating": 4.8,
     "badge": "",
     "description": "The Black Leather Reclining Sofa & Loveseat combines premium top-grain leather, exceptional reclining comfort, and long-lasting build quality.",
-    "img": "assets/products/sofas/black-leather-reclining-sofa/black-leather-reclining-sofa.jpg",
+    "img": "assets/products/sofas/black-leather-reclining-sofa/black-leather-reclining-sofa.webp",
     "images": [
-      "assets/products/sofas/black-leather-reclining-sofa/black-leather-reclining-sofa.jpg",
-      "assets/products/sofas/black-leather-reclining-sofa/black-leather-reclining-sofa-loveseat.jpg"
+      "assets/products/sofas/black-leather-reclining-sofa/black-leather-reclining-sofa.webp",
+      "assets/products/sofas/black-leather-reclining-sofa/black-leather-reclining-sofa-loveseat.webp"
     ],
     "colors": []
   }
@@ -19850,3 +19790,5 @@ const PRODUCTS = [
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = PRODUCTS;
 }
+
+
