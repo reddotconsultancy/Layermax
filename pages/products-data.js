@@ -13350,7 +13350,7 @@ const PRODUCTS = [
     "designer": "Buro Design",
     "rating": 4.8,
     "badge": "",
-    "description": "â€¢ Top :- 54mm thick dual color edge in batten structure with melamine finish. â€¢ Modesty :- 18mm thick in melamine finish â€¢ Gable panel :- 54mm thick dual color edge with melamine finish â€¢ Access Flap :- Aluminum anodized 393(L) X 150(D) â€¢ Cable Tray :- 0.8 mm thick CRCA powder coated. â€¢ Legs :- 50mm x 50mm x1.6 mm thick MS powder coated â€¢ Middle Electrical leg :- Provided in 3000 mm & above sizes â€¢ Cable Tray :- 0.8 mm thick CRCA powder coated â€¢ Top :- 25mm thick PLPB with melamine finish. â€¢ Cross Members :- 40mmx40mm x1.2mm thick MS powder coated â€¢ Access flap :- Aluminum anodized 324mm â€¢ Vertebrae :- Provided in 1200 to 1800 mm sizes.",
+    "description": "• Top :- 54mm thick dual color edge in batten structure with melamine finish. • Modesty :- 18mm thick in melamine finish • Gable panel :- 54mm thick dual color edge with melamine finish • Access Flap :- Aluminum anodized 393(L) X 150(D) • Cable Tray :- 0.8 mm thick CRCA powder coated. • Legs :- 50mm x 50mm x1.6 mm thick MS powder coated • Middle Electrical leg :- Provided in 3000 mm & above sizes • Cable Tray :- 0.8 mm thick CRCA powder coated • Top :- 25mm thick PLPB with melamine finish. • Cross Members :- 40mmx40mm x1.2mm thick MS powder coated • Access flap :- Aluminum anodized 324mm • Vertebrae :- Provided in 1200 to 1800 mm sizes.",
     "img": "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_01.webp",
     "images": [
       "assets/products/office-workstations/merit_estillo_conference/Merit_Estillo_Conference_01.webp",
@@ -13647,7 +13647,7 @@ const PRODUCTS = [
     "designer": "Buro Design",
     "rating": 4.9,
     "badge": "",
-    "description": "â€¢ Designer levelers â€¢ Modesty Panel: 18mm melamine edge banded â€¢ Side Panels : 18mm Melamine edge banded â€¢ Top: Silver profile wrapped trim to give waterfall edge to table top â€¢ Designer Aluminum profile on modesty panels â€¢ 30mm Melamine edge banded top",
+    "description": "• Designer levelers • Modesty Panel: 18mm melamine edge banded • Side Panels : 18mm Melamine edge banded • Top: Silver profile wrapped trim to give waterfall edge to table top • Designer Aluminum profile on modesty panels • 30mm Melamine edge banded top",
     "img": "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_01.webp",
     "images": [
       "assets/products/office-workstations/nova_integra_magnus/Nova_Integra_Magnus_01.webp",
