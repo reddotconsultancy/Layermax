@@ -1117,7 +1117,7 @@ const PRODUCTS = [
   },
   {
     "id": "chrome-cafe-pedestal-table-base",
-    "name": "Chrome CafÃ© Pedestal Table Base",
+    "name": "Chrome Café Pedestal Table Base",
     "category": "cafe-tables",
     "type": "table",
     "material": "Chrome Plated Steel / Pedestal Design",
@@ -1160,7 +1160,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A slim spindle-back chair in matte black steel with a rounded seat upholstered in a bold multicolour print. The tapered splayed legs and open back keep it light in busy cafÃ© floors.",
+    "description": "A slim spindle-back chair in matte black steel with a rounded seat upholstered in a bold multicolour print. The tapered splayed legs and open back keep it light in busy café floors.",
     "img": "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.webp",
     "images": [
       "assets/products/cafe-chairs/black-spindle-chair-with-patterned-seat/Black Spindle-Back Chair with Patterned Seat - Front View.webp",
@@ -1225,7 +1225,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A one-piece moulded polypropylene armchair with a perforated seat and back for airflow and rain drainage. Stacks for storage and holds its colour outdoors â€” built for cafÃ© terraces and courtyards.",
+    "description": "A one-piece moulded polypropylene armchair with a perforated seat and back for airflow and rain drainage. Stacks for storage and holds its colour outdoors — built for café terraces and courtyards.",
     "img": "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.webp",
     "images": [
       "assets/products/cafe-chairs/cube-perforated-stacking-armchair/Cube Perforated Stacking Armchair - Front View.webp"
@@ -1241,7 +1241,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A compact stacking chair with a single bent-tube hoop back and a round padded seat in black faux leather. Light to move and stacks tight for busy cafÃ©s and canteens.",
+    "description": "A compact stacking chair with a single bent-tube hoop back and a round padded seat in black faux leather. Light to move and stacks tight for busy cafés and canteens.",
     "img": "assets/products/cafe-chairs/da-70/DA-70 - Front View.webp",
     "images": [
       "assets/products/cafe-chairs/da-70/DA-70 - Front View.webp"
@@ -1282,7 +1282,7 @@ const PRODUCTS = [
   },
   {
     "id": "da-73",
-    "name": "DA-73 Perforated Low Stool â€” Burgundy",
+    "name": "DA-73 Perforated Low Stool — Burgundy",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Moulded Polypropylene / Chrome Steel",
@@ -1298,7 +1298,7 @@ const PRODUCTS = [
   },
   {
     "id": "da-74",
-    "name": "DA-74 Counter-Height Stool â€” Blue",
+    "name": "DA-74 Counter-Height Stool — Blue",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Faux Leather / Chrome Steel",
@@ -1314,7 +1314,7 @@ const PRODUCTS = [
   },
   {
     "id": "da-75",
-    "name": "DA-75 Bar-Height Stool â€” Burgundy",
+    "name": "DA-75 Bar-Height Stool — Burgundy",
     "category": "cafe-bar-stools",
     "type": "cafe",
     "material": "Faux Leather / Chrome Steel",
@@ -1378,7 +1378,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-151",
-    "name": "DBC-151 Banquet Chair â€” Burgundy & Gold",
+    "name": "DBC-151 Banquet Chair — Burgundy & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Burgundy Fabric / Gold Powder-Coated Steel",
@@ -1394,7 +1394,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-152",
-    "name": "DBC-152 Banquet Chair â€” Red Floral",
+    "name": "DBC-152 Banquet Chair — Red Floral",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Patterned Fabric / Black Powder-Coated Steel",
@@ -1410,7 +1410,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-153",
-    "name": "DBC-153 Banquet Chair â€” Lilac & Gold",
+    "name": "DBC-153 Banquet Chair — Lilac & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Lilac Fabric / Gold Powder-Coated Steel",
@@ -1458,7 +1458,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-156",
-    "name": "DBC-156 Banquet Chair â€” Sky Blue & Gold",
+    "name": "DBC-156 Banquet Chair — Sky Blue & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Sky Blue Fabric / Gold Powder-Coated Steel",
@@ -1474,7 +1474,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-157",
-    "name": "DBC-157 Banquet Chair â€” Burgundy & Gold",
+    "name": "DBC-157 Banquet Chair — Burgundy & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Burgundy Fabric / Gold Powder-Coated Steel",
@@ -1490,7 +1490,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-158",
-    "name": "DBC-158 Banquet Chair â€” Aubergine & Gold",
+    "name": "DBC-158 Banquet Chair — Aubergine & Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Aubergine Fabric / Gold Powder-Coated Steel",
@@ -1506,7 +1506,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-159",
-    "name": "DBC-159 Banquet Chair â€” Burgundy Velvet & Chrome",
+    "name": "DBC-159 Banquet Chair — Burgundy Velvet & Chrome",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Burgundy Velvet / Polished Chrome Steel",
@@ -1522,7 +1522,7 @@ const PRODUCTS = [
   },
   {
     "id": "dbc-160",
-    "name": "DBC-160 Chiavari Chair â€” Gold",
+    "name": "DBC-160 Chiavari Chair — Gold",
     "category": "cafe-banquet-equipment",
     "type": "banquet chair",
     "material": "Gold-Finished Resin / Reinforced Steel Core",
@@ -2281,7 +2281,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A curved-back armchair upholstered in white faux leather on a tapered solid ash frame. The wrap-around back doubles as armrests â€” suited to lounges, meeting corners and dining use.",
+    "description": "A curved-back armchair upholstered in white faux leather on a tapered solid ash frame. The wrap-around back doubles as armrests — suited to lounges, meeting corners and dining use.",
     "img": "assets/products/chairs/dmc-120/DMC-120 - Front View.webp",
     "images": [
       "assets/products/chairs/dmc-120/DMC-120 - Front View.webp"
@@ -3762,7 +3762,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Cover: Exclusive 100% 90-110 GSM printed polyester twill fabric is multi-needle quilted with 2 nos of 18 density 7 mm peeled foam together with 17 gm/mÂ² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is on the top. Border/Stabilizer: 110 GSM printed polyester twill fabric covered over the 5 mm 13 density peeled foam. Brand: Rubco Sleeping System. Thickness: 4/5 Inch. Inner Core: 4\" Thickness - 80 Density Rubberised Coir Block (BIS Certified); 5\" Thickness - 28 Density 20mm PU foam and 4\" 80 Density Rubberised Coir Block. Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and centre band wrapping. Warranty: 2 years.",
+    "description": "Cover: Exclusive 100% 90-110 GSM printed polyester twill fabric is multi-needle quilted with 2 nos of 18 density 7 mm peeled foam together with 17 gm/m² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is on the top. Border/Stabilizer: 110 GSM printed polyester twill fabric covered over the 5 mm 13 density peeled foam. Brand: Rubco Sleeping System. Thickness: 4/5 Inch. Inner Core: 4\" Thickness - 80 Density Rubberised Coir Block (BIS Certified); 5\" Thickness - 28 Density 20mm PU foam and 4\" 80 Density Rubberised Coir Block. Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and centre band wrapping. Warranty: 2 years.",
     "img": "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.webp",
     "images": [
       "assets/products/mattresses/rubco-onyx-mattress/rubco_onyx_mattress.webp",
@@ -7169,7 +7169,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big.webp",
     "images": [
       "assets/products/chairs/rubco-easy-chair-cloth-type-big/easy_chair_cloth_type_big.webp",
@@ -7194,7 +7194,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small.webp",
     "images": [
       "assets/products/chairs/rubco-easy-chair-cloth-type-small/easy_chair_cloth_type_small.webp",
@@ -7218,7 +7218,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/chairs/rubco-grand-father-chair/grand_father_chair.webp",
     "images": [
       "assets/products/chairs/rubco-grand-father-chair/grand_father_chair.webp",
@@ -7894,7 +7894,7 @@ const PRODUCTS = [
   },
   {
     "id": "cabin-steel-frame-writing-desk-red",
-    "name": "Cabin Steel-Frame Writing Desk â€” Red",
+    "name": "Cabin Steel-Frame Writing Desk — Red",
     "category": "office-workstations",
     "type": "desk",
     "material": "Dark Walnut Laminate Top / Powder-Coated Steel Frame",
@@ -8013,7 +8013,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.7,
     "badge": "",
-    "description": "A walnut computer table with a sliding keyboard tray above two open shelf bays, finished on castors. Keeps peripherals and files within armâ€™s reach.",
+    "description": "A walnut computer table with a sliding keyboard tray above two open shelf bays, finished on castors. Keeps peripherals and files within arm’s reach.",
     "img": "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.webp",
     "images": [
       "assets/products/office-workstations/cabin-open-shelf-computer-table/Cabin Open-Shelf Computer Table - Front View.webp"
@@ -8022,7 +8022,7 @@ const PRODUCTS = [
   },
   {
     "id": "cabin-compact-computer-trolley-grey",
-    "name": "Cabin Compact Computer Trolley â€” Grey",
+    "name": "Cabin Compact Computer Trolley — Grey",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Grey and Charcoal Laminate",
@@ -8759,14 +8759,14 @@ const PRODUCTS = [
   },
   {
     "id": "rubco-dining-set-6-seater",
-    "name": "Rubco Dining Set â€“ 6 Seater",
+    "name": "Rubco Dining Set – 6 Seater",
     "category": "dining-tables",
     "type": "table",
     "material": "Rubberwood",
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Rubco Dining Set (6 Seater Rectangular Table with Antique Chair 6 Nos) Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Dining Set (6 Seater Rectangular Table with Antique Chair 6 Nos) Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_1.webp",
     "images": [
       "assets/products/dining-tables/rubco-dining-set-6-seater/rubco_dining_set_6_seater_1.webp",
@@ -8788,7 +8788,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40.webp",
     "images": [
       "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-40/dining_table_round_with_empire_leg_40.webp",
@@ -8812,7 +8812,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48.webp",
     "images": [
       "assets/products/dining-tables/rubco-dining-table-round-with-empire-leg-48/dining_table_round_with_empire_leg_48.webp",
@@ -8835,7 +8835,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set.webp",
     "images": [
       "assets/products/dining-tables/rubco-oval-empire-leg-dining-table-set/rubco_oval_empire_leg_dining_table_set.webp",
@@ -8939,7 +8939,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 5,
     "badge": "Custom",
-    "description": "Build your mattress to fit exactly how you sleep. Choose your thickness: 6 inch, 8 inch, or 6 inch Hi. 6 inch Hi construction â€” 4\" Rebonded + 2\" 32D S Softy + 2\" 80D 7-Zone Natural Latex Foam, finished with a 250 GSM knitted quilt. Enquire to customise size, thickness, firmness and finish.",
+    "description": "Build your mattress to fit exactly how you sleep. Choose your thickness: 6 inch, 8 inch, or 6 inch Hi. 6 inch Hi construction — 4\" Rebonded + 2\" 32D S Softy + 2\" 80D 7-Zone Natural Latex Foam, finished with a 250 GSM knitted quilt. Enquire to customise size, thickness, firmness and finish.",
     "img": "assets/products/mattresses/customise-your-mattress/rubco_iris_mattress.webp",
     "images": [
       "assets/products/mattresses/customise-your-mattress/rubco_iris_mattress.webp"
@@ -8960,7 +8960,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Cover: Printed polyester woven ticking fabric is quilted with 3 nos of 18 density 7 mm peeled foam together with 18 gm/mÂ² non woven fabric as backing cloth. The corner of the mattress round shaped. Quilted panels stitched on the top. Border/Stabilizer: Printed polyester woven ticking fabric is covered over the 8\"x8 mm 13 density peeled foam. Inner Core: Construction Details Top to Bottom, 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified), 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified). Packing: PVC film cover with 400 gauge and four corners of the mattress protected by the covering of corrugated 3 ply paper boards with centre band wrapping. Brand: Rubco Sleeping System. Thickness: 6 Inch. Bottom: 250GSM Printed polyester woven ticking fabric. Corner Label: Exclusive film label provided at the corner. Warranty: 3 years.",
+    "description": "Cover: Printed polyester woven ticking fabric is quilted with 3 nos of 18 density 7 mm peeled foam together with 18 gm/m² non woven fabric as backing cloth. The corner of the mattress round shaped. Quilted panels stitched on the top. Border/Stabilizer: Printed polyester woven ticking fabric is covered over the 8\"x8 mm 13 density peeled foam. Inner Core: Construction Details Top to Bottom, 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified), 28 Density 20 mm PU foam, 50 mm 80 Density Rubberised Coir Block (BIS Certified). Packing: PVC film cover with 400 gauge and four corners of the mattress protected by the covering of corrugated 3 ply paper boards with centre band wrapping. Brand: Rubco Sleeping System. Thickness: 6 Inch. Bottom: 250GSM Printed polyester woven ticking fabric. Corner Label: Exclusive film label provided at the corner. Warranty: 3 years.",
     "img": "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress.webp",
     "images": [
       "assets/products/mattresses/rubco-iris-mattress/rubco_iris_mattress.webp",
@@ -9118,7 +9118,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.3,
     "badge": "",
-    "description": "Neo-Spine Relief High Density Mattress with high-quality rubberized coir combination and light density bonded foam is designed to give firm yet soft support across the length of the body in all sleeping postures. High GSM Knitted fabric covering for a comfortable and smoothing feel. Comfort Layer â€“ Visco Elastic Memory foam provides maximum support and comfort. Super Soft PU foam for additional comfort. High Density Ortho bond core layer provides a high level of stability and support to the sleeping postures. VFO technology Rubberized Coir for natural resilience and strength.",
+    "description": "Neo-Spine Relief High Density Mattress with high-quality rubberized coir combination and light density bonded foam is designed to give firm yet soft support across the length of the body in all sleeping postures. High GSM Knitted fabric covering for a comfortable and smoothing feel. Comfort Layer – Visco Elastic Memory foam provides maximum support and comfort. Super Soft PU foam for additional comfort. High Density Ortho bond core layer provides a high level of stability and support to the sleeping postures. VFO technology Rubberized Coir for natural resilience and strength.",
     "img": "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400.webp",
     "images": [
       "assets/products/mattresses/rubco-neo-spine-relief-400/neo_spine_relief_400.webp",
@@ -9140,7 +9140,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Cover: Exclusive 130 GSM maroon printed polyester-cotton satin weaving fabric is multi-needle quilted with 2 nos of 18 density 10 mm peeled foam together with 17 gm/mÂ² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is stitched on top. Border/Stabilizer: 7\"x8 mm 13 density peeled foam covered with 130 GSM printed polyester-cotton satin weaving fabric. Thickness: 5 Inch. Inner Core: 28 Density 20 mm PU foam (Top), 4\" 80 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and four corners of the mattress protected by a corrugated 3-ply paper board covering with centre band wrapping. Warranty: 2 years.",
+    "description": "Cover: Exclusive 130 GSM maroon printed polyester-cotton satin weaving fabric is multi-needle quilted with 2 nos of 18 density 10 mm peeled foam together with 17 gm/m² non-woven fabric. The corner of the mattress is round-shaped, and the quilted panel is stitched on top. Border/Stabilizer: 7\"x8 mm 13 density peeled foam covered with 130 GSM printed polyester-cotton satin weaving fabric. Thickness: 5 Inch. Inner Core: 28 Density 20 mm PU foam (Top), 4\" 80 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC film cover with 260 gauge and four corners of the mattress protected by a corrugated 3-ply paper board covering with centre band wrapping. Warranty: 2 years.",
     "img": "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress.webp",
     "images": [
       "assets/products/mattresses/rubco-safal-mattress/rubco_safal_mattress.webp",
@@ -9161,7 +9161,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Cover: Exclusive 100% 85 GSM printed polyester twill fabric or Chinese printed tricot fabric is multi-needle quilted with 1 no of 10 mm 13 density together with 17 gm/mÂ² non-woven fabric. The corner of the mattress is round-shaped. Border/Stabilizer: 85 GSM printed polyester fabric or Chinese printed tricot fabric is covered over the 5 mm 13 density peeled foam. Thickness: 4 Inch. Inner Core: 65 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC cover with a gauge of 260 and with center band wrapping. Warranty: 1 year.",
+    "description": "Cover: Exclusive 100% 85 GSM printed polyester twill fabric or Chinese printed tricot fabric is multi-needle quilted with 1 no of 10 mm 13 density together with 17 gm/m² non-woven fabric. The corner of the mattress is round-shaped. Border/Stabilizer: 85 GSM printed polyester fabric or Chinese printed tricot fabric is covered over the 5 mm 13 density peeled foam. Thickness: 4 Inch. Inner Core: 65 Density Rubberised Coir Block (BIS Certified). Quilting Pattern: 6/3\". Corner Label: Exclusive film label provided at the corner. Packing: PVC cover with a gauge of 260 and with center band wrapping. Warranty: 1 year.",
     "img": "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress.webp",
     "images": [
       "assets/products/mattresses/rubco-sapphire-mattress/rubco_sapphire_mattress.webp",
@@ -11818,7 +11818,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A two-person acoustic meeting pod with glazed doors, facing upholstered seats and a round cafÃ©-height table. Provides a quiet, enclosed space for quick meetings and calls.",
+    "description": "A two-person acoustic meeting pod with glazed doors, facing upholstered seats and a round café-height table. Provides a quiet, enclosed space for quick meetings and calls.",
     "img": "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.webp",
     "images": [
       "assets/products/acoustic-pods/cat-cyris-modern-executive-desk/Cyris Modern Executive Desk - Angle Perspective.webp",
@@ -12832,7 +12832,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-executive-l-shaped-desk-walnut",
-    "name": "Chief Executive L-Shaped Desk â€” Walnut",
+    "name": "Chief Executive L-Shaped Desk — Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Walnut Laminate",
@@ -12848,7 +12848,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-executive-desk-with-return-dark-walnut",
-    "name": "Chief Executive Desk with Return â€” Dark Walnut",
+    "name": "Chief Executive Desk with Return — Dark Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Dark Walnut Laminate",
@@ -12864,7 +12864,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-l-shaped-desk-metal-legs-light-ash",
-    "name": "Chief L-Shaped Desk with Metal Legs â€” Light Ash",
+    "name": "Chief L-Shaped Desk with Metal Legs — Light Ash",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Light Ash Laminate with Steel Legs",
@@ -12880,7 +12880,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-l-shaped-workstation-sliding-credenza-light-ash",
-    "name": "Chief L-Shaped Workstation with Sliding Credenza â€” Light Ash",
+    "name": "Chief L-Shaped Workstation with Sliding Credenza — Light Ash",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Light Ash Laminate with Steel Legs",
@@ -12896,7 +12896,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-three-door-storage-credenza-oak",
-    "name": "Chief Three-Door Storage Credenza â€” Oak",
+    "name": "Chief Three-Door Storage Credenza — Oak",
     "category": "wardrobes-storage",
     "type": "credenza",
     "material": "Engineered Wood / Oak Laminate with Fluted Panel",
@@ -12912,7 +12912,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-credenza-with-drawer-unit-oak",
-    "name": "Chief Credenza with Drawer Unit â€” Oak",
+    "name": "Chief Credenza with Drawer Unit — Oak",
     "category": "wardrobes-storage",
     "type": "credenza",
     "material": "Engineered Wood / Oak Laminate with Fluted Panel",
@@ -12928,7 +12928,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-tall-glass-door-bookcase-oak",
-    "name": "Chief Tall Glass-Door Bookcase â€” Oak",
+    "name": "Chief Tall Glass-Door Bookcase — Oak",
     "category": "wardrobes-storage",
     "type": "bookcase",
     "material": "Engineered Wood / Oak Laminate with Glass Doors",
@@ -12944,7 +12944,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-three-drawer-mobile-pedestal-oak",
-    "name": "Chief Three-Drawer Mobile Pedestal â€” Oak",
+    "name": "Chief Three-Drawer Mobile Pedestal — Oak",
     "category": "wardrobes-storage",
     "type": "pedestal",
     "material": "Engineered Wood / Oak Laminate with Fluted Panel",
@@ -12961,7 +12961,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-sideboard-with-drawer-bank-beige-gloss",
-    "name": "Chief Sideboard with Drawer Bank â€” Beige Gloss",
+    "name": "Chief Sideboard with Drawer Bank — Beige Gloss",
     "category": "wardrobes-storage",
     "type": "sideboard",
     "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
@@ -12977,7 +12977,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-two-door-low-cabinet-beige-gloss",
-    "name": "Chief Two-Door Low Cabinet â€” Beige Gloss",
+    "name": "Chief Two-Door Low Cabinet — Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
@@ -12993,7 +12993,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-mid-height-two-door-cabinet-beige-gloss",
-    "name": "Chief Mid-Height Two-Door Cabinet â€” Beige Gloss",
+    "name": "Chief Mid-Height Two-Door Cabinet — Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Walnut Trim",
@@ -13009,7 +13009,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-tall-cabinet-with-display-band-beige-gloss",
-    "name": "Chief Tall Cabinet with Display Band â€” Beige Gloss",
+    "name": "Chief Tall Cabinet with Display Band — Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Glass Band",
@@ -13025,7 +13025,7 @@ const PRODUCTS = [
   },
   {
     "id": "chief-three-door-display-cabinet-beige-gloss",
-    "name": "Chief Three-Door Display Cabinet â€” Beige Gloss",
+    "name": "Chief Three-Door Display Cabinet — Beige Gloss",
     "category": "wardrobes-storage",
     "type": "cabinet",
     "material": "Engineered Wood / High-Gloss Beige with Glass Band",
@@ -13744,7 +13744,7 @@ const PRODUCTS = [
     "designer": "Buro Design",
     "rating": 4.5,
     "badge": "",
-    "description": "Talk about making your presence felt! Prestige is a strong, masculine design that comes in a smart colour blend to match your cabin room dÃ©cor. It is ideal for those who want a top-quality, modern, office experience.",
+    "description": "Talk about making your presence felt! Prestige is a strong, masculine design that comes in a smart colour blend to match your cabin room décor. It is ideal for those who want a top-quality, modern, office experience.",
     "img": "assets/products/office-workstations/prestige/Prestige_01.webp",
     "images": [
       "assets/products/office-workstations/prestige/Prestige_01.webp",
@@ -13864,7 +13864,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial.webp",
     "images": [
       "assets/products/office-workstations/rubco-computer-table-colonial/computer_table_colonial.webp",
@@ -13889,7 +13889,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.8,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table.webp",
     "images": [
       "assets/products/office-workstations/rubco-semi-executive-table/semi_executive_table.webp",
@@ -13944,7 +13944,7 @@ const PRODUCTS = [
   },
   {
     "id": "supreme-executive-desk-walnut",
-    "name": "Supreme Executive Desk â€” Walnut",
+    "name": "Supreme Executive Desk — Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Dark Walnut Laminate with Fluted Panel",
@@ -13961,7 +13961,7 @@ const PRODUCTS = [
   },
   {
     "id": "supreme-l-shaped-executive-desk-two-tone",
-    "name": "Supreme L-Shaped Executive Desk â€” Two-Tone",
+    "name": "Supreme L-Shaped Executive Desk — Two-Tone",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Walnut Top with Light Grey Base",
@@ -13978,7 +13978,7 @@ const PRODUCTS = [
   },
   {
     "id": "supreme-executive-desk-with-storage-wenge-grey",
-    "name": "Supreme Executive Desk with Storage â€” Wenge & Grey",
+    "name": "Supreme Executive Desk with Storage — Wenge & Grey",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Wenge and Grey Laminate",
@@ -13994,7 +13994,7 @@ const PRODUCTS = [
   },
   {
     "id": "supreme-l-shaped-desk-with-credenza-grey-walnut",
-    "name": "Supreme L-Shaped Desk with Credenza â€” Grey & Walnut",
+    "name": "Supreme L-Shaped Desk with Credenza — Grey & Walnut",
     "category": "office-workstations",
     "type": "desk",
     "material": "Engineered Wood / Light Grey and Walnut Laminate",
@@ -16627,7 +16627,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.webp",
     "images": [
       "assets/products/sleeping-beds/rubco-cot-captain/cot_captain.webp"
@@ -16647,7 +16647,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.5,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.webp",
     "images": [
       "assets/products/sleeping-beds/rubco-cot-colonial/cot_colonial.webp"
@@ -16667,7 +16667,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.5,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.webp",
     "images": [
       "assets/products/sleeping-beds/rubco-cot-correll/cot_correll.webp"
@@ -16687,7 +16687,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.5,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.webp",
     "images": [
       "assets/products/sleeping-beds/rubco-cot-emrald/cot_emrald.webp"
@@ -16707,7 +16707,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.webp",
     "images": [
       "assets/products/sleeping-beds/rubco-dimond-cot/dimond_cot.webp"
@@ -16727,7 +16727,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.webp",
     "images": [
       "assets/products/sleeping-beds/rubco-diwan-cot-one-side/diwan_cot_one_side.webp"
@@ -16907,7 +16907,7 @@ const PRODUCTS = [
     "designer": "LayerMax Signature",
     "rating": 4.8,
     "badge": "",
-    "description": "A counter-height bar stool with a moulded white polypropylene shell, its curved back pierced in a lattice weave, seated on four tapered antique-brass steel legs with a square footrest. Wipe-clean and stackable-friendly for cafÃ©s, bars and kitchen islands.",
+    "description": "A counter-height bar stool with a moulded white polypropylene shell, its curved back pierced in a lattice weave, seated on four tapered antique-brass steel legs with a square footrest. Wipe-clean and stackable-friendly for cafés, bars and kitchen islands.",
     "img": "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.webp",
     "images": [
       "assets/products/cafe-bar-stools/white-lattice-back-brass-bar-stool/White Lattice-Back Brass Bar Stool - Front View.webp"
@@ -19291,7 +19291,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.6,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple.webp",
     "images": [
       "assets/products/wardrobes-storage/rubco-book-shelf-simple/book_shelf_simple.webp",
@@ -19312,7 +19312,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.3,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests.webp",
     "images": [
       "assets/products/wardrobes-storage/rubco-chest-of-drawers-3-chests/chest_of_drawers_3_chests.webp",
@@ -19334,7 +19334,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests.webp",
     "images": [
       "assets/products/wardrobes-storage/rubco-chest-of-drawers-5-chests/chest_of_drawers_5_chests.webp",
@@ -19357,7 +19357,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand.webp",
     "images": [
       "assets/products/wardrobes-storage/rubco-pooja-stand/pooja_stand.webp",
@@ -19381,7 +19381,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.7,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small.webp",
     "images": [
       "assets/products/wardrobes-storage/rubco-shelf-small/shelf_small.webp",
@@ -19658,7 +19658,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.4,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1.webp",
     "images": [
       "assets/products/wooden-couches/rubco-antiq-sofa-311/rubco_antiq_sofa_3_1_1.webp",
@@ -19682,7 +19682,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.9,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1.webp",
     "images": [
       "assets/products/wooden-couches/rubco-perl-sofa-311/rubco_perl_sofa_3_1_1.webp",
@@ -19707,7 +19707,7 @@ const PRODUCTS = [
     "designer": "Rubco Premium",
     "rating": 4.3,
     "badge": "",
-    "description": "Rubco Furniture are made from rubber wood â€” a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
+    "description": "Rubco Furniture are made from rubber wood — a pure solid wood. It is eco-friendly solid wood, not a wood substitute. It is nearly as strong and durable as teak. It offers unmatched dimensional stability.",
     "img": "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_1.webp",
     "images": [
       "assets/products/wooden-couches/rubco-reeper-sofa/reeper_sofa_1.webp",

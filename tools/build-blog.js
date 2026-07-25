@@ -54,7 +54,7 @@ const ARTICLES = [
     date: '2026-07-12',
     readTime: '7 min read',
     category: 'Hospitality',
-    image: '../assets/collections/hero_lounge.jpg',
+    image: '../assets/collections/hero_lounge.webp',
     excerpt: 'Chair counts, stacking maths, trolleys, and the equipment most venues forget until the first event. What to buy, in what ratio, and why storage decides your layout.',
     body: `
 <p>Banquet furniture is bought by the hundred, and the mistakes scale accordingly. This is the order we recommend working through.</p>
@@ -133,7 +133,7 @@ const ARTICLES = [
     date: '2026-06-28',
     readTime: '5 min read',
     category: 'Hospitality',
-    image: '../assets/collections/diners.jpg',
+    image: '../assets/collections/diners.webp',
     excerpt: 'How much space each cover really needs, why chair choice changes dwell time, and the circulation rules that keep a café workable at full capacity.',
     body: `
 <p>Café seating decisions are commercial decisions. Every layout choice trades covers against comfort, and comfort against turnover.</p>
@@ -173,7 +173,7 @@ const ARTICLES = [
     date: '2026-06-20',
     readTime: '5 min read',
     category: 'Bedroom',
-    image: '../assets/collections/beds.jpg',
+    image: '../assets/collections/beds.webp',
     excerpt: 'Firmness is not support, and softer is not gentler on your back. How sleeping position and body weight should drive the choice, and what the layers actually do.',
     body: `
 <p>Two terms get used interchangeably and should not be. <strong>Support</strong> is whether the mattress holds your spine in line. <strong>Firmness</strong> is how the surface feels. A soft mattress can be well supported; a firm one can be badly supported.</p>
