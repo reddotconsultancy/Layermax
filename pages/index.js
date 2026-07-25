@@ -117,8 +117,14 @@ function initActiveNavLink() {
       link.classList.add('active');
     } else if (!activeGroup && currentPath.includes('contact.html') && href.includes('contact.html')) {
       link.classList.add('active');
-    } else if (!activeGroup && href.includes(currentPath.split('/').pop())) {
-      link.classList.add('active');
+    } else if (!activeGroup) {
+      // Standalone pages (about, blog, policy): match the link whose href ends with
+      // the current file. Guard against an empty filename (homepage '/') and against
+      // the shared 'catalog.html' base, both of which would match every link.
+      const file = currentPath.split('/').pop();
+      if (file && file !== 'catalog.html' && href.split('?')[0].endsWith(file)) {
+        link.classList.add('active');
+      }
     }
   });
 }

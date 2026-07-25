@@ -23,19 +23,35 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <!-- CSS Stylesheets -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="index.css?v=11">
+  <link rel="stylesheet" href="index.css?v=12">
   <link rel="icon" type="image/png" href="favicon.png?v=3">
   
   <style>
     .about-customizer-grid {
       display: grid;
-      grid-template-columns: 0.75fr 1.25fr; /* Shrinks the photo column, expands text column */
-      gap: 60px;
-      align-items: center;
+      grid-template-columns: 0.95fr 1.15fr; /* Larger photo column, aligned to text */
+      gap: 56px;
+      align-items: start; /* top-align image with the heading */
     }
-    
+
+    /* Keep the portrait in view while the message scrolls */
+    .about-customizer-grid .customizer-image-box {
+      position: sticky;
+      top: 100px;
+    }
+    .about-customizer-grid .customizer-image-box img {
+      aspect-ratio: 4 / 5;
+      height: auto;
+      object-fit: cover;
+      object-position: top center;
+    }
+
     .about-custom-content {
-      padding: 0 10px;
+      padding: 0;
+    }
+    .about-custom-content .workspace-title {
+      font-size: 30px;
+      margin-bottom: 2px;
     }
     
     .about-para-item {
@@ -106,9 +122,9 @@
       </div>
 
       <!-- Section Header -->
-      <div class="section-header section-header--centered" style="text-align: center; margin-bottom: 56px; flex-direction: column; align-items: center; display: flex;">
+      <div class="section-header" style="text-align: left; margin-bottom: 36px; display: flex; flex-direction: column; align-items: flex-start;">
         <h2 class="section-title">About Us</h2>
-        <p class="section-desc">Message from our Director</p>
+        <p class="section-desc" style="margin-top: 4px;">Message from our Director</p>
       </div>
 
       <!-- Main Layout Grid -->
@@ -207,6 +223,6 @@
   </footer>
 
   <!-- JavaScript files -->
-  <script src="index.js?v=7"></script>
+  <script src="index.js?v=8"></script>
 </body>
 </html>
