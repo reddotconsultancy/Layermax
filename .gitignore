@@ -31,3 +31,7 @@ ownerview/
 tools/lowres-originals/
 backup_images/
 
+# Python bytecode cache
+__pycache__/
+*.pyc
+
